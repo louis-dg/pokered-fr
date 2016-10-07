@@ -6480,7 +6480,7 @@ IF DEF(_RED)
 	INCBIN "gfx/red/redversion.1bpp" ; 10 tiles
 ENDC
 IF DEF(_BLUE)
-	INCBIN "gfx/blue/blueversion.1bpp" ; 8 tiles
+	INCBIN "gfx/blue/blueversion.1bpp" ; 10 tiles
 ENDC
 Version_GFXEnd:
 

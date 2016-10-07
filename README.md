@@ -4,7 +4,8 @@ This is a disassembly of Pokémon: Version Rouge.
 
 It builds the following roms:
 
-* Pokemon - Version Rouge (F) [S][!].gb  `md5: `
+* Pokemon - Version Rouge (F) [S][!].gb  `md5: 669700657cb06ed09371cdbdef69e8a3`
+* Pokemon - Version Bleue (F) [S][!].gb  `md5: 35c8154c81abb2ab850689fd28a03515`
 
 To set up the repository, see [**INSTALL.md**](INSTALL.md).
 
