@@ -12,17 +12,17 @@ DisplayPCMainMenu::
 	jr nz, .leaguePCAvailable
 	coord hl, 0, 0
 	ld b, 8
-	ld c, 14
+	ld c, 15
 	jr .next
 .noOaksPC
 	coord hl, 0, 0
 	ld b, 6
-	ld c, 14
+	ld c, 15
 	jr .next
 .leaguePCAvailable
 	coord hl, 0, 0
 	ld b, 10
-	ld c, 14
+	ld c, 15
 .next
 	call TextBoxBorder
 	call UpdateSprites

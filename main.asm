@@ -1359,7 +1359,7 @@ TextBoxTextAndCoordTable:
 
 	db BUY_SELL_QUIT_MENU_TEMPLATE
 	db 0,0,10,6    ; text box coordinates
-	dw BuySellQuitText
+	dw BuySellQuitText + 1
 	db 2,1   ; text coordinates
 
 	db MONEY_BOX_TEMPLATE
@@ -1415,9 +1415,9 @@ DisplayMoneyBox:
 	ld c, 6
 	call ClearScreenArea
 	coord hl, 12, 1
-	ld de, wPlayerMoney
+	ld de, $754a
 	call PlaceString
-	ld hl, wd730
+	ld hl, $c3c0
 	ld de, wPlayerMoney
 	ld c, $83
 	call PrintBCDNumber
@@ -4774,8 +4774,7 @@ Unk9Graphic:                    INCBIN "gfx/unk_9.2bpp"
 Unk9GraphicEnd:
 TextBoxGraphics:                INCBIN "gfx/text_box.2bpp"
 TextBoxGraphicsEnd:
-PokedexTileGraphics:            INCBIN "gfx/pokedex.2bpp",$10,$110
-	db 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PokedexTileGraphics:            INCBIN "gfx/pokedex.2bpp",$10,$120
 PokedexTileGraphicsEnd:
 WorldMapTileGraphics:           INCBIN "gfx/town_map.2bpp"
 WorldMapTileGraphicsEnd:

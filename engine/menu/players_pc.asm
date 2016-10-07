@@ -13,10 +13,10 @@ PlayerPC:
 	call PlaySound
 	ld hl, TurnedOnPC2Text
 	call PrintText
-	ld hl, wd730
-	set 6, [hl]
 
 PlayerPCMenu:
+	ld hl, wd730
+	set 6, [hl]
 	ld a, [wParentMenuItem]
 	ld [wCurrentMenuItem], a
 	ld hl, wFlags_0xcd60

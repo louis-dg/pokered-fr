@@ -211,14 +211,14 @@ Type2Text:
 	db "TYPE2/", $4e
 
 IDNoText:
-	db $73, "№/", $4e
+	db "№",$73,"/", $4e
 
 OTText:
-	db   "OT/"
+	db   "DO/"
 	next "@"
 
 StatusText:
-	db "STATUS/@"
+	db "STATUT/@"
 
 OKText:
 	db "OK@"
@@ -328,7 +328,7 @@ StatusScreen2:
 	ld b, a ; Number of moves ?
 	coord hl, 11, 10
 	ld de, SCREEN_WIDTH * 2
-	ld a, $72 ; special P tile id
+	ld a, $8F ; special P tile id
 	call StatusScreen_PrintPP ; Print "PP"
 	ld a, b
 	and a
