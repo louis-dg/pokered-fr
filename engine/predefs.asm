@@ -58,7 +58,9 @@ PredefPointers::
 	add_predef ScaleSpriteByTwo
 	add_predef LoadMonBackPic
 	add_predef CopyDownscaledMonTiles
-	add_predef LoadMissableObjects
+	; add_predef LoadMissableObjects
+	db 3
+	dw $714d
 	add_predef HealParty
 	add_predef MoveAnimation
 	add_predef DivideBCDPredef

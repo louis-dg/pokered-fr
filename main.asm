@@ -1900,11 +1900,11 @@ FieldMoveDisplayData:
 	db FLY, $02, $0C
 	db $B4, $03, $0C ; unused field move
 	db SURF, $04, $0C
-	db STRENGTH, $05, $0A
+	db STRENGTH, $05, $0C
 	db FLASH, $06, $0C
 	db DIG, $07, $0C
 	db TELEPORT, $08, $0A
-	db SOFTBOILED, $09, $08
+	db SOFTBOILED, $09, $0B
 	db $ff ; list terminator
 
 
