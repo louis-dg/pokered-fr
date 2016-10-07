@@ -1328,9 +1328,9 @@ TextBoxTextAndCoordTable:
 	db 3,0   ; text coordinates
 
 	db USE_TOSS_MENU_TEMPLATE
-	db 13,10,19,14 ; text box coordinates
+	db 12,10,19,14 ; text box coordinates
 	dw UseTossText
-	db 15,11 ; text coordinates
+	db 14,11 ; text coordinates
 
 	db JP_SAVE_MESSAGE_MENU_TEMPLATE
 	db 0,0,7,5     ; text box coordinates
@@ -1343,9 +1343,9 @@ TextBoxTextAndCoordTable:
 	db 2,7   ; text coordinates
 
 	db BATTLE_MENU_TEMPLATE
-	db 8,12,19,17  ; text box coordinates
+	db 6,12,19,17  ; text box coordinates
 	dw BattleMenuText
-	db 10,14 ; text coordinates
+	db 8,14 ; text coordinates
 
 	db SAFARI_BATTLE_MENU_TEMPLATE
 	db 0,12,19,17  ; text box coordinates
@@ -1416,12 +1416,12 @@ DisplayMoneyBox:
 	call ClearScreenArea
 	coord hl, 12, 1
 	ld de, wPlayerMoney
-	call PrintBCDNumber
+	call PlaceString
 	ld hl, wd730
-	ld de, $D34C
+	ld de, wPlayerMoney
 	ld c, $83
 	call PrintBCDNumber
-	ld hl, $D735
+	ld hl, wd730
 	res 6, [hl]
 	ret
 
@@ -1673,7 +1673,7 @@ TwoOptionMenuStrings:
 	dw .YesNoMenu
 	db 6,3,0
 	dw .NorthEastMenu
-	db 7,3,0
+	db 8,3,0
 	dw .TradeCancelMenu
 	db 7,4,1
 	dw .HealCancelMenu

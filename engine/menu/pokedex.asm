@@ -516,8 +516,8 @@ ShowPokedexDataInternal:
 	inc de ; de = address of feet (height)
 	ld a,[de] ; reads feet, but a is overwritten without being used
 	push af
-	coord hl, 12, 6
-	lb bc, 1, 2
+	coord hl, 13, 6
+	lb bc, 1, 3
 	call PrintNumber ; print feet (height)
 	ld hl, $C426
 	pop af
@@ -545,8 +545,8 @@ ShowPokedexDataInternal:
 	ld a,[de] ; a = lower byte of weight
 	ld [hl],a ; store lower byte of weight in [hDexWeight + 1]
 	ld de,hDexWeight
-	coord hl, 11, 8
-	lb bc, 2, 5 ; 2 bytes, 5 digits
+	coord hl, 12, 8
+	lb bc, 2, 4 ; 2 bytes, 4 digits
 	call PrintNumber ; print weight
 	coord hl, 14, 8
 	ld a,[hDexWeight + 1]

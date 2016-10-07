@@ -153,7 +153,7 @@ PrintPrizePrice:
 	ld c, 7
 	call TextBoxBorder
 	call UpdateSprites
-	coord hl, 12, 0
+	coord hl, 13, 0
 	ld de, .CoinString
 	call PlaceString
 	coord hl, 13, 1

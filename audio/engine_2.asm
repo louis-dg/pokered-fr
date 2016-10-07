@@ -1016,8 +1016,8 @@ Audio2_21e8b:
 	cp $86
 	jr z, .asm_21e9a
 	jr c, .asm_21e9d
-	ld a, [$D088]
 .asm_21e9a
+	ld a, [wLowHealthAlarm]
 	rla
 	ret
 .asm_21e9d

@@ -42,7 +42,7 @@ DisplayTitleScreen:
 	call FarCopyData2
 	ld hl, GamefreakLogoGraphics
 	ld de, vTitleLogo2 + $100 + $50
-	ld bc, $90
+	ld bc, $a0
 	ld a, BANK(GamefreakLogoGraphics)
 	call FarCopyData2
 	ld hl, PokemonLogoGraphics
@@ -370,7 +370,7 @@ LoadCopyrightAndTextBoxTiles:
 LoadCopyrightTiles:
 	ld de, NintendoCopyrightLogoGraphics
 	ld hl, vChars2 + $600
-	lb bc, BANK(NintendoCopyrightLogoGraphics), (GamefreakLogoGraphicsEnd - NintendoCopyrightLogoGraphics) / $10
+	lb bc, BANK(NintendoCopyrightLogoGraphics), (GamefreakLogoGraphicsEnd - NintendoCopyrightLogoGraphics) / $0f
 	call CopyVideoData
 	coord hl, 2, 7
 	ld de, CopyrightTextString
@@ -386,7 +386,7 @@ INCLUDE "data/title_mons.asm"
 
 ; prints version text (red, blue)
 PrintGameVersionOnTitleScreen:
-	coord hl, 7, 8
+	coord hl, 6, 8
 	ld de, VersionOnTitleScreenText
 	jp PlaceString
 

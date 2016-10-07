@@ -39,11 +39,11 @@ DisplayPCMainMenu::
 .next2
 	call PlaceString
 	coord hl, 2, 4
-	ld de, wPlayerName
+	ld de, PlayersPCText
 	call PlaceString
 	ld l, c
 	ld h, b
-	ld de, PlayersPCText
+	ld de, wPlayerName
 	call PlaceString
 	CheckEvent EVENT_GOT_POKEDEX
 	jr z, .noOaksPC2
@@ -121,7 +121,7 @@ BillsPCMenu:
 	call LoadScreenTilesFromBuffer2DisableBGTransfer
 	coord hl, 0, 0
 	ld b, 10
-	ld c, 12
+	ld c, 14
 	call TextBoxBorder
 	coord hl, 2, 2
 	ld de, BillsPCMenuText
@@ -146,9 +146,9 @@ BillsPCMenu:
 	ld [wPlayerMonNumber], a
 	ld hl, WhatText
 	call PrintText
-	coord hl, 9, 14
+	coord hl, 11, 14
 	ld b, 2
-	ld c, 9
+	ld c, 7
 	call TextBoxBorder
 	ld a, [wCurrentBoxNum]
 	and $7f
@@ -164,7 +164,7 @@ BillsPCMenu:
 	add "1"
 .next
 	Coorda 18, 16
-	coord hl, 10, 16
+	coord hl, 12, 16
 	ld de, BoxNoPCText
 	call PlaceString
 	ld a, 1
