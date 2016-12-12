@@ -1415,11 +1415,11 @@ DisplayMoneyBox:
 	ld c, 6
 	call ClearScreenArea
 	coord hl, 12, 1
-	ld de, $754a
+	ld de, CurrencyString
 	call PlaceString
-	ld hl, $c3c0
+	coord hl, 12, 1
 	ld de, wPlayerMoney
-	ld c, $83
+	ld c, "D"
 	call PrintBCDNumber
 	ld hl, wd730
 	res 6, [hl]
