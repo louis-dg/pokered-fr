@@ -73,7 +73,7 @@ _PewterCityText_1945d::
 	cont "Suis-moi!"
 	done
 
-_PewterCityText_19462::
+_PewterCityText14::
 	text "Si t'es fort..."
 	line "T'as pas tort..."
 	cont "Alors..."

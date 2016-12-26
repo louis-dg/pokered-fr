@@ -1,6 +1,6 @@
-# Pokémon: Version Rouge
+# Pokémon: Version Rouge and Bleue
 
-This is a disassembly of Pokémon: Version Rouge.
+This is a disassembly of Pokémon: Version Rouge and Bleue.
 
 It builds the following roms:
 

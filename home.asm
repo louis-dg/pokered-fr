@@ -723,7 +723,7 @@ UncompressMonSprite::
 ; define (by index number) the bank that a pokemon's image is in
 ; index = Mew, bank 1
 ; index = Kabutops fossil, bank $B
-;	index < $1F, bank 9
+; index < $1F, bank 9
 ; $1F ≤ index < $4A, bank $A
 ; $4A ≤ index < $74, bank $B
 ; $74 ≤ index < $99, bank $C
@@ -1587,7 +1587,7 @@ DisplayChooseQuantityMenu::
 	cp PRICEDITEMLISTMENU
 	jr nz,.printInitialQuantity
 	ld a,"¥"
-	ld [$C47A],a
+	ld [wTileMap+$DA],a
 	coord hl, 8, 10
 .printInitialQuantity
 	ld de,InitialQuantityText
@@ -3226,7 +3226,7 @@ WaitForSoundToFinish::
 	ret nz
 	push hl
 .waitLoop
-	ld hl, wChannelSoundIDs + CH4
+	ld hl, wChannelSoundIDs + Ch4
 	xor a
 	or [hl]
 	inc hl
@@ -4420,7 +4420,6 @@ endm
 
 
 CallFunctionInTable::
-JumpTable::
 ; Call function a in jumptable hl.
 ; de is not preserved.
 	push hl
