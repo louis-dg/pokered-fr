@@ -1586,8 +1586,8 @@ DisplayChooseQuantityMenu::
 	ld a,[wListMenuID]
 	cp PRICEDITEMLISTMENU
 	jr nz,.printInitialQuantity
-	ld a,"¥"
-	ld [wTileMap+$DA],a
+	ld a, "¥"
+	ld [wTileMap+$DA], a
 	coord hl, 8, 10
 .printInitialQuantity
 	ld de,InitialQuantityText
@@ -1798,7 +1798,7 @@ PrintListMenuEntries::
 	add hl,bc
 	ld c,$83 ; no leading zeroes, right-aligned, print currency symbol, 3 bytes
 	call PrintBCDNumber
-	ld [hl], $F0
+	ld [hl], "¥"
 .skipPrintingItemPrice
 	ld a,[wListMenuID]
 	and a
