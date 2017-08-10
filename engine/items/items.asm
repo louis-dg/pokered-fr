@@ -1850,8 +1850,8 @@ PlayedFluteHadEffectText:
 	ld c, BANK(SFX_Pokeflute)
 	call PlayMusic
 .musicWaitLoop ; wait for music to finish playing
-	ld a,[wChannelSoundIDs + CH2]
-	cp a, SFX_POKEFLUE
+	ld a,[wChannelSoundIDs + Ch2]
+	cp a, SFX_POKEFLUTE
 	jr z,.musicWaitLoop
 	call PlayDefaultMusic ; start playing normal music again
 .done
