@@ -51,7 +51,7 @@ _IntroduceRivalText::
 	prompt
 
 _OakSpeechText3::
-	text $52,"!"
+	text "<PLAYER>!"
 
 	para "Ta quête des"
 	line "#MON est sur"

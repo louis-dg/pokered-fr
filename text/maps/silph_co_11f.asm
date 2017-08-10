@@ -19,7 +19,7 @@ _SilphCoPresidentText::
 	prompt
 
 _ReceivedSilphCoMasterBallText::
-	text $52, " obtient:"
+	text "<PLAYER> obtient:"
 	line "@"
 	TX_RAM wcf50
 	text "!@@"
@@ -89,7 +89,7 @@ _SilphCo10Text_62335::
 	line "ROCKET est"
 	cont "invincible!"
 
-	para $52,"! N'oublie"
+	para "<PLAYER>! N'oublie"
 	line "jamais que tous"
 	cont "les #MON sont"
 	cont "pour la TEAM"

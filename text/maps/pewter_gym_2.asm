@@ -20,8 +20,8 @@ _TM34PreReceiveText::
 	done
 
 _ReceivedTM34Text::
-	text $52," reçoit"
-	line "la CT34!@@"
+	text "<PLAYER> received"
+	line "TM34!@@"
 
 _TM34ExplanationText::
 	text ""
@@ -62,7 +62,7 @@ _PewterGymText_5c4bc::
 	cont "voici le BADGE"
 	cont "ROCHE!"
 
-	para $52," reçoit"
+	para "<PLAYER> reçoit"
 	line "le BADGE ROCHE!@@"
 
 _PewterGymText_5c4c1::

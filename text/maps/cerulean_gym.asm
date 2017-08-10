@@ -52,7 +52,7 @@ _CeruleanGymText_5c7c8::
 	done
 
 _ReceivedTM11Text::
-	text $52," reçoit"
+	text "<PLAYER> reçoit"
 	line "la CT11!@@"
 
 _CeruleanGymText_5c7d3::

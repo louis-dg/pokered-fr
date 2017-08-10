@@ -68,7 +68,7 @@ _CeladonGymText9::
 	done
 
 _ReceivedTM21Text::
-	text $52," reçoit"
+	text "<PLAYER> reçoit"
 	line "@"
 	TX_RAM wcf50
 	text "!@@"

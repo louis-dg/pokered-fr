@@ -2325,7 +2325,7 @@ _CoinsScatteredText::
 	prompt
 
 _GettingPumpedText::
-	text $5a
+	text "<USER>"
 	line "accroît sa force!"
 	prompt
 

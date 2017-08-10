@@ -1,6 +1,6 @@
 _DaisyInitialText::
-	text "Salut ",$52,"!"
-	line $53," est dans"
+	text "Salut <PLAYER>!"
+	line "<RIVAL> est dans"
 	cont "le labo de pépé! "
 	done
 
@@ -12,7 +12,7 @@ _DaisyOfferMapText::
 	prompt
 
 _GotMapText::
-	text $52," obtient:"
+	text "<PLAYER> obtient:"
 	line "@"
 	TX_RAM wcf50
 	text "!@@"

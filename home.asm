@@ -208,7 +208,7 @@ DrawHPBar::
 	and a
 	jr nz, .fill
 
-	; If c iz nonzero, draw a pixel anyway.
+	; If c is nonzero, draw a pixel anyway.
 	ld a, c
 	and a
 	jr z, .done
@@ -2095,7 +2095,7 @@ DisableWaitingAfterTextDisplay::
 ; [wcf91] = item ID
 ; OUTPUT:
 ; [wActionResultOrTookBattleTurn] = success
-; 00: unsucessful
+; 00: unsuccessful
 ; 01: successful
 ; 02: not able to be used right now, no extra menu displayed (only certain items use this)
 UseItem::
@@ -2540,7 +2540,7 @@ EngageMapTrainer::
 	ld a, [hli]    ; load trainer class
 	ld [wEngagedTrainerClass], a
 	ld a, [hl]     ; load trainer mon set
-	ld [wEnemyMonAttackMod], a
+	ld [wEngagedTrainerSet], a
 	jp PlayTrainerMusic
 
 PrintEndBattleText::
@@ -3394,7 +3394,7 @@ CopyString::
 ; this function is used when lower button sensitivity is wanted (e.g. menus)
 ; OUTPUT: [hJoy5] = pressed buttons in usual format
 ; there are two flags that control its functionality, [hJoy6] and [hJoy7]
-; there are esentially three modes of operation
+; there are essentially three modes of operation
 ; 1. Get newly pressed buttons only
 ;    ([hJoy7] == 0, [hJoy6] == any)
 ;    Just copies [hJoyPressed] to [hJoy5].
@@ -3742,7 +3742,7 @@ CalcStat::
 	ld a, b
 	add e
 	jr nc, .noCarry2
-	inc d                     ; da = (Base + IV) * 2 + ceil(Sqrt(stat exp)) / 4
+	inc d                     ; de = (Base + IV) * 2 + ceil(Sqrt(stat exp)) / 4
 .noCarry2
 	ld [H_MULTIPLICAND+2], a
 	ld a, d
@@ -4125,7 +4125,7 @@ EraseMenuCursor::
 ; The reason is that most functions that call this initialize H_DOWNARROWBLINKCNT1 to 0.
 ; The effect is that if the tile at hl is initialized with a down arrow,
 ; this function will toggle that down arrow on and off, but if the tile isn't
-; initliazed with a down arrow, this function does nothing.
+; initialized with a down arrow, this function does nothing.
 ; That allows this to be called without worrying about if a down arrow should
 ; be blinking.
 HandleDownArrowBlinkTiming::

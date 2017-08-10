@@ -10,7 +10,7 @@ _OaksLabText40::
 	cont "comme toi!"
 
 	para "Allez, choisis,"
-	line $52,"!"
+	line "<PLAYER>!"
 	done
 
 _OaksLabText41::
@@ -50,7 +50,7 @@ _OaksLabMonEnergeticText::
 	prompt
 
 _OaksLabReceivedMonText::
-	text $52," obtient:"
+	text "<PLAYER> obtient:"
 	line "@"
 	TX_RAM wcd6d
 	text "!@@"

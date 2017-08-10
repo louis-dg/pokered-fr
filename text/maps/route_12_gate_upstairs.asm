@@ -10,7 +10,7 @@ _TM39PreReceiveText::
 	prompt
 
 _ReceivedTM39Text::
-	text $52," obtient"
+	text "<PLAYER> obtient"
 	line "CT39!@@"
 
 _TM39ExplanationText::

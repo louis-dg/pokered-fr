@@ -27,7 +27,7 @@ _VermilionGymText_5cb77::
 	done
 
 _ReceivedTM24Text::
-	text $52," reçoit:"
+	text "<PLAYER> reçoit:"
 	line "@"
 	TX_RAM wcf50
 	text "!@@"
