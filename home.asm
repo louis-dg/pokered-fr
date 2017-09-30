@@ -2978,7 +2978,7 @@ Bankswitch::
 	ld [MBC1RomBank],a
 	ld bc,.Return
 	push bc
-	jp [hl]
+	jp hl
 .Return
 	pop bc
 	ld a,b
@@ -4434,7 +4434,7 @@ CallFunctionInTable::
 	ld l, a
 	ld de, .returnAddress
 	push de
-	jp [hl]
+	jp hl
 .returnAddress
 	pop bc
 	pop de
@@ -4617,7 +4617,7 @@ CheckForHiddenObjectOrBookshelfOrCardKeyDoor::
 	ld [H_LOADEDROMBANK], a
 	ld de, .returnAddress
 	push de
-	jp [hl]
+	jp hl
 .returnAddress
 	xor a
 	jr .done

@@ -244,6 +244,6 @@ _CinnabarGymText_75ac2::
 	done
 
 _CinnabarGymText_75ac7::
-	text $52, "! You beat"
-	line "that fire brand!"
+	text "<PLAYER>! Tu as"
+	line "battu AUGUSTE!"
 	done

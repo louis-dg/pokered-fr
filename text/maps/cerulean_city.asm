@@ -29,7 +29,7 @@ _CeruleanCityText_19672::
 	prompt
 
 _CeruleanCityText_19677::
-	text "<RIVAL: Hé!"
+	text "<RIVAL>: Hé!"
 	line "Tu sais quoi?"
 
 	para "Chuis allé chez"

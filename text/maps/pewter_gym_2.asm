@@ -20,8 +20,8 @@ _TM34PreReceiveText::
 	done
 
 _ReceivedTM34Text::
-	text "<PLAYER> received"
-	line "TM34!@@"
+	text "<PLAYER> reçoit"
+	line "la CT34!@@"
 
 _TM34ExplanationText::
 	text ""
