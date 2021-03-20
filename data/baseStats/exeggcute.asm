@@ -18,7 +18,7 @@ db CONFUSION
 db 0
 db 5 ; growth rate
 ; learnset
-	tmlearn 6
+	tmlearn 4,6
 	tmlearn 9,10
 	tmlearn 0
 	tmlearn 29,30,31,32
