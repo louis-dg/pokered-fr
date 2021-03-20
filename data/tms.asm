@@ -18,7 +18,7 @@ TechnicalMachines:
 	db SUBMISSION
 	db COUNTER
 	db SEISMIC_TOSS
-	db RAGE
+	db FLAMETHROWER
 	db MEGA_DRAIN
 	db SOLARBEAM
 	db DRAGON_RAGE
