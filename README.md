@@ -41,7 +41,9 @@ Le but de ce projet est de partir de la rom de Pokémon rouge et d'y apporter de
 
 Ce projet s'adresse à un public francophone, trop peu représenté dans le monde des hackroms à mon avis :)
 
-Ce projet est en cours de réalisation. Il n'est pas terminé, néanmoins, le jeu est jouable. Voyez la liste des modifications pour plus d'informations. 
+Ce projet est en cours de réalisation. Il n'est pas terminé, néanmoins, le jeu est jouable. Voyez la liste des modifications pour plus d'informations.
+
+Pour jouer au jeu, suivez les instructions du fichier INSTALL.md. Il vous permettra de créer le fichier pokered.gbc qu'il faudra utiliser avec votre émulateur de prédilection. Dans ce projet la version bleu n'est pas gérée. Il est donc inutile d'utiliser le fichier pokeblue.gbc.
 
 # Liste des Modifications
 
