@@ -34,7 +34,7 @@ TechnicalMachines:
 	db REFLECT
 	db BIDE
 	db METRONOME
-	db SELFDESTRUCT
+	db SLUDGE
 	db EGG_BOMB
 	db FIRE_BLAST
 	db SWIFT
