@@ -6,7 +6,7 @@ SuperRodData:
 	dbw CERULEAN_CITY, FishingGroup3
 	dbw VERMILION_CITY, FishingGroup4
 	dbw CELADON_CITY, FishingGroup5
-	dbw FUCHSIA_CITY, FishingGroup10
+	dbw FUCHSIA_CITY, FishingGroup7
 	dbw CINNABAR_ISLAND, FishingGroup8
 	dbw ROUTE_4, FishingGroup3
 	dbw ROUTE_6, FishingGroup4
@@ -31,9 +31,9 @@ SuperRodData:
 	dbw SAFARI_ZONE_NORTH, FishingGroup6
 	dbw SAFARI_ZONE_WEST, FishingGroup6
 	dbw SAFARI_ZONE_CENTER, FishingGroup6
-	dbw UNKNOWN_DUNGEON_2, FishingGroup9
-	dbw UNKNOWN_DUNGEON_3, FishingGroup9
-	dbw UNKNOWN_DUNGEON_1, FishingGroup9
+	dbw UNKNOWN_DUNGEON_2, FishingGroup10
+	dbw UNKNOWN_DUNGEON_3, FishingGroup10
+	dbw UNKNOWN_DUNGEON_1, FishingGroup10
 	db $FF
 
 ; fishing groups
@@ -55,9 +55,10 @@ FishingGroup3:
 	db 15,KRABBY
 
 FishingGroup4:
-	db 2
+	db 3
 	db 15,KRABBY
 	db 15,SHELLDER
+	db 15,STARYU
 
 FishingGroup5:
 	db 2
@@ -66,16 +67,16 @@ FishingGroup5:
 
 FishingGroup6:
 	db 4
-	db 15,DRATINI
-	db 15,KRABBY
-	db 15,PSYDUCK
-	db 15,SLOWPOKE
+	db 25,DRATINI
+	db 25,KRABBY
+	db 25,PSYDUCK
+	db 25,SLOWPOKE
 
 FishingGroup7:
 	db 4
-	db 5,TENTACOOL
+	db 15,SQUIRTLE
 	db 15,KRABBY
-	db 15,GOLDEEN
+	db 15,STARYU
 	db 15,MAGIKARP
 
 FishingGroup8:
@@ -94,7 +95,7 @@ FishingGroup9:
 
 FishingGroup10:
 	db 4
-	db 23,SEAKING
-	db 15,KRABBY
-	db 15,GOLDEEN
-	db 15,MAGIKARP
+	db 45,GYARADOS
+	db 45,KINGLER
+	db 45,DEWGONG
+	db 45,SEADRA

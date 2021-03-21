@@ -8,6 +8,6 @@ Route17Mons:
 	db 26,DODUO
 	db 28,DODUO
 	db 29,RATICATE
-	db 25,FEAROW
+	db 25,SCYTHER
 	db 27,FEAROW
 	db $00

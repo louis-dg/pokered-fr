@@ -1,13 +1,13 @@
 PlateauMons3:
 	db $0F
-	db 24,MACHOP
-	db 26,GEODUDE
-	db 22,ZUBAT
-	db 42,ONIX
-	db 40,VENOMOTH
-	db 45,ONIX
-	db 43,GRAVELER
-	db 41,GOLBAT
-	db 42,MACHOKE
+	db 27,MACHOP
+	db 29,GEODUDE
+	db 25,ZUBAT
+	db 44,ONIX
+	db 43,VENOMOTH
+	db 48,ONIX
+	db 46,GRAVELER
+	db 43,GOLBAT
 	db 45,MACHOKE
+	db 48,MACHOKE
 	db $00
