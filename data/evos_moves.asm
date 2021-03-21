@@ -1098,6 +1098,7 @@ Mon149_EvosMoves:
 	db 10,THUNDER_WAVE
 	db 20,AGILITY
 	db 35,SLAM
+	db 40,THRASH
 	db 45,DRAGON_RAGE
 	db 48,WING_ATTACK
 	db 55,HYPER_BEAM
@@ -1341,6 +1342,7 @@ Mon147_EvosMoves:
 	db 20,AGILITY
 	db 30,SLAM
 	db 35,DRAGON_RAGE
+	db 40,THRASH
 	db 45,HYPER_BEAM
 	db 0
 
@@ -1352,9 +1354,9 @@ Mon148_EvosMoves:
 ;Learnset
 	db 10,THUNDER_WAVE
 	db 20,AGILITY
-	db 35,SLAM
-	db 45,DRAGON_RAGE
-	db 50,HYPER_BEAM
+	db 35,DRAGON_RAGE
+	db 40,THRASH
+	db 48,HYPER_BEAM
 	db 0
 
 Mon140_EvosMoves:
