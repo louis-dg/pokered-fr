@@ -35,9 +35,9 @@ To set up the repository, see [**INSTALL.md**](INSTALL.md).
 
 # Présentation : Pokémon rouge
 
-Ceci est un projet d'amélioration de la hackrom de Pokémon rouge/bleu.
+Ceci est un projet d'amélioration de la hackrom de Pokémon rouge.
 
-Le but de ce projet est de partir de la rom de Pokémon rouge et d'y apporter des améliorations relativement légères afin de garder le ressenti du jeu original tout en corrigeant des défauts qui, avec les standards d'aujourd'hui, affectent grandement la rejouabilité de cette version.
+Le but de ce projet est de partir de la rom de Pokémon rouge et d'y apporter des améliorations **relativement légères** afin de **garder le ressenti du jeu original** tout en corrigeant des défauts qui, avec les standards d'aujourd'hui, affectent grandement la rejouabilité de cette version.
 
 Ce projet s'adresse à un public francophone, trop peu représenté dans le monde des hackroms à mon avis :)
 
