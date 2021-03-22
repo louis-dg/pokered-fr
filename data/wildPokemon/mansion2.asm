@@ -2,7 +2,7 @@ MansionMons2:
 	db $0A
     db 32,GROWLITHE
     db 34,KOFFING
-    db 34,KOFFING
+    db 34,GRIMER
     db 30,VULPIX
     db 30,KOFFING
     db 32,PONYTA

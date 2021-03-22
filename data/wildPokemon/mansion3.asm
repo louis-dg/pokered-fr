@@ -8,6 +8,6 @@ MansionMons3:
     db 40,WEEZING
     db 34,GRIMER
     db 38,WEEZING
-    db 36,PONYTA
+    db 36,FLAREON
     db 42,MUK
 	db $00

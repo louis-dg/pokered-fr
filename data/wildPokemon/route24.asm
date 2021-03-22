@@ -1,7 +1,7 @@
 Route24Mons:
 	db $19
-    db 7,WEEDLE
-    db 8,KAKUNA
+    db 8,POLIWAG
+    db 9,POLIWAG
     db 12,PIDGEY
     db 12,BELLSPROUT
     db 13,ODDISH

@@ -6,7 +6,7 @@ PowerPlantMons:
 	db 24,PIKACHU
 	db 23,MAGNEMITE
 	db 23,VOLTORB
-	db 32,MAGNETON
+	db 32,ELECTABUZZ
 	db 35,ELECTABUZZ
     db 33,JOLTEON
     db 36,RAICHU

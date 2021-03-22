@@ -9,4 +9,4 @@ TradeMons:
 	db POLIWHIRL, JYNX,      1,"NINI@@@@@@@"
 	db RAICHU,    ELECTRODE, 1,"KOURJUS@@@@"
 	db RHYHORN,   TAUROS,    2,"MINO@@@@@@@"
-	db CLEFAIRY,  CHANSEY,   2,"FABI@@@@@@@"
+	db BUTTERFREE,CHANSEY,   2,"FABI@@@@@@@"

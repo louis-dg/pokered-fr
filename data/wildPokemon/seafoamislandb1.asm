@@ -1,6 +1,6 @@
 IslandMonsB1:
 	db $0A
-    db 30,STARYU
+    db 31,SEEL
     db 30,HORSEA
     db 32,SHELLDER
     db 32,HORSEA
