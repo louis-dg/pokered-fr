@@ -1161,11 +1161,13 @@ Mon124_EvosMoves:
 ;Evolutions
 	db 0
 ;Learnset
-	db 18,LICK
-	db 23,DOUBLESLAP
-	db 31,ICE_PUNCH
-	db 39,BODY_SLAM
-	db 47,THRASH
+	db 15,LICK
+	db 19,DOUBLESLAP
+	db 25,ICE_PUNCH
+	db 30,CONFUSION
+	db 37,BODY_SLAM
+	db 43,PSYCHIC_M
+	db 50,THRASH
 	db 58,BLIZZARD
 	db 0
 
