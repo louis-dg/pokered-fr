@@ -1,7 +1,7 @@
 Route25Mons:
 	db $0F
-    db 8,CATERPIE
-    db 9,CATERPIE
+    db 8,WEEDLE
+    db 9,KAKUNA
     db 13,PIDGEY
     db 12,BELLSPROUT
     db 13,BELLSPROUT
