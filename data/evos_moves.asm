@@ -1297,14 +1297,14 @@ Mon025_EvosMoves:
 	db 0
 ;Learnset
 	db 9,THUNDER_WAVE
-	db 12,QUICK_ATTACK
-	db 15,DOUBLE_TEAM
-	db 20,SLAM
-	db 26,THUNDERBOLT
-	db 33,AGILITY
-	db 43,THUNDER
-	db 50,LIGHT_SCREEN
-    db 55,SWIFT
+    db 12,QUICK_ATTACK
+    db 16,DOUBLE_TEAM
+    db 20,SLAM
+    db 26,SWIFT
+    db 32,THUNDERBOLT
+    db 38,AGILITY
+    db 43,THUNDER
+    db 50,LIGHT_SCREEN>
 	db 0
 
 Mon026_EvosMoves:
@@ -1312,11 +1312,15 @@ Mon026_EvosMoves:
 ;Evolutions
 	db 0
 ;Learnset
-    db 26,THUNDERBOLT
-	db 33,AGILITY
-	db 43,THUNDER
-	db 50,LIGHT_SCREEN
-	db 55,SWIFT
+    db 9,THUNDER_WAVE
+    db 12,QUICK_ATTACK
+    db 16,DOUBLE_TEAM
+    db 20,SLAM
+    db 26,SWIFT
+    db 32,THUNDERBOLT
+    db 38,AGILITY
+    db 43,THUNDER
+    db 50,LIGHT_SCREEN
 	db 0
 
 Mon166_EvosMoves:
