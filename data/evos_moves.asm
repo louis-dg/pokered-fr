@@ -201,8 +201,8 @@ Mon112_EvosMoves:
 	db 40,ROCK_SLIDE
 	db 46,HORN_DRILL
 	db 50,EARTHQUAKE
-	db 58,BODY_SLAM
-	db 67,FISSURE
+	db 56,BODY_SLAM
+	db 64,FISSURE
 	db 0
 
 Mon115_EvosMoves:
@@ -298,13 +298,13 @@ Mon080_EvosMoves:
 ;Learnset
 	db 18,DISABLE
 	db 22,HEADBUTT
-	db 27,GROWL
-	db 33,WATER_GUN
-	db 37,WITHDRAW
-	db 44,AMNESIA
-	db 50,PSYCHIC_M
-	db 56,HYDRO_PUMP
-	db 63,BODY_SLAM
+	db 25,GROWL
+	db 30,WATER_GUN
+	db 36,WITHDRAW
+	db 42,AMNESIA
+	db 47,PSYCHIC_M
+	db 54,HYDRO_PUMP
+	db 61,BODY_SLAM
 	db 0
 
 Mon002_EvosMoves:
@@ -330,13 +330,14 @@ Mon103_EvosMoves:
 	db 0
 ;Learnset
 	db 25,REFLECT
-	db 28,STOMP
-	db 32,EGG_BOMB
-	db 36,STUN_SPORE
-	db 37,POISONPOWDER
-	db 42,SOLARBEAM
-	db 48,SLEEP_POWDER
-	db 55,PSYCHIC_M
+    db 28,LEECH_SEED
+    db 31,CONFUSION
+    db 35,EGG_BOMB
+    db 37,STUN_SPORE
+    db 38,POISONPOWDER
+    db 44,SOLARBEAM
+    db 48,SLEEP_POWDER
+    db 55,PSYCHIC_M
 	db 0
 
 Mon108_EvosMoves:
@@ -361,10 +362,11 @@ Mon102_EvosMoves:
 ;Learnset
 	db 25,REFLECT
 	db 28,LEECH_SEED
-	db 32,EGG_BOMB
-	db 36,STUN_SPORE
-	db 37,POISONPOWDER
-	db 42,SOLARBEAM
+	db 31,CONFUSION
+	db 35,EGG_BOMB
+	db 37,STUN_SPORE
+	db 38,POISONPOWDER
+	db 44,SOLARBEAM
 	db 48,SLEEP_POWDER
 	db 55,PSYCHIC_M
 	db 0
@@ -379,9 +381,9 @@ Mon088_EvosMoves:
 	db 33,MINIMIZE
 	db 37,SLUDGE
 	db 42,HARDEN
-	db 48,SCREECH
-	db 55,TOXIC
-	db 61,ACID_ARMOR
+	db 46,SCREECH
+	db 52,TOXIC
+	db 58,ACID_ARMOR
 	db 0
 
 Mon094_EvosMoves:
@@ -455,8 +457,8 @@ Mon111_EvosMoves:
 	db 40,ROCK_SLIDE
 	db 44,HORN_DRILL
 	db 48,EARTHQUAKE
-	db 54,BODY_SLAM
-	db 63,FISSURE
+	db 52,BODY_SLAM
+	db 62,FISSURE
 	db 0
 
 Mon131_EvosMoves:
@@ -601,9 +603,9 @@ Mon009_EvosMoves:
 	db 19,WITHDRAW
 	db 24,BITE
 	db 31,LOW_KICK
-	db 42,SKULL_BASH
-	db 52,HYDRO_PUMP
-	db 60,BODY_SLAM
+	db 40,SKULL_BASH
+	db 48,HYDRO_PUMP
+	db 56,BODY_SLAM
 	db 0
 
 Mon127_EvosMoves:
@@ -775,13 +777,13 @@ Mon067_EvosMoves:
 	db 0
 ;Learnset
 	db 20,LOW_KICK
-	db 25,LEER
-	db 31,SEISMIC_TOSS
-	db 36,FOCUS_ENERGY
-	db 44,MEGA_PUNCH
-	db 52,SUBMISSION
-	db 59,DIZZY_PUNCH
-	db 65,BODY_SLAM
+    db 25,LEER
+    db 31,SEISMIC_TOSS
+    db 34,FOCUS_ENERGY
+    db 38,MEGA_PUNCH
+    db 45,SUBMISSION
+    db 51,DIZZY_PUNCH
+    db 61,BODY_SLAM
 	db 0
 
 Mon122_EvosMoves:
@@ -796,7 +798,7 @@ Mon122_EvosMoves:
 	db 34,PSYBEAM
 	db 39,MEDITATE
 	db 47,SUBSTITUTE
-	db 57,PSYCHIC_M
+	db 54,PSYCHIC_M
 	db 0
 
 Mon106_EvosMoves:
@@ -1011,7 +1013,7 @@ Mon086_EvosMoves:
 	db 40,REST
 	db 45,TAKE_DOWN
 	db 50,ICE_BEAM
-	db 58,HYDRO_PUMP
+	db 56,HYDRO_PUMP
 	db 0
 
 Mon050_EvosMoves:
@@ -1038,8 +1040,8 @@ Mon128_EvosMoves:
 	db 35,THRASH
 	db 40,REST
 	db 44,RAGE
-	db 51,TAKE_DOWN
-	db 60,HORN_DRILL
+	db 50,TAKE_DOWN
+	db 55,HORN_DRILL
 	db 0
 
 Mon157_EvosMoves:
@@ -1085,7 +1087,7 @@ Mon048_EvosMoves:
 	db 24,POISONPOWDER
 	db 27,LEECH_LIFE
 	db 30,STUN_SPORE
-	db 35,PSYBEAM
+	db 34,PSYBEAM
 	db 38,SLEEP_POWDER
 	db 43,PSYCHIC_M
 	db 0
@@ -1136,7 +1138,6 @@ Mon084_EvosMoves:
 	db 24,FURY_ATTACK
 	db 30,DRILL_PECK
 	db 36,RAGE
-	db 40,TRI_ATTACK
 	db 40,TRI_ATTACK
 	db 44,AGILITY
 	db 52,THRASH
@@ -1286,7 +1287,7 @@ Mon038_EvosMoves:
 	db 21,BITE
 	db 26,ROAR
 	db 30,CONFUSE_RAY
-	db 34,FLAMETHROWER
+	db 36,FLAMETHROWER
 	db 42,FIRE_SPIN
 	db 0
 
@@ -1301,9 +1302,9 @@ Mon025_EvosMoves:
     db 16,DOUBLE_TEAM
     db 20,SLAM
     db 26,SWIFT
-    db 32,THUNDERBOLT
+    db 33,THUNDERBOLT
     db 38,AGILITY
-    db 43,THUNDER
+    db 44,THUNDER
     db 50,LIGHT_SCREEN>
 	db 0
 
@@ -1317,9 +1318,9 @@ Mon026_EvosMoves:
     db 16,DOUBLE_TEAM
     db 20,SLAM
     db 26,SWIFT
-    db 32,THUNDERBOLT
+    db 33,THUNDERBOLT
     db 38,AGILITY
-    db 43,THUNDER
+    db 44,THUNDER
     db 50,LIGHT_SCREEN
 	db 0
 
@@ -1373,7 +1374,7 @@ Mon140_EvosMoves:
 	db 34,ABSORB
 	db 39,SLASH
 	db 44,LEER
-	db 49,HYDRO_PUMP
+	db 48,HYDRO_PUMP
 	db 0
 
 Mon141_EvosMoves:
@@ -1383,10 +1384,10 @@ Mon141_EvosMoves:
 ;Learnset
 	db 34,ABSORB
 	db 39,SLASH
-	db 46,LEER
-	db 53,HYDRO_PUMP
-	db 58,SWORDS_DANCE
-	db 63,GUILLOTINE
+	db 43,LEER
+	db 50,HYDRO_PUMP
+	db 54,SWORDS_DANCE
+	db 60,GUILLOTINE
 	db 0
 
 Mon116_EvosMoves:
@@ -1469,8 +1470,9 @@ Mon138_EvosMoves:
 ;Learnset
 	db 34,HORN_ATTACK
 	db 39,ROCK_THROW
-	db 46,SPIKE_CANNON
-	db 53,HYDRO_PUMP
+	db 44,SPIKE_CANNON
+	db 49,HYDRO_PUMP
+	db 54,AURORA_BEAM
 	db 0
 
 Mon139_EvosMoves:
@@ -1481,7 +1483,7 @@ Mon139_EvosMoves:
 	db 34,HORN_ATTACK
 	db 39,ROCK_THROW
 	db 44,SPIKE_CANNON
-	db 49,HYDRO_PUMP
+	db 50,HYDRO_PUMP
 	db 58,AURORA_BEAM
 	db 0
 
@@ -1522,8 +1524,8 @@ Mon133_EvosMoves:
 	db 0
 Mon133_EvosEnd:
 ;Learnset
-	db 27,QUICK_ATTACK
-	db 30,TAIL_WHIP
+	db 26,TAIL_WHIP
+	db 30,QUICK_ATTACK
 	db 33,BITE
 	db 37,FOCUS_ENERGY
 	db 45,TAKE_DOWN
@@ -1534,13 +1536,12 @@ Mon136_EvosMoves:
 ;Evolutions
 	db 0
 ;Learnset
-	db 27,QUICK_ATTACK
-	db 31,EMBER
-	db 37,SMOG
-	db 40,BITE
-	db 42,FIRE_SPIN
-	db 48,RAGE
-	db 54,FLAMETHROWER
+	db 26,EMBER
+	db 29,SMOG
+	db 33,BITE
+	db 37,FIRE_SPIN
+	db 43,TAKE_DOWN
+	db 50,FLAMETHROWER
 	db 0
 
 Mon135_EvosMoves:
@@ -1548,11 +1549,10 @@ Mon135_EvosMoves:
 ;Evolutions
 	db 0
 ;Learnset
-	db 27,QUICK_ATTACK
-	db 31,THUNDERSHOCK
-	db 36,THUNDER_WAVE
-	db 40,DOUBLE_KICK
-	db 42,THUNDERBOLT
+	db 26,THUNDERSHOCK
+	db 30,THUNDER_WAVE
+	db 35,DOUBLE_KICK
+	db 40,THUNDERBOLT
 	db 44,AGILITY
 	db 48,PIN_MISSILE
 	db 54,THUNDER
@@ -1563,14 +1563,13 @@ Mon134_EvosMoves:
 ;Evolutions
 	db 0
 ;Learnset
-	db 27,QUICK_ATTACK
-	db 31,WATER_GUN
+	db 26,WATER_GUN
+	db 30,BITE
 	db 35,AURORA_BEAM
-	db 40,BITE
-	db 42,ACID_ARMOR
+	db 40,ACID_ARMOR
 	db 44,HAZE
 	db 48,MIST
-	db 54,HYDRO_PUMP
+	db 52,HYDRO_PUMP
 	db 0
 
 Mon066_EvosMoves:
@@ -1710,10 +1709,10 @@ Mon085_EvosMoves:
 	db 20,GROWL
 	db 24,FURY_ATTACK
 	db 30,DRILL_PECK
-	db 39,RAGE
-	db 45,TRI_ATTACK
-	db 51,AGILITY
-	db 57,THRASH
+	db 35,RAGE
+	db 40,TRI_ATTACK
+	db 46,AGILITY
+	db 50,THRASH
 	db 0
 
 Mon057_EvosMoves:
@@ -1724,11 +1723,11 @@ Mon057_EvosMoves:
 	db 15,KARATE_CHOP
 	db 21,FURY_SWIPES
 	db 27,FOCUS_ENERGY
-	db 37,SEISMIC_TOSS
-	db 46,THRASH
-	db 51,MEGA_PUNCH
-	db 56,AGILITY
-	db 61,DIZZY_PUNCH
+	db 33,SEISMIC_TOSS
+	db 38,THRASH
+	db 44,MEGA_PUNCH
+	db 50,AGILITY
+	db 56,DIZZY_PUNCH
 	db 0
 
 Mon051_EvosMoves:
@@ -1741,7 +1740,7 @@ Mon051_EvosMoves:
 	db 24,SAND_ATTACK
 	db 30,FURY_SWIPES
 	db 35,SLASH
-	db 47,EARTHQUAKE
+	db 45,EARTHQUAKE
 	db 0
 
 Mon049_EvosMoves:
@@ -1752,7 +1751,7 @@ Mon049_EvosMoves:
 	db 24,POISONPOWDER
 	db 27,LEECH_LIFE
 	db 30,STUN_SPORE
-	db 38,PSYBEAM
+	db 36,PSYBEAM
 	db 43,SLEEP_POWDER
 	db 50,PSYCHIC_M
 	db 0
@@ -1767,7 +1766,7 @@ Mon087_EvosMoves:
 	db 44,REST
 	db 50,TAKE_DOWN
 	db 56,ICE_BEAM
-	db 65,HYDRO_PUMP
+	db 62,HYDRO_PUMP
 	db 0
 
 Mon171_EvosMoves:
@@ -1822,11 +1821,11 @@ Mon068_EvosMoves:
 	db 20,LOW_KICK
     db 25,LEER
     db 31,SEISMIC_TOSS
-    db 36,FOCUS_ENERGY
-    db 44,MEGA_PUNCH
-    db 52,SUBMISSION
-    db 59,DIZZY_PUNCH
-    db 65,BODY_SLAM
+    db 34,FOCUS_ENERGY
+    db 38,MEGA_PUNCH
+    db 45,SUBMISSION
+    db 51,DIZZY_PUNCH
+    db 61,BODY_SLAM
 	db 0
 
 Mon173_EvosMoves:
@@ -1845,10 +1844,10 @@ Mon055_EvosMoves:
     db 21,WATER_GUN
     db 26,CONFUSION
     db 30,FURY_SWIPES
-    db 39,SLASH
-    db 48,HYDRO_PUMP
-    db 55,AMNESIA
-    db 62,PSYCHIC_M
+    db 37,SLASH
+    db 46,HYDRO_PUMP
+    db 53,AMNESIA
+    db 60,PSYCHIC_M
 	db 0
 
 Mon097_EvosMoves:
@@ -1863,7 +1862,7 @@ Mon097_EvosMoves:
 	db 37,PSYCHIC_M
 	db 43,MEDITATE
 	db 50,REFLECT
-	db 57,MEGA_PUNCH
+	db 56,MEGA_PUNCH
 	db 0
 
 Mon042_EvosMoves:
@@ -1936,9 +1935,9 @@ Mon089_EvosMoves:
 	db 33,MINIMIZE
 	db 37,SLUDGE
 	db 45,HARDEN
-	db 53,SCREECH
-	db 60,TOXIC
-	db 65,ACID_ARMOR
+	db 49,SCREECH
+	db 54,TOXIC
+	db 60,ACID_ARMOR
 	db 0
 
 Mon176_EvosMoves:
@@ -2160,10 +2159,10 @@ Mon003_EvosMoves:
 	db 22,POISONPOWDER
 	db 30,RAZOR_LEAF
 	db 36,ACID
-	db 43,GROWTH
-	db 52,SLEEP_POWDER
-	db 59,SOLARBEAM
-	db 65,BODY_SLAM
+	db 40,GROWTH
+	db 47,SLEEP_POWDER
+	db 52,SOLARBEAM
+	db 58,BODY_SLAM
 	db 0
 
 Mon073_EvosMoves:
@@ -2200,8 +2199,8 @@ Mon118_EvosMoves:
 	db 24,HORN_ATTACK
 	db 30,FURY_ATTACK
 	db 37,WATERFALL
-	db 45,HORN_DRILL
-	db 54,AGILITY
+	db 42,HORN_DRILL
+	db 50,AGILITY
 	db 0
 
 Mon119_EvosMoves:
@@ -2439,7 +2438,7 @@ Mon007_EvosMoves:
 	db 28,LOW_KICK
 	db 35,SKULL_BASH
 	db 42,HYDRO_PUMP
-	db 51,BODY_SLAM
+	db 48,BODY_SLAM
 	db 0
 
 Mon005_EvosMoves:
@@ -2452,10 +2451,10 @@ Mon005_EvosMoves:
 	db 15,LEER
 	db 24,RAGE
 	db 33,SLASH
-	db 40,FLAMETHROWER
-	db 46,DRAGON_RAGE
-	db 51,FIRE_SPIN
-	db 58,FIRE_BLAST
+	db 38,FLAMETHROWER
+	db 44,DRAGON_RAGE
+	db 49,FIRE_SPIN
+	db 55,FIRE_BLAST
 	db 0
 
 Mon008_EvosMoves:
@@ -2470,8 +2469,8 @@ Mon008_EvosMoves:
 	db 24,BITE
 	db 31,LOW_KICK
 	db 39,SKULL_BASH
-	db 47,HYDRO_PUMP
-	db 55,BODY_SLAM
+	db 45,HYDRO_PUMP
+	db 51,BODY_SLAM
 	db 0
 
 Mon006_EvosMoves:
@@ -2480,11 +2479,13 @@ Mon006_EvosMoves:
 	db 0
 ;Learnset
 	db 9,EMBER
-	db 15,LEER
-	db 24,RAGE
-	db 36,SLASH
-	db 46,FLAMETHROWER
-	db 55,FIRE_SPIN
+    db 15,LEER
+    db 24,RAGE
+    db 33,SLASH
+    db 40,FLAMETHROWER
+    db 46,DRAGON_RAGE
+    db 51,FIRE_SPIN
+    db 58,FIRE_BLAST
 	db 0
 
 Mon187_EvosMoves:
@@ -2525,8 +2526,9 @@ Mon043_EvosMoves:
 	db 17,STUN_SPORE
 	db 19,SLEEP_POWDER
 	db 24,ACID
-	db 33,PETAL_DANCE
+	db 30,PETAL_DANCE
 	db 41,SOLARBEAM
+	db 49,MEGA_DRAIN
 	db 0
 
 Mon044_EvosMoves:
@@ -2539,8 +2541,9 @@ Mon044_EvosMoves:
 	db 17,STUN_SPORE
 	db 19,SLEEP_POWDER
 	db 28,ACID
-	db 38,PETAL_DANCE
+	db 33,PETAL_DANCE
 	db 46,SOLARBEAM
+	db 55,MEGA_DRAIN
 	db 0
 
 Mon045_EvosMoves:
@@ -2569,8 +2572,9 @@ Mon069_EvosMoves:
 	db 21,STUN_SPORE
 	db 26,ACID
 	db 33,RAZOR_LEAF
-	db 42,SLAM
-	db 51,SOLARBEAM
+	db 40,SLAM
+	db 46,SOLARBEAM
+	db 52,MEGA_DRAIN
 	db 0
 
 Mon070_EvosMoves:
@@ -2580,13 +2584,14 @@ Mon070_EvosMoves:
 	db 0
 ;Learnset
 	db 13,WRAP
-	db 15,POISONPOWDER
-	db 18,SLEEP_POWDER
-	db 23,STUN_SPORE
-	db 29,ACID
-	db 38,RAZOR_LEAF
-	db 49,SLAM
-	db 56,SOLARBEAM
+    db 15,POISONPOWDER
+    db 18,SLEEP_POWDER
+    db 23,STUN_SPORE
+    db 29,ACID
+    db 35,RAZOR_LEAF
+    db 42,SLAM
+    db 49,SOLARBEAM
+    db 55,MEGA_DRAIN
 	db 0
 
 Mon071_EvosMoves:
@@ -2599,8 +2604,8 @@ Mon071_EvosMoves:
     db 18,SLEEP_POWDER
     db 23,STUN_SPORE
     db 29,ACID
-    db 38,RAZOR_LEAF
-    db 49,SLAM
-    db 56,SOLARBEAM
-    db 62,MEGA_DRAIN
+    db 35,RAZOR_LEAF
+    db 42,SLAM
+    db 49,SOLARBEAM
+    db 55,MEGA_DRAIN
 	db 0
