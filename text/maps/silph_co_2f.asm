@@ -16,13 +16,14 @@ _ReceivedTM36Text::
 
 _TM36ExplanationText::
 	text "Voici la CT36:"
-	line "DESTRUCTION!"
+	line "DETRITUS!"
 
 	para "C'est une attaque"
 	line "très puissante!"
-	cont "Mais elle mettra"
-	cont "K.O. le #MON"
-	cont "qui l'utilise!!!"
+	cont "Elle peut"
+	cont "empoisonner"
+	cont "le #MON"
+	cont "adverse!!!"
 	done
 
 _TM36NoRoomText::
