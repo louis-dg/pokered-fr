@@ -8,6 +8,6 @@ Route16Mons:
 	db 18,DODUO
 	db 22,DODUO
 	db 22,TANGELA
-	db 14,BULBASAUR
+	db 28,FEAROW
 	db 25,RATICATE
 	db $00

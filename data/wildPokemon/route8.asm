@@ -6,7 +6,7 @@ Route8Mons:
     db 16,GROWLITHE
     db 20,PIDGEY
     db 20,MEOWTH
-    db 19,EKANS
+    db 25,PIDGEOTTO
     db 17,VULPIX
     db 15,VULPIX
     db 18,GROWLITHE

@@ -1,9 +1,9 @@
 Route7Mons:
 	db $0F
     db 19,PIDGEY
-    db 19,ODDISH
+    db 25,GLOOM
     db 17,GROWLITHE
-    db 22,BELLSPROUT
+    db 25,WEEPINBELL
     db 22,PIDGEY
     db 18,MEOWTH
     db 20,VULPIX
