@@ -6,7 +6,7 @@ TunnelMonsB1:
 	db 15,MACHOP
 	db 16,GEODUDE
 	db 18,ZUBAT
-	db 15,ZUBAT
+	db 15,CHARMANDER
 	db 17,MACHOP
 	db 13,ONIX
 	db 15,ONIX

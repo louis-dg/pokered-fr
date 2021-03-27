@@ -8,6 +8,6 @@ TunnelMonsB2:
 	db 18,ONIX
 	db 17,MACHOP
 	db 15,CHARMANDER
-	db 13,CHARMANDER
+	db 13,ONIX
 	db 18,GEODUDE
 	db $00
