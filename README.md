@@ -88,7 +88,7 @@ Pour jouer au jeu, suivez les instructions du fichier INSTALL.md. Il vous permet
 
 
 - La variété des combats contre les pokémons sauvages a été augmentée :
-    * Tous les pokémons (excepté Mew) sont obtenables dans cette version.
+    * Tous les pokémons sont obtenables dans cette version. NB : Mew est accessible uniquement via le bug du croupier.
 
 
 - Les échanges internes ont été modifiés afin d'être plus intéressants.
