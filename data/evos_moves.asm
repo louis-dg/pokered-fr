@@ -1305,7 +1305,7 @@ Mon025_EvosMoves:
     db 33,THUNDERBOLT
     db 38,AGILITY
     db 44,THUNDER
-    db 50,LIGHT_SCREEN>
+    db 50,LIGHT_SCREEN
 	db 0
 
 Mon026_EvosMoves:
