@@ -69,6 +69,7 @@ Pour jouer au jeu, suivez les instructions du fichier INSTALL.md. Il vous permet
       * DESTRUCTION => augmentation de puissance de 130 à 200
       * EXPLOSION => augmentation de puissance de 170 à 250
       * JET-PIERRES => augmentation de précision de 65 à 90
+      * DANSEFLAMME => augmentation de précision de 70 à 85
 
 
 - Tous les pokémons de type vol peuvent apprendre la CS Vol.
