@@ -20,6 +20,20 @@ def buildTranslationDict(filename):
         names[parts[0].strip()] = parts[1].strip()
     return names
 
+# Build a dict to get TM and HM names. key is the number (01,...,55) value is the code name (KARATE_CHOP,...)
+def buildTMHMDict():
+    file = open('../data/tms.asm', 'r')
+    lines = file.readlines()
+    lines.pop(0)
+    tmhm = {}
+    i = 1
+    for line in lines:
+        if line.strip() != '':
+            moveName = line.replace('	db ', '').strip()
+            tmhm[i] = moveName
+            i += 1
+    return tmhm
+
 # Build the part of the documentation describing the moves and their properties
 def buildMovesDoc(movesNamesDict, typeNamesDict):
     docLines = []
@@ -48,6 +62,7 @@ def buildMovesDoc(movesNamesDict, typeNamesDict):
 
 # Build a list of all the Pokemon (see Pokemon class) and their properties
 def buildPokemonsData(pokeNamesDict):
+    # Get infos from evos_moves.asm
     movesFile = open('../data/evos_moves.asm', 'r')
     movesLines = movesFile.readlines()
 
@@ -66,7 +81,7 @@ def buildPokemonsData(pokeNamesDict):
             lines.append(line)
 
     pokemonLines.pop(0)
-    pokemons = []
+    pokemons = {}
     for pokemonData in pokemonLines:
         pokeNum = pokemonData[0][3:6]
         name = pokemonData[1].replace(';', '').strip()
@@ -88,11 +103,45 @@ def buildPokemonsData(pokeNamesDict):
             pokemon.number = pokeNum
             pokemon.name = nameFr
             pokemon.moves = moves
-            pokemons.append(pokemon)
-    return pokemons
+            pokemons[name] = pokemon
+
+    # Get infos from pokemon files (in baseStats directory)
+    baseStatsDir = '../data/baseStats/'
+    for filename in os.listdir(baseStatsDir):
+        pokemonFile = open(baseStatsDir + filename, 'r')
+        fileLines = pokemonFile.readlines()
+        index = 0
+        if not fileLines[index].startswith('db'):
+            index += 1
+        nameKey = fileLines[index].replace('db DEX_', '').replace('; pokedex id', '').strip()
+
+        pokemons[nameKey].baseHP = fileLines[index + 1].replace('db', '').replace('; base hp', '').strip()
+        pokemons[nameKey].baseAtk = fileLines[index + 2].replace('db', '').replace('; base attack', '').strip()
+        pokemons[nameKey].baseDef = fileLines[index + 3].replace('db', '').replace('; base defense', '').strip()
+        pokemons[nameKey].baseSpeed = fileLines[index + 4].replace('db', '').replace('; base speed', '').strip()
+        pokemons[nameKey].baseSpecial = fileLines[index + 5].replace('db', '').replace('; base special', '').strip()
+        pokemons[nameKey].type1 = fileLines[index + 6].replace('db', '').replace('; species type 1', '').strip()
+        pokemons[nameKey].type2 = fileLines[index + 7].replace('db', '').replace('; species type 2', '').strip()
+        pokemons[nameKey].catchRate = fileLines[index + 8].replace('db', '').replace('; catch rate', '').strip()
+        pokemons[nameKey].xpYield = fileLines[index + 9].replace('db', '').replace('; base exp yield', '').strip()
+        for ind in [14,15,16,17]:
+            moveLine = fileLines[index + ind].strip()
+            if moveLine != 'db 0':
+                pokemons[nameKey].baseMoveset.append(moveLine.replace('db ', '').strip())
+        pokemons[nameKey].growthRate = fileLines[index + 18].replace('db', '').replace('; growth rate', '').strip()
+        tms = []
+        for ind in [20,21,22,23,24,25,26]:
+            tmlearnLine = fileLines[index + ind].strip()
+            tmlearnLine = tmlearnLine.replace('tmlearn', '').strip()
+            rawTms = tmlearnLine.split(',')
+            rawTms = list(filter(('0').__ne__, rawTms)) # remove values '0'
+            tms.extend(rawTms)
+        pokemons[nameKey].learnset = tms
+
+    return list(pokemons.values())
 
 # Build the part of the documentation describing the pokemons and their properties
-def buildPokemonsDoc(pokeNamesDict, movesNamesDict):
+def buildPokemonsDoc(pokeNamesDict, movesNamesDict, tmhmDict):
     docLines = []
     docLines.append("## Propriétés des pokémons\n")
 
@@ -101,11 +150,35 @@ def buildPokemonsDoc(pokeNamesDict, movesNamesDict):
 
     for pokemon in pokemons:
         docLines.append("- " + pokemon.number + " " + pokemon.name + "\n")
+
+        docLines.append("   * Statistiques :\n\n")
+        docLines.append("     Stat | Valeur de base \n")
+        docLines.append("     --- | --- \n")
+        docLines.append("     PV | " + pokemon.baseHP + " \n")
+        docLines.append("     FOR | " + pokemon.baseAtk + " \n")
+        docLines.append("     DEF | " + pokemon.baseDef + " \n")
+        docLines.append("     VIT | " + pokemon.baseSpeed + " \n")
+        docLines.append("     SPE | " + pokemon.baseSpecial + " \n")
+        docLines.append("   * Taux de catpure : " + pokemon.catchRate + " \n\n")
+        docLines.append("   * Taux de rendement d'expérience : " + pokemon.xpYield + " \n\n")
+        docLines.append("   * Taux de croissance : " + pokemon.growthRate + " \n\n")
+        docLines.append("   * Attaques de départ :\n\n")
+        for mv in pokemon.baseMoveset:
+            docLines.append("     * " + movesNamesDict[mv] + "\n\n")
         docLines.append("   * Liste des attaques apprises :\n\n")
         docLines.append("     Attaque | Niveau \n")
         docLines.append("     --- | --- \n")
         for moveName, moveLvl in pokemon.moves.items():
             docLines.append("     " + movesNamesDict[moveName] + " | " + moveLvl + " \n")
+        docLines.append("   * Attaques accessibles via CT/CS :\n\n")
+        docLines.append("     CT/CS | Attaque \n")
+        docLines.append("     --- | --- \n")
+        for tmhm in pokemon.learnset:
+            intTMHM = int(tmhm)
+            if intTMHM < 51:
+                docLines.append("     CT" + '{:02}'.format(intTMHM) + " | " + movesNamesDict[tmhmDict[intTMHM]] + "\n")
+            else:
+                docLines.append("     CS" + '{:02}'.format(intTMHM - 50) + " | " + movesNamesDict[tmhmDict[intTMHM]] + "\n")
 
     docLines.append("\n\n")
     return docLines
@@ -118,12 +191,13 @@ def buildPokemonsDoc(pokeNamesDict, movesNamesDict):
 pokeNamesDict = buildTranslationDict('i18n/pokemon_names.csv')
 movesNamesDict = buildTranslationDict('i18n/moves_names.csv')
 typeNamesDict = buildTranslationDict('i18n/type_names.csv')
+tmhmDict = buildTMHMDict()
 
 if(os.path.isfile(DOCUMENTATION_FILE)):
     os.remove(DOCUMENTATION_FILE)
 
 docFile = open(DOCUMENTATION_FILE, 'w')
-docFile.writelines(buildPokemonsDoc(pokeNamesDict, movesNamesDict))
+docFile.writelines(buildPokemonsDoc(pokeNamesDict, movesNamesDict, tmhmDict))
 docFile.writelines(buildMovesDoc(movesNamesDict, typeNamesDict))
 docFile.close()
 
