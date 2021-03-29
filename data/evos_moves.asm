@@ -225,13 +225,14 @@ Mon032_EvosMoves:
 	db EV_LEVEL,16,NIDORINO
 	db 0
 ;Learnset
-	db 8,HORN_ATTACK
-	db 14,POISON_STING
-	db 17,DOUBLE_KICK
-	db 21,FOCUS_ENERGY
-	db 29,FURY_ATTACK
-	db 36,HORN_DRILL
-	db 43,EARTHQUAKE
+    db 8,HORN_ATTACK
+    db 14,POISON_STING
+    db 18,DOUBLE_KICK
+    db 22,FOCUS_ENERGY
+    db 27,FURY_ATTACK
+    db 33,THRASH
+    db 42,HORN_DRILL
+    db 50,EARTHQUAKE
 	db 0
 
 Mon035_EvosMoves:
@@ -285,9 +286,10 @@ Mon034_EvosMoves:
     db 8,HORN_ATTACK
     db 14,POISON_STING
     db 18,DOUBLE_KICK
-    db 23,FOCUS_ENERGY
-    db 32,THRASH
-    db 41,HORN_DRILL
+    db 22,FOCUS_ENERGY
+    db 27,FURY_ATTACK
+    db 33,THRASH
+    db 42,HORN_DRILL
     db 50,EARTHQUAKE
 	db 0
 
@@ -320,8 +322,8 @@ Mon002_EvosMoves:
 	db 34,ACID
 	db 39,GROWTH
 	db 46,SLEEP_POWDER
-	db 54,SOLARBEAM
-	db 61,BODY_SLAM
+	db 50,SOLARBEAM
+	db 55,BODY_SLAM
 	db 0
 
 Mon103_EvosMoves:
@@ -393,7 +395,6 @@ Mon094_EvosMoves:
 ;Learnset
 	db 29,HYPNOSIS
 	db 38,DREAM_EATER
-	db 46,TOXIC
 	db 0
 
 Mon029_EvosMoves:
@@ -403,14 +404,14 @@ Mon029_EvosMoves:
 	db 0
 ;Learnset
 	db 8,SCRATCH
-	db 14,POISON_STING
-	db 17,DOUBLE_KICK
-	db 21,TAIL_WHIP
-	db 29,BITE
-	db 36,FURY_SWIPES
-	db 41,TAKE_DOWN
-	db 47,FISSURE
-    db 52,BODY_SLAM
+    db 12,POISON_STING
+    db 17,DOUBLE_KICK
+    db 23,TAIL_WHIP
+    db 29,BITE
+    db 35,FURY_SWIPES
+    db 42,TAKE_DOWN
+    db 50,FISSURE
+    db 56,BODY_SLAM
 	db 0
 
 Mon031_EvosMoves:
@@ -480,12 +481,14 @@ Mon059_EvosMoves:
 ;Evolutions
 	db 0
 ;Learnset
-	db 25,BITE
-	db 30,TAKE_DOWN
-	db 36,FLAMETHROWER
-	db 41,AGILITY
-	db 55,FIRE_BLAST
-	db 62,HYPER_FANG
+	db 18,EMBER
+    db 21,LEER
+    db 25,BITE
+    db 30,TAKE_DOWN
+    db 36,FLAMETHROWER
+    db 41,AGILITY
+    db 55,FIRE_BLAST
+    db 62,HYPER_FANG
 	db 0
 
 Mon151_EvosMoves:
@@ -558,7 +561,6 @@ Mon092_EvosMoves:
 ;Learnset
 	db 27,HYPNOSIS
 	db 35,DREAM_EATER
-	db 42,TOXIC
 	db 0
 
 Mon123_EvosMoves:
@@ -781,9 +783,9 @@ Mon067_EvosMoves:
     db 31,SEISMIC_TOSS
     db 34,FOCUS_ENERGY
     db 38,MEGA_PUNCH
-    db 45,SUBMISSION
+    db 44,SUBMISSION
     db 51,DIZZY_PUNCH
-    db 61,BODY_SLAM
+    db 60,BODY_SLAM
 	db 0
 
 Mon122_EvosMoves:
@@ -824,8 +826,8 @@ Mon107_EvosMoves:
 	db 43,THUNDERPUNCH
 	db 48,MEGA_PUNCH
 	db 53,COUNTER
-	db 60,AGILITY
-	db 65,DIZZY_PUNCH
+	db 58,AGILITY
+	db 63,DIZZY_PUNCH
 	db 0
 
 Mon024_EvosMoves:
@@ -1140,7 +1142,7 @@ Mon084_EvosMoves:
 	db 36,RAGE
 	db 40,TRI_ATTACK
 	db 44,AGILITY
-	db 52,THRASH
+	db 50,THRASH
 	db 0
 
 Mon060_EvosMoves:
@@ -1275,7 +1277,7 @@ Mon037_EvosMoves:
 	db 21,BITE
 	db 26,ROAR
 	db 30,CONFUSE_RAY
-	db 34,FLAMETHROWER
+	db 36,FLAMETHROWER
 	db 42,FIRE_SPIN
 	db 0
 
@@ -1284,11 +1286,12 @@ Mon038_EvosMoves:
 ;Evolutions
 	db 0
 ;Learnset
-	db 21,BITE
-	db 26,ROAR
-	db 30,CONFUSE_RAY
-	db 36,FLAMETHROWER
-	db 42,FIRE_SPIN
+	db 16,QUICK_ATTACK
+    db 21,BITE
+    db 26,ROAR
+    db 30,CONFUSE_RAY
+    db 36,FLAMETHROWER
+    db 42,FIRE_SPIN
 	db 0
 
 Mon025_EvosMoves:
@@ -1507,12 +1510,13 @@ Mon040_EvosMoves:
 ;Evolutions
 	db 0
 ;Learnset
-	db 14,DISABLE
-	db 19,DEFENSE_CURL
-	db 24,DOUBLESLAP
-	db 29,REST
-	db 34,BODY_SLAM
-	db 39,DOUBLE_EDGE
+	db 9,POUND
+    db 14,DISABLE
+    db 19,DEFENSE_CURL
+    db 24,DOUBLESLAP
+    db 29,REST
+    db 34,BODY_SLAM
+    db 39,DOUBLE_EDGE
 	db 0
 
 Mon133_EvosMoves:
@@ -1585,7 +1589,7 @@ Mon066_EvosMoves:
     db 40,MEGA_PUNCH
 	db 46,SUBMISSION
 	db 51,DIZZY_PUNCH
-    db 60,BODY_SLAM
+    db 56,BODY_SLAM
 	db 0
 
 Mon041_EvosMoves:
@@ -1627,7 +1631,8 @@ Mon046_EvosMoves:
 	db 20,LEECH_LIFE
 	db 25,SMOKESCREEN
 	db 27,SPORE
-	db 34,SLASH
+	db 32,SLASH
+	db 36,MEGA_DRAIN
 	db 41,GROWTH
 	db 49,MIST
 	db 0
@@ -1712,7 +1717,7 @@ Mon085_EvosMoves:
 	db 35,RAGE
 	db 40,TRI_ATTACK
 	db 46,AGILITY
-	db 50,THRASH
+	db 52,THRASH
 	db 0
 
 Mon057_EvosMoves:
@@ -1823,9 +1828,9 @@ Mon068_EvosMoves:
     db 31,SEISMIC_TOSS
     db 34,FOCUS_ENERGY
     db 38,MEGA_PUNCH
-    db 45,SUBMISSION
+    db 44,SUBMISSION
     db 51,DIZZY_PUNCH
-    db 61,BODY_SLAM
+    db 60,BODY_SLAM
 	db 0
 
 Mon173_EvosMoves:
@@ -1999,10 +2004,12 @@ Mon036_EvosMoves:
 ;Evolutions
 	db 0
 ;Learnset
+    db 13,SING
+    db 18,DOUBLESLAP
     db 24,MINIMIZE
-	db 31,METRONOME
-	db 39,DEFENSE_CURL
-	db 48,LIGHT_SCREEN
+    db 31,METRONOME
+    db 39,DEFENSE_CURL
+    db 48,LIGHT_SCREEN
 	db 0
 
 Mon110_EvosMoves:
@@ -2062,7 +2069,6 @@ Mon093_EvosMoves:
 ;Learnset
 	db 29,HYPNOSIS
 	db 38,DREAM_EATER
-	db 46,TOXIC
 	db 0
 
 Mon063_EvosMoves:
@@ -2269,8 +2275,8 @@ Mon078_EvosMoves:
 	db 35,GROWL
 	db 39,FIRE_SPIN
 	db 47,TAKE_DOWN
-	db 55,AGILITY
-	db 61,FIRE_BLAST
+	db 54,AGILITY
+	db 60,FIRE_BLAST
 	db 0
 
 Mon019_EvosMoves:
@@ -2304,13 +2310,14 @@ Mon033_EvosMoves:
 	db EV_ITEM,MOON_STONE,1,NIDOKING
 	db 0
 ;Learnset
-	db 8,HORN_ATTACK
-	db 14,POISON_STING
-	db 18,DOUBLE_KICK
-	db 23,FOCUS_ENERGY
-	db 32,FURY_ATTACK
-	db 41,HORN_DRILL
-	db 47,EARTHQUAKE
+    db 8,HORN_ATTACK
+    db 14,POISON_STING
+    db 18,DOUBLE_KICK
+    db 22,FOCUS_ENERGY
+    db 27,FURY_ATTACK
+    db 33,THRASH
+    db 42,HORN_DRILL
+    db 50,EARTHQUAKE
 	db 0
 
 Mon030_EvosMoves:
@@ -2320,14 +2327,14 @@ Mon030_EvosMoves:
 	db 0
 ;Learnset
 	db 8,SCRATCH
-	db 12,POISON_STING
-	db 17,DOUBLE_KICK
-	db 23,TAIL_WHIP
-	db 29,BITE
-	db 35,FURY_SWIPES
-	db 42,TAKE_DOWN
-	db 47,FISSURE
-	db 50,BODY_SLAM
+    db 12,POISON_STING
+    db 17,DOUBLE_KICK
+    db 23,TAIL_WHIP
+    db 29,BITE
+    db 35,FURY_SWIPES
+    db 42,TAKE_DOWN
+    db 50,FISSURE
+    db 56,BODY_SLAM
 	db 0
 
 Mon074_EvosMoves:
