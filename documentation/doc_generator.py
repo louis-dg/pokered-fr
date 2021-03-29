@@ -23,7 +23,7 @@ def buildTranslationDict(filename):
 # Build the part of the documentation describing the moves and their properties
 def buildMovesDoc(movesNamesDict, typeNamesDict):
     docLines = []
-    docLines.append("##Liste des Attaques\n")
+    docLines.append("## Liste des Attaques\n")
     docLines.append("Attaque | Puissance | Précision | PP | Type\n")
     docLines.append("--- | --- | --- | --- | ---\n")
 
@@ -94,7 +94,7 @@ def buildPokemonsData(pokeNamesDict):
 # Build the part of the documentation describing the pokemons and their properties
 def buildPokemonsDoc(pokeNamesDict, movesNamesDict):
     docLines = []
-    docLines.append("##Propriétés des pokémons\n")
+    docLines.append("## Propriétés des pokémons\n")
 
     pokemons = buildPokemonsData(pokeNamesDict)
     pokemons.sort(key=lambda x: x.number, reverse=False)

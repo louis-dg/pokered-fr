@@ -1,4 +1,4 @@
-##Propriétés des pokémons
+## Propriétés des pokémons
 - 001 BULBIZARRE
    * Liste des attaques apprises :
 
@@ -1780,7 +1780,7 @@
      ULTRALASER | 100 
 
 
-##Liste des Attaques
+## Liste des Attaques
 Attaque | Puissance | Précision | PP | Type
 --- | --- | --- | --- | ---
 ABIME | 1 | 30 | 5 | SOL
