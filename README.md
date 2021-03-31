@@ -86,6 +86,9 @@ Le fichier de documentation [**documentation.md**](documentation/documentation.m
 - Les pokémons qui évoluent par échange évoluent désormais au niveau 36.
 
 
+- Les CS peuvent être oubliées
+
+
 - La variété des combats contre les dresseurs a été améliorée :
     * Les dresseurs ont plus souvent des pokémons évolués et ces derniers ont un niveau plus haut que dans la version originale.
 
