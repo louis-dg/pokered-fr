@@ -33,7 +33,7 @@ To set up the repository, see [**INSTALL.md**](INSTALL.md).
 [irc]: https://kiwiirc.com/client/irc.freenode.net/?#pret
 
 
-# Présentation : Pokémon rouge
+# Présentation : Pokémon Rouge 
 
 Ceci est un projet d'amélioration de la hack rom de Pokémon rouge.
 
@@ -43,9 +43,11 @@ Ce projet s'adresse à un public francophone, trop peu représenté dans le mond
 
 Ce projet est en cours de réalisation. Il n'est pas terminé, néanmoins, le jeu est jouable. Voyez la liste des modifications pour plus d'informations.
 
-Pour jouer au jeu, suivez les instructions du fichier INSTALL.md. Il vous permettra de créer le fichier pokered.gbc qu'il faudra utiliser avec votre émulateur de prédilection. Dans ce projet la version bleu n'est pas gérée. Il est donc inutile d'utiliser le fichier pokeblue.gbc.
+Pour construire le fichier .gbc, suivez les instructions du fichier INSTALL.md. Dans ce projet la version bleu n'est pas gérée. Il est donc inutile d'utiliser le fichier pokeblue.gbc.
 
 Le fichier de documentation [**documentation.md**](documentation/documentation.md) fournit des informations sur les propriétés du jeu incluant les modifications effectuées pour cette hack rom.
+
+**Pour jouer au jeu, téléchargez le fichier pokered.gbc se trouvant dans la release de ce projet** (https://github.com/LePatator/pokered-fr/releases/tag/stable) et utilisez-le avec votre émulateur de prédilection.
 
 # Liste des Modifications
 
@@ -60,18 +62,17 @@ Le fichier de documentation [**documentation.md**](documentation/documentation.m
     * Les caractéristiques de certaines attaques ont été modifiées :
       * POING-KARATE => type combat au lieu de normal
       * TORNADE => type vol au lieu de normal
-      * COUPE-VENT => type vol au lieu de normal + augmentation de puissance de à 80 à 130 et précision de 75 à 95
+      * COUPE-VENT => type vol au lieu de normal, augmentation de puissance de à 80 à 130 et précision de 75 à 95
       * CRU-AILE -> augmentation de puissance de 35 à 60
       * SACRIFICE => augmentation de puissance de 80 à 100
       * BALAYAGE => augmentation de puissance de 50 à 60
       * MAWASHI GERI => augmentation de puissance de 60 à 65
-      * DANSEFLAMME => augmentation de puissance de 15 à 20
+      * DANSEFLAMME => augmentation de puissance de 15 à 20 et de précision de 70 à 85
       * DARD-NUEE => augmentation de puissance de 15 à 20
       * COUD'KRANE => augmentation de puissance de 100 à 120
       * DESTRUCTION => augmentation de puissance de 130 à 200
       * EXPLOSION => augmentation de puissance de 170 à 250
       * JET-PIERRES => augmentation de précision de 65 à 90
-      * DANSEFLAMME => augmentation de précision de 70 à 85
 
 
 - Tous les pokémons de type vol peuvent apprendre la CS Vol.
@@ -79,8 +80,8 @@ Le fichier de documentation [**documentation.md**](documentation/documentation.m
 
 
 - Certains niveaux d'évolution ont été diminués :
-    * Draco : évolue au niveau 45 à la place de 55. 
-    * Rhinocorne : évolue au niveau 37 à la place de 42.
+    * Draco évolue au niveau 45 à la place de 55. 
+    * Rhinocorne évolue au niveau 37 à la place de 42.
 
 
 - Les pokémons qui évoluent par échange évoluent désormais au niveau 36.
