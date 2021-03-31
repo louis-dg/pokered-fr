@@ -141,11 +141,10 @@ def buildPokemonsData(pokeNamesDict):
     return list(pokemons.values())
 
 # Build the part of the documentation describing the pokemons and their properties
-def buildPokemonsDoc(pokeNamesDict, movesNamesDict, tmhmDict):
+def buildPokemonsDoc(movesNamesDict, tmhmDict, pokemons):
     docLines = []
     docLines.append("## Propriétés des pokémons\n")
 
-    pokemons = buildPokemonsData(pokeNamesDict)
     pokemons.sort(key=lambda x: x.number, reverse=False)
 
     for pokemon in pokemons:
@@ -192,12 +191,13 @@ pokeNamesDict = buildTranslationDict('i18n/pokemon_names.csv')
 movesNamesDict = buildTranslationDict('i18n/moves_names.csv')
 typeNamesDict = buildTranslationDict('i18n/type_names.csv')
 tmhmDict = buildTMHMDict()
+pokemons = buildPokemonsData(pokeNamesDict)
 
 if(os.path.isfile(DOCUMENTATION_FILE)):
     os.remove(DOCUMENTATION_FILE)
 
 docFile = open(DOCUMENTATION_FILE, 'w')
-docFile.writelines(buildPokemonsDoc(pokeNamesDict, movesNamesDict, tmhmDict))
+docFile.writelines(buildPokemonsDoc(movesNamesDict, tmhmDict, pokemons))
 docFile.writelines(buildMovesDoc(movesNamesDict, typeNamesDict))
 docFile.close()
 
