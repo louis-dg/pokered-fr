@@ -2031,7 +2031,7 @@ IsMoveHM::
 	jp IsInArray
 
 HMMoves::
-	db CUT,FLY,SURF,STRENGTH,FLASH
+	db 0
 	db $ff ; terminator
 
 GetMoveName::
