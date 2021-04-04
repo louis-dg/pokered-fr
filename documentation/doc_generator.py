@@ -38,7 +38,7 @@ def buildTMHMDict():
 # Build the part of the documentation describing the moves and their properties
 def buildMovesDoc(movesNamesDict, typeNamesDict):
     docLines = []
-    docLines.append("## Liste des Attaques\n")
+    docLines.append("## II. Liste des Attaques\n")
     docLines.append("Attaque | Puissance | Précision | PP | Type\n")
     docLines.append("--- | --- | --- | --- | ---\n")
 
@@ -144,7 +144,7 @@ def buildPokemonsData(pokeNamesDict):
 # Build the part of the documentation describing the pokemons and their properties
 def buildPokemonsDoc(movesNamesDict, tmhmDict, pokemons):
     docLines = []
-    docLines.append("## Propriétés des pokémons\n")
+    docLines.append("## I. Propriétés des pokémons\n")
 
     pokemons.sort(key=lambda x: x.number, reverse=False)
 
@@ -208,7 +208,7 @@ def buildWildPokemonsData():
 # Build the part of the documentation describing the regions and wild pokemons appearing in it
 def buildZonesDoc(pokeNamesDict, zoneNamesDict, wildPokemonZones):
     docLines = []
-    docLines.append("## Description des régions\n\n")
+    docLines.append("## III. Description des régions\n\n")
     docLines.append("Le taux d'apparition d'un pokémon à un niveau donné est toujours de 10%. "
                     + "Donc plus un pokémon apparaît avec des niveaux différents, "
                     + "plus il est probable de le rencontrer aléatoirement.\n\n")
@@ -242,6 +242,13 @@ if(os.path.isfile(DOCUMENTATION_FILE)):
     os.remove(DOCUMENTATION_FILE)
 
 docFile = open(DOCUMENTATION_FILE, 'w')
+docFile.write("# Pokémon Rouge\n\n")
+docFile.write("Ceci est la documentation associée à la hack rom Pokémon Rouge créée par LePatator.\n\n")
+docFile.write("Page du projet : https://github.com/LePatator/pokered-fr\n\n")
+docFile.write("## Sommaire\n\n")
+docFile.write("- I. Propriétés des pokémons\n\n")
+docFile.write("- II. Liste des Attaques\n\n")
+docFile.write("- III. Description des régions\n\n")
 docFile.writelines(buildPokemonsDoc(movesNamesDict, tmhmDict, pokemons))
 docFile.writelines(buildMovesDoc(movesNamesDict, typeNamesDict))
 docFile.writelines(buildZonesDoc(pokeNamesDict, zoneNamesDict, wildPokemonDict))
