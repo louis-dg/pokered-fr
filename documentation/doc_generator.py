@@ -1,6 +1,7 @@
 import os
 
 from documentation.Pokemon import Pokemon
+from documentation.WildPokemonZone import WildPokemonZone
 
 '''
 This script is meant to create a documentation file in Markdown format
@@ -182,7 +183,49 @@ def buildPokemonsDoc(movesNamesDict, tmhmDict, pokemons):
     docLines.append("\n\n")
     return docLines
 
+# build a dict associating each zone with its properties (see WildPokemonZone.py)
+def buildWildPokemonsData():
+    zones = []
 
+    wildPokemonDir = '../data/wildPokemon/'
+    for filename in os.listdir(wildPokemonDir):
+        file = open(wildPokemonDir + filename, 'r')
+        lines = file.readlines()
+        zone = os.path.splitext(filename)[0]
+        if zone != 'nomons':
+            wildPokeZone = WildPokemonZone(zone)
+            for line in lines:
+                if ',' in line:
+                    line = line.strip()
+                    line = line[3:] # remove 'db '
+                    lvlAndName = line.split(',')
+                    lvl = lvlAndName[0].strip()
+                    name = lvlAndName[1].strip()
+                    wildPokeZone.addWildPokemon(name, lvl)
+            zones.append(wildPokeZone)
+    return zones
+
+# Build the part of the documentation describing the regions and wild pokemons appearing in it
+def buildZonesDoc(pokeNamesDict, zoneNamesDict, wildPokemonZones):
+    docLines = []
+    docLines.append("## Description des régions\n\n")
+    docLines.append("Le taux d'apparition d'un pokémon à un niveau donné est toujours de 10%. "
+                    + "Donc plus un pokémon apparaît avec des niveaux différents, "
+                    + "plus il est probable de le rencontrer aléatoirement.\n\n")
+
+    wildPokemonZones.sort(key=lambda x: x.name, reverse=False)
+    for zone in wildPokemonZones:
+        docLines.append("- " + zoneNamesDict[zone.name] + "\n\n")
+        wildPokeDict = zone.wildPokemons
+        if len(wildPokeDict) == 0:
+            docLines.append("    * Pas de pokémon sauvage\n\n\n")
+        else:
+            docLines.append("     Pokémon | Niveau(x) \n")
+            docLines.append("     --- | --- \n")
+            for wildPokemon, levels in wildPokeDict.items():
+                docLines.append("     " + pokeNamesDict[wildPokemon] + " | " + ', '.join(levels) + "\n")
+
+    return docLines
 
 ############################################
 #         MAIN
@@ -190,8 +233,10 @@ def buildPokemonsDoc(movesNamesDict, tmhmDict, pokemons):
 pokeNamesDict = buildTranslationDict('i18n/pokemon_names.csv')
 movesNamesDict = buildTranslationDict('i18n/moves_names.csv')
 typeNamesDict = buildTranslationDict('i18n/type_names.csv')
+zoneNamesDict = buildTranslationDict('i18n/zone_names.csv')
 tmhmDict = buildTMHMDict()
 pokemons = buildPokemonsData(pokeNamesDict)
+wildPokemonDict = buildWildPokemonsData()
 
 if(os.path.isfile(DOCUMENTATION_FILE)):
     os.remove(DOCUMENTATION_FILE)
@@ -199,6 +244,7 @@ if(os.path.isfile(DOCUMENTATION_FILE)):
 docFile = open(DOCUMENTATION_FILE, 'w')
 docFile.writelines(buildPokemonsDoc(movesNamesDict, tmhmDict, pokemons))
 docFile.writelines(buildMovesDoc(movesNamesDict, typeNamesDict))
+docFile.writelines(buildZonesDoc(pokeNamesDict, zoneNamesDict, wildPokemonDict))
 docFile.close()
 
 print("Documentation generated. See documentation.md file.")
