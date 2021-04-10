@@ -45,13 +45,13 @@ Pour construire le fichier .gbc, suivez les instructions du fichier INSTALL.md. 
 
 Le fichier de documentation [**documentation.md**](documentation/documentation.md) fournit des informations sur les propriétés du jeu incluant les modifications effectuées pour cette hack rom.
 
-**Pour jouer au jeu, téléchargez le fichier pokered.gbc se trouvant dans la release de ce projet** (https://github.com/LePatator/pokered-fr/releases/tag/stable) et utilisez-le avec votre émulateur de prédilection.
+**Pour jouer au jeu, téléchargez le fichier pokered.gbc se trouvant dans la release de ce projet** -> [Release](https://github.com/LePatator/pokered-fr/releases/tag/stable) <- et utilisez-le avec votre émulateur de prédilection.
 
 # Liste des Modifications
 
 - Améliorations des attaques
     * Les attaques apprises par montée de niveau ont été retravaillées : elles sont plus nombreuses et plus intéressantes.
-    * Les pokémons évoluant par pierre (pierre eau, pierre feu, etc.) apprennent aussi les attaques comme leur pré-évolution. Ainsi, vous pouvez faire évoluer votre pikachu en raichu au niveau qui vous plaira car il apprendra ses attaques au même niveau que pikachu. Le but est de ne pas contraindre le joueur à attendre un certain niveau avant de pouvoir utiliser une pierre d'évolution.
+    * Les pokémons évoluant par pierre (pierre eau, pierre feu, etc.) apprennent aussi les attaques comme leur pré-évolution. Ainsi, vous pouvez faire évoluer votre pikachu en raichu au niveau qui vous plaira car ce dernier apprendra ses attaques au même niveau que pikachu. Le but est de ne pas contraindre le joueur à attendre un certain niveau avant de pouvoir utiliser une pierre d'évolution.
     * Les CT ont été légèrement modifiés
       * CT36 est DETRITUS à la place de DESTRUCTION
       * CT30 est COUD'BOULE à la place de TELEPORT
