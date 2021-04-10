@@ -39,6 +39,7 @@ def buildTMHMDict():
 def buildMovesDoc(movesNamesDict, typeNamesDict, effectsDescriptionDict):
     docLines = []
     docLines.append("## II. Liste des Attaques\n")
+    docLines.append("NB : Une attaque de type glace ne peut pas geler un pokémon de type de glace, Plaquage ne peut pas paralyser un pokémon de type normal, etc.\n\n")
     docLines.append("Attaque | Puissance | Précision | PP | Type | Description\n")
     docLines.append("--- | --- | --- | --- | --- | ---\n")
 
@@ -146,6 +147,10 @@ def buildPokemonsData(pokeNamesDict):
 def buildPokemonsDoc(movesNamesDict, tmhmDict, pokemons):
     docLines = []
     docLines.append("## I. Propriétés des pokémons\n")
+
+    docLines.append("- Taux de catpure : Plus cette valeur est petite, plus le pokémon est difficile à attraper.\n\n")
+    docLines.append("- Taux de rendement d'expérience : Plus cette valeur est grande, plus le pokémon donne des points d'expérience lorsqu'il est battu.\n\n")
+    docLines.append("- Taux de croissance : Plus cette valeur est grande, plus le pokémon nécessite de points d'expérience pour passer des niveaux.\n\n\n")
 
     pokemons.sort(key=lambda x: x.number, reverse=False)
 

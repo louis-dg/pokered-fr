@@ -13,6 +13,13 @@ Page du projet : https://github.com/LePatator/pokered-fr
 - III. Description des régions
 
 ## I. Propriétés des pokémons
+- Taux de catpure : Plus cette valeur est petite, plus le pokémon est difficile à attraper.
+
+- Taux de rendement d'expérience : Plus cette valeur est grande, plus le pokémon donne des points d'expérience lorsqu'il est battu.
+
+- Taux de croissance : Plus cette valeur est grande, plus le pokémon nécessite de points d'expérience pour passer des niveaux.
+
+
 - 001 BULBIZARRE
    * Statistiques :
 
@@ -8679,6 +8686,8 @@ Page du projet : https://github.com/LePatator/pokered-fr
 
 
 ## II. Liste des Attaques
+NB : Une attaque de type glace ne peut pas geler un pokémon de type de glace, Plaquage ne peut pas paralyser un pokémon de type normal, etc.
+
 Attaque | Puissance | Précision | PP | Type | Description
 --- | --- | --- | --- | --- | ---
 ABIME | 1 | 30 | 5 | SOL | KO en un coup
