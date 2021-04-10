@@ -36,11 +36,11 @@ def buildTMHMDict():
     return tmhm
 
 # Build the part of the documentation describing the moves and their properties
-def buildMovesDoc(movesNamesDict, typeNamesDict):
+def buildMovesDoc(movesNamesDict, typeNamesDict, effectsDescriptionDict):
     docLines = []
     docLines.append("## II. Liste des Attaques\n")
-    docLines.append("Attaque | Puissance | Précision | PP | Type\n")
-    docLines.append("--- | --- | --- | --- | ---\n")
+    docLines.append("Attaque | Puissance | Précision | PP | Type | Description\n")
+    docLines.append("--- | --- | --- | --- | --- | ---\n")
 
     tmFile = open('../data/moves.asm', 'r')
     tmLines = tmFile.readlines()
@@ -49,11 +49,12 @@ def buildMovesDoc(movesNamesDict, typeNamesDict):
         if line.startswith('	move'):
             parts = line[5:].split(",")
             move = movesNamesDict[parts[0].strip()]
+            description = effectsDescriptionDict[parts[1].strip()]
             power = parts[2].strip()
             type = typeNamesDict[parts[3].strip()]
             precision = parts[4].strip()
             pp = parts[5].strip()
-            moveLines.append(move + " | " + power + " | " + precision + " | " + pp + " | " + type + "\n")
+            moveLines.append(move + " | " + power + " | " + precision + " | " + pp + " | " + type + " | " + description + "\n")
 
     moveLines.sort()
     for v in moveLines:
@@ -234,6 +235,7 @@ pokeNamesDict = buildTranslationDict('i18n/pokemon_names.csv')
 movesNamesDict = buildTranslationDict('i18n/moves_names.csv')
 typeNamesDict = buildTranslationDict('i18n/type_names.csv')
 zoneNamesDict = buildTranslationDict('i18n/zone_names.csv')
+effectsDescriptionDict = buildTranslationDict('i18n/effects_description.csv')
 tmhmDict = buildTMHMDict()
 pokemons = buildPokemonsData(pokeNamesDict)
 wildPokemonDict = buildWildPokemonsData()
@@ -250,7 +252,7 @@ docFile.write("- I. Propriétés des pokémons\n\n")
 docFile.write("- II. Liste des Attaques\n\n")
 docFile.write("- III. Description des régions\n\n")
 docFile.writelines(buildPokemonsDoc(movesNamesDict, tmhmDict, pokemons))
-docFile.writelines(buildMovesDoc(movesNamesDict, typeNamesDict))
+docFile.writelines(buildMovesDoc(movesNamesDict, typeNamesDict, effectsDescriptionDict))
 docFile.writelines(buildZonesDoc(pokeNamesDict, zoneNamesDict, wildPokemonDict))
 docFile.close()
 

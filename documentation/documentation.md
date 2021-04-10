@@ -1,4 +1,18 @@
-## Propriétés des pokémons
+# Pokémon Rouge
+
+Ceci est la documentation associée à la hack rom Pokémon Rouge créée par LePatator.
+
+Page du projet : https://github.com/LePatator/pokered-fr
+
+## Sommaire
+
+- I. Propriétés des pokémons
+
+- II. Liste des Attaques
+
+- III. Description des régions
+
+## I. Propriétés des pokémons
 - 001 BULBIZARRE
    * Statistiques :
 
@@ -263,7 +277,7 @@
      FLAMMECHE | 9 
      GROZ'YEUX | 15 
      FRENESIE | 24 
-     TRANCHE | 33 
+     TRANCHE | 32 
      LANCE-FLAMME | 38 
      DRACO-RAGE | 44 
      DANSEFLAMME | 49 
@@ -330,7 +344,7 @@
      FLAMMECHE | 9 
      GROZ'YEUX | 15 
      FRENESIE | 24 
-     TRANCHE | 33 
+     TRANCHE | 32 
      LANCE-FLAMME | 40 
      DRACO-RAGE | 46 
      DANSEFLAMME | 51 
@@ -645,13 +659,13 @@
 
      Attaque | Niveau 
      --- | --- 
-     CHOC MENTAL | 12 
-     POUDRE TOXIK | 15 
-     PARA-SPORE | 16 
-     POUDRE DODO | 17 
-     ULTRASON | 21 
-     CYCLONE | 26 
-     RAFALE PSY | 32 
+     CHOC MENTAL | 11 
+     POUDRE TOXIK | 14 
+     PARA-SPORE | 15 
+     POUDRE DODO | 16 
+     ULTRASON | 20 
+     CYCLONE | 25 
+     RAFALE PSY | 31 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque 
@@ -755,14 +769,14 @@
 
      Attaque | Niveau 
      --- | --- 
-     FURIE | 12 
-     PUISSANCE | 16 
-     DOUBLE-DARD | 20 
-     FRENESIE | 25 
-     DARD-NUEE | 30 
-     HATE | 35 
-     REFLET | 40 
-     CRU-AILE | 45 
+     FURIE | 11 
+     PUISSANCE | 15 
+     DOUBLE-DARD | 19 
+     FRENESIE | 24 
+     DARD-NUEE | 29 
+     HATE | 34 
+     REFLET | 39 
+     CRU-AILE | 44 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque 
@@ -3333,8 +3347,8 @@
 
      Attaque | Niveau 
      --- | --- 
-     HYPNOSE | 16 
-     PISTOLET A O | 19 
+     PISTOLET A O | 16 
+     HYPNOSE | 19 
      TORGNOLES | 25 
      PLAQUAGE | 31 
      AMNESIE | 38 
@@ -3390,8 +3404,8 @@
 
      Attaque | Niveau 
      --- | --- 
-     HYPNOSE | 16 
-     PISTOLET A O | 19 
+     PISTOLET A O | 16 
+     HYPNOSE | 19 
      TORGNOLES | 24 
      POING-KARATE | 29 
      PLAQUAGE | 34 
@@ -3460,8 +3474,8 @@
 
      Attaque | Niveau 
      --- | --- 
-     HYPNOSE | 16 
-     PISTOLET A O | 19 
+     PISTOLET A O | 16 
+     HYPNOSE | 19 
      TORGNOLES | 24 
      POING-KARATE | 29 
      PLAQUAGE | 34 
@@ -3703,12 +3717,14 @@
 
      Attaque | Niveau 
      --- | --- 
+     GROZ'YEUX | 10 
+     POING COMETE | 15 
      BALAYAGE | 20 
-     GROZ'YEUX | 25 
+     DOUBLE PIED | 25 
      FRAPPE ATLAS | 30 
      PUISSANCE | 34 
-     ULTIMAPOING | 40 
-     SACRIFICE | 46 
+     ULTIMAPOING | 38 
+     SACRIFICE | 44 
      UPPERCUT | 51 
      PLAQUAGE | 56 
    * Attaques accessibles via CT/CS :
@@ -3766,12 +3782,14 @@
 
      Attaque | Niveau 
      --- | --- 
+     GROZ'YEUX | 10 
+     POING COMETE | 15 
      BALAYAGE | 20 
-     GROZ'YEUX | 25 
+     DOUBLE PIED | 25 
      FRAPPE ATLAS | 31 
      PUISSANCE | 34 
      ULTIMAPOING | 38 
-     SACRIFICE | 44 
+     SACRIFICE | 45 
      UPPERCUT | 51 
      PLAQUAGE | 60 
    * Attaques accessibles via CT/CS :
@@ -3829,12 +3847,14 @@
 
      Attaque | Niveau 
      --- | --- 
+     GROZ'YEUX | 10 
+     POING COMETE | 15 
      BALAYAGE | 20 
-     GROZ'YEUX | 25 
+     DOUBLE PIED | 25 
      FRAPPE ATLAS | 31 
      PUISSANCE | 34 
      ULTIMAPOING | 38 
-     SACRIFICE | 44 
+     SACRIFICE | 45 
      UPPERCUT | 51 
      PLAQUAGE | 60 
    * Attaques accessibles via CT/CS :
@@ -8658,171 +8678,745 @@
      CS05 | FLASH
 
 
-## Liste des Attaques
-Attaque | Puissance | Précision | PP | Type
---- | --- | --- | --- | ---
-ABIME | 1 | 30 | 5 | SOL
-ACIDARMURE | 0 | 100 | 40 | POISON
-ACIDE | 40 | 100 | 30 | POISON
-ADAPTATION | 0 | 100 | 30 | NORMAL
-AFFUTAGE | 0 | 100 | 30 | NORMAL
-AMNESIE | 0 | 100 | 20 | PSY
-ARMURE | 0 | 100 | 30 | NORMAL
-BALAYAGE | 60 | 90 | 20 | COMBAT
-BEC VRILLE | 80 | 100 | 20 | VOL
-BELIER | 90 | 85 | 20 | NORMAL
-BERCEUSE | 0 | 55 | 15 | NORMAL
-BLIZZARD | 120 | 90 | 5 | GLACE
-BOMB'OEUF | 100 | 75 | 10 | NORMAL
-BOUCLIER | 0 | 100 | 30 | PSY
-BOUL'ARMURE | 0 | 100 | 40 | NORMAL
-BROUILLARD | 0 | 100 | 20 | NORMAL
-BRUME | 0 | 100 | 30 | GLACE
-BUEE NOIRE | 0 | 100 | 30 | GLACE
-BULLES D'O | 65 | 100 | 20 | EAU
-CAGE-ECLAIR | 0 | 100 | 20 | ELECTRIK
-CASCADE | 80 | 100 | 15 | EAU
-CHARGE | 35 | 95 | 35 | NORMAL
-CHOC MENTAL | 50 | 100 | 25 | PSY
-CLAQUOIR | 35 | 75 | 10 | EAU
-CLONAGE | 0 | 100 | 10 | NORMAL
-COMBO-GRIFFE | 18 | 80 | 15 | NORMAL
-CONSTRICTION | 10 | 100 | 35 | NORMAL
-COPIE | 0 | 100 | 10 | NORMAL
-COUD'KRANE | 120 | 100 | 15 | NORMAL
-COUP D'BOULE | 70 | 100 | 15 | NORMAL
-COUPE | 50 | 95 | 30 | NORMAL
-COUPE-VENT | 130 | 95 | 10 | VOL
-CROC DE MORT | 80 | 90 | 15 | NORMAL
-CROC FATAL | 1 | 90 | 10 | NORMAL
-CROISSANCE | 0 | 100 | 40 | NORMAL
-CRU-AILE | 60 | 100 | 35 | VOL
-CYCLONE | 0 | 85 | 20 | NORMAL
-DAMOCLES | 100 | 100 | 15 | NORMAL
-DANSE-FLEUR | 70 | 100 | 20 | PLANTE
-DANSE-LAMES | 0 | 100 | 30 | NORMAL
-DANSEFLAMME | 20 | 85 | 15 | FEU
-DARD-NUEE | 20 | 85 | 20 | INSECTE
-DARD-VENIN | 15 | 100 | 35 | POISON
-DEFLAGRATION | 120 | 85 | 5 | FEU
-DESTRUCTION | 200 | 100 | 5 | NORMAL
-DETRITUS | 65 | 100 | 20 | POISON
-DEVOREVE | 100 | 100 | 15 | PSY
-DOUBLE PIED | 30 | 100 | 30 | COMBAT
-DOUBLE-DARD | 25 | 100 | 20 | INSECTE
-DRACO-RAGE | 1 | 100 | 10 | DRAGON
-E-COQUE | 0 | 100 | 10 | NORMAL
-EBOULEMENT | 75 | 90 | 10 | ROCHE
-ECLAIR | 40 | 100 | 30 | ELECTRIK
-ECRAS'FACE | 40 | 100 | 35 | NORMAL
-ECRASEMENT | 65 | 100 | 20 | NORMAL
-ECUME | 20 | 100 | 30 | EAU
-EMPAL'KORNE | 1 | 30 | 5 | NORMAL
-ENTRAVE | 0 | 55 | 20 | NORMAL
-ETREINTE | 15 | 75 | 20 | NORMAL
-EXPLOSION | 250 | 100 | 5 | NORMAL
-FATAL-FOUDRE | 120 | 70 | 10 | ELECTRIK
-FLAMMECHE | 40 | 100 | 25 | FEU
-FLASH | 0 | 70 | 20 | NORMAL
-FORCE POIGNE | 55 | 100 | 30 | NORMAL
-FORCE | 80 | 100 | 15 | NORMAL
-FOUET LIANES | 35 | 100 | 10 | PLANTE
-FRAPPE ATLAS | 1 | 100 | 20 | COMBAT
-FRENESIE | 20 | 100 | 20 | NORMAL
-FURIE | 15 | 85 | 20 | NORMAL
-GAZ TOXIK | 0 | 55 | 40 | POISON
-GRIFFE | 40 | 100 | 35 | NORMAL
-GRINCEMENT | 0 | 85 | 40 | NORMAL
-GROBISOU | 0 | 75 | 10 | NORMAL
-GROZ'YEUX | 0 | 100 | 30 | NORMAL
-GUILLOTINE | 1 | 30 | 5 | NORMAL
-HATE | 0 | 100 | 30 | PSY
-HURLEMENT | 0 | 100 | 20 | NORMAL
-HYDROCANON | 120 | 80 | 5 | EAU
-HYPNOSE | 0 | 60 | 20 | PSY
-INTIMIDATION | 0 | 75 | 30 | NORMAL
-JACKPOT | 40 | 100 | 20 | NORMAL
-JET DE SABLE | 0 | 100 | 15 | NORMAL
-JET-PIERRES | 50 | 90 | 15 | ROCHE
-KOUD'KORNE | 65 | 100 | 25 | NORMAL
-LANCE-FLAMME | 95 | 100 | 15 | FEU
-LANCE-SOLEIL | 120 | 100 | 10 | PLANTE
-LASER GLACE | 95 | 100 | 10 | GLACE
-LECHOUILLE | 20 | 100 | 30 | SPECTRE
-LIGOTAGE | 15 | 85 | 20 | NORMAL
-LILLIPUT | 0 | 100 | 20 | NORMAL
-LUTTE | 50 | 100 | 10 | NORMAL
-MANIA | 90 | 100 | 20 | NORMAL
-MASSD'OS | 65 | 85 | 20 | SOL
-MAWASHI GERI | 65 | 85 | 15 | COMBAT
-MEGA-SANGSUE | 40 | 100 | 10 | PLANTE
-METEORES | 60 | 100 | 20 | NORMAL
-METRONOME | 0 | 100 | 10 | NORMAL
-MIMI-QUEUE | 0 | 100 | 30 | NORMAL
-MIMIQUE | 0 | 100 | 20 | VOL
-MORPHING | 0 | 100 | 10 | NORMAL
-MORSURE | 60 | 100 | 25 | NORMAL
-MUR LUMIERE | 0 | 100 | 30 | PSY
-ONDE BOREALE | 65 | 100 | 20 | GLACE
-ONDE FOLIE | 0 | 100 | 10 | SPECTRE
-OSMERANG | 50 | 90 | 10 | SOL
-PARA-SPORE | 0 | 75 | 30 | PLANTE
-PATIENCE | 0 | 100 | 10 | NORMAL
-PICANON | 20 | 100 | 15 | NORMAL
-PICPIC | 35 | 100 | 35 | VOL
-PIED SAUTE | 70 | 95 | 25 | COMBAT
-PIED VOLTIGE | 85 | 90 | 20 | COMBAT
-PILONNAGE | 15 | 85 | 20 | NORMAL
-PINCE-MASSE | 90 | 85 | 10 | EAU
-PIQUE | 140 | 90 | 5 | VOL
-PISTOLET A O | 40 | 100 | 25 | EAU
-PLAQUAGE | 85 | 100 | 15 | NORMAL
-POING COMETE | 18 | 85 | 15 | NORMAL
-POING DE FEU | 75 | 100 | 15 | FEU
-POING-ECLAIR | 75 | 100 | 15 | ELECTRIK
-POING-KARATE | 50 | 100 | 25 | COMBAT
-POINGLACE | 75 | 100 | 15 | GLACE
-POUDRE DODO | 0 | 75 | 15 | PLANTE
-POUDRE TOXIK | 0 | 75 | 35 | POISON
-PROTECTION | 0 | 100 | 20 | PSY
-PSYKO | 90 | 100 | 10 | PSY
-PUISSANCE | 0 | 100 | 30 | NORMAL
-PUREDPOIS | 20 | 70 | 20 | POISON
-RAFALE PSY | 65 | 100 | 20 | PSY
-REFLET | 0 | 100 | 15 | NORMAL
-REPLI | 0 | 100 | 40 | EAU
-REPOS | 0 | 100 | 10 | PSY
-RIPOSTE | 1 | 100 | 20 | COMBAT
-RUGISSEMENT | 0 | 100 | 40 | NORMAL
-SACRIFICE | 100 | 80 | 25 | COMBAT
-SECRETION | 0 | 95 | 40 | INSECTE
-SEISME | 100 | 100 | 10 | SOL
-SOIN | 0 | 100 | 20 | NORMAL
-SONICBOOM | 1 | 90 | 20 | NORMAL
-SOUPLESSE | 80 | 75 | 20 | NORMAL
-SPORE | 0 | 100 | 15 | PLANTE
-SURF | 95 | 100 | 15 | EAU
-TELEKINESIE | 0 | 80 | 15 | PSY
-TELEPORT | 0 | 100 | 20 | PSY
-TENEBRES | 0 | 100 | 15 | SPECTRE
-TONNERRE | 95 | 100 | 15 | ELECTRIK
-TORGNOLES | 15 | 85 | 10 | NORMAL
-TORNADE | 40 | 100 | 35 | VOL
-TOXIK | 0 | 85 | 10 | POISON
-TRANCH'HERBE | 55 | 95 | 25 | PLANTE
-TRANCHE | 70 | 100 | 20 | NORMAL
-TREMPETTE | 0 | 100 | 40 | NORMAL
-TRIPLATTAQUE | 80 | 100 | 10 | NORMAL
-TUNNEL | 100 | 100 | 10 | SOL
-ULTIMAPOING | 80 | 85 | 20 | NORMAL
-ULTIMAWASHI | 120 | 75 | 5 | NORMAL
-ULTRALASER | 150 | 90 | 5 | NORMAL
-ULTRASON | 0 | 55 | 20 | NORMAL
-UPPERCUT | 70 | 100 | 10 | NORMAL
-VAGUE PSY | 1 | 80 | 15 | PSY
-VAMPIGRAINE | 0 | 90 | 10 | PLANTE
-VAMPIRISME | 20 | 100 | 15 | INSECTE
-VIVE-ATTAQUE | 40 | 100 | 30 | NORMAL
-VOL | 70 | 95 | 15 | VOL
-VOL-VIE | 20 | 100 | 20 | PLANTE
-YOGA | 0 | 100 | 40 | PSY
+## II. Liste des Attaques
+Attaque | Puissance | Précision | PP | Type | Description
+--- | --- | --- | --- | --- | ---
+ABIME | 1 | 30 | 5 | SOL | KO en un coup
+ACIDARMURE | 0 | 100 | 40 | POISON | Augmente la statistique de défense de deux paliers
+ACIDE | 40 | 100 | 30 | POISON | Inflige des dégâts et a 10% de diminuer la statistique de défense d'un palier
+ADAPTATION | 0 | 100 | 30 | NORMAL | Change le type de l'utilisateur pour le remplacer par celui de son adversaire
+AFFUTAGE | 0 | 100 | 30 | NORMAL | Augmente la statistique d'attaque d'un palier
+AMNESIE | 0 | 100 | 20 | PSY | Augmente la statistique de spécial de deux paliers
+ARMURE | 0 | 100 | 30 | NORMAL | Augmente la statistique de défense d'un palier
+BALAYAGE | 60 | 90 | 20 | COMBAT | 30% de chances d'apeurer la cible
+BEC VRILLE | 80 | 100 | 20 | VOL | Pas d'effet supplémentaire
+BELIER | 90 | 85 | 20 | NORMAL | Le lanceur subit des dégâts de recul
+BERCEUSE | 0 | 55 | 15 | NORMAL | Endort l'adversaire
+BLIZZARD | 120 | 90 | 5 | GLACE | 10% de chances de geler la cible
+BOMB'OEUF | 100 | 75 | 10 | NORMAL | Pas d'effet supplémentaire
+BOUCLIER | 0 | 100 | 30 | PSY | Augmente la statistique de défense de deux paliers
+BOUL'ARMURE | 0 | 100 | 40 | NORMAL | Augmente la statistique de défense d'un palier
+BROUILLARD | 0 | 100 | 20 | NORMAL | Diminue la statistique de précision d'un palier
+BRUME | 0 | 100 | 30 | GLACE | Bloque les modifications de statistiques tentées par l'adversaire
+BUEE NOIRE | 0 | 100 | 30 | GLACE | Annule tout changement de statistique des Pokémon présents sur le terrain
+BULLES D'O | 65 | 100 | 20 | EAU | Inflige des dégâts et a 10% de diminuer la statistique de vitesse d'un palier
+CAGE-ECLAIR | 0 | 100 | 20 | ELECTRIK | Paralyse la cible
+CASCADE | 80 | 100 | 15 | EAU | Pas d'effet supplémentaire
+CHARGE | 35 | 95 | 35 | NORMAL | Pas d'effet supplémentaire
+CHOC MENTAL | 50 | 100 | 25 | PSY | Inflige des dégâts et a 10% de rendre la cible confuse
+CLAQUOIR | 35 | 75 | 10 | EAU | Piège l'adversaire
+CLONAGE | 0 | 100 | 10 | NORMAL | Crée un clone
+COMBO-GRIFFE | 18 | 80 | 15 | NORMAL | Attaque 2 à 5 fois de suite
+CONSTRICTION | 10 | 100 | 35 | NORMAL | Inflige des dégâts et a 10% de diminuer la statistique de vitesse d'un palier
+COPIE | 0 | 100 | 10 | NORMAL | Copie une capacité adverse
+COUD'KRANE | 120 | 100 | 15 | NORMAL | Charge pendant 1 tour
+COUP D'BOULE | 70 | 100 | 15 | NORMAL | 30% de chances d'apeurer la cible
+COUPE | 50 | 95 | 30 | NORMAL | Pas d'effet supplémentaire
+COUPE-VENT | 130 | 95 | 10 | VOL | Charge pendant 1 tour
+CROC DE MORT | 80 | 90 | 15 | NORMAL | 10% de chances d'apeurer la side
+CROC FATAL | 1 | 90 | 10 | NORMAL | Divise le total de pv par 2
+CROISSANCE | 0 | 100 | 40 | NORMAL | Augmente la statistique de spécial d'un palier
+CRU-AILE | 60 | 100 | 35 | VOL | Pas d'effet supplémentaire
+CYCLONE | 0 | 85 | 20 | NORMAL | Quitte le combat contre un pokémon sauvage
+DAMOCLES | 100 | 100 | 15 | NORMAL | Le lanceur subit des dégâts de recul
+DANSE-FLEUR | 70 | 100 | 20 | PLANTE | Attaque pendant 2 à 3 tours avant de devenir confus
+DANSE-LAMES | 0 | 100 | 30 | NORMAL | Augmente la statistique d'attaque de deux paliers
+DANSEFLAMME | 20 | 85 | 15 | FEU | Piège l'adversaire
+DARD-NUEE | 20 | 85 | 20 | INSECTE | Attaque 2 à 5 fois de suite
+DARD-VENIN | 15 | 100 | 35 | POISON | 10% de chances d'empoisonner la cible
+DEFLAGRATION | 120 | 85 | 5 | FEU | 30% de chances de brûler la cible
+DESTRUCTION | 200 | 100 | 5 | NORMAL | Le lanceur se suicide
+DETRITUS | 65 | 100 | 20 | POISON | 30% de chances d'empoisonner la cible
+DEVOREVE | 100 | 100 | 15 | PSY | Draine les pv mais échoue si le pokémon adverse n'est pas endormi
+DOUBLE PIED | 30 | 100 | 30 | COMBAT | Attaque 2 fois de suite
+DOUBLE-DARD | 25 | 100 | 20 | INSECTE | Attaque 2 fois avec 20% de chances d'empoisonner à chaque fois
+DRACO-RAGE | 1 | 100 | 10 | DRAGON | Calcul spécifique des dégâts
+E-COQUE | 0 | 100 | 10 | NORMAL | Soigne le lanceur
+EBOULEMENT | 75 | 90 | 10 | ROCHE | Pas d'effet supplémentaire
+ECLAIR | 40 | 100 | 30 | ELECTRIK | 10% de chances de paralyser la cible
+ECRAS'FACE | 40 | 100 | 35 | NORMAL | Pas d'effet supplémentaire
+ECRASEMENT | 65 | 100 | 20 | NORMAL | 30% de chances d'apeurer la cible
+ECUME | 20 | 100 | 30 | EAU | Inflige des dégâts et a 10% de diminuer la statistique de vitesse d'un palier
+EMPAL'KORNE | 1 | 30 | 5 | NORMAL | KO en un coup
+ENTRAVE | 0 | 55 | 20 | NORMAL | Désactive aléatoirement l'une des capacités de la cible dont le nombre de PP restant est supérieur à 0
+ETREINTE | 15 | 75 | 20 | NORMAL | Piège l'adversaire
+EXPLOSION | 250 | 100 | 5 | NORMAL | Le lanceur se suicide
+FATAL-FOUDRE | 120 | 70 | 10 | ELECTRIK | 10% de chances de paralyser la cible
+FLAMMECHE | 40 | 100 | 25 | FEU | 10% de chances de brûler la cible
+FLASH | 0 | 70 | 20 | NORMAL | Diminue la statistique de précision d'un palier
+FORCE POIGNE | 55 | 100 | 30 | NORMAL | Pas d'effet supplémentaire
+FORCE | 80 | 100 | 15 | NORMAL | Pas d'effet supplémentaire
+FOUET LIANES | 35 | 100 | 10 | PLANTE | Pas d'effet supplémentaire
+FRAPPE ATLAS | 1 | 100 | 20 | COMBAT | Calcul spécifique des dégâts
+FRENESIE | 20 | 100 | 20 | NORMAL | Le lanceur voit sa statistique augmenter d'un palier à chaque fois qu'il subit des dégâts
+FURIE | 15 | 85 | 20 | NORMAL | Attaque 2 à 5 fois de suite
+GAZ TOXIK | 0 | 55 | 40 | POISON | Empoisonne la cible
+GRIFFE | 40 | 100 | 35 | NORMAL | Pas d'effet supplémentaire
+GRINCEMENT | 0 | 85 | 40 | NORMAL | Diminue la statistique de défense de deux paliers
+GROBISOU | 0 | 75 | 10 | NORMAL | Endort l'adversaire
+GROZ'YEUX | 0 | 100 | 30 | NORMAL | Diminue la statistique de défense d'un palier
+GUILLOTINE | 1 | 30 | 5 | NORMAL | KO en un coup
+HATE | 0 | 100 | 30 | PSY | Augmente la statistique de vitesse de deux paliers
+HURLEMENT | 0 | 100 | 20 | NORMAL | Quitte le combat contre un pokémon sauvage
+HYDROCANON | 120 | 80 | 5 | EAU | Pas d'effet supplémentaire
+HYPNOSE | 0 | 60 | 20 | PSY | Endort l'adversaire
+INTIMIDATION | 0 | 75 | 30 | NORMAL | Paralyse la cible
+JACKPOT | 40 | 100 | 20 | NORMAL | Fait tomber de l'argent par terre
+JET DE SABLE | 0 | 100 | 15 | NORMAL | Diminue la statistique de précision d'un palier
+JET-PIERRES | 50 | 90 | 15 | ROCHE | Pas d'effet supplémentaire
+KOUD'KORNE | 65 | 100 | 25 | NORMAL | Pas d'effet supplémentaire
+LANCE-FLAMME | 95 | 100 | 15 | FEU | 10% de chances de brûler la cible
+LANCE-SOLEIL | 120 | 100 | 10 | PLANTE | Charge pendant 1 tour
+LASER GLACE | 95 | 100 | 10 | GLACE | 10% de chances de geler la cible
+LECHOUILLE | 20 | 100 | 30 | SPECTRE | 30% de chances de paralyser la cible
+LIGOTAGE | 15 | 85 | 20 | NORMAL | Piège l'adversaire
+LILLIPUT | 0 | 100 | 20 | NORMAL | Augmente la statistique d'esquive d'un palier
+LUTTE | 50 | 100 | 10 | NORMAL | Le lanceur subit des dégâts de recul
+MANIA | 90 | 100 | 20 | NORMAL | Attaque pendant 2 à 3 tours avant de devenir confus
+MASSD'OS | 65 | 85 | 20 | SOL | 10% de chances d'apeurer la side
+MAWASHI GERI | 65 | 85 | 15 | COMBAT | 30% de chances d'apeurer la cible
+MEGA-SANGSUE | 40 | 100 | 10 | PLANTE | Draine les pv
+METEORES | 60 | 100 | 20 | NORMAL | N'échoue jamais
+METRONOME | 0 | 100 | 10 | NORMAL | Lance une capacité aléatoirement choisie
+MIMI-QUEUE | 0 | 100 | 30 | NORMAL | Diminue la statistique de défense d'un palier
+MIMIQUE | 0 | 100 | 20 | VOL | Reproduit la dernière attaque lancée par l'adversaire
+MORPHING | 0 | 100 | 10 | NORMAL | Transforme le lanceur en le pokémon adverse
+MORSURE | 60 | 100 | 25 | NORMAL | 10% de chances d'apeurer la side
+MUR LUMIERE | 0 | 100 | 30 | PSY | Multiplie par 2 la défense par rapport aux attaques spéciales
+ONDE BOREALE | 65 | 100 | 20 | GLACE | Inflige des dégâts et a 10% de diminuer la statistique d'attaque d'un palier
+ONDE FOLIE | 0 | 100 | 10 | SPECTRE | Rend confus
+OSMERANG | 50 | 90 | 10 | SOL | Attaque 2 fois de suite
+PARA-SPORE | 0 | 75 | 30 | PLANTE | Paralyse la cible
+PATIENCE | 0 | 100 | 10 | NORMAL | Attend pendant 2 tours avant de renvoyer le double des dégâts subis
+PICANON | 20 | 100 | 15 | NORMAL | Attaque 2 à 5 fois de suite
+PICPIC | 35 | 100 | 35 | VOL | Pas d'effet supplémentaire
+PIED SAUTE | 70 | 95 | 25 | COMBAT | Dégâts de chute
+PIED VOLTIGE | 85 | 90 | 20 | COMBAT | Dégâts de chute
+PILONNAGE | 15 | 85 | 20 | NORMAL | Attaque 2 à 5 fois de suite
+PINCE-MASSE | 90 | 85 | 10 | EAU | Pas d'effet supplémentaire
+PIQUE | 140 | 90 | 5 | VOL | Charge pendant 1 tour
+PISTOLET A O | 40 | 100 | 25 | EAU | Pas d'effet supplémentaire
+PLAQUAGE | 85 | 100 | 15 | NORMAL | 30% de chances de paralyser la cible
+POING COMETE | 18 | 85 | 15 | NORMAL | Attaque 2 à 5 fois de suite
+POING DE FEU | 75 | 100 | 15 | FEU | 10% de chances de brûler la cible
+POING-ECLAIR | 75 | 100 | 15 | ELECTRIK | 10% de chances de paralyser la cible
+POING-KARATE | 50 | 100 | 25 | COMBAT | Pas d'effet supplémentaire
+POINGLACE | 75 | 100 | 15 | GLACE | 10% de chances de geler la cible
+POUDRE DODO | 0 | 75 | 15 | PLANTE | Endort l'adversaire
+POUDRE TOXIK | 0 | 75 | 35 | POISON | Empoisonne la cible
+PROTECTION | 0 | 100 | 20 | PSY | Multiplie par 2 la défense par rapport aux attaques physiques
+PSYKO | 90 | 100 | 10 | PSY | Inflige des dégâts et a 10% de diminuer la statistique de spécial d'un palier
+PUISSANCE | 0 | 100 | 30 | NORMAL | Augmente le taux de coups critiques
+PUREDPOIS | 20 | 70 | 20 | POISON | 30% de chances d'empoisonner la cible
+RAFALE PSY | 65 | 100 | 20 | PSY | Inflige des dégâts et a 10% de rendre la cible confuse
+REFLET | 0 | 100 | 15 | NORMAL | Augmente la statistique d'esquive d'un palier
+REPLI | 0 | 100 | 40 | EAU | Augmente la statistique de défense d'un palier
+REPOS | 0 | 100 | 10 | PSY | Soigne le lanceur
+RIPOSTE | 1 | 100 | 20 | COMBAT | Pas d'effet supplémentaire
+RUGISSEMENT | 0 | 100 | 40 | NORMAL | Diminue la statistique d'attaque d'un palier
+SACRIFICE | 100 | 80 | 25 | COMBAT | Le lanceur subit des dégâts de recul
+SECRETION | 0 | 95 | 40 | INSECTE | Diminue la statistique de vitesse d'un palier
+SEISME | 100 | 100 | 10 | SOL | Pas d'effet supplémentaire
+SOIN | 0 | 100 | 20 | NORMAL | Soigne le lanceur
+SONICBOOM | 1 | 90 | 20 | NORMAL | Calcul spécifique des dégâts
+SOUPLESSE | 80 | 75 | 20 | NORMAL | Pas d'effet supplémentaire
+SPORE | 0 | 100 | 15 | PLANTE | Endort l'adversaire
+SURF | 95 | 100 | 15 | EAU | Pas d'effet supplémentaire
+TELEKINESIE | 0 | 80 | 15 | PSY | Diminue la statistique de précision d'un palier
+TELEPORT | 0 | 100 | 20 | PSY | Quitte le combat contre un pokémon sauvage
+TENEBRES | 0 | 100 | 15 | SPECTRE | Calcul spécifique des dégâts
+TONNERRE | 95 | 100 | 15 | ELECTRIK | 10% de chances de paralyser la cible
+TORGNOLES | 15 | 85 | 10 | NORMAL | Attaque 2 à 5 fois de suite
+TORNADE | 40 | 100 | 35 | VOL | Pas d'effet supplémentaire
+TOXIK | 0 | 85 | 10 | POISON | Empoisonne la cible
+TRANCH'HERBE | 55 | 95 | 25 | PLANTE | Pas d'effet supplémentaire
+TRANCHE | 70 | 100 | 20 | NORMAL | Pas d'effet supplémentaire
+TREMPETTE | 0 | 100 | 40 | NORMAL | Ne fait rien
+TRIPLATTAQUE | 80 | 100 | 10 | NORMAL | Pas d'effet supplémentaire
+TUNNEL | 100 | 100 | 10 | SOL | Charge pendant 1 tour
+ULTIMAPOING | 80 | 85 | 20 | NORMAL | Pas d'effet supplémentaire
+ULTIMAWASHI | 120 | 75 | 5 | NORMAL | Pas d'effet supplémentaire
+ULTRALASER | 150 | 90 | 5 | NORMAL | Attaque puis se repose au tour suivant
+ULTRASON | 0 | 55 | 20 | NORMAL | Rend confus
+UPPERCUT | 70 | 100 | 10 | NORMAL | Pas d'effet supplémentaire
+VAGUE PSY | 1 | 80 | 15 | PSY | Calcul spécifique des dégâts
+VAMPIGRAINE | 0 | 90 | 10 | PLANTE | Draine les pv du pokemon adverse à chaque tour
+VAMPIRISME | 20 | 100 | 15 | INSECTE | Draine les pv
+VIVE-ATTAQUE | 40 | 100 | 30 | NORMAL | Pas d'effet supplémentaire
+VOL | 70 | 95 | 15 | VOL | S'envole au premier tour et frappe au tour suivant
+VOL-VIE | 20 | 100 | 20 | PLANTE | Draine les pv
+YOGA | 0 | 100 | 40 | PSY | Augmente la statistique d'attaque d'un palier
+## III. Description des régions
+
+Le taux d'apparition d'un pokémon à un niveau donné est toujours de 10%. Donc plus un pokémon apparaît avec des niveaux différents, plus il est probable de le rencontrer aléatoirement.
+
+- Cave taupiqueur
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     TAUPIQUEUR | 18, 19, 17, 20, 16, 15, 21, 22
+     TRIOPIKEUR | 29, 31
+- Manoir 1
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     SMOGO | 32, 30
+     PONYTA | 34, 30, 28
+     CANINOS | 34
+     GOUPIX | 32
+     TADMORV | 30
+     SMOGOGO | 37
+     GROTADMORV | 39
+- Manoir 2
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     CANINOS | 32
+     SMOGO | 34, 30
+     TADMORV | 34, 30
+     GOUPIX | 30
+     PONYTA | 32, 28
+     SMOGOGO | 39
+     GROTADMORV | 37
+- Manoir 3
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     SMOGO | 31, 35
+     CANINOS | 33
+     PYROLI | 33, 36
+     GOUPIX | 34
+     SMOGOGO | 40, 38
+     TADMORV | 34
+     GROTADMORV | 42
+- Manoir b1
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     SMOGO | 33, 31
+     CANINOS | 31, 35
+     PONYTA | 32, 34
+     SMOGOGO | 40, 42
+     MAGMAR | 35
+     GROTADMORV | 42
+- Mont sélénite 1
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     NOSFERAPTI | 8, 9, 10, 11
+     RACAILLOU | 8, 10
+     MACHOC | 7, 8
+     PARAS | 8
+     MELOFEE | 8
+- Mont sélénite b1
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     NOSFERAPTI | 8, 7, 9
+     RACAILLOU | 7, 8, 9
+     PARAS | 10
+     MACHOC | 10, 11
+     MELOFEE | 9
+- Mont sélénite b2
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     NOSFERAPTI | 9, 10, 11, 12
+     RACAILLOU | 9, 10
+     PARAS | 10
+     SABELETTE | 12
+     MELOFEE | 10, 12
+- Tour pokémon étage 1
+
+    * Pas de pokémon sauvage
+
+
+- Tour pokémon étage 2
+
+    * Pas de pokémon sauvage
+
+
+- Tour pokémon étage 3
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     FANTOMINUS | 20, 21, 22, 23, 19, 18, 24
+     OSSELAIT | 20, 22
+     SPECTRUM | 25
+- Tour pokémon étage 4
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     FANTOMINUS | 20, 21, 22, 23, 19, 18, 24
+     SPECTRUM | 25
+     OSSELAIT | 20, 22
+- Tour pokémon étage 5
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     FANTOMINUS | 20, 21, 22, 23, 19, 18, 24
+     SPECTRUM | 25
+     OSSELAIT | 20, 22
+- Tour pokémon étage 6
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     FANTOMINUS | 21, 22, 23, 24, 20, 19
+     SPECTRUM | 26, 28
+     OSSELAIT | 22, 24
+- Tour pokémon étage 7
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     FANTOMINUS | 21, 22, 23, 24, 20
+     SPECTRUM | 28, 28, 30
+     OSSELAIT | 22, 24
+- Centrale
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     VOLTORBE | 21, 23
+     MAGNETI | 21, 23
+     PIKACHU | 20, 24
+     ELEKTEK | 32, 35
+     VOLTALI | 33
+     RAICHU | 36
+- Grotte 1
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     NOSFERAPTI | 16, 17, 18
+     RACAILLOU | 17, 16
+     MACHOC | 15, 17
+     SALAMECHE | 15
+     ONIX | 13, 15
+- Grotte 2
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     NOSFERAPTI | 16
+     ONIX | 17, 18, 13
+     RACAILLOU | 17, 16, 18
+     MACHOC | 15, 17
+     SALAMECHE | 15
+- Route 1
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     ROUCOOL | 3, 2, 3, 3, 4, 5
+     RATTATA | 3, 3, 2, 4
+- Route 10
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     VOLTORBE | 16, 14, 17
+     PIAFABEC | 16, 13, 17
+     ABO | 11, 15, 17
+     SABELETTE | 13
+- Route 11
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     SABELETTE | 14
+     PIAFABEC | 15, 13, 17
+     ABO | 12, 15
+     SOPORIFIK | 9, 13, 11, 15
+- Route 12
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     CHETIFLOR | 24
+     ROUCOOL | 25, 23, 27
+     MIMITOSS | 24, 26
+     MYSTHERBE | 22, 26
+     BOUSTIFLOR | 28
+     ORTIDE | 30
+- Route 13
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     CHETIFLOR | 24
+     ROUCOOL | 25, 27
+     MIMITOSS | 24, 26
+     MYSTHERBE | 22, 26
+     METAMORPH | 25
+     BOUSTIFLOR | 28
+     ORTIDE | 30
+- route 14
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     MYSTHERBE | 24, 26
+     METAMORPH | 23
+     MIMITOSS | 24, 26
+     CHETIFLOR | 22
+     ORTIDE | 30
+     BOUSTIFLOR | 28
+     AEROMITE | 35
+     ROUCOUPS | 30
+- Route 15
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     MYSTHERBE | 24, 26
+     METAMORPH | 26
+     MIMITOSS | 26, 28
+     CHETIFLOR | 22
+     ORTIDE | 30
+     BOUSTIFLOR | 28
+     AEROMITE | 35
+     ROUCOUPS | 30
+- Route 16
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     PIAFABEC | 20, 22
+     BULBIZARRE | 15
+     DODUO | 20, 18, 22
+     SAQUEDENEU | 20, 22
+     RAPASDEPIC | 28
+     RATTATAC | 25
+- Route 17
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     PIAFABEC | 20, 22
+     RATTATAC | 25, 27, 29
+     DODUO | 24, 26, 28
+     INSECATEUR | 25
+     RAPASDEPIC | 27
+- Route 18
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     PIAFABEC | 20, 22
+     RATTATAC | 25, 29
+     SCARABRUTE | 24
+     RAPASDEPIC | 25, 27, 29
+     DODUO | 26, 28
+- Route 2
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     RATTATA | 3, 4, 2, 5
+     ROUCOOL | 3, 4, 5
+     PIAFABEC | 3
+     CHENIPAN | 5
+     ASPICOT | 5
+- Route 21
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     SALAMECHE | 15
+     BULBIZARRE | 15
+     RATTATAC | 30
+     RATTATA | 23
+     CARAPUCE | 15
+     ROUCOUPS | 30, 32
+     SAQUEDENEU | 28, 30, 32
+     POISSIRENE | 5
+     TENTACOOL | 10, 15, 5, 10, 20
+     HYPOTREMPE | 15
+     TETARTE | 30
+     POISSOROY | 40
+     TENTACRUEL | 40
+- Route 22
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     RATTATA | 3, 4, 2
+     NIDORAN♂ | 3, 4, 2
+     PIAFABEC | 3, 5
+     NIDORAN♀ | 3, 4
+- Route 23
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     METAMORPH | 33, 38, 43
+     PIAFABEC | 26
+     RAPASDEPIC | 38, 38, 41, 43
+     ARBOK | 41
+     SABLAIREAU | 41
+- Route 24
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     PTITARD | 10, 12
+     ROUCOOL | 12, 13
+     CHETIFLOR | 12
+     MYSTHERBE | 13, 14
+     ABRA | 10, 8, 12
+- Route 25
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     ASPICOT | 8
+     COCONFORT | 9
+     ROUCOOL | 13
+     CHETIFLOR | 12, 13
+     ABRA | 12, 10
+     MYSTHERBE | 14
+     CHRYSACIER | 7, 8
+- Route 3
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     ROUCOOL | 6, 7, 8
+     PIAFABEC | 5, 6, 7, 8
+     RONDOUDOU | 3, 5, 7
+- Route 4
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     RATTATA | 10, 8, 12
+     PIAFABEC | 10, 8, 12
+     ABO | 6, 10
+     SABELETTE | 8, 12
+- Route 5
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     MYSTHERBE | 13, 16
+     ROUCOOL | 13, 15
+     CHETIFLOR | 15, 16
+     MIAOUSS | 10, 12
+     FEROSINGE | 14, 16
+- Route 6
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     MIAOUSS | 13
+     ROUCOOL | 13, 15, 16
+     FEROSINGE | 10, 12
+     MYSTHERBE | 15, 16
+     CHETIFLOR | 14, 16
+- Route 7
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     ROUCOOL | 19, 22
+     ORTIDE | 25
+     CANINOS | 17, 20
+     BOUSTIFLOR | 25
+     MIAOUSS | 18
+     GOUPIX | 20, 19
+     FEROSINGE | 20
+- Route 8
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     ROUCOOL | 18, 20
+     FEROSINGE | 18
+     EVOLI | 21
+     CANINOS | 16, 18
+     MIAOUSS | 20
+     ROUCOUPS | 25
+     GOUPIX | 17, 15
+- Route 9
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     RATTATA | 16, 14, 17
+     PIAFABEC | 16, 13, 17
+     ABO | 11, 13
+     SABELETTE | 15, 17
+- Parc Safari zone 1
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     NIDORAN♂ | 24
+     DODUO | 26
+     PARAS | 22
+     NOEUNOEUF | 25, 23
+     NIDORINO | 33
+     NIDORAN♀ | 24
+     PARASECT | 25
+     KANGOUREX | 25
+     INSECATEUR | 28
+- Parc Safari zone 2
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     NIDORAN♂ | 22
+     RHINOCORNE | 26
+     PARAS | 23
+     NOEUNOEUF | 25, 27
+     NIDORINO | 30
+     NIDORINA | 30
+     AEROMITE | 32
+     LEVEINARD | 26
+     TAUROS | 28
+- Parc Safari zone 3
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     NIDORAN♂ | 25
+     DODUO | 26
+     MIMITOSS | 23
+     NOEUNOEUF | 24, 26
+     NIDORINO | 33
+     KICKLEE | 30
+     SCARABRUTE | 23
+     TAUROS | 26
+     KANGOUREX | 28
+- Parc Safari centre
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     NIDORAN♂ | 22
+     RHINOCORNE | 25
+     NOEUNOEUF | 24, 25
+     NIDORINO | 31
+     NIDORINA | 31
+     TYGNON | 30
+     SCARABRUTE | 23
+     INSECATEUR | 23
+     LEVEINARD | 23
+- Iles écume 1
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     OTARIA | 30
+     KOKIYAS | 30, 28
+     HYPOTREMPE | 30, 28
+     NOSFERAPTI | 21
+     NOSFERALTO | 29
+     AQUALI | 30, 28
+     AKWAKWAK | 38
+- Iles écume b1
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     OTARIA | 31, 30, 28
+     HYPOTREMPE | 30, 32
+     KOKIYAS | 32
+     RAMOLOSS | 28, 30
+     LAMANTINE | 38
+     HYPOCEAN | 37
+- Iles écume b2
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     OTARIA | 30, 32
+     RAMOLOSS | 30, 32
+     STARI | 28, 30
+     KRABBY | 30
+     KOKIYAS | 28
+     NOSFERALTO | 30
+     FLAGADOSS | 37
+- Iles écume b3
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     KRABBY | 33, 31
+     OTARIA | 31, 33
+     AMONITA | 31
+     HYPOTREMPE | 29
+     KOKIYAS | 30, 29
+     HYPOCEAN | 39
+     LAMANTINE | 37
+- Iles écume b4
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     RAMOLOSS | 31, 29
+     KOKIYAS | 31, 33
+     HYPOTREMPE | 29
+     OTARIA | 31, 29
+     KABUTO | 31
+     FLAGADOSS | 39
+     NOSFERALTO | 32
+- Grotte inconnue 1
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     NOSFERALTO | 46
+     HYPNOMADE | 46
+     MAGNETON | 46
+     DODRIO | 49
+     AEROMITE | 49
+     ARBOK | 52
+     KADABRA | 49
+     PARASECT | 52
+     RAICHU | 53
+     METAMORPH | 53
+- Grotte inconnue 2
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     DODRIO | 51
+     AEROMITE | 51
+     KADABRA | 51
+     RHINOFEROS | 52
+     OSSATUEUR | 52
+     ELECTRODE | 52
+     LEVEINARD | 56
+     GRODOUDOU | 54
+     MAGMAR | 55
+     METAMORPH | 60
+- Grotte inconnue b1
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     RHINOFEROS | 55
+     OSSATUEUR | 55
+     ELECTRODE | 55
+     LEVEINARD | 64
+     PARASECT | 64
+     RAICHU | 64
+     SABLAIREAU | 57
+     GROLEM | 65
+     KANGOUREX | 63
+     METAMORPH | 67
+- Route Victoire 1
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     MACHOC | 26
+     RACAILLOU | 28
+     NOSFERAPTI | 25
+     ONIX | 39, 42, 46
+     GRAVALANCH | 43
+     NOSFERALTO | 43
+     MACHOPEUR | 44
+     OSSATUEUR | 46
+- Route Victoire 2
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     MACHOC | 25
+     RACAILLOU | 28
+     NOSFERAPTI | 29
+     ONIX | 39, 42, 44
+     MACHOPEUR | 45
+     NOSFERALTO | 44
+     OSSATUEUR | 44
+     GRAVALANCH | 47
+- Route Victoire 3
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     MACHOC | 27
+     RACAILLOU | 29
+     NOSFERAPTI | 25
+     ONIX | 44, 48
+     AEROMITE | 43
+     GRAVALANCH | 46
+     NOSFERALTO | 43
+     MACHOPEUR | 45, 48
+- Forêt de Jade
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     ASPICOT | 4, 3, 5
+     COCONFORT | 5, 4, 6
+     CHRYSACIER | 4
+     CHENIPAN | 5
+     PIKACHU | 3, 5
+- Océan
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     TENTACOOL | 5, 15, 10, 15, 35, 40
+     PTITARD | 10, 5
+     HYPOTREMPE | 20, 30

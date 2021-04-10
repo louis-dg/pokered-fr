@@ -1,0 +1,79 @@
+NO_ADDITIONAL_EFFECT;Pas d'effet supplémentaire
+POISON_SIDE_EFFECT1;10% de chances d'empoisonner la cible
+DRAIN_HP_EFFECT;Draine les pv
+BURN_SIDE_EFFECT1;10% de chances de brûler la cible
+FREEZE_SIDE_EFFECT;10% de chances de geler la cible
+PARALYZE_SIDE_EFFECT1;10% de chances de paralyser la cible
+EXPLODE_EFFECT;Le lanceur se suicide
+DREAM_EATER_EFFECT;Draine les pv mais échoue si le pokémon adverse n'est pas endormi
+MIRROR_MOVE_EFFECT;Reproduit la dernière attaque lancée par l'adversaire
+ATTACK_UP1_EFFECT;Augmente la statistique d'attaque d'un palier
+DEFENSE_UP1_EFFECT;Augmente la statistique de défense d'un palier
+SPEED_UP1_EFFECT;Augmente la statistique de vitesse d'un palier
+SPECIAL_UP1_EFFECT;Augmente la statistique de spécial d'un palier
+ACCURACY_UP1_EFFECT;Augmente la statistique de précision d'un palier
+EVASION_UP1_EFFECT;Augmente la statistique d'esquive d'un palier
+PAY_DAY_EFFECT;Fait tomber de l'argent par terre
+SWIFT_EFFECT;N'échoue jamais
+ATTACK_DOWN1_EFFECT;Diminue la statistique d'attaque d'un palier
+DEFENSE_DOWN1_EFFECT;Diminue la statistique de défense d'un palier
+SPEED_DOWN1_EFFECT;Diminue la statistique de vitesse d'un palier
+SPECIAL_DOWN1_EFFECT;Diminue la statistique de spécial d'un palier
+ACCURACY_DOWN1_EFFECT;Diminue la statistique de précision d'un palier
+EVASION_DOWN1_EFFECT;Diminue la statistique d'esquive d'un palier
+CONVERSION_EFFECT;Change le type de l'utilisateur pour le remplacer par celui de son adversaire
+HAZE_EFFECT;Annule tout changement de statistique des Pokémon présents sur le terrain
+BIDE_EFFECT;Attend pendant 2 tours avant de renvoyer le double des dégâts subis
+THRASH_PETAL_DANCE_EFFECT;Attaque pendant 2 à 3 tours avant de devenir confus
+SWITCH_AND_TELEPORT_EFFECT;Quitte le combat contre un pokémon sauvage
+TWO_TO_FIVE_ATTACKS_EFFECT;Attaque 2 à 5 fois de suite
+FLINCH_SIDE_EFFECT1;10% de chances d'apeurer la side
+SLEEP_EFFECT;Endort l'adversaire
+POISON_SIDE_EFFECT2;30% de chances d'empoisonner la cible
+BURN_SIDE_EFFECT2;30% de chances de brûler la cible
+PARALYZE_SIDE_EFFECT2;30% de chances de paralyser la cible
+FLINCH_SIDE_EFFECT2;30% de chances d'apeurer la cible
+OHKO_EFFECT;KO en un coup
+CHARGE_EFFECT;Charge pendant 1 tour
+SUPER_FANG_EFFECT;Divise le total de pv par 2
+SPECIAL_DAMAGE_EFFECT;Calcul spécifique des dégâts
+TRAPPING_EFFECT;Piège l'adversaire
+FLY_EFFECT;S'envole au premier tour et frappe au tour suivant
+ATTACK_TWICE_EFFECT;Attaque 2 fois de suite
+JUMP_KICK_EFFECT;Dégâts de chute
+MIST_EFFECT;Bloque les modifications de statistiques tentées par l'adversaire
+FOCUS_ENERGY_EFFECT;Augmente le taux de coups critiques
+RECOIL_EFFECT;Le lanceur subit des dégâts de recul
+CONFUSION_EFFECT;Rend confus
+ATTACK_UP2_EFFECT;Augmente la statistique d'attaque de deux paliers
+DEFENSE_UP2_EFFECT;Augmente la statistique de défense de deux paliers
+SPEED_UP2_EFFECT;Augmente la statistique de vitesse de deux paliers
+SPECIAL_UP2_EFFECT;Augmente la statistique de spécial de deux paliers
+ACCURACY_UP2_EFFECT;Augmente la statistique de précision de deux paliers
+EVASION_UP2_EFFECT;Augmente la statistique d'esquive de deux paliers
+HEAL_EFFECT;Soigne le lanceur
+TRANSFORM_EFFECT;Transforme le lanceur en le pokémon adverse
+ATTACK_DOWN2_EFFECT;Diminue la statistique d'attaque de deux paliers
+DEFENSE_DOWN2_EFFECT;Diminue la statistique de défense de deux paliers
+SPEED_DOWN2_EFFECT;Diminue la statistique de vitesse de deux paliers
+SPECIAL_DOWN2_EFFECT;Diminue la statistique de spécial de deux paliers
+ACCURACY_DOWN2_EFFECT;Diminue la statistique de précision de deux paliers
+EVASION_DOWN2_EFFECT;Diminue la statistique d'esquive de deux paliers
+LIGHT_SCREEN_EFFECT;Multiplie par 2 la défense par rapport aux attaques spéciales
+REFLECT_EFFECT;Multiplie par 2 la défense par rapport aux attaques physiques
+POISON_EFFECT;Empoisonne la cible
+PARALYZE_EFFECT;Paralyse la cible
+ATTACK_DOWN_SIDE_EFFECT;Inflige des dégâts et a 10% de diminuer la statistique d'attaque d'un palier
+DEFENSE_DOWN_SIDE_EFFECT;Inflige des dégâts et a 10% de diminuer la statistique de défense d'un palier
+SPEED_DOWN_SIDE_EFFECT;Inflige des dégâts et a 10% de diminuer la statistique de vitesse d'un palier
+SPECIAL_DOWN_SIDE_EFFECT;Inflige des dégâts et a 10% de diminuer la statistique de spécial d'un palier
+CONFUSION_SIDE_EFFECT;Inflige des dégâts et a 10% de rendre la cible confuse
+TWINEEDLE_EFFECT;Attaque 2 fois avec 20% de chances d'empoisonner à chaque fois
+SUBSTITUTE_EFFECT;Crée un clone
+HYPER_BEAM_EFFECT;Attaque puis se repose au tour suivant
+RAGE_EFFECT;Le lanceur voit sa statistique augmenter d'un palier à chaque fois qu'il subit des dégâts
+MIMIC_EFFECT;Copie une capacité adverse
+METRONOME_EFFECT;Lance une capacité aléatoirement choisie
+LEECH_SEED_EFFECT;Draine les pv du pokemon adverse à chaque tour
+SPLASH_EFFECT;Ne fait rien
+DISABLE_EFFECT;Désactive aléatoirement l'une des capacités de la cible dont le nombre de PP restant est supérieur à 0
