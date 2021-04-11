@@ -233,6 +233,34 @@ def buildZonesDoc(pokeNamesDict, zoneNamesDict, wildPokemonZones):
 
     return docLines
 
+# Build the part of the documentation : ranking by statistics
+def buildPokemonsStatsData(pokemons):
+    docLines = []
+    docLines.append("## IV. Classements par stats\n\n")
+
+    docLines.append("Classement | PV | FOR | DEF | VIT | SPE\n")
+    docLines.append("--- | --- | --- | --- | --- | ---\n")
+
+    pokeHP = sorted(pokemons, key=lambda x: int(x.baseHP), reverse=True)
+    pokeAtk = sorted(pokemons, key=lambda x: int(x.baseAtk), reverse=True)
+    pokeDef = sorted(pokemons, key=lambda x: int(x.baseDef), reverse=True)
+    pokeSpeed = sorted(pokemons, key=lambda x: int(x.baseSpeed), reverse=True)
+    pokeSpecial = sorted(pokemons, key=lambda x: int(x.baseSpecial), reverse=True)
+
+    start = 0
+    maxsize = len(pokeHP)
+    for i in range(start, maxsize):
+        docLines.append(str(i + 1) + " | "
+                        + "**" + pokeHP[i].name + "** (" + pokeHP[i].baseHP + ") | "
+                        + "**" + pokeAtk[i].name + "** (" + pokeAtk[i].baseAtk + ") | "
+                        + "**" + pokeDef[i].name + "** (" + pokeDef[i].baseDef + ") | "
+                        + "**" + pokeSpeed[i].name + "** (" + pokeSpeed[i].baseSpeed + ") | "
+                        + "**" + pokeSpecial[i].name + "** (" + pokeSpecial[i].baseSpecial + ")"
+                        + "\n")
+        i += 1
+
+    return docLines
+
 ############################################
 #         MAIN
 ############################################
@@ -256,9 +284,11 @@ docFile.write("## Sommaire\n\n")
 docFile.write("- I. Propriétés des pokémons\n\n")
 docFile.write("- II. Liste des Attaques\n\n")
 docFile.write("- III. Description des régions\n\n")
+docFile.write("- IV. Classement par stats\n\n")
 docFile.writelines(buildPokemonsDoc(movesNamesDict, tmhmDict, pokemons))
 docFile.writelines(buildMovesDoc(movesNamesDict, typeNamesDict, effectsDescriptionDict))
 docFile.writelines(buildZonesDoc(pokeNamesDict, zoneNamesDict, wildPokemonDict))
+docFile.writelines(buildPokemonsStatsData(pokemons))
 docFile.close()
 
 print("Documentation generated. See documentation.md file.")
