@@ -148,10 +148,6 @@ def buildPokemonsDoc(movesNamesDict, tmhmDict, pokemons):
     docLines = []
     docLines.append("## I. Propriétés des pokémons\n")
 
-    docLines.append("- Taux de catpure : Plus cette valeur est petite, plus le pokémon est difficile à attraper.\n\n")
-    docLines.append("- Taux de rendement d'expérience : Plus cette valeur est grande, plus le pokémon donne des points d'expérience lorsqu'il est battu.\n\n")
-    docLines.append("- Taux de croissance : Plus cette valeur est grande, plus le pokémon nécessite de points d'expérience pour passer des niveaux.\n\n\n")
-
     pokemons.sort(key=lambda x: x.number, reverse=False)
 
     for pokemon in pokemons:
@@ -237,7 +233,7 @@ def buildZonesDoc(pokeNamesDict, zoneNamesDict, wildPokemonZones):
 def buildPokemonsStatsData(pokemons):
     docLines = []
     docLines.append("## IV. Classements par stats\n\n")
-
+    docLines.append("### Statistiques\n\n")
     docLines.append("Classement | PV | FOR | DEF | VIT | SPE\n")
     docLines.append("--- | --- | --- | --- | --- | ---\n")
 
@@ -246,6 +242,9 @@ def buildPokemonsStatsData(pokemons):
     pokeDef = sorted(pokemons, key=lambda x: int(x.baseDef), reverse=True)
     pokeSpeed = sorted(pokemons, key=lambda x: int(x.baseSpeed), reverse=True)
     pokeSpecial = sorted(pokemons, key=lambda x: int(x.baseSpecial), reverse=True)
+    pokeCatchRate = sorted(pokemons, key=lambda x: int(x.catchRate), reverse=True)
+    pokeXpYield = sorted(pokemons, key=lambda x: int(x.xpYield), reverse=True)
+    pokeGrowthRate = sorted(pokemons, key=lambda x: int(x.growthRate), reverse=True)
 
     start = 0
     maxsize = len(pokeHP)
@@ -259,6 +258,28 @@ def buildPokemonsStatsData(pokemons):
                         + "\n")
         i += 1
 
+    docLines.append("\n\n")
+    docLines.append("### Données techniques\n\n")
+    docLines.append("Classement | Taux de capture | Rendement d'expérience | Taux de croissance\n")
+    docLines.append("--- | --- | --- | ---\n")
+
+    for i in range(start, maxsize):
+        docLines.append(str(i + 1) + " | "
+                        + "**" + pokeCatchRate[i].name + "** (" + pokeCatchRate[i].catchRate + ") | "
+                        + "**" + pokeXpYield[i].name + "** (" + pokeXpYield[i].xpYield + ") | "
+                        + "**" + pokeGrowthRate[i].name + "** (" + pokeGrowthRate[i].growthRate + ")"
+                        + "\n")
+        i += 1
+
+    return docLines
+
+# Build glossary of the documentation
+def buildGlossary():
+    docLines = []
+    docLines.append("## V. Glossaire\n\n")
+    docLines.append("- Taux de catpure : Plus cette valeur est petite, plus le pokémon est difficile à attraper.\n\n")
+    docLines.append("- Taux de rendement d'expérience : Plus cette valeur est grande, plus le pokémon donne des points d'expérience lorsqu'il est battu.\n\n")
+    docLines.append("- Taux de croissance : Plus cette valeur est grande, plus le pokémon nécessite de points d'expérience pour passer des niveaux.\n\n")
     return docLines
 
 ############################################
@@ -285,10 +306,12 @@ docFile.write("- I. Propriétés des pokémons\n\n")
 docFile.write("- II. Liste des Attaques\n\n")
 docFile.write("- III. Description des régions\n\n")
 docFile.write("- IV. Classement par stats\n\n")
+docFile.write("- V. Glossaire\n\n")
 docFile.writelines(buildPokemonsDoc(movesNamesDict, tmhmDict, pokemons))
 docFile.writelines(buildMovesDoc(movesNamesDict, typeNamesDict, effectsDescriptionDict))
 docFile.writelines(buildZonesDoc(pokeNamesDict, zoneNamesDict, wildPokemonDict))
 docFile.writelines(buildPokemonsStatsData(pokemons))
+docFile.writelines(buildGlossary())
 docFile.close()
 
 print("Documentation generated. See documentation.md file.")

@@ -14,14 +14,9 @@ Page du projet : https://github.com/LePatator/pokered-fr
 
 - IV. Classement par stats
 
+- V. Glossaire
+
 ## I. Propriétés des pokémons
-- Taux de catpure : Plus cette valeur est petite, plus le pokémon est difficile à attraper.
-
-- Taux de rendement d'expérience : Plus cette valeur est grande, plus le pokémon donne des points d'expérience lorsqu'il est battu.
-
-- Taux de croissance : Plus cette valeur est grande, plus le pokémon nécessite de points d'expérience pour passer des niveaux.
-
-
 - 001 BULBIZARRE
    * Statistiques :
 
@@ -9341,44 +9336,44 @@ Le taux d'apparition d'un pokémon à un niveau donné est toujours de 10%. Donc
 
      Pokémon | Niveau(x) 
      --- | --- 
-     NOSFERALTO | 46
-     HYPNOMADE | 46
-     MAGNETON | 46
-     DODRIO | 49
-     AEROMITE | 49
-     ARBOK | 52
-     KADABRA | 49
-     PARASECT | 52
-     RAICHU | 53
-     METAMORPH | 53
+     NOSFERALTO | 48
+     HYPNOMADE | 48
+     MAGNETON | 48
+     DODRIO | 51
+     AEROMITE | 51
+     ARBOK | 54
+     KADABRA | 51
+     PARASECT | 54
+     RAICHU | 55
+     METAMORPH | 55
 - Grotte inconnue 2
 
      Pokémon | Niveau(x) 
      --- | --- 
-     DODRIO | 51
-     AEROMITE | 51
-     KADABRA | 51
-     RHINOFEROS | 52
-     OSSATUEUR | 52
-     ELECTRODE | 52
-     LEVEINARD | 56
-     GRODOUDOU | 54
-     MAGMAR | 55
-     METAMORPH | 60
+     DODRIO | 53
+     AEROMITE | 53
+     KADABRA | 53
+     RHINOFEROS | 54
+     OSSATUEUR | 54
+     ELECTRODE | 54
+     LEVEINARD | 58
+     GRODOUDOU | 56
+     MAGMAR | 57
+     METAMORPH | 62
 - Grotte inconnue b1
 
      Pokémon | Niveau(x) 
      --- | --- 
-     RHINOFEROS | 55
-     OSSATUEUR | 55
-     ELECTRODE | 55
-     LEVEINARD | 64
-     PARASECT | 64
-     RAICHU | 64
-     SABLAIREAU | 57
-     GROLEM | 65
-     KANGOUREX | 63
-     METAMORPH | 67
+     RHINOFEROS | 57
+     OSSATUEUR | 57
+     ELECTRODE | 57
+     LEVEINARD | 66
+     PARASECT | 66
+     RAICHU | 66
+     SABLAIREAU | 59
+     GROLEM | 67
+     KANGOUREX | 65
+     METAMORPH | 69
 - Route Victoire 1
 
      Pokémon | Niveau(x) 
@@ -9409,8 +9404,8 @@ Le taux d'apparition d'un pokémon à un niveau donné est toujours de 10%. Donc
      --- | --- 
      MACHOC | 27
      RACAILLOU | 29
-     NOSFERAPTI | 25
      ONIX | 44, 48
+     RHINOCORNE | 45
      AEROMITE | 43
      GRAVALANCH | 46
      NOSFERALTO | 43
@@ -9432,6 +9427,8 @@ Le taux d'apparition d'un pokémon à un niveau donné est toujours de 10%. Donc
      PTITARD | 10, 5
      HYPOTREMPE | 20, 30
 ## IV. Classements par stats
+
+### Statistiques
 
 Classement | PV | FOR | DEF | VIT | SPE
 --- | --- | --- | --- | --- | ---
@@ -9586,3 +9583,168 @@ Classement | PV | FOR | DEF | VIT | SPE
 149 | **MAGNETI** (25) | **ABRA** (20) | **RONDOUDOU** (20) | **RONDOUDOU** (20) | **CHENIPAN** (20)
 150 | **MAGICARPE** (20) | **MAGICARPE** (10) | **ABRA** (15) | **RACAILLOU** (20) | **ASPICOT** (20)
 151 | **TAUPIQUEUR** (10) | **LEVEINARD** (5) | **LEVEINARD** (5) | **RAMOLOSS** (15) | **MAGICARPE** (20)
+
+
+### Données techniques
+
+Classement | Taux de capture | Rendement d'expérience | Taux de croissance
+--- | --- | --- | ---
+1 | **CHENIPAN** (255) | **LEVEINARD** (255) | **CANINOS** (5)
+2 | **ASPICOT** (255) | **MEWTWO** (220) | **ARCANIN** (5)
+3 | **ROUCOOL** (255) | **LOKHLASS** (219) | **TENTACOOL** (5)
+4 | **RATTATA** (255) | **DRACOLOSSE** (218) | **TENTACRUEL** (5)
+5 | **PIAFABEC** (255) | **SULFURA** (217) | **KOKIYAS** (5)
+6 | **ABO** (255) | **ELECTHOR** (216) | **CRUSTABRI** (5)
+7 | **SABELETTE** (255) | **ARTIKODIN** (215) | **NOEUNOEUF** (5)
+8 | **NOSFERAPTI** (255) | **LEVIATOR** (214) | **NOADKOKO** (5)
+9 | **MYSTHERBE** (255) | **ARCANIN** (213) | **RHINOCORNE** (5)
+10 | **TAUPIQUEUR** (255) | **NOADKOKO** (212) | **RHINOFEROS** (5)
+11 | **MIAOUSS** (255) | **TAUROS** (211) | **STARI** (5)
+12 | **PTITARD** (255) | **TORTANK** (210) | **STAROSS** (5)
+13 | **CHETIFLOR** (255) | **DRACAUFEU** (209) | **SCARABRUTE** (5)
+14 | **RACAILLOU** (255) | **FLORIZARRE** (208) | **TAUROS** (5)
+15 | **MAGICARPE** (255) | **STAROSS** (207) | **MAGICARPE** (5)
+16 | **NIDORAN♀** (235) | **KRABBOSS** (206) | **LEVIATOR** (5)
+17 | **NIDORAN♂** (235) | **TENTACRUEL** (205) | **LOKHLASS** (5)
+18 | **KRABBY** (225) | **RHINOFEROS** (204) | **PTERA** (5)
+19 | **HYPOTREMPE** (225) | **CRUSTABRI** (203) | **RONFLEX** (5)
+20 | **POISSIRENE** (225) | **PTERA** (202) | **ARTIKODIN** (5)
+21 | **STARI** (225) | **KABUTOPS** (201) | **ELECTHOR** (5)
+22 | **ABRA** (200) | **SCARABRUTE** (200) | **SULFURA** (5)
+23 | **PIKACHU** (190) | **AMONISTAR** (199) | **MINIDRACO** (5)
+24 | **GOUPIX** (190) | **PYROLI** (198) | **DRACO** (5)
+25 | **PARAS** (190) | **VOLTALI** (197) | **DRACOLOSSE** (5)
+26 | **MIMITOSS** (190) | **AQUALI** (196) | **MEWTWO** (5)
+27 | **PSYKOKWAK** (190) | **NIDOKING** (195) | **MELOFEE** (4)
+28 | **FEROSINGE** (190) | **NIDOQUEEN** (194) | **MELODELFE** (4)
+29 | **CANINOS** (190) | **MACKOGNEUR** (193) | **RONDOUDOU** (4)
+30 | **TENTACOOL** (190) | **GALOPA** (192) | **GRODOUDOU** (4)
+31 | **PONYTA** (190) | **EMPIFLOR** (191) | **LEVEINARD** (4)
+32 | **RAMOLOSS** (190) | **ECTOPLASMA** (190) | **BULBIZARRE** (3)
+33 | **MAGNETI** (190) | **INSECATEUR** (187) | **HERBIZARRE** (3)
+34 | **DODUO** (190) | **ALAKAZAM** (186) | **FLORIZARRE** (3)
+35 | **OTARIA** (190) | **TARTARD** (185) | **SALAMECHE** (3)
+36 | **TADMORV** (190) | **RAFFLESIA** (184) | **REPTINCEL** (3)
+37 | **KOKIYAS** (190) | **FEUNARD** (178) | **DRACAUFEU** (3)
+38 | **FANTOMINUS** (190) | **GROLEM** (177) | **CARAPUCE** (3)
+39 | **SOPORIFIK** (190) | **LAMANTINE** (176) | **CARABAFFE** (3)
+40 | **VOLTORBE** (190) | **KANGOUREX** (175) | **TORTANK** (3)
+41 | **OSSELAIT** (190) | **AKWAKWAK** (174) | **ROUCOOL** (3)
+42 | **SMOGO** (190) | **SMOGOGO** (173) | **ROUCOUPS** (3)
+43 | **MACHOC** (180) | **ROUCARNAGE** (172) | **ROUCARNAGE** (3)
+44 | **RONDOUDOU** (170) | **NOSFERALTO** (171) | **NIDORAN♀** (3)
+45 | **MELOFEE** (150) | **POISSOROY** (170) | **NIDORINA** (3)
+46 | **CHRYSACIER** (120) | **MAGMAR** (167) | **NIDOQUEEN** (3)
+47 | **COCONFORT** (120) | **SAQUEDENEU** (166) | **NIDORAN♂** (3)
+48 | **ROUCOUPS** (120) | **HYPNOMADE** (165) | **NIDORINO** (3)
+49 | **NIDORINA** (120) | **FLAGADOSS** (164) | **NIDOKING** (3)
+50 | **NIDORINO** (120) | **SABLAIREAU** (163) | **MYSTHERBE** (3)
+51 | **ORTIDE** (120) | **RAPASDEPIC** (162) | **ORTIDE** (3)
+52 | **TETARTE** (120) | **MAGNETON** (161) | **RAFFLESIA** (3)
+53 | **BOUSTIFLOR** (120) | **PAPILUSION** (160) | **PTITARD** (3)
+54 | **GRAVALANCH** (120) | **DARDARGNAN** (159) | **TETARTE** (3)
+55 | **RHINOCORNE** (120) | **DODRIO** (158) | **TARTARD** (3)
+56 | **KADABRA** (100) | **GROTADMORV** (157) | **ABRA** (3)
+57 | **RATTATAC** (90) | **ELEKTEK** (156) | **KADABRA** (3)
+58 | **RAPASDEPIC** (90) | **HYPOCEAN** (155) | **ALAKAZAM** (3)
+59 | **ARBOK** (90) | **RONFLEX** (154) | **MACHOC** (3)
+60 | **SABLAIREAU** (90) | **TRIOPIKEUR** (153) | **MACHOPEUR** (3)
+61 | **NOSFERALTO** (90) | **PONYTA** (152) | **MACKOGNEUR** (3)
+62 | **PERSIAN** (90) | **BOUSTIFLOR** (151) | **CHETIFLOR** (3)
+63 | **MACHOPEUR** (90) | **ELECTRODE** (150) | **BOUSTIFLOR** (3)
+64 | **SPECTRUM** (90) | **COLOSSINGE** (149) | **EMPIFLOR** (3)
+65 | **NOEUNOEUF** (90) | **PERSIAN** (148) | **RACAILLOU** (3)
+66 | **RAICHU** (75) | **ARBOK** (147) | **GRAVALANCH** (3)
+67 | **FEUNARD** (75) | **MACHOPEUR** (146) | **GROLEM** (3)
+68 | **PARASECT** (75) | **KADABRA** (145) | **FANTOMINUS** (3)
+69 | **AEROMITE** (75) | **DRACO** (144) | **SPECTRUM** (3)
+70 | **AKWAKWAK** (75) | **CARABAFFE** (143) | **ECTOPLASMA** (3)
+71 | **COLOSSINGE** (75) | **REPTINCEL** (142) | **MEW** (3)
+72 | **ARCANIN** (75) | **HERBIZARRE** (141) | **CHENIPAN** (0)
+73 | **FLAGADOSS** (75) | **TYGNON** (140) | **CHRYSACIER** (0)
+74 | **LAMANTINE** (75) | **KICKLEE** (139) | **PAPILUSION** (0)
+75 | **GROTADMORV** (75) | **AEROMITE** (138) | **ASPICOT** (0)
+76 | **HYPNOMADE** (75) | **LIPPOUTOU** (137) | **COCONFORT** (0)
+77 | **OSSATUEUR** (75) | **M.MIME** (136) | **DARDARGNAN** (0)
+78 | **HYPOCEAN** (75) | **RHINOCORNE** (135) | **RATTATA** (0)
+79 | **TENTACRUEL** (60) | **GRAVALANCH** (134) | **RATTATAC** (0)
+80 | **GALOPA** (60) | **ORTIDE** (132) | **PIAFABEC** (0)
+81 | **MAGNETON** (60) | **TETARTE** (131) | **RAPASDEPIC** (0)
+82 | **CRUSTABRI** (60) | **PORYGON** (130) | **ABO** (0)
+83 | **KRABBOSS** (60) | **MELODELFE** (129) | **ARBOK** (0)
+84 | **ELECTRODE** (60) | **PARASECT** (128) | **PIKACHU** (0)
+85 | **SMOGOGO** (60) | **EXCELANGUE** (127) | **RAICHU** (0)
+86 | **RHINOFEROS** (60) | **SPECTRUM** (126) | **SABELETTE** (0)
+87 | **POISSOROY** (60) | **OSSATUEUR** (124) | **SABLAIREAU** (0)
+88 | **STAROSS** (60) | **RAICHU** (122) | **GOUPIX** (0)
+89 | **GRODOUDOU** (50) | **AMONITA** (120) | **FEUNARD** (0)
+90 | **TRIOPIKEUR** (50) | **KABUTO** (119) | **NOSFERAPTI** (0)
+91 | **ALAKAZAM** (50) | **NIDORINO** (118) | **NOSFERALTO** (0)
+92 | **BULBIZARRE** (45) | **NIDORINA** (117) | **PARAS** (0)
+93 | **HERBIZARRE** (45) | **RATTATAC** (116) | **PARASECT** (0)
+94 | **FLORIZARRE** (45) | **KRABBY** (115) | **MIMITOSS** (0)
+95 | **SALAMECHE** (45) | **SMOGO** (114) | **AEROMITE** (0)
+96 | **REPTINCEL** (45) | **ROUCOUPS** (113) | **TAUPIQUEUR** (0)
+97 | **DRACAUFEU** (45) | **POISSIRENE** (111) | **TRIOPIKEUR** (0)
+98 | **CARAPUCE** (45) | **GRODOUDOU** (109) | **MIAOUSS** (0)
+99 | **CARABAFFE** (45) | **ONIX** (108) | **PERSIAN** (0)
+100 | **TORTANK** (45) | **STARI** (106) | **PSYKOKWAK** (0)
+101 | **PAPILUSION** (45) | **TENTACOOL** (105) | **AKWAKWAK** (0)
+102 | **DARDARGNAN** (45) | **VOLTORBE** (103) | **FEROSINGE** (0)
+103 | **ROUCARNAGE** (45) | **SOPORIFIK** (102) | **COLOSSINGE** (0)
+104 | **NIDOQUEEN** (45) | **OTARIA** (100) | **PONYTA** (0)
+105 | **NIDOKING** (45) | **RAMOLOSS** (99) | **GALOPA** (0)
+106 | **RAFFLESIA** (45) | **NOEUNOEUF** (98) | **RAMOLOSS** (0)
+107 | **TARTARD** (45) | **KOKIYAS** (97) | **FLAGADOSS** (0)
+108 | **MACKOGNEUR** (45) | **DODUO** (96) | **MAGNETI** (0)
+109 | **EMPIFLOR** (45) | **FANTOMINUS** (95) | **MAGNETON** (0)
+110 | **GROLEM** (45) | **CANARTICHO** (94) | **CANARTICHO** (0)
+111 | **CANARTICHO** (45) | **SABELETTE** (93) | **DODUO** (0)
+112 | **DODRIO** (45) | **EVOLI** (92) | **DODRIO** (0)
+113 | **ECTOPLASMA** (45) | **CANINOS** (91) | **OTARIA** (0)
+114 | **ONIX** (45) | **TADMORV** (90) | **LAMANTINE** (0)
+115 | **NOADKOKO** (45) | **MAGNETI** (89) | **TADMORV** (0)
+116 | **KICKLEE** (45) | **MACHOC** (88) | **GROTADMORV** (0)
+117 | **TYGNON** (45) | **OSSELAIT** (87) | **ONIX** (0)
+118 | **EXCELANGUE** (45) | **RACAILLOU** (86) | **SOPORIFIK** (0)
+119 | **SAQUEDENEU** (45) | **CHETIFLOR** (84) | **HYPNOMADE** (0)
+120 | **KANGOUREX** (45) | **HYPOTREMPE** (83) | **KRABBY** (0)
+121 | **M.MIME** (45) | **PIKACHU** (82) | **KRABBOSS** (0)
+122 | **INSECATEUR** (45) | **TAUPIQUEUR** (81) | **VOLTORBE** (0)
+123 | **LIPPOUTOU** (45) | **PSYKOKWAK** (80) | **ELECTRODE** (0)
+124 | **ELEKTEK** (45) | **MYSTHERBE** (78) | **OSSELAIT** (0)
+125 | **MAGMAR** (45) | **PTITARD** (77) | **OSSATUEUR** (0)
+126 | **SCARABRUTE** (45) | **RONDOUDOU** (76) | **KICKLEE** (0)
+127 | **TAUROS** (45) | **MIMITOSS** (75) | **TYGNON** (0)
+128 | **LEVIATOR** (45) | **FEROSINGE** (74) | **EXCELANGUE** (0)
+129 | **LOKHLASS** (45) | **ABRA** (73) | **SMOGO** (0)
+130 | **EVOLI** (45) | **CHRYSACIER** (72) | **SMOGOGO** (0)
+131 | **AQUALI** (45) | **COCONFORT** (71) | **SAQUEDENEU** (0)
+132 | **VOLTALI** (45) | **PARAS** (70) | **KANGOUREX** (0)
+133 | **PYROLI** (45) | **MIAOUSS** (69) | **HYPOTREMPE** (0)
+134 | **PORYGON** (45) | **MELOFEE** (68) | **HYPOCEAN** (0)
+135 | **AMONITA** (45) | **MINIDRACO** (67) | **POISSIRENE** (0)
+136 | **AMONISTAR** (45) | **CARAPUCE** (66) | **POISSOROY** (0)
+137 | **KABUTO** (45) | **SALAMECHE** (65) | **M.MIME** (0)
+138 | **KABUTOPS** (45) | **BULBIZARRE** (64) | **INSECATEUR** (0)
+139 | **PTERA** (45) | **MEW** (64) | **LIPPOUTOU** (0)
+140 | **MINIDRACO** (45) | **GOUPIX** (63) | **ELEKTEK** (0)
+141 | **DRACO** (45) | **ABO** (62) | **MAGMAR** (0)
+142 | **DRACOLOSSE** (45) | **METAMORPH** (61) | **METAMORPH** (0)
+143 | **MEW** (45) | **NIDORAN♂** (60) | **EVOLI** (0)
+144 | **METAMORPH** (35) | **NIDORAN♀** (59) | **AQUALI** (0)
+145 | **LEVEINARD** (30) | **PIAFABEC** (58) | **VOLTALI** (0)
+146 | **MELODELFE** (25) | **RATTATA** (57) | **PYROLI** (0)
+147 | **RONFLEX** (25) | **ROUCOOL** (55) | **PORYGON** (0)
+148 | **ARTIKODIN** (3) | **NOSFERAPTI** (54) | **AMONITA** (0)
+149 | **ELECTHOR** (3) | **CHENIPAN** (53) | **AMONISTAR** (0)
+150 | **SULFURA** (3) | **ASPICOT** (52) | **KABUTO** (0)
+151 | **MEWTWO** (3) | **MAGICARPE** (20) | **KABUTOPS** (0)
+## V. Glossaire
+
+- Taux de catpure : Plus cette valeur est petite, plus le pokémon est difficile à attraper.
+
+- Taux de rendement d'expérience : Plus cette valeur est grande, plus le pokémon donne des points d'expérience lorsqu'il est battu.
+
+- Taux de croissance : Plus cette valeur est grande, plus le pokémon nécessite de points d'expérience pour passer des niveaux.
+
