@@ -2,7 +2,7 @@ Route8Mons:
 	db $0F
     db 18,PIDGEY
     db 18,MANKEY
-    db 17,EEVEE
+    db 21,EEVEE
     db 16,GROWLITHE
     db 20,PIDGEY
     db 20,MEOWTH

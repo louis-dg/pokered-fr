@@ -585,14 +585,14 @@ Mon120_EvosMoves:
 	db EV_ITEM,WATER_STONE,1,STARMIE
 	db 0
 ;Learnset
-	db 17,WATER_GUN
-	db 22,HARDEN
-	db 27,RECOVER
-	db 32,BUBBLEBEAM
-	db 36,SWIFT
-	db 39,MINIMIZE
-	db 42,LIGHT_SCREEN
-	db 47,HYDRO_PUMP
+    db 17,WATER_GUN
+    db 22,HARDEN
+    db 27,RECOVER
+    db 32,BUBBLEBEAM
+    db 36,SWIFT
+    db 40,CONFUSE_RAY
+    db 45,LIGHT_SCREEN
+    db 52,HYDRO_PUMP
 	db 0
 
 Mon009_EvosMoves:
@@ -778,12 +778,14 @@ Mon067_EvosMoves:
 	db EV_LEVEL,36,MACHAMP
 	db 0
 ;Learnset
-	db 20,LOW_KICK
-    db 25,LEER
+    db 10,LEER
+    db 15,COMET_PUNCH
+    db 20,LOW_KICK
+    db 25,DOUBLE_KICK
     db 31,SEISMIC_TOSS
     db 34,FOCUS_ENERGY
     db 38,MEGA_PUNCH
-    db 44,SUBMISSION
+    db 45,SUBMISSION
     db 51,DIZZY_PUNCH
     db 60,BODY_SLAM
 	db 0
@@ -838,10 +840,10 @@ Mon024_EvosMoves:
 	db 10,POISON_STING
 	db 17,BITE
 	db 27,GLARE
-	db 36,SCREECH
-	db 47,ACID
-	db 55,TOXIC
-	db 64,SLAM
+	db 33,SCREECH
+	db 41,ACID
+	db 50,TOXIC
+	db 55,SLAM
 	db 0
 
 Mon047_EvosMoves:
@@ -871,9 +873,9 @@ Mon054_EvosMoves:
 	db 26,CONFUSION
 	db 30,FURY_SWIPES
 	db 35,SLASH
-	db 44,HYDRO_PUMP
-	db 52,AMNESIA
-	db 58,PSYCHIC_M
+	db 42,HYDRO_PUMP
+	db 50,AMNESIA
+	db 56,PSYCHIC_M
 	db 0
 
 Mon096_EvosMoves:
@@ -926,7 +928,7 @@ Mon126_EvosMoves:
 	db 48,SMOKESCREEN
 	db 52,SMOG
 	db 55,FLAMETHROWER
-	db 63,FIRE_BLAST
+	db 62,FIRE_BLAST
 	db 0
 
 Mon155_EvosMoves:
@@ -998,10 +1000,10 @@ Mon056_EvosMoves:
 	db 23,FOCUS_ENERGY
 	db 27,LOW_KICK
 	db 33,SEISMIC_TOSS
-	db 39,THRASH
-	db 47,MEGA_PUNCH
-    db 53,AGILITY
-    db 59,DIZZY_PUNCH
+	db 38,THRASH
+    db 44,MEGA_PUNCH
+    db 50,AGILITY
+    db 56,DIZZY_PUNCH
 	db 0
 
 Mon086_EvosMoves:
@@ -1151,8 +1153,8 @@ Mon060_EvosMoves:
 	db EV_LEVEL,25,POLIWHIRL
 	db 0
 ;Learnset
-	db 16,HYPNOSIS
-	db 19,WATER_GUN
+	db 16,WATER_GUN
+	db 19,HYPNOSIS
 	db 25,DOUBLESLAP
 	db 31,BODY_SLAM
 	db 38,AMNESIA
@@ -1582,12 +1584,14 @@ Mon066_EvosMoves:
 	db EV_LEVEL,28,MACHOKE
 	db 0
 ;Learnset
+    db 10,LEER
+    db 15,COMET_PUNCH
 	db 20,LOW_KICK
-	db 25,LEER
+	db 25,DOUBLE_KICK
 	db 30,SEISMIC_TOSS
     db 34,FOCUS_ENERGY
-    db 40,MEGA_PUNCH
-	db 46,SUBMISSION
+    db 38,MEGA_PUNCH
+	db 44,SUBMISSION
 	db 51,DIZZY_PUNCH
     db 56,BODY_SLAM
 	db 0
@@ -1616,9 +1620,9 @@ Mon023_EvosMoves:
 	db 17,BITE
 	db 24,GLARE
 	db 31,SCREECH
-	db 38,ACID
-	db 45,TOXIC
-	db 54,SLAM
+	db 37,ACID
+	db 44,TOXIC
+	db 50,SLAM
 	db 0
 
 Mon046_EvosMoves:
@@ -1643,8 +1647,8 @@ Mon061_EvosMoves:
 	db EV_ITEM,WATER_STONE,1,POLIWRATH
 	db 0
 ;Learnset
-	db 16,HYPNOSIS
-	db 19,WATER_GUN
+	db 16,WATER_GUN
+	db 19,HYPNOSIS
 	db 24,DOUBLESLAP
 	db 29,KARATE_CHOP
 	db 34,BODY_SLAM
@@ -1658,8 +1662,8 @@ Mon062_EvosMoves:
 ;Evolutions
 	db 0
 ;Learnset
-	db 16,HYPNOSIS
-	db 19,WATER_GUN
+	db 16,WATER_GUN
+	db 19,HYPNOSIS
 	db 24,DOUBLESLAP
 	db 29,KARATE_CHOP
 	db 34,BODY_SLAM
@@ -1689,14 +1693,14 @@ Mon015_EvosMoves:
 ;Evolutions
 	db 0
 ;Learnset
-	db 12,FURY_ATTACK
-	db 16,FOCUS_ENERGY
-	db 20,TWINEEDLE
-	db 25,RAGE
-	db 30,PIN_MISSILE
-	db 35,AGILITY
-	db 40,DOUBLE_TEAM
-	db 45,WING_ATTACK
+	db 11,FURY_ATTACK
+	db 15,FOCUS_ENERGY
+	db 19,TWINEEDLE
+	db 24,RAGE
+	db 29,PIN_MISSILE
+	db 34,AGILITY
+	db 39,DOUBLE_TEAM
+	db 44,WING_ATTACK
 	db 0
 
 Mon170_EvosMoves:
@@ -1730,9 +1734,9 @@ Mon057_EvosMoves:
 	db 27,FOCUS_ENERGY
 	db 33,SEISMIC_TOSS
 	db 38,THRASH
-	db 44,MEGA_PUNCH
-	db 50,AGILITY
-	db 56,DIZZY_PUNCH
+	db 46,MEGA_PUNCH
+	db 52,AGILITY
+	db 58,DIZZY_PUNCH
 	db 0
 
 Mon051_EvosMoves:
@@ -1809,13 +1813,13 @@ Mon012_EvosMoves:
 ;Evolutions
 	db 0
 ;Learnset
-	db 12,CONFUSION
-	db 15,POISONPOWDER
-	db 16,STUN_SPORE
-	db 17,SLEEP_POWDER
-	db 21,SUPERSONIC
-	db 26,WHIRLWIND
-	db 32,PSYBEAM
+	db 11,CONFUSION
+	db 14,POISONPOWDER
+	db 15,STUN_SPORE
+	db 16,SLEEP_POWDER
+	db 20,SUPERSONIC
+	db 25,WHIRLWIND
+	db 31,PSYBEAM
 	db 0
 
 Mon068_EvosMoves:
@@ -1823,12 +1827,14 @@ Mon068_EvosMoves:
 ;Evolutions
 	db 0
 ;Learnset
-	db 20,LOW_KICK
-    db 25,LEER
+	db 10,LEER
+    db 15,COMET_PUNCH
+    db 20,LOW_KICK
+    db 25,DOUBLE_KICK
     db 31,SEISMIC_TOSS
     db 34,FOCUS_ENERGY
     db 38,MEGA_PUNCH
-    db 44,SUBMISSION
+    db 45,SUBMISSION
     db 51,DIZZY_PUNCH
     db 60,BODY_SLAM
 	db 0
@@ -1850,8 +1856,8 @@ Mon055_EvosMoves:
     db 26,CONFUSION
     db 30,FURY_SWIPES
     db 37,SLASH
-    db 46,HYDRO_PUMP
-    db 53,AMNESIA
+    db 45,HYDRO_PUMP
+    db 52,AMNESIA
     db 60,PSYCHIC_M
 	db 0
 
@@ -2132,10 +2138,9 @@ Mon121_EvosMoves:
 	db 27,RECOVER
 	db 32,BUBBLEBEAM
 	db 36,SWIFT
-	db 39,CONFUSE_RAY
-	db 42,LIGHT_SCREEN
-	db 47,HYDRO_PUMP
-	db 53,PSYWAVE
+	db 40,CONFUSE_RAY
+	db 45,LIGHT_SCREEN
+	db 52,HYDRO_PUMP
 	db 0
 
 Mon001_EvosMoves:
@@ -2274,8 +2279,8 @@ Mon078_EvosMoves:
 	db 32,STOMP
 	db 35,GROWL
 	db 39,FIRE_SPIN
-	db 47,TAKE_DOWN
-	db 54,AGILITY
+	db 46,TAKE_DOWN
+	db 53,AGILITY
 	db 60,FIRE_BLAST
 	db 0
 
@@ -2457,7 +2462,7 @@ Mon005_EvosMoves:
 	db 9,EMBER
 	db 15,LEER
 	db 24,RAGE
-	db 33,SLASH
+	db 32,SLASH
 	db 38,FLAMETHROWER
 	db 44,DRAGON_RAGE
 	db 49,FIRE_SPIN
@@ -2488,7 +2493,7 @@ Mon006_EvosMoves:
 	db 9,EMBER
     db 15,LEER
     db 24,RAGE
-    db 33,SLASH
+    db 32,SLASH
     db 40,FLAMETHROWER
     db 46,DRAGON_RAGE
     db 51,FIRE_SPIN

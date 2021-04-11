@@ -2,8 +2,8 @@ PlateauMons3:
 	db $0F
 	db 27,MACHOP
 	db 29,GEODUDE
-	db 25,ZUBAT
 	db 44,ONIX
+	db 45,RHYHORN
 	db 43,VENOMOTH
 	db 48,ONIX
 	db 46,GRAVELER

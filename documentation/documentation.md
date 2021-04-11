@@ -1189,9 +1189,9 @@ Page du projet : https://github.com/LePatator/pokered-fr
      MORSURE | 17 
      INTIMIDATION | 24 
      GRINCEMENT | 31 
-     ACIDE | 38 
-     TOXIK | 45 
-     SOUPLESSE | 54 
+     ACIDE | 37 
+     TOXIK | 44 
+     SOUPLESSE | 50 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque 
@@ -1244,10 +1244,10 @@ Page du projet : https://github.com/LePatator/pokered-fr
      DARD-VENIN | 10 
      MORSURE | 17 
      INTIMIDATION | 27 
-     GRINCEMENT | 36 
-     ACIDE | 47 
-     TOXIK | 55 
-     SOUPLESSE | 64 
+     GRINCEMENT | 33 
+     ACIDE | 41 
+     TOXIK | 50 
+     SOUPLESSE | 55 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque 
@@ -2984,9 +2984,9 @@ Page du projet : https://github.com/LePatator/pokered-fr
      CHOC MENTAL | 26 
      COMBO-GRIFFE | 30 
      TRANCHE | 35 
-     HYDROCANON | 44 
-     AMNESIE | 52 
-     PSYKO | 58 
+     HYDROCANON | 42 
+     AMNESIE | 50 
+     PSYKO | 56 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque 
@@ -3049,8 +3049,8 @@ Page du projet : https://github.com/LePatator/pokered-fr
      CHOC MENTAL | 26 
      COMBO-GRIFFE | 30 
      TRANCHE | 37 
-     HYDROCANON | 46 
-     AMNESIE | 53 
+     HYDROCANON | 45 
+     AMNESIE | 52 
      PSYKO | 60 
    * Attaques accessibles via CT/CS :
 
@@ -3113,10 +3113,10 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PUISSANCE | 23 
      BALAYAGE | 27 
      FRAPPE ATLAS | 33 
-     MANIA | 39 
-     ULTIMAPOING | 47 
-     HATE | 53 
-     UPPERCUT | 59 
+     MANIA | 38 
+     ULTIMAPOING | 44 
+     HATE | 50 
+     UPPERCUT | 56 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque 
@@ -3180,9 +3180,9 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PUISSANCE | 27 
      FRAPPE ATLAS | 33 
      MANIA | 38 
-     ULTIMAPOING | 44 
-     HATE | 50 
-     UPPERCUT | 56 
+     ULTIMAPOING | 46 
+     HATE | 52 
+     UPPERCUT | 58 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque 
@@ -4443,8 +4443,8 @@ Page du projet : https://github.com/LePatator/pokered-fr
      ECRASEMENT | 32 
      RUGISSEMENT | 35 
      DANSEFLAMME | 39 
-     BELIER | 47 
-     HATE | 54 
+     BELIER | 46 
+     HATE | 53 
      DEFLAGRATION | 60 
    * Attaques accessibles via CT/CS :
 
@@ -6842,9 +6842,9 @@ Page du projet : https://github.com/LePatator/pokered-fr
      SOIN | 27 
      BULLES D'O | 32 
      METEORES | 36 
-     LILLIPUT | 39 
-     MUR LUMIERE | 42 
-     HYDROCANON | 47 
+     ONDE FOLIE | 40 
+     MUR LUMIERE | 45 
+     HYDROCANON | 52 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque 
@@ -6905,10 +6905,9 @@ Page du projet : https://github.com/LePatator/pokered-fr
      SOIN | 27 
      BULLES D'O | 32 
      METEORES | 36 
-     ONDE FOLIE | 39 
-     MUR LUMIERE | 42 
-     HYDROCANON | 47 
-     VAGUE PSY | 53 
+     ONDE FOLIE | 40 
+     MUR LUMIERE | 45 
+     HYDROCANON | 52 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque 
@@ -7212,7 +7211,7 @@ Page du projet : https://github.com/LePatator/pokered-fr
      BROUILLARD | 48 
      PUREDPOIS | 52 
      LANCE-FLAMME | 55 
-     DEFLAGRATION | 63 
+     DEFLAGRATION | 62 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque 
@@ -9366,7 +9365,7 @@ Le taux d'apparition d'un pokémon à un niveau donné est toujours de 10%. Donc
      --- | --- 
      RHINOFEROS | 57
      OSSATUEUR | 57
-     ELECTRODE | 57
+     LIPPOUTOU | 57
      LEVEINARD | 66
      PARASECT | 66
      RAICHU | 66
