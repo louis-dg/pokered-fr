@@ -45,7 +45,7 @@ Pour construire le fichier .gbc, suivez les instructions du fichier INSTALL.md. 
 
 Le fichier de documentation [**documentation.md**](documentation/documentation.md) fournit des informations sur les propriétés du jeu incluant les modifications effectuées pour cette hack rom.
 
-**Pour jouer au jeu, téléchargez le fichier pokered.gbc se trouvant dans la release de ce projet** -> [Release](https://github.com/LePatator/pokered-fr/releases/tag/stable) <- et utilisez-le avec votre émulateur de prédilection.
+**Pour jouer au jeu, téléchargez le fichier pokered.gbc se trouvant dans la release de ce projet** -> [Release](https://github.com/LePatator/pokered-fr/releases) <- et utilisez-le avec votre émulateur de prédilection.
 
 # Liste des Modifications
 
