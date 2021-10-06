@@ -6,15 +6,15 @@ Page du projet : https://github.com/LePatator/pokered-fr
 
 ## Sommaire
 
-- I. Propriétés des pokémons
+- [I. Propriétés des pokémons](#i.-propriétés-des-pokémons)
 
-- II. Liste des Attaques
+- [II. Liste des Attaques](#ii.-liste-des-attaques)
 
-- III. Description des régions
+- [III. Description des régions](#iii.-description-des-régions)
 
-- IV. Classement par stats
+- [IV. Classement par stats](#iv.-classement-par-stats)
 
-- V. Glossaire
+- [V. Glossaire](#v.-glossaire)
 
 ## I. Propriétés des pokémons
 - 001 BULBIZARRE
@@ -9425,9 +9425,9 @@ Le taux d'apparition d'un pokémon à un niveau donné est toujours de 10%. Donc
      TENTACOOL | 5, 15, 10, 15, 35, 40
      PTITARD | 10, 5
      HYPOTREMPE | 20, 30
-## IV. Classements par stats
+## IV. Classement par stats
 
-### Statistiques
+### Statistiques de base
 
 Classement | PV | FOR | DEF | VIT | SPE
 --- | --- | --- | --- | --- | ---
