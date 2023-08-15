@@ -1,4 +1,5 @@
 import os
+import math
 
 from documentation.Pokemon import Pokemon
 from documentation.WildPokemonZone import WildPokemonZone
@@ -151,39 +152,58 @@ def buildPokemonsDoc(titleSection1, movesNamesDict, tmhmDict, pokemons):
     pokemons.sort(key=lambda x: x.number, reverse=False)
 
     for pokemon in pokemons:
-        docLines.append("- " + pokemon.number + " " + pokemon.name + "\n")
+        docLines.append("- **" + pokemon.number + " " + pokemon.name + "**\n")
 
-        docLines.append("   * Statistiques :\n\n")
-        docLines.append("     Stat | Valeur de base \n")
-        docLines.append("     --- | --- \n")
-        docLines.append("     PV | " + pokemon.baseHP + " \n")
-        docLines.append("     FOR | " + pokemon.baseAtk + " \n")
-        docLines.append("     DEF | " + pokemon.baseDef + " \n")
-        docLines.append("     VIT | " + pokemon.baseSpeed + " \n")
-        docLines.append("     SPE | " + pokemon.baseSpecial + " \n")
-        docLines.append("   * Taux de catpure : " + pokemon.catchRate + " \n\n")
+        docLines.append("   * Statistiques de base :\n\n")
+        docLines.append("     PV | FOR | DEF | VIT | SPE \n")
+        docLines.append("     --- | --- | --- | --- | --- \n")
+        docLines.append("     " + pokemon.baseHP + " | " + pokemon.baseAtk + " | " + pokemon.baseDef + " | " + pokemon.baseSpeed + " | " + pokemon.baseSpecial + " \n")
+        docLines.append("   * Taux de capture : " + pokemon.catchRate + " \n\n")
         docLines.append("   * Taux de rendement d'expérience : " + pokemon.xpYield + " \n\n")
         docLines.append("   * Taux de croissance : " + pokemon.growthRate + " \n\n")
-        docLines.append("   * Attaques de départ :\n\n")
+        strAtk = ""
         for mv in pokemon.baseMoveset:
-            docLines.append("     * " + movesNamesDict[mv] + "\n\n")
-        docLines.append("   * Liste des attaques apprises :\n\n")
-        docLines.append("     Attaque | Niveau \n")
-        docLines.append("     --- | --- \n")
-        for moveName, moveLvl in pokemon.moves.items():
-            docLines.append("     " + movesNamesDict[moveName] + " | " + moveLvl + " \n")
-        docLines.append("   * Attaques accessibles via CT/CS :\n\n")
-        docLines.append("     CT/CS | Attaque \n")
-        docLines.append("     --- | --- \n")
-        for tmhm in pokemon.learnset:
-            intTMHM = int(tmhm)
-            if intTMHM < 51:
-                docLines.append("     CT" + '{:02}'.format(intTMHM) + " | " + movesNamesDict[tmhmDict[intTMHM]] + "\n")
-            else:
-                docLines.append("     CS" + '{:02}'.format(intTMHM - 50) + " | " + movesNamesDict[tmhmDict[intTMHM]] + "\n")
+            strAtk += movesNamesDict[mv] + ", "
+        docLines.append("   * Attaques de départ : " + strAtk[:-2] + "\n\n")
+        if len(pokemon.moves.items()) > 0:
+            docLines.append("   * Liste des attaques apprises :\n\n")
+            docLines.append("     Attaque | Niveau \n")
+            docLines.append("     --- | --- \n")
+            for moveName, moveLvl in pokemon.moves.items():
+                docLines.append("     " + movesNamesDict[moveName] + " | " + moveLvl + " \n")
+        else:
+            docLines.append("   * Liste des attaques apprises : aucune\n\n")
+        if len(pokemon.learnset) > 0:
+            docLines.append("   * Attaques accessibles via CT/CS :\n\n")
+            nbMaxLine = 8
+            nbCol = int(math.ceil(len(pokemon.learnset) / nbMaxLine))
+            docLines.append("     " + " | ".join(["CT/CS | Attaque"] * nbCol) + " \n")
+            docLines.append("     " + " | ".join(["--- | ---"] * nbCol) + " \n")
+
+            groupsList = list(divide_chunks(pokemon.learnset, nbCol))
+            for group in groupsList:
+                strLine = ""
+                for tmhm in group:
+                    intTMHM = int(tmhm)
+                    if intTMHM < 51:
+                        strLine += "CT" + '{:02}'.format(intTMHM) + " | " + movesNamesDict[tmhmDict[intTMHM]] + " | "
+                    else:
+                        strLine += "CS" + '{:02}'.format(intTMHM - 50) + " | " + movesNamesDict[tmhmDict[intTMHM]] + " | "
+                strLine = strLine[:-2]
+                strLine += "\n"
+                docLines.append("     " + strLine)
+        else:
+            docLines.append("   * Attaques accessibles via CT/CS : aucune\n\n")
 
     docLines.append("\n\n")
     return docLines
+
+# Yield successive n-sized chunks from l.
+def divide_chunks(l, n):
+    # looping till length l
+    for i in range(0, len(l), n):
+        yield l[i:i + n]
+
 
 # build a dict associating each zone with its properties (see WildPokemonZone.py)
 def buildWildPokemonsData():
@@ -281,7 +301,7 @@ def buildSectionLink(str):
 def buildGlossary(titleSection5):
     docLines = []
     docLines.append("## " + titleSection5 + "\n\n")
-    docLines.append("- Taux de catpure : Plus cette valeur est petite, plus le pokémon est difficile à attraper.\n\n")
+    docLines.append("- Taux de capture : Plus cette valeur est petite, plus le pokémon est difficile à attraper.\n\n")
     docLines.append("- Taux de rendement d'expérience : Plus cette valeur est grande, plus le pokémon donne des points d'expérience lorsqu'il est battu.\n\n")
     docLines.append("- Taux de croissance : Plus cette valeur est grande, plus le pokémon nécessite de points d'expérience pour passer des niveaux.\n\n")
     return docLines

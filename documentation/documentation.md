@@ -17,27 +17,19 @@ Page du projet : https://github.com/LePatator/pokered-fr
 - [V. Glossaire](#v.-glossaire)
 
 ## I. Propriétés des pokémons
-- 001 BULBIZARRE
-   * Statistiques :
+- **001 BULBIZARRE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 45 
-     FOR | 49 
-     DEF | 49 
-     VIT | 45 
-     SPE | 65 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     45 | 49 | 49 | 45 | 65 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 64 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * CHARGE
-
-     * RUGISSEMENT
+   * Attaques de départ : CHARGE, RUGISSEMENT
 
    * Liste des attaques apprises :
 
@@ -54,46 +46,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PLAQUAGE | 53 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT03 | DANSE-LAMES
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT21 | MEGA-SANGSUE
-     CT22 | LANCE-SOLEIL
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS01 | COUPE
-- 002 HERBIZARRE
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT03 | DANSE-LAMES | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT21 | MEGA-SANGSUE 
+     CT22 | LANCE-SOLEIL | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE 
+     CT44 | REPOS | CT50 | CLONAGE 
+     CS01 | COUPE 
+- **002 HERBIZARRE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 60 
-     FOR | 62 
-     DEF | 63 
-     VIT | 60 
-     SPE | 80 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     60 | 62 | 63 | 60 | 80 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 141 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * CHARGE
-
-     * RUGISSEMENT
-
-     * VAMPIGRAINE
+   * Attaques de départ : CHARGE, RUGISSEMENT, VAMPIGRAINE
 
    * Liste des attaques apprises :
 
@@ -110,48 +85,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PLAQUAGE | 55 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT03 | DANSE-LAMES
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT21 | MEGA-SANGSUE
-     CT22 | LANCE-SOLEIL
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS01 | COUPE
-- 003 FLORIZARRE
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT03 | DANSE-LAMES | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT21 | MEGA-SANGSUE 
+     CT22 | LANCE-SOLEIL | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE 
+     CT44 | REPOS | CT50 | CLONAGE 
+     CS01 | COUPE 
+- **003 FLORIZARRE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 80 
-     FOR | 82 
-     DEF | 83 
-     VIT | 80 
-     SPE | 100 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     80 | 82 | 83 | 80 | 100 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 208 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * CHARGE
-
-     * RUGISSEMENT
-
-     * VAMPIGRAINE
-
-     * FOUET LIANES
+   * Attaques de départ : CHARGE, RUGISSEMENT, VAMPIGRAINE, FOUET LIANES
 
    * Liste des attaques apprises :
 
@@ -168,45 +124,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PLAQUAGE | 58 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT03 | DANSE-LAMES
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT21 | MEGA-SANGSUE
-     CT22 | LANCE-SOLEIL
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS01 | COUPE
-- 004 SALAMECHE
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT03 | DANSE-LAMES | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT15 | ULTRALASER 
+     CT21 | MEGA-SANGSUE | CT22 | LANCE-SOLEIL 
+     CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT44 | REPOS 
+     CT50 | CLONAGE | CS01 | COUPE 
+- **004 SALAMECHE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 39 
-     FOR | 52 
-     DEF | 43 
-     VIT | 65 
-     SPE | 50 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     39 | 52 | 43 | 65 | 50 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 65 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * GRIFFE
-
-     * RUGISSEMENT
+   * Attaques de départ : GRIFFE, RUGISSEMENT
 
    * Liste des attaques apprises :
 
@@ -223,56 +163,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      DEFLAGRATION | 52 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT03 | DANSE-LAMES
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT20 | LANCE-FLAMME
-     CT23 | DRACO-RAGE
-     CT28 | TUNNEL
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS01 | COUPE
-     CS04 | FORCE
-- 005 REPTINCEL
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT03 | DANSE-LAMES | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT17 | SACRIFICE 
+     CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT20 | LANCE-FLAMME | CT23 | DRACO-RAGE 
+     CT28 | TUNNEL | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE | CT38 | DEFLAGRATION | CT39 | METEORES 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE | CS01 | COUPE 
+     CS04 | FORCE 
+- **005 REPTINCEL**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 58 
-     FOR | 64 
-     DEF | 58 
-     VIT | 80 
-     SPE | 65 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     58 | 64 | 58 | 80 | 65 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 142 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * GRIFFE
-
-     * RUGISSEMENT
-
-     * FLAMMECHE
+   * Attaques de départ : GRIFFE, RUGISSEMENT, FLAMMECHE
 
    * Liste des attaques apprises :
 
@@ -288,58 +200,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      DEFLAGRATION | 55 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT03 | DANSE-LAMES
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT20 | LANCE-FLAMME
-     CT23 | DRACO-RAGE
-     CT28 | TUNNEL
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS01 | COUPE
-     CS04 | FORCE
-- 006 DRACAUFEU
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT03 | DANSE-LAMES | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT17 | SACRIFICE 
+     CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT20 | LANCE-FLAMME | CT23 | DRACO-RAGE 
+     CT28 | TUNNEL | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE | CT38 | DEFLAGRATION | CT39 | METEORES 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE | CS01 | COUPE 
+     CS04 | FORCE 
+- **006 DRACAUFEU**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 78 
-     FOR | 84 
-     DEF | 78 
-     VIT | 100 
-     SPE | 85 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     78 | 84 | 78 | 100 | 85 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 209 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * GRIFFE
-
-     * RUGISSEMENT
-
-     * FLAMMECHE
-
-     * GROZ'YEUX
+   * Attaques de départ : GRIFFE, RUGISSEMENT, FLAMMECHE, GROZ'YEUX
 
    * Liste des attaques apprises :
 
@@ -355,58 +237,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      DEFLAGRATION | 58 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT03 | DANSE-LAMES
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT20 | LANCE-FLAMME
-     CT23 | DRACO-RAGE
-     CT26 | SEISME
-     CT27 | ABIME
-     CT28 | TUNNEL
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS01 | COUPE
-     CS02 | VOL
-     CS04 | FORCE
-- 007 CARAPUCE
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT03 | DANSE-LAMES | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT15 | ULTRALASER 
+     CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT20 | LANCE-FLAMME 
+     CT23 | DRACO-RAGE | CT26 | SEISME | CT27 | ABIME | CT28 | TUNNEL 
+     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT38 | DEFLAGRATION | CT39 | METEORES | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT50 | CLONAGE | CS01 | COUPE | CS02 | VOL 
+     CS04 | FORCE 
+- **007 CARAPUCE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 44 
-     FOR | 48 
-     DEF | 65 
-     VIT | 43 
-     SPE | 50 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     44 | 48 | 65 | 43 | 50 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 66 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * CHARGE
-
-     * MIMI-QUEUE
+   * Attaques de départ : CHARGE, MIMI-QUEUE
 
    * Liste des attaques apprises :
 
@@ -422,55 +275,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PLAQUAGE | 48 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT28 | TUNNEL
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS03 | SURF
-     CS04 | FORCE
-- 008 CARABAFFE
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES 
+     CT11 | BULLES D'O | CT12 | PISTOLET A O | CT13 | LASER GLACE 
+     CT14 | BLIZZARD | CT17 | SACRIFICE | CT18 | RIPOSTE 
+     CT19 | FRAPPE ATLAS | CT28 | TUNNEL | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
+- **008 CARABAFFE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 59 
-     FOR | 63 
-     DEF | 80 
-     VIT | 58 
-     SPE | 65 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     59 | 63 | 80 | 58 | 65 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 143 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * CHARGE
-
-     * MIMI-QUEUE
-
-     * ECUME
+   * Attaques de départ : CHARGE, MIMI-QUEUE, ECUME
 
    * Liste des attaques apprises :
 
@@ -486,57 +313,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PLAQUAGE | 51 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT28 | TUNNEL
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS03 | SURF
-     CS04 | FORCE
-- 009 TORTANK
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES 
+     CT11 | BULLES D'O | CT12 | PISTOLET A O | CT13 | LASER GLACE 
+     CT14 | BLIZZARD | CT17 | SACRIFICE | CT18 | RIPOSTE 
+     CT19 | FRAPPE ATLAS | CT28 | TUNNEL | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
+- **009 TORTANK**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 79 
-     FOR | 83 
-     DEF | 100 
-     VIT | 78 
-     SPE | 85 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     79 | 83 | 100 | 78 | 85 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 210 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * CHARGE
-
-     * MIMI-QUEUE
-
-     * ECUME
-
-     * PISTOLET A O
+   * Attaques de départ : CHARGE, MIMI-QUEUE, ECUME, PISTOLET A O
 
    * Liste des attaques apprises :
 
@@ -552,112 +351,64 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PLAQUAGE | 56 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT26 | SEISME
-     CT27 | ABIME
-     CT28 | TUNNEL
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS03 | SURF
-     CS04 | FORCE
-- 010 CHENIPAN
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER | CT17 | SACRIFICE 
+     CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT26 | SEISME | CT27 | ABIME 
+     CT28 | TUNNEL | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
+- **010 CHENIPAN**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 45 
-     FOR | 30 
-     DEF | 35 
-     VIT | 45 
-     SPE | 20 
-   * Taux de catpure : 255 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     45 | 30 | 35 | 45 | 20 
+   * Taux de capture : 255 
 
    * Taux de rendement d'expérience : 53 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
+   * Attaques de départ : CHARGE, SECRETION
 
-     * CHARGE
+   * Liste des attaques apprises : aucune
 
-     * SECRETION
+   * Attaques accessibles via CT/CS : aucune
 
-   * Liste des attaques apprises :
+- **011 CHRYSACIER**
+   * Statistiques de base :
 
-     Attaque | Niveau 
-     --- | --- 
-   * Attaques accessibles via CT/CS :
-
-     CT/CS | Attaque 
-     --- | --- 
-- 011 CHRYSACIER
-   * Statistiques :
-
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 50 
-     FOR | 20 
-     DEF | 55 
-     VIT | 30 
-     SPE | 25 
-   * Taux de catpure : 120 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     50 | 20 | 55 | 30 | 25 
+   * Taux de capture : 120 
 
    * Taux de rendement d'expérience : 72 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
+   * Attaques de départ : ARMURE
 
-     * ARMURE
+   * Liste des attaques apprises : aucune
 
-   * Liste des attaques apprises :
+   * Attaques accessibles via CT/CS : aucune
 
-     Attaque | Niveau 
-     --- | --- 
-   * Attaques accessibles via CT/CS :
+- **012 PAPILUSION**
+   * Statistiques de base :
 
-     CT/CS | Attaque 
-     --- | --- 
-- 012 PAPILUSION
-   * Statistiques :
-
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 60 
-     FOR | 45 
-     DEF | 50 
-     VIT | 70 
-     SPE | 80 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     60 | 45 | 50 | 70 | 80 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 160 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * CHOC MENTAL
+   * Attaques de départ : CHOC MENTAL
 
    * Liste des attaques apprises :
 
@@ -672,102 +423,63 @@ Page du projet : https://github.com/LePatator/pokered-fr
      RAFALE PSY | 31 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT02 | COUPE-VENT
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT21 | MEGA-SANGSUE
-     CT22 | LANCE-SOLEIL
-     CT29 | PSYKO
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT44 | REPOS
-     CT46 | VAGUE PSY
-     CT50 | CLONAGE
-     CS02 | VOL
-- 013 ASPICOT
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT02 | COUPE-VENT | CT06 | TOXIK | CT09 | BELIER 
+     CT10 | DAMOCLES | CT15 | ULTRALASER | CT21 | MEGA-SANGSUE 
+     CT22 | LANCE-SOLEIL | CT29 | PSYKO | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
+     CT39 | METEORES | CT44 | REPOS | CT46 | VAGUE PSY 
+     CT50 | CLONAGE | CS02 | VOL 
+- **013 ASPICOT**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 40 
-     FOR | 35 
-     DEF | 30 
-     VIT | 50 
-     SPE | 20 
-   * Taux de catpure : 255 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     40 | 35 | 30 | 50 | 20 
+   * Taux de capture : 255 
 
    * Taux de rendement d'expérience : 52 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
+   * Attaques de départ : DARD-VENIN, SECRETION
 
-     * DARD-VENIN
+   * Liste des attaques apprises : aucune
 
-     * SECRETION
+   * Attaques accessibles via CT/CS : aucune
 
-   * Liste des attaques apprises :
+- **014 COCONFORT**
+   * Statistiques de base :
 
-     Attaque | Niveau 
-     --- | --- 
-   * Attaques accessibles via CT/CS :
-
-     CT/CS | Attaque 
-     --- | --- 
-- 014 COCONFORT
-   * Statistiques :
-
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 45 
-     FOR | 25 
-     DEF | 50 
-     VIT | 35 
-     SPE | 25 
-   * Taux de catpure : 120 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     45 | 25 | 50 | 35 | 25 
+   * Taux de capture : 120 
 
    * Taux de rendement d'expérience : 71 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
+   * Attaques de départ : ARMURE
 
-     * ARMURE
+   * Liste des attaques apprises : aucune
 
-   * Liste des attaques apprises :
+   * Attaques accessibles via CT/CS : aucune
 
-     Attaque | Niveau 
-     --- | --- 
-   * Attaques accessibles via CT/CS :
+- **015 DARDARGNAN**
+   * Statistiques de base :
 
-     CT/CS | Attaque 
-     --- | --- 
-- 015 DARDARGNAN
-   * Statistiques :
-
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 65 
-     FOR | 80 
-     DEF | 40 
-     VIT | 75 
-     SPE | 45 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     65 | 80 | 40 | 75 | 45 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 159 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * FURIE
+   * Attaques de départ : FURIE
 
    * Liste des attaques apprises :
 
@@ -783,43 +495,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      CRU-AILE | 44 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT03 | DANSE-LAMES
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT21 | MEGA-SANGSUE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT36 | DETRITUS
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS01 | COUPE
-- 016 ROUCOOL
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT03 | DANSE-LAMES | CT06 | TOXIK 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT15 | ULTRALASER | CT21 | MEGA-SANGSUE 
+     CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE 
+     CT36 | DETRITUS | CT39 | METEORES 
+     CT40 | COUD'KRANE | CT44 | REPOS 
+     CT50 | CLONAGE | CS01 | COUPE 
+- **016 ROUCOOL**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 40 
-     FOR | 45 
-     DEF | 40 
-     VIT | 56 
-     SPE | 35 
-   * Taux de catpure : 255 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     40 | 45 | 40 | 56 | 35 
+   * Taux de capture : 255 
 
    * Taux de rendement d'expérience : 55 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * TORNADE
+   * Attaques de départ : TORNADE
 
    * Liste des attaques apprises :
 
@@ -834,42 +532,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      COUPE-VENT | 50 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT02 | COUPE-VENT
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT43 | PIQUE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS02 | VOL
-- 017 ROUCOUPS
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT02 | COUPE-VENT | CT06 | TOXIK 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE 
+     CT39 | METEORES | CT43 | PIQUE 
+     CT44 | REPOS | CT50 | CLONAGE 
+     CS02 | VOL 
+- **017 ROUCOUPS**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 63 
-     FOR | 60 
-     DEF | 55 
-     VIT | 71 
-     SPE | 50 
-   * Taux de catpure : 120 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     63 | 60 | 55 | 71 | 50 
+   * Taux de capture : 120 
 
    * Taux de rendement d'expérience : 113 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * TORNADE
-
-     * JET DE SABLE
+   * Attaques de départ : TORNADE, JET DE SABLE
 
    * Liste des attaques apprises :
 
@@ -884,44 +568,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      COUPE-VENT | 55 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT02 | COUPE-VENT
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT43 | PIQUE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS02 | VOL
-- 018 ROUCARNAGE
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT02 | COUPE-VENT | CT06 | TOXIK 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE 
+     CT39 | METEORES | CT43 | PIQUE 
+     CT44 | REPOS | CT50 | CLONAGE 
+     CS02 | VOL 
+- **018 ROUCARNAGE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 83 
-     FOR | 80 
-     DEF | 75 
-     VIT | 91 
-     SPE | 70 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     83 | 80 | 75 | 91 | 70 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 172 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * TORNADE
-
-     * JET DE SABLE
-
-     * VIVE-ATTAQUE
+   * Attaques de départ : TORNADE, JET DE SABLE, VIVE-ATTAQUE
 
    * Liste des attaques apprises :
 
@@ -936,43 +604,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      COUPE-VENT | 60 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT02 | COUPE-VENT
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT43 | PIQUE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS02 | VOL
-- 019 RATTATA
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT02 | COUPE-VENT | CT06 | TOXIK 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT15 | ULTRALASER | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT39 | METEORES 
+     CT43 | PIQUE | CT44 | REPOS 
+     CT50 | CLONAGE | CS02 | VOL 
+- **019 RATTATA**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 30 
-     FOR | 56 
-     DEF | 35 
-     VIT | 72 
-     SPE | 25 
-   * Taux de catpure : 255 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     30 | 56 | 35 | 72 | 25 
+   * Taux de capture : 255 
 
    * Taux de rendement d'expérience : 57 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * CHARGE
-
-     * MIMI-QUEUE
+   * Attaques de départ : CHARGE, MIMI-QUEUE
 
    * Liste des attaques apprises :
 
@@ -985,48 +638,27 @@ Page du projet : https://github.com/LePatator/pokered-fr
      COMBO-GRIFFE | 40 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT14 | BLIZZARD
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT28 | TUNNEL
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-- 020 RATTATAC
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT14 | BLIZZARD | CT24 | TONNERRE | CT25 | FATAL-FOUDRE 
+     CT28 | TUNNEL | CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT39 | METEORES | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT50 | CLONAGE 
+- **020 RATTATAC**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 55 
-     FOR | 81 
-     DEF | 60 
-     VIT | 97 
-     SPE | 50 
-   * Taux de catpure : 90 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     55 | 81 | 60 | 97 | 50 
+   * Taux de capture : 90 
 
    * Taux de rendement d'expérience : 116 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * CHARGE
-
-     * MIMI-QUEUE
-
-     * VIVE-ATTAQUE
+   * Attaques de départ : CHARGE, MIMI-QUEUE, VIVE-ATTAQUE
 
    * Liste des attaques apprises :
 
@@ -1039,48 +671,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      COMBO-GRIFFE | 46 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT28 | TUNNEL
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-- 021 PIAFABEC
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER 
+     CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT28 | TUNNEL 
+     CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE 
+     CT39 | METEORES | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT50 | CLONAGE 
+- **021 PIAFABEC**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 40 
-     FOR | 60 
-     DEF | 30 
-     VIT | 70 
-     SPE | 31 
-   * Taux de catpure : 255 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     40 | 60 | 30 | 70 | 31 
+   * Taux de capture : 255 
 
    * Taux de rendement d'expérience : 58 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * PICPIC
-
-     * RUGISSEMENT
+   * Attaques de départ : PICPIC, RUGISSEMENT
 
    * Liste des attaques apprises :
 
@@ -1094,43 +706,27 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PIQUE | 43 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT02 | COUPE-VENT
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT43 | PIQUE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS02 | VOL
-- 022 RAPASDEPIC
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT02 | COUPE-VENT | CT06 | TOXIK 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT39 | METEORES 
+     CT43 | PIQUE | CT44 | REPOS 
+     CT50 | CLONAGE | CS02 | VOL 
+- **022 RAPASDEPIC**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 65 
-     FOR | 90 
-     DEF | 65 
-     VIT | 100 
-     SPE | 61 
-   * Taux de catpure : 90 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     65 | 90 | 65 | 100 | 61 
+   * Taux de capture : 90 
 
    * Taux de rendement d'expérience : 162 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * PICPIC
-
-     * RUGISSEMENT
-
-     * GROZ'YEUX
+   * Attaques de départ : PICPIC, RUGISSEMENT, GROZ'YEUX
 
    * Liste des attaques apprises :
 
@@ -1144,42 +740,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PIQUE | 49 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT02 | COUPE-VENT
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT43 | PIQUE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS02 | VOL
-- 023 ABO
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT02 | COUPE-VENT | CT06 | TOXIK 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT15 | ULTRALASER | CT31 | COPIE 
+     CT32 | REFLET | CT34 | PATIENCE 
+     CT39 | METEORES | CT43 | PIQUE 
+     CT44 | REPOS | CT50 | CLONAGE 
+     CS02 | VOL 
+- **023 ABO**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 35 
-     FOR | 60 
-     DEF | 44 
-     VIT | 55 
-     SPE | 40 
-   * Taux de catpure : 255 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     35 | 60 | 44 | 55 | 40 
+   * Taux de capture : 255 
 
    * Taux de rendement d'expérience : 62 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * LIGOTAGE
-
-     * GROZ'YEUX
+   * Attaques de départ : LIGOTAGE, GROZ'YEUX
 
    * Liste des attaques apprises :
 
@@ -1194,48 +776,27 @@ Page du projet : https://github.com/LePatator/pokered-fr
      SOUPLESSE | 50 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT21 | MEGA-SANGSUE
-     CT26 | SEISME
-     CT27 | ABIME
-     CT28 | TUNNEL
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT36 | DETRITUS
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT48 | EBOULEMENT
-     CT50 | CLONAGE
-     CS04 | FORCE
-- 024 ARBOK
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT21 | MEGA-SANGSUE | CT26 | SEISME 
+     CT27 | ABIME | CT28 | TUNNEL | CT31 | COPIE 
+     CT32 | REFLET | CT34 | PATIENCE | CT36 | DETRITUS 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT48 | EBOULEMENT 
+     CT50 | CLONAGE | CS04 | FORCE 
+- **024 ARBOK**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 60 
-     FOR | 85 
-     DEF | 69 
-     VIT | 80 
-     SPE | 65 
-   * Taux de catpure : 90 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     60 | 85 | 69 | 80 | 65 
+   * Taux de capture : 90 
 
    * Taux de rendement d'expérience : 147 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * LIGOTAGE
-
-     * GROZ'YEUX
-
-     * DARD-VENIN
+   * Attaques de départ : LIGOTAGE, GROZ'YEUX, DARD-VENIN
 
    * Liste des attaques apprises :
 
@@ -1250,47 +811,27 @@ Page du projet : https://github.com/LePatator/pokered-fr
      SOUPLESSE | 55 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT21 | MEGA-SANGSUE
-     CT26 | SEISME
-     CT27 | ABIME
-     CT28 | TUNNEL
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT36 | DETRITUS
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT48 | EBOULEMENT
-     CT50 | CLONAGE
-     CS04 | FORCE
-- 025 PIKACHU
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT15 | ULTRALASER | CT21 | MEGA-SANGSUE 
+     CT26 | SEISME | CT27 | ABIME | CT28 | TUNNEL 
+     CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE 
+     CT36 | DETRITUS | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT48 | EBOULEMENT | CT50 | CLONAGE | CS04 | FORCE 
+- **025 PIKACHU**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 35 
-     FOR | 55 
-     DEF | 30 
-     VIT | 90 
-     SPE | 50 
-   * Taux de catpure : 190 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     35 | 55 | 30 | 90 | 50 
+   * Taux de capture : 190 
 
    * Taux de rendement d'expérience : 82 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * ECLAIR
-
-     * RUGISSEMENT
+   * Attaques de départ : ECLAIR, RUGISSEMENT
 
    * Liste des attaques apprises :
 
@@ -1307,53 +848,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      MUR LUMIERE | 50 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT16 | JACKPOT
-     CT17 | SACRIFICE
-     CT19 | FRAPPE ATLAS
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT50 | CLONAGE
-     CS05 | FLASH
-- 026 RAICHU
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES 
+     CT16 | JACKPOT | CT17 | SACRIFICE | CT19 | FRAPPE ATLAS 
+     CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT39 | METEORES | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT45 | CAGE-ECLAIR | CT50 | CLONAGE 
+     CS05 | FLASH 
+- **026 RAICHU**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 60 
-     FOR | 90 
-     DEF | 55 
-     VIT | 100 
-     SPE | 90 
-   * Taux de catpure : 75 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     60 | 90 | 55 | 100 | 90 
+   * Taux de capture : 75 
 
    * Taux de rendement d'expérience : 122 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * ECLAIR
-
-     * RUGISSEMENT
-
-     * CAGE-ECLAIR
+   * Attaques de départ : ECLAIR, RUGISSEMENT, CAGE-ECLAIR
 
    * Liste des attaques apprises :
 
@@ -1370,50 +887,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      MUR LUMIERE | 50 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT16 | JACKPOT
-     CT17 | SACRIFICE
-     CT19 | FRAPPE ATLAS
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT50 | CLONAGE
-     CS05 | FLASH
-- 027 SABELETTE
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES 
+     CT15 | ULTRALASER | CT16 | JACKPOT | CT17 | SACRIFICE 
+     CT19 | FRAPPE ATLAS | CT24 | TONNERRE | CT25 | FATAL-FOUDRE 
+     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE | CT39 | METEORES 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR 
+     CT50 | CLONAGE | CS05 | FLASH 
+- **027 SABELETTE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 50 
-     FOR | 75 
-     DEF | 85 
-     VIT | 40 
-     SPE | 30 
-   * Taux de catpure : 255 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     50 | 75 | 85 | 40 | 30 
+   * Taux de capture : 255 
 
    * Taux de rendement d'expérience : 93 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * GRIFFE
+   * Attaques de départ : GRIFFE
 
    * Liste des attaques apprises :
 
@@ -1428,49 +924,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      GUILLOTINE | 50 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT03 | DANSE-LAMES
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT17 | SACRIFICE
-     CT19 | FRAPPE ATLAS
-     CT26 | SEISME
-     CT27 | ABIME
-     CT28 | TUNNEL
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT48 | EBOULEMENT
-     CT50 | CLONAGE
-     CS01 | COUPE
-     CS04 | FORCE
-- 028 SABLAIREAU
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT03 | DANSE-LAMES | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT17 | SACRIFICE 
+     CT19 | FRAPPE ATLAS | CT26 | SEISME | CT27 | ABIME 
+     CT28 | TUNNEL | CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT39 | METEORES | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT48 | EBOULEMENT | CT50 | CLONAGE 
+     CS01 | COUPE | CS04 | FORCE 
+- **028 SABLAIREAU**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 75 
-     FOR | 100 
-     DEF | 110 
-     VIT | 65 
-     SPE | 55 
-   * Taux de catpure : 90 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     75 | 100 | 110 | 65 | 55 
+   * Taux de capture : 90 
 
    * Taux de rendement d'expérience : 163 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * GRIFFE
-
-     * JET DE SABLE
+   * Attaques de départ : GRIFFE, JET DE SABLE
 
    * Liste des attaques apprises :
 
@@ -1485,50 +960,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      GUILLOTINE | 55 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT03 | DANSE-LAMES
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT17 | SACRIFICE
-     CT19 | FRAPPE ATLAS
-     CT26 | SEISME
-     CT27 | ABIME
-     CT28 | TUNNEL
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT48 | EBOULEMENT
-     CT50 | CLONAGE
-     CS01 | COUPE
-     CS04 | FORCE
-- 029 NIDORAN♀
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT03 | DANSE-LAMES | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT15 | ULTRALASER 
+     CT17 | SACRIFICE | CT19 | FRAPPE ATLAS | CT26 | SEISME 
+     CT27 | ABIME | CT28 | TUNNEL | CT31 | COPIE 
+     CT32 | REFLET | CT34 | PATIENCE | CT39 | METEORES 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT48 | EBOULEMENT 
+     CT50 | CLONAGE | CS01 | COUPE | CS04 | FORCE 
+- **029 NIDORAN♀**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 55 
-     FOR | 47 
-     DEF | 52 
-     VIT | 41 
-     SPE | 40 
-   * Taux de catpure : 235 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     55 | 47 | 52 | 41 | 40 
+   * Taux de capture : 235 
 
    * Taux de rendement d'expérience : 59 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * RUGISSEMENT
-
-     * CHARGE
+   * Attaques de départ : RUGISSEMENT, CHARGE
 
    * Liste des attaques apprises :
 
@@ -1545,46 +998,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PLAQUAGE | 56 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT14 | BLIZZARD
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-- 030 NIDORINA
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT14 | BLIZZARD | CT24 | TONNERRE 
+     CT25 | FATAL-FOUDRE | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE 
+     CT40 | COUD'KRANE | CT44 | REPOS 
+     CT50 | CLONAGE 
+- **030 NIDORINA**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 70 
-     FOR | 62 
-     DEF | 67 
-     VIT | 56 
-     SPE | 55 
-   * Taux de catpure : 120 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     70 | 62 | 67 | 56 | 55 
+   * Taux de capture : 120 
 
    * Taux de rendement d'expérience : 117 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * RUGISSEMENT
-
-     * CHARGE
-
-     * GRIFFE
+   * Attaques de départ : RUGISSEMENT, CHARGE, GRIFFE
 
    * Liste des attaques apprises :
 
@@ -1601,52 +1037,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PLAQUAGE | 56 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT07 | EMPAL'KORNE
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-- 031 NIDOQUEEN
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT07 | EMPAL'KORNE | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
+     CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD 
+     CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT50 | CLONAGE 
+- **031 NIDOQUEEN**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 90 
-     FOR | 82 
-     DEF | 87 
-     VIT | 76 
-     SPE | 75 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     90 | 82 | 87 | 76 | 75 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 194 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * CHARGE
-
-     * GRIFFE
-
-     * MIMI-QUEUE
-
-     * PLAQUAGE
+   * Attaques de départ : CHARGE, GRIFFE, MIMI-QUEUE, PLAQUAGE
 
    * Liste des attaques apprises :
 
@@ -1663,61 +1075,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PLAQUAGE | 56 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT07 | EMPAL'KORNE
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT16 | JACKPOT
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT26 | SEISME
-     CT27 | ABIME
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT48 | EBOULEMENT
-     CT50 | CLONAGE
-     CS03 | SURF
-     CS04 | FORCE
-- 032 NIDORAN♂
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT07 | EMPAL'KORNE 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
+     CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER 
+     CT16 | JACKPOT | CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS 
+     CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT26 | SEISME | CT27 | ABIME 
+     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT38 | DEFLAGRATION | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT48 | EBOULEMENT | CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
+- **032 NIDORAN♂**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 46 
-     FOR | 57 
-     DEF | 40 
-     VIT | 50 
-     SPE | 40 
-   * Taux de catpure : 235 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     46 | 57 | 40 | 50 | 40 
+   * Taux de capture : 235 
 
    * Taux de rendement d'expérience : 60 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * GROZ'YEUX
-
-     * CHARGE
+   * Attaques de départ : GROZ'YEUX, CHARGE
 
    * Liste des attaques apprises :
 
@@ -1733,47 +1113,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      SEISME | 50 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT07 | EMPAL'KORNE
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT14 | BLIZZARD
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-- 033 NIDORINO
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT06 | TOXIK | CT07 | EMPAL'KORNE 
+     CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT14 | BLIZZARD 
+     CT24 | TONNERRE | CT25 | FATAL-FOUDRE 
+     CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT50 | CLONAGE 
+- **033 NIDORINO**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 61 
-     FOR | 72 
-     DEF | 57 
-     VIT | 65 
-     SPE | 55 
-   * Taux de catpure : 120 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     61 | 72 | 57 | 65 | 55 
+   * Taux de capture : 120 
 
    * Taux de rendement d'expérience : 118 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * GROZ'YEUX
-
-     * CHARGE
-
-     * KOUD'KORNE
+   * Attaques de départ : GROZ'YEUX, CHARGE, KOUD'KORNE
 
    * Liste des attaques apprises :
 
@@ -1789,52 +1151,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      SEISME | 50 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT07 | EMPAL'KORNE
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-- 034 NIDOKING
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT07 | EMPAL'KORNE | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
+     CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD 
+     CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT50 | CLONAGE 
+- **034 NIDOKING**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 81 
-     FOR | 92 
-     DEF | 77 
-     VIT | 85 
-     SPE | 75 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     81 | 92 | 77 | 85 | 75 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 195 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * CHARGE
-
-     * KOUD'KORNE
-
-     * DARD-VENIN
-
-     * MANIA
+   * Attaques de départ : CHARGE, KOUD'KORNE, DARD-VENIN, MANIA
 
    * Liste des attaques apprises :
 
@@ -1850,61 +1188,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      SEISME | 50 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT07 | EMPAL'KORNE
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT16 | JACKPOT
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT26 | SEISME
-     CT27 | ABIME
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT48 | EBOULEMENT
-     CT50 | CLONAGE
-     CS03 | SURF
-     CS04 | FORCE
-- 035 MELOFEE
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT07 | EMPAL'KORNE 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
+     CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER 
+     CT16 | JACKPOT | CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS 
+     CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT26 | SEISME | CT27 | ABIME 
+     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT38 | DEFLAGRATION | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT48 | EBOULEMENT | CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
+- **035 MELOFEE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 70 
-     FOR | 45 
-     DEF | 48 
-     VIT | 35 
-     SPE | 60 
-   * Taux de catpure : 150 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     70 | 45 | 48 | 35 | 60 
+   * Taux de capture : 150 
 
    * Taux de rendement d'expérience : 68 
 
    * Taux de croissance : 4 
 
-   * Attaques de départ :
-
-     * ECRAS'FACE
-
-     * RUGISSEMENT
+   * Attaques de départ : ECRAS'FACE, RUGISSEMENT
 
    * Liste des attaques apprises :
 
@@ -1918,65 +1224,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      MUR LUMIERE | 48 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT22 | LANCE-SOLEIL
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT29 | PSYKO
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT38 | DEFLAGRATION
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT46 | VAGUE PSY
-     CT49 | TRIPLATTAQUE
-     CT50 | CLONAGE
-     CS04 | FORCE
-     CS05 | FLASH
-- 036 MELODELFE
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT13 | LASER GLACE | CT14 | BLIZZARD | CT17 | SACRIFICE | CT18 | RIPOSTE 
+     CT19 | FRAPPE ATLAS | CT22 | LANCE-SOLEIL | CT24 | TONNERRE | CT25 | FATAL-FOUDRE 
+     CT29 | PSYKO | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE | CT35 | METRONOME | CT38 | DEFLAGRATION 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY 
+     CT49 | TRIPLATTAQUE | CT50 | CLONAGE | CS04 | FORCE | CS05 | FLASH 
+- **036 MELODELFE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 95 
-     FOR | 70 
-     DEF | 73 
-     VIT | 60 
-     SPE | 85 
-   * Taux de catpure : 25 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     95 | 70 | 73 | 60 | 85 
+   * Taux de capture : 25 
 
    * Taux de rendement d'expérience : 129 
 
    * Taux de croissance : 4 
 
-   * Attaques de départ :
-
-     * BERCEUSE
-
-     * TORGNOLES
-
-     * LILLIPUT
-
-     * METRONOME
+   * Attaques de départ : BERCEUSE, TORGNOLES, LILLIPUT, METRONOME
 
    * Liste des attaques apprises :
 
@@ -1990,62 +1260,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      MUR LUMIERE | 48 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT22 | LANCE-SOLEIL
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT29 | PSYKO
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT38 | DEFLAGRATION
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT46 | VAGUE PSY
-     CT49 | TRIPLATTAQUE
-     CT50 | CLONAGE
-     CS04 | FORCE
-     CS05 | FLASH
-- 037 GOUPIX
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD 
+     CT15 | ULTRALASER | CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT22 | LANCE-SOLEIL 
+     CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT29 | PSYKO | CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE | CT35 | METRONOME | CT38 | DEFLAGRATION 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY | CT49 | TRIPLATTAQUE 
+     CT50 | CLONAGE | CS04 | FORCE | CS05 | FLASH 
+- **037 GOUPIX**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 38 
-     FOR | 41 
-     DEF | 40 
-     VIT | 65 
-     SPE | 65 
-   * Taux de catpure : 190 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     38 | 41 | 40 | 65 | 65 
+   * Taux de capture : 190 
 
    * Taux de rendement d'expérience : 63 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * FLAMMECHE
-
-     * MIMI-QUEUE
+   * Attaques de départ : FLAMMECHE, MIMI-QUEUE
 
    * Liste des attaques apprises :
 
@@ -2059,49 +1295,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      DANSEFLAMME | 42 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT20 | LANCE-FLAMME
-     CT28 | TUNNEL
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-- 038 FEUNARD
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT20 | LANCE-FLAMME | CT28 | TUNNEL 
+     CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT38 | DEFLAGRATION 
+     CT39 | METEORES | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT50 | CLONAGE 
+- **038 FEUNARD**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 73 
-     FOR | 76 
-     DEF | 75 
-     VIT | 100 
-     SPE | 100 
-   * Taux de catpure : 75 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     73 | 76 | 75 | 100 | 100 
+   * Taux de capture : 75 
 
    * Taux de rendement d'expérience : 178 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * FLAMMECHE
-
-     * MIMI-QUEUE
-
-     * VIVE-ATTAQUE
-
-     * HURLEMENT
+   * Attaques de départ : FLAMMECHE, MIMI-QUEUE, VIVE-ATTAQUE, HURLEMENT
 
    * Liste des attaques apprises :
 
@@ -2115,44 +1331,27 @@ Page du projet : https://github.com/LePatator/pokered-fr
      DANSEFLAMME | 42 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT20 | LANCE-FLAMME
-     CT28 | TUNNEL
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-- 039 RONDOUDOU
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT15 | ULTRALASER | CT20 | LANCE-FLAMME 
+     CT28 | TUNNEL | CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
+     CT38 | DEFLAGRATION | CT39 | METEORES | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT50 | CLONAGE 
+- **039 RONDOUDOU**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 115 
-     FOR | 45 
-     DEF | 20 
-     VIT | 20 
-     SPE | 25 
-   * Taux de catpure : 170 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     115 | 45 | 20 | 20 | 25 
+   * Taux de capture : 170 
 
    * Taux de rendement d'expérience : 76 
 
    * Taux de croissance : 4 
 
-   * Attaques de départ :
-
-     * BERCEUSE
+   * Attaques de départ : BERCEUSE
 
    * Liste des attaques apprises :
 
@@ -2167,64 +1366,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      DAMOCLES | 39 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT22 | LANCE-SOLEIL
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT29 | PSYKO
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT46 | VAGUE PSY
-     CT49 | TRIPLATTAQUE
-     CT50 | CLONAGE
-     CS04 | FORCE
-     CS05 | FLASH
-- 040 GRODOUDOU
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT13 | LASER GLACE | CT14 | BLIZZARD | CT17 | SACRIFICE | CT18 | RIPOSTE 
+     CT19 | FRAPPE ATLAS | CT22 | LANCE-SOLEIL | CT24 | TONNERRE | CT25 | FATAL-FOUDRE 
+     CT29 | PSYKO | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE | CT38 | DEFLAGRATION | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY | CT49 | TRIPLATTAQUE 
+     CT50 | CLONAGE | CS04 | FORCE | CS05 | FLASH 
+- **040 GRODOUDOU**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 140 
-     FOR | 70 
-     DEF | 45 
-     VIT | 45 
-     SPE | 50 
-   * Taux de catpure : 50 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     140 | 70 | 45 | 45 | 50 
+   * Taux de capture : 50 
 
    * Taux de rendement d'expérience : 109 
 
    * Taux de croissance : 4 
 
-   * Attaques de départ :
-
-     * BERCEUSE
-
-     * ENTRAVE
-
-     * BOUL'ARMURE
-
-     * TORGNOLES
+   * Attaques de départ : BERCEUSE, ENTRAVE, BOUL'ARMURE, TORGNOLES
 
    * Liste des attaques apprises :
 
@@ -2239,59 +1403,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      DAMOCLES | 39 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT22 | LANCE-SOLEIL
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT29 | PSYKO
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT46 | VAGUE PSY
-     CT49 | TRIPLATTAQUE
-     CT50 | CLONAGE
-     CS04 | FORCE
-     CS05 | FLASH
-- 041 NOSFERAPTI
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER | CT17 | SACRIFICE 
+     CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT22 | LANCE-SOLEIL | CT24 | TONNERRE 
+     CT25 | FATAL-FOUDRE | CT29 | PSYKO | CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE | CT38 | DEFLAGRATION 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY 
+     CT49 | TRIPLATTAQUE | CT50 | CLONAGE | CS04 | FORCE | CS05 | FLASH 
+- **041 NOSFERAPTI**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 40 
-     FOR | 45 
-     DEF | 35 
-     VIT | 55 
-     SPE | 40 
-   * Taux de catpure : 255 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     40 | 45 | 35 | 55 | 40 
+   * Taux de capture : 255 
 
    * Taux de rendement d'expérience : 54 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * VAMPIRISME
+   * Attaques de départ : VAMPIRISME
 
    * Liste des attaques apprises :
 
@@ -2305,43 +1439,27 @@ Page du projet : https://github.com/LePatator/pokered-fr
      COUPE-VENT | 42 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT02 | COUPE-VENT
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT21 | MEGA-SANGSUE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS02 | VOL
-- 042 NOSFERALTO
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT02 | COUPE-VENT | CT06 | TOXIK 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT21 | MEGA-SANGSUE | CT31 | COPIE 
+     CT32 | REFLET | CT34 | PATIENCE 
+     CT39 | METEORES | CT44 | REPOS 
+     CT50 | CLONAGE | CS02 | VOL 
+- **042 NOSFERALTO**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 75 
-     FOR | 80 
-     DEF | 70 
-     VIT | 90 
-     SPE | 75 
-   * Taux de catpure : 90 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     75 | 80 | 70 | 90 | 75 
+   * Taux de capture : 90 
 
    * Taux de rendement d'expérience : 171 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * VAMPIRISME
-
-     * GRINCEMENT
-
-     * MORSURE
+   * Attaques de départ : VAMPIRISME, GRINCEMENT, MORSURE
 
    * Liste des attaques apprises :
 
@@ -2355,40 +1473,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      COUPE-VENT | 49 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT02 | COUPE-VENT
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT21 | MEGA-SANGSUE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS02 | VOL
-- 043 MYSTHERBE
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT02 | COUPE-VENT | CT06 | TOXIK 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT15 | ULTRALASER | CT21 | MEGA-SANGSUE 
+     CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT39 | METEORES 
+     CT44 | REPOS | CT50 | CLONAGE 
+     CS02 | VOL 
+- **043 MYSTHERBE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 45 
-     FOR | 50 
-     DEF | 55 
-     VIT | 30 
-     SPE | 75 
-   * Taux de catpure : 255 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     45 | 50 | 55 | 30 | 75 
+   * Taux de capture : 255 
 
    * Taux de rendement d'expérience : 78 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * VOL-VIE
+   * Attaques de départ : VOL-VIE
 
    * Liste des attaques apprises :
 
@@ -2403,45 +1509,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      MEGA-SANGSUE | 49 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT03 | DANSE-LAMES
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT21 | MEGA-SANGSUE
-     CT22 | LANCE-SOLEIL
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT36 | DETRITUS
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS01 | COUPE
-- 044 ORTIDE
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT03 | DANSE-LAMES | CT06 | TOXIK 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT21 | MEGA-SANGSUE | CT22 | LANCE-SOLEIL 
+     CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE 
+     CT36 | DETRITUS | CT44 | REPOS 
+     CT50 | CLONAGE | CS01 | COUPE 
+- **044 ORTIDE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 60 
-     FOR | 65 
-     DEF | 70 
-     VIT | 40 
-     SPE | 85 
-   * Taux de catpure : 120 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     60 | 65 | 70 | 40 | 85 
+   * Taux de capture : 120 
 
    * Taux de rendement d'expérience : 132 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * VOL-VIE
-
-     * POUDRE TOXIK
-
-     * PARA-SPORE
+   * Attaques de départ : VOL-VIE, POUDRE TOXIK, PARA-SPORE
 
    * Liste des attaques apprises :
 
@@ -2456,47 +1545,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      MEGA-SANGSUE | 55 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT03 | DANSE-LAMES
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT21 | MEGA-SANGSUE
-     CT22 | LANCE-SOLEIL
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT36 | DETRITUS
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS01 | COUPE
-- 045 RAFFLESIA
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT03 | DANSE-LAMES | CT06 | TOXIK 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT21 | MEGA-SANGSUE | CT22 | LANCE-SOLEIL 
+     CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE 
+     CT36 | DETRITUS | CT44 | REPOS 
+     CT50 | CLONAGE | CS01 | COUPE 
+- **045 RAFFLESIA**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 75 
-     FOR | 80 
-     DEF | 85 
-     VIT | 50 
-     SPE | 100 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     75 | 80 | 85 | 50 | 100 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 184 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * PARA-SPORE
-
-     * POUDRE DODO
-
-     * ACIDE
-
-     * DANSE-FLEUR
+   * Attaques de départ : PARA-SPORE, POUDRE DODO, ACIDE, DANSE-FLEUR
 
    * Liste des attaques apprises :
 
@@ -2511,43 +1581,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      MEGA-SANGSUE | 55 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT03 | DANSE-LAMES
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT21 | MEGA-SANGSUE
-     CT22 | LANCE-SOLEIL
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT36 | DETRITUS
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS01 | COUPE
-- 046 PARAS
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT03 | DANSE-LAMES | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT15 | ULTRALASER 
+     CT21 | MEGA-SANGSUE | CT22 | LANCE-SOLEIL 
+     CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE 
+     CT36 | DETRITUS | CT44 | REPOS 
+     CT50 | CLONAGE | CS01 | COUPE 
+- **046 PARAS**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 35 
-     FOR | 70 
-     DEF | 55 
-     VIT | 25 
-     SPE | 55 
-   * Taux de catpure : 190 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     35 | 70 | 55 | 25 | 55 
+   * Taux de capture : 190 
 
    * Taux de rendement d'expérience : 70 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * GRIFFE
+   * Attaques de départ : GRIFFE
 
    * Liste des attaques apprises :
 
@@ -2563,47 +1619,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      BRUME | 49 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT03 | DANSE-LAMES
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT21 | MEGA-SANGSUE
-     CT22 | LANCE-SOLEIL
-     CT28 | TUNNEL
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS01 | COUPE
-- 047 PARASECT
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT03 | DANSE-LAMES | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT21 | MEGA-SANGSUE 
+     CT22 | LANCE-SOLEIL | CT28 | TUNNEL 
+     CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE 
+     CT40 | COUD'KRANE | CT44 | REPOS 
+     CT50 | CLONAGE | CS01 | COUPE 
+- **047 PARASECT**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 60 
-     FOR | 95 
-     DEF | 80 
-     VIT | 30 
-     SPE | 80 
-   * Taux de catpure : 75 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     60 | 95 | 80 | 30 | 80 
+   * Taux de capture : 75 
 
    * Taux de rendement d'expérience : 128 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * GRIFFE
-
-     * PARA-SPORE
-
-     * VAMPIRISME
+   * Attaques de départ : GRIFFE, PARA-SPORE, VAMPIRISME
 
    * Liste des attaques apprises :
 
@@ -2619,46 +1657,27 @@ Page du projet : https://github.com/LePatator/pokered-fr
      BRUME | 53 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT03 | DANSE-LAMES
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT21 | MEGA-SANGSUE
-     CT22 | LANCE-SOLEIL
-     CT28 | TUNNEL
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS01 | COUPE
-- 048 MIMITOSS
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT03 | DANSE-LAMES | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT15 | ULTRALASER 
+     CT21 | MEGA-SANGSUE | CT22 | LANCE-SOLEIL | CT28 | TUNNEL 
+     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT50 | CLONAGE | CS01 | COUPE 
+- **048 MIMITOSS**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 60 
-     FOR | 55 
-     DEF | 50 
-     VIT | 45 
-     SPE | 40 
-   * Taux de catpure : 190 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     60 | 55 | 50 | 45 | 40 
+   * Taux de capture : 190 
 
    * Taux de rendement d'expérience : 75 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * CHARGE
-
-     * ENTRAVE
+   * Attaques de départ : CHARGE, ENTRAVE
 
    * Liste des attaques apprises :
 
@@ -2672,46 +1691,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PSYKO | 43 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT21 | MEGA-SANGSUE
-     CT22 | LANCE-SOLEIL
-     CT29 | PSYKO
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT44 | REPOS
-     CT46 | VAGUE PSY
-     CT50 | CLONAGE
-- 049 AEROMITE
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT06 | TOXIK | CT09 | BELIER 
+     CT10 | DAMOCLES | CT21 | MEGA-SANGSUE 
+     CT22 | LANCE-SOLEIL | CT29 | PSYKO 
+     CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE 
+     CT44 | REPOS | CT46 | VAGUE PSY 
+     CT50 | CLONAGE 
+- **049 AEROMITE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 70 
-     FOR | 65 
-     DEF | 60 
-     VIT | 90 
-     SPE | 90 
-   * Taux de catpure : 75 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     70 | 65 | 60 | 90 | 90 
+   * Taux de capture : 75 
 
    * Taux de rendement d'expérience : 138 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * CHARGE
-
-     * ENTRAVE
-
-     * POUDRE TOXIK
-
-     * VAMPIRISME
+   * Attaques de départ : CHARGE, ENTRAVE, POUDRE TOXIK, VAMPIRISME
 
    * Liste des attaques apprises :
 
@@ -2725,43 +1726,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PSYKO | 50 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT02 | COUPE-VENT
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT21 | MEGA-SANGSUE
-     CT22 | LANCE-SOLEIL
-     CT29 | PSYKO
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT44 | REPOS
-     CT46 | VAGUE PSY
-     CT50 | CLONAGE
-- 050 TAUPIQUEUR
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT02 | COUPE-VENT | CT06 | TOXIK 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT15 | ULTRALASER | CT21 | MEGA-SANGSUE 
+     CT22 | LANCE-SOLEIL | CT29 | PSYKO 
+     CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE 
+     CT39 | METEORES | CT44 | REPOS 
+     CT46 | VAGUE PSY | CT50 | CLONAGE 
+- **050 TAUPIQUEUR**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 10 
-     FOR | 55 
-     DEF | 25 
-     VIT | 95 
-     SPE | 45 
-   * Taux de catpure : 255 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     10 | 55 | 25 | 95 | 45 
+   * Taux de capture : 255 
 
    * Taux de rendement d'expérience : 81 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * GRIFFE
+   * Attaques de départ : GRIFFE
 
    * Liste des attaques apprises :
 
@@ -2775,44 +1762,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      SEISME | 40 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT26 | SEISME
-     CT27 | ABIME
-     CT28 | TUNNEL
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT44 | REPOS
-     CT48 | EBOULEMENT
-     CT50 | CLONAGE
-- 051 TRIOPIKEUR
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT26 | SEISME | CT27 | ABIME 
+     CT28 | TUNNEL | CT31 | COPIE 
+     CT32 | REFLET | CT34 | PATIENCE 
+     CT44 | REPOS | CT48 | EBOULEMENT 
+     CT50 | CLONAGE 
+- **051 TRIOPIKEUR**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 35 
-     FOR | 80 
-     DEF | 50 
-     VIT | 120 
-     SPE | 70 
-   * Taux de catpure : 50 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     35 | 80 | 50 | 120 | 70 
+   * Taux de capture : 50 
 
    * Taux de rendement d'expérience : 153 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * GRIFFE
-
-     * RUGISSEMENT
-
-     * TUNNEL
+   * Attaques de départ : GRIFFE, RUGISSEMENT, TUNNEL
 
    * Liste des attaques apprises :
 
@@ -2826,43 +1797,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      SEISME | 45 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT26 | SEISME
-     CT27 | ABIME
-     CT28 | TUNNEL
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT44 | REPOS
-     CT48 | EBOULEMENT
-     CT50 | CLONAGE
-- 052 MIAOUSS
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT15 | ULTRALASER | CT26 | SEISME 
+     CT27 | ABIME | CT28 | TUNNEL 
+     CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT44 | REPOS 
+     CT48 | EBOULEMENT | CT50 | CLONAGE 
+- **052 MIAOUSS**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 40 
-     FOR | 45 
-     DEF | 35 
-     VIT | 90 
-     SPE | 40 
-   * Taux de catpure : 255 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     40 | 45 | 35 | 90 | 40 
+   * Taux de capture : 255 
 
    * Taux de rendement d'expérience : 69 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * GRIFFE
-
-     * RUGISSEMENT
+   * Attaques de départ : GRIFFE, RUGISSEMENT
 
    * Liste des attaques apprises :
 
@@ -2877,50 +1833,27 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PLAQUAGE | 51 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT16 | JACKPOT
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-- 053 PERSIAN
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT16 | JACKPOT | CT24 | TONNERRE | CT25 | FATAL-FOUDRE 
+     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT39 | METEORES | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT50 | CLONAGE 
+- **053 PERSIAN**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 65 
-     FOR | 70 
-     DEF | 60 
-     VIT | 115 
-     SPE | 65 
-   * Taux de catpure : 90 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     65 | 70 | 60 | 115 | 65 
+   * Taux de capture : 90 
 
    * Taux de rendement d'expérience : 148 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * GRIFFE
-
-     * RUGISSEMENT
-
-     * MORSURE
-
-     * GRINCEMENT
+   * Attaques de départ : GRIFFE, RUGISSEMENT, MORSURE, GRINCEMENT
 
    * Liste des attaques apprises :
 
@@ -2934,45 +1867,27 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PLAQUAGE | 55 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT15 | ULTRALASER
-     CT16 | JACKPOT
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-- 054 PSYKOKWAK
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT15 | ULTRALASER | CT16 | JACKPOT | CT24 | TONNERRE 
+     CT25 | FATAL-FOUDRE | CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT34 | PATIENCE | CT39 | METEORES 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE 
+- **054 PSYKOKWAK**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 50 
-     FOR | 52 
-     DEF | 48 
-     VIT | 55 
-     SPE | 50 
-   * Taux de catpure : 190 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     50 | 52 | 48 | 55 | 50 
+   * Taux de capture : 190 
 
    * Taux de rendement d'expérience : 80 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * GRIFFE
+   * Attaques de départ : GRIFFE
 
    * Liste des attaques apprises :
 
@@ -2989,56 +1904,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PSYKO | 56 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT04 | AMNESIE
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT16 | JACKPOT
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT28 | TUNNEL
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS03 | SURF
-     CS04 | FORCE
-- 055 AKWAKWAK
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
+     CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD | CT16 | JACKPOT 
+     CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT28 | TUNNEL 
+     CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE | CT39 | METEORES 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE | CS03 | SURF 
+     CS04 | FORCE 
+- **055 AKWAKWAK**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 80 
-     FOR | 82 
-     DEF | 78 
-     VIT | 85 
-     SPE | 80 
-   * Taux de catpure : 75 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     80 | 82 | 78 | 85 | 80 
+   * Taux de capture : 75 
 
    * Taux de rendement d'expérience : 174 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * GRIFFE
-
-     * MIMI-QUEUE
-
-     * ENTRAVE
+   * Attaques de départ : GRIFFE, MIMI-QUEUE, ENTRAVE
 
    * Liste des attaques apprises :
 
@@ -3054,55 +1941,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PSYKO | 60 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT04 | AMNESIE
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT16 | JACKPOT
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT28 | TUNNEL
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS03 | SURF
-     CS04 | FORCE
-- 056 FEROSINGE
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
+     CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER 
+     CT16 | JACKPOT | CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS 
+     CT28 | TUNNEL | CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE 
+     CT39 | METEORES | CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE 
+     CS03 | SURF | CS04 | FORCE 
+- **056 FEROSINGE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 40 
-     FOR | 80 
-     DEF | 35 
-     VIT | 70 
-     SPE | 35 
-   * Taux de catpure : 190 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     40 | 80 | 35 | 70 | 35 
+   * Taux de capture : 190 
 
    * Taux de rendement d'expérience : 74 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * GRIFFE
-
-     * GROZ'YEUX
+   * Attaques de départ : GRIFFE, GROZ'YEUX
 
    * Liste des attaques apprises :
 
@@ -3119,57 +1979,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      UPPERCUT | 56 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT16 | JACKPOT
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT28 | TUNNEL
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT48 | EBOULEMENT
-     CT50 | CLONAGE
-     CS04 | FORCE
-- 057 COLOSSINGE
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES 
+     CT16 | JACKPOT | CT17 | SACRIFICE | CT18 | RIPOSTE 
+     CT19 | FRAPPE ATLAS | CT24 | TONNERRE | CT25 | FATAL-FOUDRE 
+     CT28 | TUNNEL | CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT34 | PATIENCE | CT35 | METRONOME 
+     CT39 | METEORES | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT48 | EBOULEMENT | CT50 | CLONAGE | CS04 | FORCE 
+- **057 COLOSSINGE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 65 
-     FOR | 105 
-     DEF | 60 
-     VIT | 95 
-     SPE | 60 
-   * Taux de catpure : 75 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     65 | 105 | 60 | 95 | 60 
+   * Taux de capture : 75 
 
    * Taux de rendement d'expérience : 149 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * GRIFFE
-
-     * GROZ'YEUX
-
-     * POING-KARATE
-
-     * COMBO-GRIFFE
+   * Attaques de départ : GRIFFE, GROZ'YEUX, POING-KARATE, COMBO-GRIFFE
 
    * Liste des attaques apprises :
 
@@ -3185,54 +2017,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      UPPERCUT | 58 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT16 | JACKPOT
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT28 | TUNNEL
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT48 | EBOULEMENT
-     CT50 | CLONAGE
-     CS04 | FORCE
-- 058 CANINOS
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT15 | ULTRALASER | CT16 | JACKPOT 
+     CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT24 | TONNERRE 
+     CT25 | FATAL-FOUDRE | CT28 | TUNNEL | CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT34 | PATIENCE | CT35 | METRONOME | CT39 | METEORES 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT48 | EBOULEMENT | CT50 | CLONAGE 
+     CS04 | FORCE 
+- **058 CANINOS**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 55 
-     FOR | 70 
-     DEF | 45 
-     VIT | 60 
-     SPE | 50 
-   * Taux de catpure : 190 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     55 | 70 | 45 | 60 | 50 
+   * Taux de capture : 190 
 
    * Taux de rendement d'expérience : 91 
 
    * Taux de croissance : 5 
 
-   * Attaques de départ :
-
-     * MORSURE
-
-     * HURLEMENT
+   * Attaques de départ : MORSURE, HURLEMENT
 
    * Liste des attaques apprises :
 
@@ -3248,50 +2054,27 @@ Page du projet : https://github.com/LePatator/pokered-fr
      CROC DE MORT | 62 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT20 | LANCE-FLAMME
-     CT23 | DRACO-RAGE
-     CT28 | TUNNEL
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-- 059 ARCANIN
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT20 | LANCE-FLAMME | CT23 | DRACO-RAGE 
+     CT28 | TUNNEL | CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
+     CT38 | DEFLAGRATION | CT39 | METEORES | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT50 | CLONAGE 
+- **059 ARCANIN**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 90 
-     FOR | 110 
-     DEF | 80 
-     VIT | 95 
-     SPE | 80 
-   * Taux de catpure : 75 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     90 | 110 | 80 | 95 | 80 
+   * Taux de capture : 75 
 
    * Taux de rendement d'expérience : 213 
 
    * Taux de croissance : 5 
 
-   * Attaques de départ :
-
-     * HURLEMENT
-
-     * FLAMMECHE
-
-     * GROZ'YEUX
-
-     * BELIER
+   * Attaques de départ : HURLEMENT, FLAMMECHE, GROZ'YEUX, BELIER
 
    * Liste des attaques apprises :
 
@@ -3307,45 +2090,27 @@ Page du projet : https://github.com/LePatator/pokered-fr
      CROC DE MORT | 62 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT20 | LANCE-FLAMME
-     CT23 | DRACO-RAGE
-     CT28 | TUNNEL
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-- 060 PTITARD
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT15 | ULTRALASER | CT20 | LANCE-FLAMME 
+     CT23 | DRACO-RAGE | CT28 | TUNNEL | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT38 | DEFLAGRATION | CT39 | METEORES 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE 
+- **060 PTITARD**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 40 
-     FOR | 50 
-     DEF | 40 
-     VIT | 90 
-     SPE | 40 
-   * Taux de catpure : 255 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     40 | 50 | 40 | 90 | 40 
+   * Taux de capture : 255 
 
    * Taux de rendement d'expérience : 77 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * ECUME
+   * Attaques de départ : ECUME
 
    * Liste des attaques apprises :
 
@@ -3359,50 +2124,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      HYDROCANON | 45 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT04 | AMNESIE
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT29 | PSYKO
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT46 | VAGUE PSY
-     CT50 | CLONAGE
-     CS03 | SURF
-- 061 TETARTE
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT04 | AMNESIE | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
+     CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD 
+     CT29 | PSYKO | CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT34 | PATIENCE | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT46 | VAGUE PSY | CT50 | CLONAGE 
+     CS03 | SURF 
+- **061 TETARTE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 65 
-     FOR | 65 
-     DEF | 65 
-     VIT | 90 
-     SPE | 50 
-   * Taux de catpure : 120 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     65 | 65 | 65 | 90 | 50 
+   * Taux de capture : 120 
 
    * Taux de rendement d'expérience : 131 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * ECUME
-
-     * HYPNOSE
-
-     * PISTOLET A O
+   * Attaques de départ : ECUME, HYPNOSE, PISTOLET A O
 
    * Liste des attaques apprises :
 
@@ -3418,61 +2161,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      POINGLACE | 54 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT04 | AMNESIE
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT26 | SEISME
-     CT27 | ABIME
-     CT29 | PSYKO
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT46 | VAGUE PSY
-     CT50 | CLONAGE
-     CS03 | SURF
-     CS04 | FORCE
-- 062 TARTARD
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
+     CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD | CT17 | SACRIFICE 
+     CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT26 | SEISME | CT27 | ABIME 
+     CT29 | PSYKO | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT35 | METRONOME | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT46 | VAGUE PSY | CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
+- **062 TARTARD**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 90 
-     FOR | 85 
-     DEF | 95 
-     VIT | 70 
-     SPE | 70 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     90 | 85 | 95 | 70 | 70 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 185 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * HYPNOSE
-
-     * PISTOLET A O
-
-     * TORGNOLES
-
-     * PLAQUAGE
+   * Attaques de départ : HYPNOSE, PISTOLET A O, TORGNOLES, PLAQUAGE
 
    * Liste des attaques apprises :
 
@@ -3488,111 +2198,57 @@ Page du projet : https://github.com/LePatator/pokered-fr
      POINGLACE | 54 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT04 | AMNESIE
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT26 | SEISME
-     CT27 | ABIME
-     CT29 | PSYKO
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT46 | VAGUE PSY
-     CT50 | CLONAGE
-     CS03 | SURF
-     CS04 | FORCE
-- 063 ABRA
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
+     CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER 
+     CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT26 | SEISME 
+     CT27 | ABIME | CT29 | PSYKO | CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT34 | PATIENCE | CT35 | METRONOME | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT46 | VAGUE PSY | CT50 | CLONAGE | CS03 | SURF 
+     CS04 | FORCE 
+- **063 ABRA**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 25 
-     FOR | 20 
-     DEF | 15 
-     VIT | 90 
-     SPE | 105 
-   * Taux de catpure : 200 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     25 | 20 | 15 | 90 | 105 
+   * Taux de capture : 200 
 
    * Taux de rendement d'expérience : 73 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
+   * Attaques de départ : TELEPORT
 
-     * TELEPORT
+   * Liste des attaques apprises : aucune
 
-   * Liste des attaques apprises :
-
-     Attaque | Niveau 
-     --- | --- 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT04 | AMNESIE
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT29 | PSYKO
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT46 | VAGUE PSY
-     CT49 | TRIPLATTAQUE
-     CT50 | CLONAGE
-     CS05 | FLASH
-- 064 KADABRA
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI 
+     CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT17 | SACRIFICE | CT18 | RIPOSTE 
+     CT19 | FRAPPE ATLAS | CT29 | PSYKO | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
+     CT35 | METRONOME | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY | CT49 | TRIPLATTAQUE 
+     CT50 | CLONAGE | CS05 | FLASH 
+- **064 KADABRA**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 40 
-     FOR | 35 
-     DEF | 30 
-     VIT | 105 
-     SPE | 120 
-   * Taux de catpure : 100 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     40 | 35 | 30 | 105 | 120 
+   * Taux de capture : 100 
 
    * Taux de rendement d'expérience : 145 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * TELEPORT
-
-     * CHOC MENTAL
-
-     * ENTRAVE
+   * Attaques de départ : TELEPORT, CHOC MENTAL, ENTRAVE
 
    * Liste des attaques apprises :
 
@@ -3607,55 +2263,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PROTECTION | 42 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT04 | AMNESIE
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT28 | TUNNEL
-     CT29 | PSYKO
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT46 | VAGUE PSY
-     CT49 | TRIPLATTAQUE
-     CT50 | CLONAGE
-     CS05 | FLASH
-- 065 ALAKAZAM
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI 
+     CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT17 | SACRIFICE | CT18 | RIPOSTE 
+     CT19 | FRAPPE ATLAS | CT28 | TUNNEL | CT29 | PSYKO 
+     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT35 | METRONOME | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY 
+     CT49 | TRIPLATTAQUE | CT50 | CLONAGE | CS05 | FLASH 
+- **065 ALAKAZAM**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 55 
-     FOR | 50 
-     DEF | 45 
-     VIT | 120 
-     SPE | 135 
-   * Taux de catpure : 50 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     55 | 50 | 45 | 120 | 135 
+   * Taux de capture : 50 
 
    * Taux de rendement d'expérience : 186 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * TELEPORT
-
-     * CHOC MENTAL
-
-     * ENTRAVE
+   * Attaques de départ : TELEPORT, CHOC MENTAL, ENTRAVE
 
    * Liste des attaques apprises :
 
@@ -3670,52 +2300,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PROTECTION | 42 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT04 | AMNESIE
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT28 | TUNNEL
-     CT29 | PSYKO
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT46 | VAGUE PSY
-     CT49 | TRIPLATTAQUE
-     CT50 | CLONAGE
-     CS05 | FLASH
-- 066 MACHOC
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT15 | ULTRALASER 
+     CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT28 | TUNNEL 
+     CT29 | PSYKO | CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT35 | METRONOME | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY | CT49 | TRIPLATTAQUE | CT50 | CLONAGE 
+     CS05 | FLASH 
+- **066 MACHOC**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 70 
-     FOR | 80 
-     DEF | 50 
-     VIT | 35 
-     SPE | 35 
-   * Taux de catpure : 180 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     70 | 80 | 50 | 35 | 35 
+   * Taux de capture : 180 
 
    * Taux de rendement d'expérience : 88 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * POING-KARATE
+   * Attaques de départ : POING-KARATE
 
    * Liste des attaques apprises :
 
@@ -3733,54 +2339,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PLAQUAGE | 56 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT26 | SEISME
-     CT27 | ABIME
-     CT28 | TUNNEL
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT38 | DEFLAGRATION
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT48 | EBOULEMENT
-     CT50 | CLONAGE
-     CS04 | FORCE
-- 067 MACHOPEUR
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES 
+     CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS 
+     CT26 | SEISME | CT27 | ABIME | CT28 | TUNNEL 
+     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT35 | METRONOME | CT38 | DEFLAGRATION 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT48 | EBOULEMENT 
+     CT50 | CLONAGE | CS04 | FORCE 
+- **067 MACHOPEUR**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 80 
-     FOR | 100 
-     DEF | 70 
-     VIT | 45 
-     SPE | 50 
-   * Taux de catpure : 90 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     80 | 100 | 70 | 45 | 50 
+   * Taux de capture : 90 
 
    * Taux de rendement d'expérience : 146 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * POING-KARATE
-
-     * BALAYAGE
-
-     * GROZ'YEUX
+   * Attaques de départ : POING-KARATE, BALAYAGE, GROZ'YEUX
 
    * Liste des attaques apprises :
 
@@ -3798,54 +2379,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PLAQUAGE | 60 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT26 | SEISME
-     CT27 | ABIME
-     CT28 | TUNNEL
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT38 | DEFLAGRATION
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT48 | EBOULEMENT
-     CT50 | CLONAGE
-     CS04 | FORCE
-- 068 MACKOGNEUR
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES 
+     CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS 
+     CT26 | SEISME | CT27 | ABIME | CT28 | TUNNEL 
+     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT35 | METRONOME | CT38 | DEFLAGRATION 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT48 | EBOULEMENT 
+     CT50 | CLONAGE | CS04 | FORCE 
+- **068 MACKOGNEUR**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 90 
-     FOR | 130 
-     DEF | 80 
-     VIT | 55 
-     SPE | 65 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     90 | 130 | 80 | 55 | 65 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 193 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * POING-KARATE
-
-     * BALAYAGE
-
-     * GROZ'YEUX
+   * Attaques de départ : POING-KARATE, BALAYAGE, GROZ'YEUX
 
    * Liste des attaques apprises :
 
@@ -3863,53 +2419,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PLAQUAGE | 60 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT26 | SEISME
-     CT27 | ABIME
-     CT28 | TUNNEL
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT38 | DEFLAGRATION
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT48 | EBOULEMENT
-     CT50 | CLONAGE
-     CS04 | FORCE
-- 069 CHETIFLOR
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES 
+     CT15 | ULTRALASER | CT17 | SACRIFICE | CT18 | RIPOSTE 
+     CT19 | FRAPPE ATLAS | CT26 | SEISME | CT27 | ABIME 
+     CT28 | TUNNEL | CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT34 | PATIENCE | CT35 | METRONOME 
+     CT38 | DEFLAGRATION | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT48 | EBOULEMENT | CT50 | CLONAGE | CS04 | FORCE 
+- **069 CHETIFLOR**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 50 
-     FOR | 75 
-     DEF | 35 
-     VIT | 40 
-     SPE | 70 
-   * Taux de catpure : 255 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     50 | 75 | 35 | 40 | 70 
+   * Taux de capture : 255 
 
    * Taux de rendement d'expérience : 84 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * FOUET LIANES
-
-     * CROISSANCE
+   * Attaques de départ : FOUET LIANES, CROISSANCE
 
    * Liste des attaques apprises :
 
@@ -3926,45 +2458,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      MEGA-SANGSUE | 52 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT03 | DANSE-LAMES
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT21 | MEGA-SANGSUE
-     CT22 | LANCE-SOLEIL
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT36 | DETRITUS
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS01 | COUPE
-- 070 BOUSTIFLOR
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT03 | DANSE-LAMES | CT06 | TOXIK 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT21 | MEGA-SANGSUE | CT22 | LANCE-SOLEIL 
+     CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE 
+     CT36 | DETRITUS | CT44 | REPOS 
+     CT50 | CLONAGE | CS01 | COUPE 
+- **070 BOUSTIFLOR**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 65 
-     FOR | 90 
-     DEF | 50 
-     VIT | 55 
-     SPE | 85 
-   * Taux de catpure : 120 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     65 | 90 | 50 | 55 | 85 
+   * Taux de capture : 120 
 
    * Taux de rendement d'expérience : 151 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * FOUET LIANES
-
-     * CROISSANCE
-
-     * LIGOTAGE
+   * Attaques de départ : FOUET LIANES, CROISSANCE, LIGOTAGE
 
    * Liste des attaques apprises :
 
@@ -3981,47 +2496,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      MEGA-SANGSUE | 55 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT03 | DANSE-LAMES
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT21 | MEGA-SANGSUE
-     CT22 | LANCE-SOLEIL
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT36 | DETRITUS
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS01 | COUPE
-- 071 EMPIFLOR
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT03 | DANSE-LAMES | CT06 | TOXIK 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT21 | MEGA-SANGSUE | CT22 | LANCE-SOLEIL 
+     CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE 
+     CT36 | DETRITUS | CT44 | REPOS 
+     CT50 | CLONAGE | CS01 | COUPE 
+- **071 EMPIFLOR**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 80 
-     FOR | 105 
-     DEF | 65 
-     VIT | 70 
-     SPE | 100 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     80 | 105 | 65 | 70 | 100 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 191 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * POUDRE DODO
-
-     * PARA-SPORE
-
-     * ACIDE
-
-     * TRANCH'HERBE
+   * Attaques de départ : POUDRE DODO, PARA-SPORE, ACIDE, TRANCH'HERBE
 
    * Liste des attaques apprises :
 
@@ -4038,43 +2534,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      MEGA-SANGSUE | 55 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT03 | DANSE-LAMES
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT21 | MEGA-SANGSUE
-     CT22 | LANCE-SOLEIL
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT36 | DETRITUS
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS01 | COUPE
-- 072 TENTACOOL
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT03 | DANSE-LAMES | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT15 | ULTRALASER 
+     CT21 | MEGA-SANGSUE | CT22 | LANCE-SOLEIL 
+     CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE 
+     CT36 | DETRITUS | CT44 | REPOS 
+     CT50 | CLONAGE | CS01 | COUPE 
+- **072 TENTACOOL**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 40 
-     FOR | 40 
-     DEF | 35 
-     VIT | 70 
-     SPE | 100 
-   * Taux de catpure : 190 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     40 | 40 | 35 | 70 | 100 
+   * Taux de capture : 190 
 
    * Taux de rendement d'expérience : 105 
 
    * Taux de croissance : 5 
 
-   * Attaques de départ :
-
-     * ACIDE
+   * Attaques de départ : ACIDE
 
    * Liste des attaques apprises :
 
@@ -4092,50 +2574,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      ENTRAVE | 55 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT03 | DANSE-LAMES
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT21 | MEGA-SANGSUE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT36 | DETRITUS
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS01 | COUPE
-     CS03 | SURF
-- 073 TENTACRUEL
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT03 | DANSE-LAMES | CT06 | TOXIK | CT09 | BELIER 
+     CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT13 | LASER GLACE | CT14 | BLIZZARD | CT21 | MEGA-SANGSUE 
+     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT36 | DETRITUS | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT50 | CLONAGE | CS01 | COUPE 
+     CS03 | SURF 
+- **073 TENTACRUEL**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 80 
-     FOR | 70 
-     DEF | 65 
-     VIT | 100 
-     SPE | 120 
-   * Taux de catpure : 60 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     80 | 70 | 65 | 100 | 120 
+   * Taux de capture : 60 
 
    * Taux de rendement d'expérience : 205 
 
    * Taux de croissance : 5 
 
-   * Attaques de départ :
-
-     * ACIDE
-
-     * ULTRASON
-
-     * LIGOTAGE
+   * Attaques de départ : ACIDE, ULTRASON, LIGOTAGE
 
    * Liste des attaques apprises :
 
@@ -4153,47 +2613,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      ENTRAVE | 55 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT03 | DANSE-LAMES
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT21 | MEGA-SANGSUE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT36 | DETRITUS
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS01 | COUPE
-     CS03 | SURF
-- 074 RACAILLOU
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT03 | DANSE-LAMES | CT06 | TOXIK | CT09 | BELIER 
+     CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER 
+     CT21 | MEGA-SANGSUE | CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE | CT36 | DETRITUS 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE 
+     CS01 | COUPE | CS03 | SURF 
+- **074 RACAILLOU**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 40 
-     FOR | 80 
-     DEF | 100 
-     VIT | 20 
-     SPE | 30 
-   * Taux de catpure : 255 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     40 | 80 | 100 | 20 | 30 
+   * Taux de capture : 255 
 
    * Taux de rendement d'expérience : 86 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * CHARGE
+   * Attaques de départ : CHARGE
 
    * Liste des attaques apprises :
 
@@ -4210,51 +2651,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      ABIME | 50 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT26 | SEISME
-     CT27 | ABIME
-     CT28 | TUNNEL
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT38 | DEFLAGRATION
-     CT44 | REPOS
-     CT47 | EXPLOSION
-     CT48 | EBOULEMENT
-     CT50 | CLONAGE
-     CS04 | FORCE
-- 075 GRAVALANCH
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT17 | SACRIFICE 
+     CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT26 | SEISME 
+     CT27 | ABIME | CT28 | TUNNEL | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE 
+     CT35 | METRONOME | CT38 | DEFLAGRATION | CT44 | REPOS 
+     CT47 | EXPLOSION | CT48 | EBOULEMENT | CT50 | CLONAGE 
+     CS04 | FORCE 
+- **075 GRAVALANCH**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 55 
-     FOR | 95 
-     DEF | 115 
-     VIT | 35 
-     SPE | 45 
-   * Taux de catpure : 120 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     55 | 95 | 115 | 35 | 45 
+   * Taux de capture : 120 
 
    * Taux de rendement d'expérience : 134 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * CHARGE
-
-     * BOUL'ARMURE
+   * Attaques de départ : CHARGE, BOUL'ARMURE
 
    * Liste des attaques apprises :
 
@@ -4271,51 +2690,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      ABIME | 59 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT26 | SEISME
-     CT27 | ABIME
-     CT28 | TUNNEL
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT38 | DEFLAGRATION
-     CT44 | REPOS
-     CT47 | EXPLOSION
-     CT48 | EBOULEMENT
-     CT50 | CLONAGE
-     CS04 | FORCE
-- 076 GROLEM
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT17 | SACRIFICE 
+     CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT26 | SEISME 
+     CT27 | ABIME | CT28 | TUNNEL | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE 
+     CT35 | METRONOME | CT38 | DEFLAGRATION | CT44 | REPOS 
+     CT47 | EXPLOSION | CT48 | EBOULEMENT | CT50 | CLONAGE 
+     CS04 | FORCE 
+- **076 GROLEM**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 80 
-     FOR | 110 
-     DEF | 130 
-     VIT | 45 
-     SPE | 55 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     80 | 110 | 130 | 45 | 55 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 177 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * CHARGE
-
-     * BOUL'ARMURE
+   * Attaques de départ : CHARGE, BOUL'ARMURE
 
    * Liste des attaques apprises :
 
@@ -4332,51 +2729,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      ABIME | 59 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT26 | SEISME
-     CT27 | ABIME
-     CT28 | TUNNEL
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT38 | DEFLAGRATION
-     CT44 | REPOS
-     CT47 | EXPLOSION
-     CT48 | EBOULEMENT
-     CT50 | CLONAGE
-     CS04 | FORCE
-- 077 PONYTA
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES 
+     CT15 | ULTRALASER | CT17 | SACRIFICE | CT18 | RIPOSTE 
+     CT19 | FRAPPE ATLAS | CT26 | SEISME | CT27 | ABIME 
+     CT28 | TUNNEL | CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT34 | PATIENCE | CT35 | METRONOME 
+     CT38 | DEFLAGRATION | CT44 | REPOS | CT47 | EXPLOSION 
+     CT48 | EBOULEMENT | CT50 | CLONAGE | CS04 | FORCE 
+- **077 PONYTA**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 50 
-     FOR | 85 
-     DEF | 55 
-     VIT | 90 
-     SPE | 65 
-   * Taux de catpure : 190 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     50 | 85 | 55 | 90 | 65 
+   * Taux de capture : 190 
 
    * Taux de rendement d'expérience : 152 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * FLAMMECHE
+   * Attaques de départ : FLAMMECHE
 
    * Liste des attaques apprises :
 
@@ -4391,49 +2766,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      DEFLAGRATION | 53 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT07 | EMPAL'KORNE
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT20 | LANCE-FLAMME
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-- 078 GALOPA
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT06 | TOXIK | CT07 | EMPAL'KORNE 
+     CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT20 | LANCE-FLAMME 
+     CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT38 | DEFLAGRATION 
+     CT39 | METEORES | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT50 | CLONAGE 
+- **078 GALOPA**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 65 
-     FOR | 100 
-     DEF | 70 
-     VIT | 105 
-     SPE | 80 
-   * Taux de catpure : 60 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     65 | 100 | 70 | 105 | 80 
+   * Taux de capture : 60 
 
    * Taux de rendement d'expérience : 192 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * FLAMMECHE
-
-     * MIMI-QUEUE
-
-     * ECRASEMENT
-
-     * RUGISSEMENT
+   * Attaques de départ : FLAMMECHE, MIMI-QUEUE, ECRASEMENT, RUGISSEMENT
 
    * Liste des attaques apprises :
 
@@ -4448,44 +2803,27 @@ Page du projet : https://github.com/LePatator/pokered-fr
      DEFLAGRATION | 60 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT07 | EMPAL'KORNE
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT20 | LANCE-FLAMME
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-- 079 RAMOLOSS
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT07 | EMPAL'KORNE | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT15 | ULTRALASER 
+     CT20 | LANCE-FLAMME | CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
+     CT38 | DEFLAGRATION | CT39 | METEORES | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT50 | CLONAGE 
+- **079 RAMOLOSS**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 90 
-     FOR | 65 
-     DEF | 65 
-     VIT | 15 
-     SPE | 40 
-   * Taux de catpure : 190 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     90 | 65 | 65 | 15 | 40 
+   * Taux de capture : 190 
 
    * Taux de rendement d'expérience : 99 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * CHOC MENTAL
+   * Attaques de départ : CHOC MENTAL
 
    * Liste des attaques apprises :
 
@@ -4501,61 +2839,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PLAQUAGE | 57 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT04 | AMNESIE
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT16 | JACKPOT
-     CT26 | SEISME
-     CT27 | ABIME
-     CT28 | TUNNEL
-     CT29 | PSYKO
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT46 | VAGUE PSY
-     CT49 | TRIPLATTAQUE
-     CT50 | CLONAGE
-     CS03 | SURF
-     CS04 | FORCE
-     CS05 | FLASH
-- 080 FLAGADOSS
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT04 | AMNESIE | CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O | CT13 | LASER GLACE 
+     CT14 | BLIZZARD | CT16 | JACKPOT | CT26 | SEISME | CT27 | ABIME 
+     CT28 | TUNNEL | CT29 | PSYKO | CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE | CT38 | DEFLAGRATION 
+     CT39 | METEORES | CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR 
+     CT46 | VAGUE PSY | CT49 | TRIPLATTAQUE | CT50 | CLONAGE | CS03 | SURF 
+     CS04 | FORCE | CS05 | FLASH 
+- **080 FLAGADOSS**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 95 
-     FOR | 75 
-     DEF | 110 
-     VIT | 30 
-     SPE | 80 
-   * Taux de catpure : 75 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     95 | 75 | 110 | 30 | 80 
+   * Taux de capture : 75 
 
    * Taux de rendement d'expérience : 164 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * CHOC MENTAL
-
-     * ENTRAVE
-
-     * COUP D'BOULE
+   * Attaques de départ : CHOC MENTAL, ENTRAVE, COUP D'BOULE
 
    * Liste des attaques apprises :
 
@@ -4572,63 +2878,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PLAQUAGE | 61 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT04 | AMNESIE
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT16 | JACKPOT
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT26 | SEISME
-     CT27 | ABIME
-     CT28 | TUNNEL
-     CT29 | PSYKO
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT46 | VAGUE PSY
-     CT49 | TRIPLATTAQUE
-     CT50 | CLONAGE
-     CS03 | SURF
-     CS04 | FORCE
-     CS05 | FLASH
-- 081 MAGNETI
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O | CT13 | LASER GLACE 
+     CT14 | BLIZZARD | CT15 | ULTRALASER | CT16 | JACKPOT | CT17 | SACRIFICE | CT18 | RIPOSTE 
+     CT19 | FRAPPE ATLAS | CT26 | SEISME | CT27 | ABIME | CT28 | TUNNEL | CT29 | PSYKO 
+     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
+     CT38 | DEFLAGRATION | CT39 | METEORES | CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR 
+     CT46 | VAGUE PSY | CT49 | TRIPLATTAQUE | CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
+     CS05 | FLASH 
+- **081 MAGNETI**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 25 
-     FOR | 35 
-     DEF | 70 
-     VIT | 45 
-     SPE | 95 
-   * Taux de catpure : 190 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     25 | 35 | 70 | 45 | 95 
+   * Taux de capture : 190 
 
    * Taux de rendement d'expérience : 89 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * CHARGE
+   * Attaques de départ : CHARGE
 
    * Liste des attaques apprises :
 
@@ -4644,45 +2916,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      GRINCEMENT | 52 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT50 | CLONAGE
-     CS05 | FLASH
-- 082 MAGNETON
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT06 | TOXIK | CT09 | BELIER 
+     CT10 | DAMOCLES | CT24 | TONNERRE 
+     CT25 | FATAL-FOUDRE | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT39 | METEORES 
+     CT44 | REPOS | CT45 | CAGE-ECLAIR 
+     CT50 | CLONAGE | CS05 | FLASH 
+- **082 MAGNETON**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 50 
-     FOR | 60 
-     DEF | 95 
-     VIT | 70 
-     SPE | 120 
-   * Taux de catpure : 60 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     50 | 60 | 95 | 70 | 120 
+   * Taux de capture : 60 
 
    * Taux de rendement d'expérience : 161 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * CHARGE
-
-     * SONICBOOM
-
-     * ECLAIR
+   * Attaques de départ : CHARGE, SONICBOOM, ECLAIR
 
    * Liste des attaques apprises :
 
@@ -4698,44 +2953,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      GRINCEMENT | 59 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT50 | CLONAGE
-     CS05 | FLASH
-- 083 CANARTICHO
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT06 | TOXIK | CT09 | BELIER 
+     CT10 | DAMOCLES | CT15 | ULTRALASER 
+     CT24 | TONNERRE | CT25 | FATAL-FOUDRE 
+     CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE 
+     CT39 | METEORES | CT44 | REPOS 
+     CT45 | CAGE-ECLAIR | CT50 | CLONAGE 
+     CS05 | FLASH 
+- **083 CANARTICHO**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 52 
-     FOR | 65 
-     DEF | 55 
-     VIT | 60 
-     SPE | 58 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     52 | 65 | 55 | 60 | 58 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 94 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * PICPIC
-
-     * JET DE SABLE
+   * Attaques de départ : PICPIC, JET DE SABLE
 
    * Liste des attaques apprises :
 
@@ -4749,43 +2989,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      COUPE-VENT | 45 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT02 | COUPE-VENT
-     CT03 | DANSE-LAMES
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS01 | COUPE
-     CS02 | VOL
-- 084 DODUO
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT02 | COUPE-VENT | CT03 | DANSE-LAMES 
+     CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE 
+     CT39 | METEORES | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT50 | CLONAGE 
+     CS01 | COUPE | CS02 | VOL 
+- **084 DODUO**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 35 
-     FOR | 85 
-     DEF | 45 
-     VIT | 75 
-     SPE | 35 
-   * Taux de catpure : 190 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     35 | 85 | 45 | 75 | 35 
+   * Taux de capture : 190 
 
    * Taux de rendement d'expérience : 96 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * PICPIC
+   * Attaques de départ : PICPIC
 
    * Liste des attaques apprises :
 
@@ -4800,45 +3026,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      MANIA | 50 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT40 | COUD'KRANE
-     CT43 | PIQUE
-     CT44 | REPOS
-     CT49 | TRIPLATTAQUE
-     CT50 | CLONAGE
-     CS02 | VOL
-- 085 DODRIO
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE 
+     CT40 | COUD'KRANE | CT43 | PIQUE 
+     CT44 | REPOS | CT49 | TRIPLATTAQUE 
+     CT50 | CLONAGE | CS02 | VOL 
+- **085 DODRIO**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 60 
-     FOR | 110 
-     DEF | 70 
-     VIT | 100 
-     SPE | 60 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     60 | 110 | 70 | 100 | 60 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 158 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * PICPIC
-
-     * RUGISSEMENT
-
-     * FURIE
+   * Attaques de départ : PICPIC, RUGISSEMENT, FURIE
 
    * Liste des attaques apprises :
 
@@ -4853,42 +3062,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      MANIA | 52 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT40 | COUD'KRANE
-     CT43 | PIQUE
-     CT44 | REPOS
-     CT49 | TRIPLATTAQUE
-     CT50 | CLONAGE
-     CS02 | VOL
-- 086 OTARIA
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT15 | ULTRALASER | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT40 | COUD'KRANE 
+     CT43 | PIQUE | CT44 | REPOS 
+     CT49 | TRIPLATTAQUE | CT50 | CLONAGE 
+     CS02 | VOL 
+- **086 OTARIA**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 65 
-     FOR | 45 
-     DEF | 55 
-     VIT | 45 
-     SPE | 70 
-   * Taux de catpure : 190 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     65 | 45 | 55 | 45 | 70 
+   * Taux de capture : 190 
 
    * Taux de rendement d'expérience : 100 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * COUP D'BOULE
+   * Attaques de départ : COUP D'BOULE
 
    * Liste des attaques apprises :
 
@@ -4902,49 +3098,27 @@ Page du projet : https://github.com/LePatator/pokered-fr
      HYDROCANON | 56 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT07 | EMPAL'KORNE
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT16 | JACKPOT
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS03 | SURF
-     CS04 | FORCE
-- 087 LAMANTINE
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT07 | EMPAL'KORNE | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
+     CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD 
+     CT16 | JACKPOT | CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
+- **087 LAMANTINE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 90 
-     FOR | 70 
-     DEF | 80 
-     VIT | 70 
-     SPE | 95 
-   * Taux de catpure : 75 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     90 | 70 | 80 | 70 | 95 
+   * Taux de capture : 75 
 
    * Taux de rendement d'expérience : 176 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * COUP D'BOULE
-
-     * RUGISSEMENT
-
-     * ONDE BOREALE
+   * Attaques de départ : COUP D'BOULE, RUGISSEMENT, ONDE BOREALE
 
    * Liste des attaques apprises :
 
@@ -4958,49 +3132,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      HYDROCANON | 62 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT07 | EMPAL'KORNE
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT16 | JACKPOT
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS03 | SURF
-     CS04 | FORCE
-- 088 TADMORV
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT07 | EMPAL'KORNE | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
+     CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD 
+     CT15 | ULTRALASER | CT16 | JACKPOT | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE 
+     CS03 | SURF | CS04 | FORCE 
+- **088 TADMORV**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 80 
-     FOR | 80 
-     DEF | 50 
-     VIT | 25 
-     SPE | 40 
-   * Taux de catpure : 190 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     80 | 80 | 50 | 25 | 40 
+   * Taux de capture : 190 
 
    * Taux de rendement d'expérience : 90 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * ECRAS'FACE
-
-     * ENTRAVE
+   * Attaques de départ : ECRAS'FACE, ENTRAVE
 
    * Liste des attaques apprises :
 
@@ -5015,44 +3168,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      ACIDARMURE | 58 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT21 | MEGA-SANGSUE
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT36 | DETRITUS
-     CT38 | DEFLAGRATION
-     CT44 | REPOS
-     CT47 | EXPLOSION
-     CT50 | CLONAGE
-- 089 GROTADMORV
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT21 | MEGA-SANGSUE | CT24 | TONNERRE 
+     CT25 | FATAL-FOUDRE | CT31 | COPIE 
+     CT32 | REFLET | CT34 | PATIENCE 
+     CT36 | DETRITUS | CT38 | DEFLAGRATION 
+     CT44 | REPOS | CT47 | EXPLOSION 
+     CT50 | CLONAGE 
+- **089 GROTADMORV**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 105 
-     FOR | 105 
-     DEF | 75 
-     VIT | 50 
-     SPE | 65 
-   * Taux de catpure : 75 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     105 | 105 | 75 | 50 | 65 
+   * Taux de capture : 75 
 
    * Taux de rendement d'expérience : 157 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * ECRAS'FACE
-
-     * ENTRAVE
-
-     * GAZ TOXIK
+   * Attaques de départ : ECRAS'FACE, ENTRAVE, GAZ TOXIK
 
    * Liste des attaques apprises :
 
@@ -5067,43 +3204,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      ACIDARMURE | 60 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT15 | ULTRALASER
-     CT21 | MEGA-SANGSUE
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT36 | DETRITUS
-     CT38 | DEFLAGRATION
-     CT44 | REPOS
-     CT47 | EXPLOSION
-     CT50 | CLONAGE
-- 090 KOKIYAS
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT15 | ULTRALASER | CT21 | MEGA-SANGSUE 
+     CT24 | TONNERRE | CT25 | FATAL-FOUDRE 
+     CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT36 | DETRITUS 
+     CT38 | DEFLAGRATION | CT44 | REPOS 
+     CT47 | EXPLOSION | CT50 | CLONAGE 
+- **090 KOKIYAS**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 30 
-     FOR | 65 
-     DEF | 100 
-     VIT | 40 
-     SPE | 45 
-   * Taux de catpure : 190 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     30 | 65 | 100 | 40 | 45 
+   * Taux de capture : 190 
 
    * Taux de rendement d'expérience : 97 
 
    * Taux de croissance : 5 
 
-   * Attaques de départ :
-
-     * CHARGE
-
-     * REPLI
+   * Attaques de départ : CHARGE, REPLI
 
    * Liste des attaques apprises :
 
@@ -5117,50 +3239,27 @@ Page du projet : https://github.com/LePatator/pokered-fr
      LASER GLACE | 50 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT44 | REPOS
-     CT47 | EXPLOSION
-     CT49 | TRIPLATTAQUE
-     CT50 | CLONAGE
-     CS03 | SURF
-- 091 CRUSTABRI
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT09 | BELIER | CT10 | DAMOCLES 
+     CT11 | BULLES D'O | CT12 | PISTOLET A O | CT13 | LASER GLACE 
+     CT14 | BLIZZARD | CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE | CT39 | METEORES 
+     CT44 | REPOS | CT47 | EXPLOSION | CT49 | TRIPLATTAQUE 
+     CT50 | CLONAGE | CS03 | SURF 
+- **091 CRUSTABRI**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 50 
-     FOR | 95 
-     DEF | 180 
-     VIT | 70 
-     SPE | 85 
-   * Taux de catpure : 60 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     50 | 95 | 180 | 70 | 85 
+   * Taux de capture : 60 
 
    * Taux de rendement d'expérience : 203 
 
    * Taux de croissance : 5 
 
-   * Attaques de départ :
-
-     * REPLI
-
-     * ULTRASON
-
-     * CLAQUOIR
-
-     * ONDE BOREALE
+   * Attaques de départ : REPLI, ULTRASON, CLAQUOIR, ONDE BOREALE
 
    * Liste des attaques apprises :
 
@@ -5174,49 +3273,27 @@ Page du projet : https://github.com/LePatator/pokered-fr
      LASER GLACE | 50 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT44 | REPOS
-     CT47 | EXPLOSION
-     CT49 | TRIPLATTAQUE
-     CT50 | CLONAGE
-     CS03 | SURF
-- 092 FANTOMINUS
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT09 | BELIER | CT10 | DAMOCLES 
+     CT11 | BULLES D'O | CT12 | PISTOLET A O | CT13 | LASER GLACE 
+     CT14 | BLIZZARD | CT15 | ULTRALASER | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
+     CT39 | METEORES | CT44 | REPOS | CT47 | EXPLOSION 
+     CT49 | TRIPLATTAQUE | CT50 | CLONAGE | CS03 | SURF 
+- **092 FANTOMINUS**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 30 
-     FOR | 35 
-     DEF | 30 
-     VIT | 80 
-     SPE | 100 
-   * Taux de catpure : 190 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     30 | 35 | 30 | 80 | 100 
+   * Taux de capture : 190 
 
    * Taux de rendement d'expérience : 95 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * LECHOUILLE
-
-     * ONDE FOLIE
-
-     * TENEBRES
+   * Attaques de départ : LECHOUILLE, ONDE FOLIE, TENEBRES
 
    * Liste des attaques apprises :
 
@@ -5226,46 +3303,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      DEVOREVE | 35 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT04 | AMNESIE
-     CT06 | TOXIK
-     CT21 | MEGA-SANGSUE
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT29 | PSYKO
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT36 | DETRITUS
-     CT42 | DEVOREVE
-     CT44 | REPOS
-     CT46 | VAGUE PSY
-     CT47 | EXPLOSION
-     CT50 | CLONAGE
-- 093 SPECTRUM
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT04 | AMNESIE | CT06 | TOXIK 
+     CT21 | MEGA-SANGSUE | CT24 | TONNERRE 
+     CT25 | FATAL-FOUDRE | CT29 | PSYKO 
+     CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT36 | DETRITUS 
+     CT42 | DEVOREVE | CT44 | REPOS 
+     CT46 | VAGUE PSY | CT47 | EXPLOSION 
+     CT50 | CLONAGE 
+- **093 SPECTRUM**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 45 
-     FOR | 50 
-     DEF | 45 
-     VIT | 95 
-     SPE | 115 
-   * Taux de catpure : 90 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     45 | 50 | 45 | 95 | 115 
+   * Taux de capture : 90 
 
    * Taux de rendement d'expérience : 126 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * LECHOUILLE
-
-     * ONDE FOLIE
-
-     * TENEBRES
+   * Attaques de départ : LECHOUILLE, ONDE FOLIE, TENEBRES
 
    * Liste des attaques apprises :
 
@@ -5275,46 +3335,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      DEVOREVE | 38 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT04 | AMNESIE
-     CT06 | TOXIK
-     CT21 | MEGA-SANGSUE
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT29 | PSYKO
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT36 | DETRITUS
-     CT42 | DEVOREVE
-     CT44 | REPOS
-     CT46 | VAGUE PSY
-     CT47 | EXPLOSION
-     CT50 | CLONAGE
-- 094 ECTOPLASMA
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT04 | AMNESIE | CT06 | TOXIK 
+     CT21 | MEGA-SANGSUE | CT24 | TONNERRE 
+     CT25 | FATAL-FOUDRE | CT29 | PSYKO 
+     CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT36 | DETRITUS 
+     CT42 | DEVOREVE | CT44 | REPOS 
+     CT46 | VAGUE PSY | CT47 | EXPLOSION 
+     CT50 | CLONAGE 
+- **094 ECTOPLASMA**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 60 
-     FOR | 65 
-     DEF | 60 
-     VIT | 110 
-     SPE | 130 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     60 | 65 | 60 | 110 | 130 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 190 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * LECHOUILLE
-
-     * ONDE FOLIE
-
-     * TENEBRES
+   * Attaques de départ : LECHOUILLE, ONDE FOLIE, TENEBRES
 
    * Liste des attaques apprises :
 
@@ -5324,56 +3367,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      DEVOREVE | 38 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT04 | AMNESIE
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT21 | MEGA-SANGSUE
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT29 | PSYKO
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT36 | DETRITUS
-     CT40 | COUD'KRANE
-     CT42 | DEVOREVE
-     CT44 | REPOS
-     CT46 | VAGUE PSY
-     CT47 | EXPLOSION
-     CT50 | CLONAGE
-     CS04 | FORCE
-- 095 ONIX
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT15 | ULTRALASER 
+     CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT21 | MEGA-SANGSUE 
+     CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT29 | PSYKO | CT31 | COPIE 
+     CT32 | REFLET | CT34 | PATIENCE | CT35 | METRONOME | CT36 | DETRITUS 
+     CT40 | COUD'KRANE | CT42 | DEVOREVE | CT44 | REPOS | CT46 | VAGUE PSY 
+     CT47 | EXPLOSION | CT50 | CLONAGE | CS04 | FORCE 
+- **095 ONIX**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 35 
-     FOR | 45 
-     DEF | 160 
-     VIT | 70 
-     SPE | 30 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     35 | 45 | 160 | 70 | 30 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 108 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * CHARGE
-
-     * GRINCEMENT
+   * Attaques de départ : CHARGE, GRINCEMENT
 
    * Liste des attaques apprises :
 
@@ -5388,46 +3403,27 @@ Page du projet : https://github.com/LePatator/pokered-fr
      SEISME | 53 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT26 | SEISME
-     CT27 | ABIME
-     CT28 | TUNNEL
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT47 | EXPLOSION
-     CT48 | EBOULEMENT
-     CT50 | CLONAGE
-     CS04 | FORCE
-- 096 SOPORIFIK
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT26 | SEISME | CT27 | ABIME 
+     CT28 | TUNNEL | CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT34 | PATIENCE | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT47 | EXPLOSION | CT48 | EBOULEMENT 
+     CT50 | CLONAGE | CS04 | FORCE 
+- **096 SOPORIFIK**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 60 
-     FOR | 48 
-     DEF | 45 
-     VIT | 42 
-     SPE | 90 
-   * Taux de catpure : 190 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     60 | 48 | 45 | 42 | 90 
+   * Taux de capture : 190 
 
    * Taux de rendement d'expérience : 102 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * ECRAS'FACE
-
-     * HYPNOSE
+   * Attaques de départ : ECRAS'FACE, HYPNOSE
 
    * Liste des attaques apprises :
 
@@ -5443,58 +3439,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      ULTIMAPOING | 51 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT04 | AMNESIE
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT29 | PSYKO
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT40 | COUD'KRANE
-     CT42 | DEVOREVE
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT46 | VAGUE PSY
-     CT49 | TRIPLATTAQUE
-     CT50 | CLONAGE
-     CS05 | FLASH
-- 097 HYPNOMADE
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT17 | SACRIFICE 
+     CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT29 | PSYKO | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
+     CT35 | METRONOME | CT40 | COUD'KRANE | CT42 | DEVOREVE | CT44 | REPOS 
+     CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY | CT49 | TRIPLATTAQUE | CT50 | CLONAGE 
+     CS05 | FLASH 
+- **097 HYPNOMADE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 85 
-     FOR | 73 
-     DEF | 70 
-     VIT | 67 
-     SPE | 115 
-   * Taux de catpure : 75 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     85 | 73 | 70 | 67 | 115 
+   * Taux de capture : 75 
 
    * Taux de rendement d'expérience : 165 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * ECRAS'FACE
-
-     * HYPNOSE
-
-     * ENTRAVE
-
-     * CHOC MENTAL
+   * Attaques de départ : ECRAS'FACE, HYPNOSE, ENTRAVE, CHOC MENTAL
 
    * Liste des attaques apprises :
 
@@ -5510,55 +3476,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      ULTIMAPOING | 56 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT04 | AMNESIE
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT29 | PSYKO
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT40 | COUD'KRANE
-     CT42 | DEVOREVE
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT46 | VAGUE PSY
-     CT49 | TRIPLATTAQUE
-     CT50 | CLONAGE
-     CS05 | FLASH
-- 098 KRABBY
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT15 | ULTRALASER 
+     CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT29 | PSYKO 
+     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT35 | METRONOME | CT40 | COUD'KRANE | CT42 | DEVOREVE 
+     CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY | CT49 | TRIPLATTAQUE 
+     CT50 | CLONAGE | CS05 | FLASH 
+- **098 KRABBY**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 30 
-     FOR | 105 
-     DEF | 90 
-     VIT | 50 
-     SPE | 25 
-   * Taux de catpure : 225 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     30 | 105 | 90 | 50 | 25 
+   * Taux de capture : 225 
 
    * Taux de rendement d'expérience : 115 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * ECUME
-
-     * GROZ'YEUX
+   * Attaques de départ : ECUME, GROZ'YEUX
 
    * Liste des attaques apprises :
 
@@ -5572,49 +3511,27 @@ Page du projet : https://github.com/LePatator/pokered-fr
      ARMURE | 40 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT03 | DANSE-LAMES
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS01 | COUPE
-     CS03 | SURF
-     CS04 | FORCE
-- 099 KRABBOSS
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT03 | DANSE-LAMES | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
+     CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD 
+     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT44 | REPOS | CT50 | CLONAGE 
+     CS01 | COUPE | CS03 | SURF | CS04 | FORCE 
+- **099 KRABBOSS**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 55 
-     FOR | 130 
-     DEF | 115 
-     VIT | 75 
-     SPE | 50 
-   * Taux de catpure : 60 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     55 | 130 | 115 | 75 | 50 
+   * Taux de capture : 60 
 
    * Taux de rendement d'expérience : 206 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * ECUME
-
-     * GROZ'YEUX
-
-     * FORCE POIGNE
+   * Attaques de départ : ECUME, GROZ'YEUX, FORCE POIGNE
 
    * Liste des attaques apprises :
 
@@ -5628,48 +3545,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      ARMURE | 49 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT03 | DANSE-LAMES
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS01 | COUPE
-     CS03 | SURF
-     CS04 | FORCE
-- 100 VOLTORBE
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT03 | DANSE-LAMES | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
+     CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD 
+     CT15 | ULTRALASER | CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT34 | PATIENCE | CT44 | REPOS 
+     CT50 | CLONAGE | CS01 | COUPE | CS03 | SURF 
+     CS04 | FORCE 
+- **100 VOLTORBE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 40 
-     FOR | 30 
-     DEF | 50 
-     VIT | 100 
-     SPE | 55 
-   * Taux de catpure : 190 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     40 | 30 | 50 | 100 | 55 
+   * Taux de capture : 190 
 
    * Taux de rendement d'expérience : 103 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * CHARGE
-
-     * GRINCEMENT
+   * Attaques de départ : CHARGE, GRINCEMENT
 
    * Liste des attaques apprises :
 
@@ -5684,46 +3581,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      TONNERRE | 48 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT47 | EXPLOSION
-     CT50 | CLONAGE
-     CS05 | FLASH
-- 101 ELECTRODE
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT06 | TOXIK | CT09 | BELIER 
+     CT24 | TONNERRE | CT25 | FATAL-FOUDRE 
+     CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT39 | METEORES 
+     CT44 | REPOS | CT45 | CAGE-ECLAIR 
+     CT47 | EXPLOSION | CT50 | CLONAGE 
+     CS05 | FLASH 
+- **101 ELECTRODE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 60 
-     FOR | 50 
-     DEF | 70 
-     VIT | 140 
-     SPE | 80 
-   * Taux de catpure : 60 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     60 | 50 | 70 | 140 | 80 
+   * Taux de capture : 60 
 
    * Taux de rendement d'expérience : 150 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * CHARGE
-
-     * GRINCEMENT
-
-     * SONICBOOM
+   * Attaques de départ : CHARGE, GRINCEMENT, SONICBOOM
 
    * Liste des attaques apprises :
 
@@ -5738,48 +3618,27 @@ Page du projet : https://github.com/LePatator/pokered-fr
      TONNERRE | 51 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT15 | ULTRALASER
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT47 | EXPLOSION
-     CT50 | CLONAGE
-     CS05 | FLASH
-- 102 NOEUNOEUF
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT09 | BELIER | CT15 | ULTRALASER 
+     CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT39 | METEORES | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT45 | CAGE-ECLAIR | CT47 | EXPLOSION 
+     CT50 | CLONAGE | CS05 | FLASH 
+- **102 NOEUNOEUF**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 60 
-     FOR | 40 
-     DEF | 80 
-     VIT | 40 
-     SPE | 60 
-   * Taux de catpure : 90 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     60 | 40 | 80 | 40 | 60 
+   * Taux de capture : 90 
 
    * Taux de rendement d'expérience : 98 
 
    * Taux de croissance : 5 
 
-   * Attaques de départ :
-
-     * PILONNAGE
-
-     * HYPNOSE
-
-     * CHOC MENTAL
+   * Attaques de départ : PILONNAGE, HYPNOSE, CHOC MENTAL
 
    * Liste des attaques apprises :
 
@@ -5796,44 +3655,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PSYKO | 55 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT04 | AMNESIE
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT29 | PSYKO
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT37 | BOMB'OEUF
-     CT44 | REPOS
-     CT46 | VAGUE PSY
-     CT47 | EXPLOSION
-     CT50 | CLONAGE
-- 103 NOADKOKO
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT04 | AMNESIE | CT06 | TOXIK 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT29 | PSYKO | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE 
+     CT37 | BOMB'OEUF | CT44 | REPOS 
+     CT46 | VAGUE PSY | CT47 | EXPLOSION 
+     CT50 | CLONAGE 
+- **103 NOADKOKO**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 95 
-     FOR | 95 
-     DEF | 85 
-     VIT | 55 
-     SPE | 125 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     95 | 95 | 85 | 55 | 125 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 212 
 
    * Taux de croissance : 5 
 
-   * Attaques de départ :
-
-     * PILONNAGE
-
-     * HYPNOSE
+   * Attaques de départ : PILONNAGE, HYPNOSE
 
    * Liste des attaques apprises :
 
@@ -5850,48 +3694,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PSYKO | 55 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT04 | AMNESIE
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT21 | MEGA-SANGSUE
-     CT22 | LANCE-SOLEIL
-     CT29 | PSYKO
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT37 | BOMB'OEUF
-     CT44 | REPOS
-     CT46 | VAGUE PSY
-     CT47 | EXPLOSION
-     CT50 | CLONAGE
-     CS04 | FORCE
-- 104 OSSELAIT
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT04 | AMNESIE | CT06 | TOXIK | CT09 | BELIER 
+     CT10 | DAMOCLES | CT15 | ULTRALASER | CT21 | MEGA-SANGSUE 
+     CT22 | LANCE-SOLEIL | CT29 | PSYKO | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT37 | BOMB'OEUF | CT44 | REPOS 
+     CT46 | VAGUE PSY | CT47 | EXPLOSION | CT50 | CLONAGE 
+     CS04 | FORCE 
+- **104 OSSELAIT**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 50 
-     FOR | 50 
-     DEF | 95 
-     VIT | 35 
-     SPE | 40 
-   * Taux de catpure : 190 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     50 | 50 | 95 | 35 | 40 
+   * Taux de capture : 190 
 
    * Taux de rendement d'expérience : 87 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * MASSD'OS
-
-     * RUGISSEMENT
+   * Attaques de départ : MASSD'OS, RUGISSEMENT
 
    * Liste des attaques apprises :
 
@@ -5906,58 +3730,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      SACRIFICE | 52 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT26 | SEISME
-     CT27 | ABIME
-     CT28 | TUNNEL
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS04 | FORCE
-- 105 OSSATUEUR
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT13 | LASER GLACE | CT14 | BLIZZARD | CT17 | SACRIFICE | CT18 | RIPOSTE 
+     CT19 | FRAPPE ATLAS | CT26 | SEISME | CT27 | ABIME | CT28 | TUNNEL 
+     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE 
+     CT38 | DEFLAGRATION | CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE 
+     CS04 | FORCE 
+- **105 OSSATUEUR**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 60 
-     FOR | 80 
-     DEF | 110 
-     VIT | 45 
-     SPE | 50 
-   * Taux de catpure : 75 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     60 | 80 | 110 | 45 | 50 
+   * Taux de capture : 75 
 
    * Taux de rendement d'expérience : 124 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * MASSD'OS
-
-     * RUGISSEMENT
-
-     * GROZ'YEUX
-
-     * PUISSANCE
+   * Attaques de départ : MASSD'OS, RUGISSEMENT, GROZ'YEUX, PUISSANCE
 
    * Liste des attaques apprises :
 
@@ -5972,55 +3766,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      SACRIFICE | 60 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT26 | SEISME
-     CT27 | ABIME
-     CT28 | TUNNEL
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS04 | FORCE
-- 106 KICKLEE
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER | CT17 | SACRIFICE 
+     CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT26 | SEISME | CT27 | ABIME 
+     CT28 | TUNNEL | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT38 | DEFLAGRATION | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT50 | CLONAGE | CS04 | FORCE 
+- **106 KICKLEE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 50 
-     FOR | 120 
-     DEF | 53 
-     VIT | 87 
-     SPE | 35 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     50 | 120 | 53 | 87 | 35 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 139 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * DOUBLE PIED
-
-     * YOGA
+   * Attaques de départ : DOUBLE PIED, YOGA
 
    * Liste des attaques apprises :
 
@@ -6034,48 +3801,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      HATE | 60 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS04 | FORCE
-- 107 TYGNON
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES 
+     CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS 
+     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT35 | METRONOME | CT39 | METEORES 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE 
+     CS04 | FORCE 
+- **107 TYGNON**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 50 
-     FOR | 105 
-     DEF | 79 
-     VIT | 76 
-     SPE | 35 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     50 | 105 | 79 | 76 | 35 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 140 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * POING COMETE
-
-     * HATE
+   * Attaques de départ : POING COMETE, HATE
 
    * Liste des attaques apprises :
 
@@ -6090,48 +3837,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      UPPERCUT | 63 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS04 | FORCE
-- 108 EXCELANGUE
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES 
+     CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS 
+     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT35 | METRONOME | CT39 | METEORES 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE 
+     CS04 | FORCE 
+- **108 EXCELANGUE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 90 
-     FOR | 55 
-     DEF | 75 
-     VIT | 30 
-     SPE | 60 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     90 | 55 | 75 | 30 | 60 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 127 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * LIGOTAGE
-
-     * ULTRASON
+   * Attaques de départ : LIGOTAGE, ULTRASON
 
    * Liste des attaques apprises :
 
@@ -6146,59 +3873,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      MANIA | 45 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT03 | DANSE-LAMES
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT26 | SEISME
-     CT27 | ABIME
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS01 | COUPE
-     CS03 | SURF
-     CS04 | FORCE
-- 109 SMOGO
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT03 | DANSE-LAMES | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
+     CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER 
+     CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT24 | TONNERRE 
+     CT25 | FATAL-FOUDRE | CT26 | SEISME | CT27 | ABIME | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE | CT38 | DEFLAGRATION 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE | CS01 | COUPE 
+     CS03 | SURF | CS04 | FORCE 
+- **109 SMOGO**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 40 
-     FOR | 65 
-     DEF | 95 
-     VIT | 35 
-     SPE | 60 
-   * Taux de catpure : 190 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     40 | 65 | 95 | 35 | 60 
+   * Taux de capture : 190 
 
    * Taux de rendement d'expérience : 114 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * CHARGE
-
-     * PUREDPOIS
+   * Attaques de départ : CHARGE, PUREDPOIS
 
    * Liste des attaques apprises :
 
@@ -6214,43 +3911,27 @@ Page du projet : https://github.com/LePatator/pokered-fr
      TOXIK | 55 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT36 | DETRITUS
-     CT38 | DEFLAGRATION
-     CT44 | REPOS
-     CT47 | EXPLOSION
-     CT50 | CLONAGE
-- 110 SMOGOGO
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT06 | TOXIK | CT24 | TONNERRE 
+     CT25 | FATAL-FOUDRE | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT36 | DETRITUS 
+     CT38 | DEFLAGRATION | CT44 | REPOS 
+     CT47 | EXPLOSION | CT50 | CLONAGE 
+- **110 SMOGOGO**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 65 
-     FOR | 90 
-     DEF | 120 
-     VIT | 60 
-     SPE | 85 
-   * Taux de catpure : 60 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     65 | 90 | 120 | 60 | 85 
+   * Taux de capture : 60 
 
    * Taux de rendement d'expérience : 173 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * CHARGE
-
-     * PUREDPOIS
-
-     * DETRITUS
+   * Attaques de départ : CHARGE, PUREDPOIS, DETRITUS
 
    * Liste des attaques apprises :
 
@@ -6266,40 +3947,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      TOXIK | 59 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT15 | ULTRALASER
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT36 | DETRITUS
-     CT38 | DEFLAGRATION
-     CT44 | REPOS
-     CT47 | EXPLOSION
-     CT50 | CLONAGE
-- 111 RHINOCORNE
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT06 | TOXIK | CT15 | ULTRALASER 
+     CT24 | TONNERRE | CT25 | FATAL-FOUDRE 
+     CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT34 | PATIENCE 
+     CT36 | DETRITUS | CT38 | DEFLAGRATION 
+     CT44 | REPOS | CT47 | EXPLOSION 
+     CT50 | CLONAGE 
+- **111 RHINOCORNE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 80 
-     FOR | 85 
-     DEF | 95 
-     VIT | 25 
-     SPE | 30 
-   * Taux de catpure : 120 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     80 | 85 | 95 | 25 | 30 
+   * Taux de capture : 120 
 
    * Taux de rendement d'expérience : 135 
 
    * Taux de croissance : 5 
 
-   * Attaques de départ :
-
-     * KOUD'KORNE
+   * Attaques de départ : KOUD'KORNE
 
    * Liste des attaques apprises :
 
@@ -6316,53 +3985,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      ABIME | 62 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT07 | EMPAL'KORNE
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT26 | SEISME
-     CT27 | ABIME
-     CT28 | TUNNEL
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT48 | EBOULEMENT
-     CT50 | CLONAGE
-     CS04 | FORCE
-- 112 RHINOFEROS
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT07 | EMPAL'KORNE | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT24 | TONNERRE 
+     CT25 | FATAL-FOUDRE | CT26 | SEISME | CT27 | ABIME 
+     CT28 | TUNNEL | CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT34 | PATIENCE | CT38 | DEFLAGRATION 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT48 | EBOULEMENT 
+     CT50 | CLONAGE | CS04 | FORCE 
+- **112 RHINOFEROS**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 105 
-     FOR | 130 
-     DEF | 120 
-     VIT | 40 
-     SPE | 45 
-   * Taux de catpure : 60 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     105 | 130 | 120 | 40 | 45 
+   * Taux de capture : 60 
 
    * Taux de rendement d'expérience : 204 
 
    * Taux de croissance : 5 
 
-   * Attaques de départ :
-
-     * KOUD'KORNE
-
-     * ECRASEMENT
-
-     * MIMI-QUEUE
-
-     * FURIE
+   * Attaques de départ : KOUD'KORNE, ECRASEMENT, MIMI-QUEUE, FURIE
 
    * Liste des attaques apprises :
 
@@ -6378,61 +4022,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      ABIME | 64 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT07 | EMPAL'KORNE
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT16 | JACKPOT
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT26 | SEISME
-     CT27 | ABIME
-     CT28 | TUNNEL
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT48 | EBOULEMENT
-     CT50 | CLONAGE
-     CS03 | SURF
-     CS04 | FORCE
-- 113 LEVEINARD
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT07 | EMPAL'KORNE 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
+     CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER 
+     CT16 | JACKPOT | CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS 
+     CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT26 | SEISME | CT27 | ABIME 
+     CT28 | TUNNEL | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT38 | DEFLAGRATION | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT48 | EBOULEMENT | CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
+- **113 LEVEINARD**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 250 
-     FOR | 5 
-     DEF | 5 
-     VIT | 50 
-     SPE | 105 
-   * Taux de catpure : 30 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     250 | 5 | 5 | 50 | 105 
+   * Taux de capture : 30 
 
    * Taux de rendement d'expérience : 255 
 
    * Taux de croissance : 4 
 
-   * Attaques de départ :
-
-     * ECRAS'FACE
-
-     * TORGNOLES
+   * Attaques de départ : ECRAS'FACE, TORGNOLES
 
    * Liste des attaques apprises :
 
@@ -6446,63 +4058,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      DAMOCLES | 54 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT22 | LANCE-SOLEIL
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT29 | PSYKO
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT37 | BOMB'OEUF
-     CT38 | DEFLAGRATION
-     CT40 | COUD'KRANE
-     CT41 | E-COQUE
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT46 | VAGUE PSY
-     CT49 | TRIPLATTAQUE
-     CT50 | CLONAGE
-     CS04 | FORCE
-     CS05 | FLASH
-- 114 SAQUEDENEU
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD 
+     CT15 | ULTRALASER | CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT22 | LANCE-SOLEIL 
+     CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT29 | PSYKO | CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE | CT35 | METRONOME | CT37 | BOMB'OEUF | CT38 | DEFLAGRATION 
+     CT40 | COUD'KRANE | CT41 | E-COQUE | CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY 
+     CT49 | TRIPLATTAQUE | CT50 | CLONAGE | CS04 | FORCE | CS05 | FLASH 
+- **114 SAQUEDENEU**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 65 
-     FOR | 55 
-     DEF | 115 
-     VIT | 60 
-     SPE | 100 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     65 | 55 | 115 | 60 | 100 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 166 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * CONSTRICTION
-
-     * ETREINTE
+   * Attaques de départ : CONSTRICTION, ETREINTE
 
    * Liste des attaques apprises :
 
@@ -6518,46 +4095,27 @@ Page du projet : https://github.com/LePatator/pokered-fr
      CROISSANCE | 56 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT03 | DANSE-LAMES
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT21 | MEGA-SANGSUE
-     CT22 | LANCE-SOLEIL
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT36 | DETRITUS
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS01 | COUPE
-- 115 KANGOUREX
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT03 | DANSE-LAMES | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT15 | ULTRALASER 
+     CT21 | MEGA-SANGSUE | CT22 | LANCE-SOLEIL | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE 
+     CT36 | DETRITUS | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT50 | CLONAGE | CS01 | COUPE 
+- **115 KANGOUREX**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 105 
-     FOR | 95 
-     DEF | 80 
-     VIT | 90 
-     SPE | 40 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     105 | 95 | 80 | 90 | 40 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 175 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * POING COMETE
-
-     * FRENESIE
+   * Attaques de départ : POING COMETE, FRENESIE
 
    * Liste des attaques apprises :
 
@@ -6572,56 +4130,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      SACRIFICE | 56 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT26 | SEISME
-     CT27 | ABIME
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT48 | EBOULEMENT
-     CT50 | CLONAGE
-     CS03 | SURF
-     CS04 | FORCE
-- 116 HYPOTREMPE
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER | CT17 | SACRIFICE 
+     CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT24 | TONNERRE | CT25 | FATAL-FOUDRE 
+     CT26 | SEISME | CT27 | ABIME | CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT34 | PATIENCE | CT38 | DEFLAGRATION | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT48 | EBOULEMENT | CT50 | CLONAGE | CS03 | SURF 
+     CS04 | FORCE 
+- **116 HYPOTREMPE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 30 
-     FOR | 40 
-     DEF | 70 
-     VIT | 60 
-     SPE | 70 
-   * Taux de catpure : 225 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     30 | 40 | 70 | 60 | 70 
+   * Taux de capture : 225 
 
    * Taux de rendement d'expérience : 83 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * ECUME
+   * Attaques de départ : ECUME
 
    * Liste des attaques apprises :
 
@@ -6636,44 +4167,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      DRACO-RAGE | 52 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS03 | SURF
-- 117 HYPOCEAN
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT06 | TOXIK | CT09 | BELIER 
+     CT10 | DAMOCLES | CT11 | BULLES D'O 
+     CT12 | PISTOLET A O | CT13 | LASER GLACE 
+     CT14 | BLIZZARD | CT31 | COPIE 
+     CT32 | REFLET | CT34 | PATIENCE 
+     CT39 | METEORES | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT50 | CLONAGE 
+     CS03 | SURF 
+- **117 HYPOCEAN**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 55 
-     FOR | 65 
-     DEF | 95 
-     VIT | 85 
-     SPE | 95 
-   * Taux de catpure : 75 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     55 | 65 | 95 | 85 | 95 
+   * Taux de capture : 75 
 
    * Taux de rendement d'expérience : 155 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * ECUME
-
-     * BROUILLARD
+   * Attaques de départ : ECUME, BROUILLARD
 
    * Liste des attaques apprises :
 
@@ -6688,45 +4204,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      DRACO-RAGE | 58 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS03 | SURF
-- 118 POISSIRENE
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT06 | TOXIK | CT09 | BELIER 
+     CT10 | DAMOCLES | CT11 | BULLES D'O 
+     CT12 | PISTOLET A O | CT13 | LASER GLACE 
+     CT14 | BLIZZARD | CT15 | ULTRALASER 
+     CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT39 | METEORES 
+     CT40 | COUD'KRANE | CT44 | REPOS 
+     CT50 | CLONAGE | CS03 | SURF 
+- **118 POISSIRENE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 45 
-     FOR | 67 
-     DEF | 60 
-     VIT | 63 
-     SPE | 50 
-   * Taux de catpure : 225 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     45 | 67 | 60 | 63 | 50 
+   * Taux de capture : 225 
 
    * Taux de rendement d'expérience : 111 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * PICPIC
-
-     * MIMI-QUEUE
+   * Attaques de départ : PICPIC, MIMI-QUEUE
 
    * Liste des attaques apprises :
 
@@ -6740,47 +4240,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      HATE | 50 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT07 | EMPAL'KORNE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS03 | SURF
-- 119 POISSOROY
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT06 | TOXIK | CT07 | EMPAL'KORNE 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT13 | LASER GLACE | CT14 | BLIZZARD 
+     CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT39 | METEORES 
+     CT40 | COUD'KRANE | CT44 | REPOS 
+     CT50 | CLONAGE | CS03 | SURF 
+- **119 POISSOROY**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 80 
-     FOR | 92 
-     DEF | 65 
-     VIT | 68 
-     SPE | 80 
-   * Taux de catpure : 60 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     80 | 92 | 65 | 68 | 80 
+   * Taux de capture : 60 
 
    * Taux de rendement d'expérience : 170 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * PICPIC
-
-     * MIMI-QUEUE
-
-     * ULTRASON
+   * Attaques de départ : PICPIC, MIMI-QUEUE, ULTRASON
 
    * Liste des attaques apprises :
 
@@ -6794,44 +4276,27 @@ Page du projet : https://github.com/LePatator/pokered-fr
      HATE | 54 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT07 | EMPAL'KORNE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS03 | SURF
-- 120 STARI
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT07 | EMPAL'KORNE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER 
+     CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE 
+     CT39 | METEORES | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT50 | CLONAGE | CS03 | SURF 
+- **120 STARI**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 30 
-     FOR | 45 
-     DEF | 55 
-     VIT | 85 
-     SPE | 70 
-   * Taux de catpure : 225 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     30 | 45 | 55 | 85 | 70 
+   * Taux de capture : 225 
 
    * Taux de rendement d'expérience : 106 
 
    * Taux de croissance : 5 
 
-   * Attaques de départ :
-
-     * CHARGE
+   * Attaques de départ : CHARGE
 
    * Liste des attaques apprises :
 
@@ -6847,54 +4312,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      HYDROCANON | 52 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT29 | PSYKO
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT46 | VAGUE PSY
-     CT49 | TRIPLATTAQUE
-     CT50 | CLONAGE
-     CS03 | SURF
-     CS05 | FLASH
-- 121 STAROSS
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT09 | BELIER | CT10 | DAMOCLES 
+     CT11 | BULLES D'O | CT12 | PISTOLET A O | CT13 | LASER GLACE 
+     CT14 | BLIZZARD | CT24 | TONNERRE | CT25 | FATAL-FOUDRE 
+     CT29 | PSYKO | CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE | CT39 | METEORES 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR 
+     CT46 | VAGUE PSY | CT49 | TRIPLATTAQUE | CT50 | CLONAGE 
+     CS03 | SURF | CS05 | FLASH 
+- **121 STAROSS**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 60 
-     FOR | 75 
-     DEF | 85 
-     VIT | 115 
-     SPE | 100 
-   * Taux de catpure : 60 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     60 | 75 | 85 | 115 | 100 
+   * Taux de capture : 60 
 
    * Taux de rendement d'expérience : 207 
 
    * Taux de croissance : 5 
 
-   * Attaques de départ :
-
-     * CHARGE
-
-     * PISTOLET A O
-
-     * ARMURE
+   * Attaques de départ : CHARGE, PISTOLET A O, ARMURE
 
    * Liste des attaques apprises :
 
@@ -6910,54 +4350,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      HYDROCANON | 52 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT04 | AMNESIE
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT29 | PSYKO
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT46 | VAGUE PSY
-     CT49 | TRIPLATTAQUE
-     CT50 | CLONAGE
-     CS03 | SURF
-     CS05 | FLASH
-- 122 M.MIME
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT04 | AMNESIE | CT06 | TOXIK | CT09 | BELIER | CT10 | DAMOCLES 
+     CT11 | BULLES D'O | CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD 
+     CT15 | ULTRALASER | CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT29 | PSYKO 
+     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
+     CT39 | METEORES | CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR 
+     CT46 | VAGUE PSY | CT49 | TRIPLATTAQUE | CT50 | CLONAGE | CS03 | SURF 
+     CS05 | FLASH 
+- **122 M.MIME**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 40 
-     FOR | 45 
-     DEF | 65 
-     VIT | 90 
-     SPE | 100 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     40 | 45 | 65 | 90 | 100 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 136 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * CHOC MENTAL
-
-     * BOUCLIER
+   * Attaques de départ : CHOC MENTAL, BOUCLIER
 
    * Liste des attaques apprises :
 
@@ -6973,54 +4387,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PSYKO | 54 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT04 | AMNESIE
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT22 | LANCE-SOLEIL
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT29 | PSYKO
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT46 | VAGUE PSY
-     CT50 | CLONAGE
-     CS05 | FLASH
-- 123 INSECATEUR
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT15 | ULTRALASER 
+     CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT22 | LANCE-SOLEIL 
+     CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT29 | PSYKO | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
+     CT35 | METRONOME | CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR 
+     CT46 | VAGUE PSY | CT50 | CLONAGE | CS05 | FLASH 
+- **123 INSECATEUR**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 70 
-     FOR | 110 
-     DEF | 80 
-     VIT | 105 
-     SPE | 55 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     70 | 110 | 80 | 105 | 55 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 187 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * VIVE-ATTAQUE
+   * Attaques de départ : VIVE-ATTAQUE
 
    * Liste des attaques apprises :
 
@@ -7037,44 +4425,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      COUPE-VENT | 55 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT03 | DANSE-LAMES
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS01 | COUPE
-     CS02 | VOL
-- 124 LIPPOUTOU
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT03 | DANSE-LAMES | CT06 | TOXIK 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT15 | ULTRALASER | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT39 | METEORES 
+     CT40 | COUD'KRANE | CT44 | REPOS 
+     CT50 | CLONAGE | CS01 | COUPE 
+     CS02 | VOL 
+- **124 LIPPOUTOU**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 65 
-     FOR | 50 
-     DEF | 35 
-     VIT | 95 
-     SPE | 95 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     65 | 50 | 35 | 95 | 95 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 137 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * ECRAS'FACE
-
-     * GROBISOU
+   * Attaques de départ : ECRAS'FACE, GROBISOU
 
    * Liste des attaques apprises :
 
@@ -7090,55 +4463,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      BLIZZARD | 58 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT04 | AMNESIE
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT29 | PSYKO
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT46 | VAGUE PSY
-     CT50 | CLONAGE
-- 125 ELEKTEK
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
+     CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER 
+     CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT29 | PSYKO 
+     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT35 | METRONOME | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT46 | VAGUE PSY | CT50 | CLONAGE 
+- **125 ELEKTEK**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 65 
-     FOR | 83 
-     DEF | 57 
-     VIT | 105 
-     SPE | 85 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     65 | 83 | 57 | 105 | 85 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 156 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * VIVE-ATTAQUE
-
-     * GROZ'YEUX
+   * Attaques de départ : VIVE-ATTAQUE, GROZ'YEUX
 
    * Liste des attaques apprises :
 
@@ -7152,54 +4498,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      FATAL-FOUDRE | 54 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT29 | PSYKO
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT46 | VAGUE PSY
-     CT50 | CLONAGE
-     CS04 | FORCE
-     CS05 | FLASH
-- 126 MAGMAR
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT15 | ULTRALASER | CT17 | SACRIFICE 
+     CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT24 | TONNERRE | CT25 | FATAL-FOUDRE 
+     CT29 | PSYKO | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE | CT35 | METRONOME | CT39 | METEORES 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY 
+     CT50 | CLONAGE | CS04 | FORCE | CS05 | FLASH 
+- **126 MAGMAR**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 65 
-     FOR | 95 
-     DEF | 57 
-     VIT | 93 
-     SPE | 85 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     65 | 95 | 57 | 93 | 85 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 167 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * FLAMMECHE
+   * Attaques de départ : FLAMMECHE
 
    * Liste des attaques apprises :
 
@@ -7214,50 +4534,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      DEFLAGRATION | 62 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT20 | LANCE-FLAMME
-     CT29 | PSYKO
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT38 | DEFLAGRATION
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT46 | VAGUE PSY
-     CT50 | CLONAGE
-     CS04 | FORCE
-- 127 SCARABRUTE
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES 
+     CT15 | ULTRALASER | CT17 | SACRIFICE | CT18 | RIPOSTE 
+     CT19 | FRAPPE ATLAS | CT20 | LANCE-FLAMME | CT29 | PSYKO 
+     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT35 | METRONOME | CT38 | DEFLAGRATION 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT46 | VAGUE PSY 
+     CT50 | CLONAGE | CS04 | FORCE 
+- **127 SCARABRUTE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 65 
-     FOR | 125 
-     DEF | 100 
-     VIT | 85 
-     SPE | 55 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     65 | 125 | 100 | 85 | 55 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 200 
 
    * Taux de croissance : 5 
 
-   * Attaques de départ :
-
-     * FORCE POIGNE
+   * Attaques de départ : FORCE POIGNE
 
    * Liste des attaques apprises :
 
@@ -7272,43 +4571,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      DANSE-LAMES | 54 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT03 | DANSE-LAMES
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT17 | SACRIFICE
-     CT19 | FRAPPE ATLAS
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS01 | COUPE
-     CS04 | FORCE
-- 128 TAUROS
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT03 | DANSE-LAMES | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT15 | ULTRALASER 
+     CT17 | SACRIFICE | CT19 | FRAPPE ATLAS 
+     CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT34 | PATIENCE 
+     CT44 | REPOS | CT50 | CLONAGE 
+     CS01 | COUPE | CS04 | FORCE 
+- **128 TAUROS**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 75 
-     FOR | 100 
-     DEF | 95 
-     VIT | 110 
-     SPE | 70 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     75 | 100 | 95 | 110 | 70 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 211 
 
    * Taux de croissance : 5 
 
-   * Attaques de départ :
-
-     * CHARGE
+   * Attaques de départ : CHARGE
 
    * Liste des attaques apprises :
 
@@ -7323,83 +4608,49 @@ Page du projet : https://github.com/LePatator/pokered-fr
      EMPAL'KORNE | 55 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT07 | EMPAL'KORNE
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT26 | SEISME
-     CT27 | ABIME
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS04 | FORCE
-- 129 MAGICARPE
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT07 | EMPAL'KORNE | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT13 | LASER GLACE 
+     CT14 | BLIZZARD | CT15 | ULTRALASER | CT24 | TONNERRE 
+     CT25 | FATAL-FOUDRE | CT26 | SEISME | CT27 | ABIME 
+     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT38 | DEFLAGRATION | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT50 | CLONAGE | CS04 | FORCE 
+- **129 MAGICARPE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 20 
-     FOR | 10 
-     DEF | 55 
-     VIT | 80 
-     SPE | 20 
-   * Taux de catpure : 255 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     20 | 10 | 55 | 80 | 20 
+   * Taux de capture : 255 
 
    * Taux de rendement d'expérience : 20 
 
    * Taux de croissance : 5 
 
-   * Attaques de départ :
-
-     * TREMPETTE
+   * Attaques de départ : TREMPETTE
 
    * Liste des attaques apprises :
 
      Attaque | Niveau 
      --- | --- 
      CHARGE | 15 
-   * Attaques accessibles via CT/CS :
+   * Attaques accessibles via CT/CS : aucune
 
-     CT/CS | Attaque 
-     --- | --- 
-- 130 LEVIATOR
-   * Statistiques :
+- **130 LEVIATOR**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 95 
-     FOR | 125 
-     DEF | 79 
-     VIT | 81 
-     SPE | 100 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     95 | 125 | 79 | 81 | 100 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 214 
 
    * Taux de croissance : 5 
 
-   * Attaques de départ :
-
-     * MORSURE
-
-     * DRACO-RAGE
-
-     * GROZ'YEUX
-
-     * HYDROCANON
+   * Attaques de départ : MORSURE, DRACO-RAGE, GROZ'YEUX, HYDROCANON
 
    * Liste des attaques apprises :
 
@@ -7413,52 +4664,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      ULTRALASER | 52 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT23 | DRACO-RAGE
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS03 | SURF
-     CS04 | FORCE
-- 131 LOKHLASS
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER 
+     CT23 | DRACO-RAGE | CT24 | TONNERRE | CT25 | FATAL-FOUDRE 
+     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE | CT38 | DEFLAGRATION 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE 
+     CS03 | SURF | CS04 | FORCE 
+- **131 LOKHLASS**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 130 
-     FOR | 85 
-     DEF | 80 
-     VIT | 60 
-     SPE | 95 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     130 | 85 | 80 | 60 | 95 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 219 
 
    * Taux de croissance : 5 
 
-   * Attaques de départ :
-
-     * PISTOLET A O
-
-     * RUGISSEMENT
+   * Attaques de départ : PISTOLET A O, RUGISSEMENT
 
    * Liste des attaques apprises :
 
@@ -7473,85 +4701,46 @@ Page du projet : https://github.com/LePatator/pokered-fr
      BLIZZARD | 55 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT07 | EMPAL'KORNE
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT22 | LANCE-SOLEIL
-     CT23 | DRACO-RAGE
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT29 | PSYKO
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT46 | VAGUE PSY
-     CT50 | CLONAGE
-     CS03 | SURF
-     CS04 | FORCE
-- 132 METAMORPH
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT07 | EMPAL'KORNE | CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O | CT13 | LASER GLACE 
+     CT14 | BLIZZARD | CT15 | ULTRALASER | CT22 | LANCE-SOLEIL | CT23 | DRACO-RAGE 
+     CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT29 | PSYKO | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT46 | VAGUE PSY | CT50 | CLONAGE 
+     CS03 | SURF | CS04 | FORCE 
+- **132 METAMORPH**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 48 
-     FOR | 48 
-     DEF | 48 
-     VIT | 48 
-     SPE | 48 
-   * Taux de catpure : 35 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     48 | 48 | 48 | 48 | 48 
+   * Taux de capture : 35 
 
    * Taux de rendement d'expérience : 61 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
+   * Attaques de départ : MORPHING
 
-     * MORPHING
+   * Liste des attaques apprises : aucune
 
-   * Liste des attaques apprises :
+   * Attaques accessibles via CT/CS : aucune
 
-     Attaque | Niveau 
-     --- | --- 
-   * Attaques accessibles via CT/CS :
+- **133 EVOLI**
+   * Statistiques de base :
 
-     CT/CS | Attaque 
-     --- | --- 
-- 133 EVOLI
-   * Statistiques :
-
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 55 
-     FOR | 55 
-     DEF | 50 
-     VIT | 55 
-     SPE | 65 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     55 | 55 | 50 | 55 | 65 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 92 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * CHARGE
-
-     * JET DE SABLE
-
-     * VIVE-ATTAQUE
+   * Attaques de départ : CHARGE, JET DE SABLE, VIVE-ATTAQUE
 
    * Liste des attaques apprises :
 
@@ -7564,46 +4753,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      BELIER | 45 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-- 134 AQUALI
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT39 | METEORES 
+     CT40 | COUD'KRANE | CT44 | REPOS 
+     CT50 | CLONAGE 
+- **134 AQUALI**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 130 
-     FOR | 65 
-     DEF | 60 
-     VIT | 65 
-     SPE | 110 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     130 | 65 | 60 | 65 | 110 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 196 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * CHARGE
-
-     * JET DE SABLE
-
-     * VIVE-ATTAQUE
-
-     * PISTOLET A O
+   * Attaques de départ : CHARGE, JET DE SABLE, VIVE-ATTAQUE, PISTOLET A O
 
    * Liste des attaques apprises :
 
@@ -7618,52 +4789,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      HYDROCANON | 52 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS03 | SURF
-- 135 VOLTALI
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER 
+     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE | CT39 | METEORES 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE 
+     CS03 | SURF 
+- **135 VOLTALI**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 65 
-     FOR | 65 
-     DEF | 60 
-     VIT | 130 
-     SPE | 110 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     65 | 65 | 60 | 130 | 110 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 197 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * CHARGE
-
-     * JET DE SABLE
-
-     * VIVE-ATTAQUE
-
-     * ECLAIR
+   * Attaques de départ : CHARGE, JET DE SABLE, VIVE-ATTAQUE, ECLAIR
 
    * Liste des attaques apprises :
 
@@ -7678,51 +4825,27 @@ Page du projet : https://github.com/LePatator/pokered-fr
      FATAL-FOUDRE | 54 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT50 | CLONAGE
-     CS05 | FLASH
-- 136 PYROLI
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT15 | ULTRALASER | CT24 | TONNERRE 
+     CT25 | FATAL-FOUDRE | CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
+     CT39 | METEORES | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT45 | CAGE-ECLAIR | CT50 | CLONAGE | CS05 | FLASH 
+- **136 PYROLI**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 65 
-     FOR | 130 
-     DEF | 60 
-     VIT | 65 
-     SPE | 110 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     65 | 130 | 60 | 65 | 110 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 198 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * CHARGE
-
-     * JET DE SABLE
-
-     * VIVE-ATTAQUE
-
-     * FLAMMECHE
+   * Attaques de départ : CHARGE, JET DE SABLE, VIVE-ATTAQUE, FLAMMECHE
 
    * Liste des attaques apprises :
 
@@ -7736,47 +4859,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      LANCE-FLAMME | 50 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT20 | LANCE-FLAMME
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-- 137 PORYGON
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT15 | ULTRALASER | CT20 | LANCE-FLAMME 
+     CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT38 | DEFLAGRATION 
+     CT39 | METEORES | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT50 | CLONAGE 
+- **137 PORYGON**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 65 
-     FOR | 60 
-     DEF | 70 
-     VIT | 40 
-     SPE | 75 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     65 | 60 | 70 | 40 | 75 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 130 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * CHARGE
-
-     * AFFUTAGE
-
-     * ADAPTATION
+   * Attaques de départ : CHARGE, AFFUTAGE, ADAPTATION
 
    * Liste des attaques apprises :
 
@@ -7789,51 +4894,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      ULTRALASER | 50 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT29 | PSYKO
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT46 | VAGUE PSY
-     CT49 | TRIPLATTAQUE
-     CT50 | CLONAGE
-     CS05 | FLASH
-- 138 AMONITA
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT09 | BELIER | CT10 | DAMOCLES 
+     CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER 
+     CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT29 | PSYKO 
+     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE | CT39 | METEORES 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR 
+     CT46 | VAGUE PSY | CT49 | TRIPLATTAQUE | CT50 | CLONAGE 
+     CS05 | FLASH 
+- **138 AMONITA**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 35 
-     FOR | 40 
-     DEF | 100 
-     VIT | 35 
-     SPE | 90 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     35 | 40 | 100 | 35 | 90 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 120 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * PISTOLET A O
-
-     * REPLI
+   * Attaques de départ : PISTOLET A O, REPLI
 
    * Liste des attaques apprises :
 
@@ -7846,47 +4929,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      ONDE BOREALE | 54 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS03 | SURF
-- 139 AMONISTAR
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT13 | LASER GLACE | CT14 | BLIZZARD 
+     CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT44 | REPOS 
+     CT50 | CLONAGE | CS03 | SURF 
+- **139 AMONISTAR**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 70 
-     FOR | 60 
-     DEF | 125 
-     VIT | 55 
-     SPE | 115 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     70 | 60 | 125 | 55 | 115 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 199 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * PISTOLET A O
-
-     * REPLI
-
-     * KOUD'KORNE
+   * Attaques de départ : PISTOLET A O, REPLI, KOUD'KORNE
 
    * Liste des attaques apprises :
 
@@ -7899,50 +4964,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      ONDE BOREALE | 58 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT07 | EMPAL'KORNE
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT17 | SACRIFICE
-     CT19 | FRAPPE ATLAS
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS03 | SURF
-- 140 KABUTO
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT07 | EMPAL'KORNE | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
+     CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD 
+     CT15 | ULTRALASER | CT17 | SACRIFICE | CT19 | FRAPPE ATLAS 
+     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT50 | CLONAGE | CS03 | SURF 
+- **140 KABUTO**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 30 
-     FOR | 80 
-     DEF | 90 
-     VIT | 55 
-     SPE | 45 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     30 | 80 | 90 | 55 | 45 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 119 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * GRIFFE
-
-     * ARMURE
+   * Attaques de départ : GRIFFE, ARMURE
 
    * Liste des attaques apprises :
 
@@ -7954,47 +4997,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      HYDROCANON | 48 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS03 | SURF
-- 141 KABUTOPS
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT13 | LASER GLACE | CT14 | BLIZZARD 
+     CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT44 | REPOS 
+     CT50 | CLONAGE | CS03 | SURF 
+- **141 KABUTOPS**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 60 
-     FOR | 115 
-     DEF | 105 
-     VIT | 80 
-     SPE | 70 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     60 | 115 | 105 | 80 | 70 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 201 
 
    * Taux de croissance : 0 
 
-   * Attaques de départ :
-
-     * GRIFFE
-
-     * ARMURE
-
-     * VOL-VIE
+   * Attaques de départ : GRIFFE, ARMURE, VOL-VIE
 
    * Liste des attaques apprises :
 
@@ -8008,52 +5033,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      GUILLOTINE | 60 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT02 | COUPE-VENT
-     CT03 | DANSE-LAMES
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT17 | SACRIFICE
-     CT19 | FRAPPE ATLAS
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS03 | SURF
-- 142 PTERA
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT02 | COUPE-VENT | CT03 | DANSE-LAMES | CT05 | ULTIMAWASHI 
+     CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER 
+     CT17 | SACRIFICE | CT19 | FRAPPE ATLAS | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT50 | CLONAGE | CS03 | SURF 
+- **142 PTERA**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 80 
-     FOR | 105 
-     DEF | 65 
-     VIT | 130 
-     SPE | 60 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     80 | 105 | 65 | 130 | 60 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 202 
 
    * Taux de croissance : 5 
 
-   * Attaques de départ :
-
-     * CRU-AILE
-
-     * HATE
+   * Attaques de départ : CRU-AILE, HATE
 
    * Liste des attaques apprises :
 
@@ -8066,47 +5068,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      ULTRALASER | 54 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT02 | COUPE-VENT
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT23 | DRACO-RAGE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT39 | METEORES
-     CT43 | PIQUE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS02 | VOL
-- 143 RONFLEX
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT02 | COUPE-VENT | CT06 | TOXIK 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT15 | ULTRALASER | CT23 | DRACO-RAGE 
+     CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE 
+     CT38 | DEFLAGRATION | CT39 | METEORES 
+     CT43 | PIQUE | CT44 | REPOS 
+     CT50 | CLONAGE | CS02 | VOL 
+- **143 RONFLEX**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 160 
-     FOR | 110 
-     DEF | 65 
-     VIT | 30 
-     SPE | 65 
-   * Taux de catpure : 25 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     160 | 110 | 65 | 30 | 65 
+   * Taux de capture : 25 
 
    * Taux de rendement d'expérience : 154 
 
    * Taux de croissance : 5 
 
-   * Attaques de départ :
-
-     * COUP D'BOULE
-
-     * AMNESIE
-
-     * REPOS
+   * Attaques de départ : COUP D'BOULE, AMNESIE, REPOS
 
    * Liste des attaques apprises :
 
@@ -8118,65 +5102,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      ULTRALASER | 56 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT04 | AMNESIE
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT16 | JACKPOT
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT22 | LANCE-SOLEIL
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT26 | SEISME
-     CT27 | ABIME
-     CT29 | PSYKO
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT38 | DEFLAGRATION
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT46 | VAGUE PSY
-     CT48 | EBOULEMENT
-     CT50 | CLONAGE
-     CS03 | SURF
-     CS04 | FORCE
-- 144 ARTIKODIN
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O | CT13 | LASER GLACE 
+     CT14 | BLIZZARD | CT15 | ULTRALASER | CT16 | JACKPOT | CT17 | SACRIFICE | CT18 | RIPOSTE 
+     CT19 | FRAPPE ATLAS | CT22 | LANCE-SOLEIL | CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT26 | SEISME 
+     CT27 | ABIME | CT29 | PSYKO | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE | CT35 | METRONOME | CT38 | DEFLAGRATION | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT46 | VAGUE PSY | CT48 | EBOULEMENT | CT50 | CLONAGE | CS03 | SURF 
+     CS04 | FORCE 
+- **144 ARTIKODIN**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 90 
-     FOR | 85 
-     DEF | 100 
-     VIT | 85 
-     SPE | 125 
-   * Taux de catpure : 3 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     90 | 85 | 100 | 85 | 125 
+   * Taux de capture : 3 
 
    * Taux de rendement d'expérience : 215 
 
    * Taux de croissance : 5 
 
-   * Attaques de départ :
-
-     * TORNADE
-
-     * LASER GLACE
+   * Attaques de départ : TORNADE, LASER GLACE
 
    * Liste des attaques apprises :
 
@@ -8189,48 +5137,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PROTECTION | 70 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT02 | COUPE-VENT
-     CT04 | AMNESIE
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT43 | PIQUE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS02 | VOL
-- 145 ELECTHOR
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT02 | COUPE-VENT | CT04 | AMNESIE | CT06 | TOXIK 
+     CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
+     CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD 
+     CT15 | ULTRALASER | CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE | CT39 | METEORES 
+     CT43 | PIQUE | CT44 | REPOS | CT50 | CLONAGE 
+     CS02 | VOL 
+- **145 ELECTHOR**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 90 
-     FOR | 90 
-     DEF | 85 
-     VIT | 100 
-     SPE | 125 
-   * Taux de catpure : 3 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     90 | 90 | 85 | 100 | 125 
+   * Taux de capture : 3 
 
    * Taux de rendement d'expérience : 216 
 
    * Taux de croissance : 5 
 
-   * Attaques de départ :
-
-     * ECLAIR
-
-     * BEC VRILLE
+   * Attaques de départ : ECLAIR, BEC VRILLE
 
    * Liste des attaques apprises :
 
@@ -8243,48 +5171,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PROTECTION | 70 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT02 | COUPE-VENT
-     CT04 | AMNESIE
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT39 | METEORES
-     CT43 | PIQUE
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT50 | CLONAGE
-     CS02 | VOL
-     CS05 | FLASH
-- 146 SULFURA
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT02 | COUPE-VENT | CT04 | AMNESIE | CT06 | TOXIK 
+     CT09 | BELIER | CT10 | DAMOCLES | CT15 | ULTRALASER 
+     CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
+     CT39 | METEORES | CT43 | PIQUE | CT44 | REPOS 
+     CT45 | CAGE-ECLAIR | CT50 | CLONAGE | CS02 | VOL 
+     CS05 | FLASH 
+- **146 SULFURA**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 90 
-     FOR | 100 
-     DEF | 90 
-     VIT | 90 
-     SPE | 125 
-   * Taux de catpure : 3 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     90 | 100 | 90 | 90 | 125 
+   * Taux de capture : 3 
 
    * Taux de rendement d'expérience : 217 
 
    * Taux de croissance : 5 
 
-   * Attaques de départ :
-
-     * PICPIC
-
-     * DANSEFLAMME
+   * Attaques de départ : PICPIC, DANSEFLAMME
 
    * Liste des attaques apprises :
 
@@ -8297,46 +5205,27 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PROTECTION | 70 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT02 | COUPE-VENT
-     CT04 | AMNESIE
-     CT06 | TOXIK
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT15 | ULTRALASER
-     CT20 | LANCE-FLAMME
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT39 | METEORES
-     CT43 | PIQUE
-     CT44 | REPOS
-     CT50 | CLONAGE
-     CS02 | VOL
-- 147 MINIDRACO
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT02 | COUPE-VENT | CT04 | AMNESIE | CT06 | TOXIK 
+     CT09 | BELIER | CT10 | DAMOCLES | CT15 | ULTRALASER 
+     CT20 | LANCE-FLAMME | CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE | CT38 | DEFLAGRATION 
+     CT39 | METEORES | CT43 | PIQUE | CT44 | REPOS 
+     CT50 | CLONAGE | CS02 | VOL 
+- **147 MINIDRACO**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 41 
-     FOR | 64 
-     DEF | 45 
-     VIT | 50 
-     SPE | 50 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     41 | 64 | 45 | 50 | 50 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 67 
 
    * Taux de croissance : 5 
 
-   * Attaques de départ :
-
-     * LIGOTAGE
-
-     * GROZ'YEUX
+   * Attaques de départ : LIGOTAGE, GROZ'YEUX
 
    * Liste des attaques apprises :
 
@@ -8350,55 +5239,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      ULTRALASER | 45 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT20 | LANCE-FLAMME
-     CT23 | DRACO-RAGE
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT50 | CLONAGE
-     CS03 | SURF
-- 148 DRACO
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT13 | LASER GLACE | CT14 | BLIZZARD | CT20 | LANCE-FLAMME 
+     CT23 | DRACO-RAGE | CT24 | TONNERRE | CT25 | FATAL-FOUDRE 
+     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE | CT38 | DEFLAGRATION 
+     CT39 | METEORES | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT45 | CAGE-ECLAIR | CT50 | CLONAGE | CS03 | SURF 
+- **148 DRACO**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 61 
-     FOR | 84 
-     DEF | 65 
-     VIT | 70 
-     SPE | 70 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     61 | 84 | 65 | 70 | 70 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 144 
 
    * Taux de croissance : 5 
 
-   * Attaques de départ :
-
-     * LIGOTAGE
-
-     * GROZ'YEUX
-
-     * CAGE-ECLAIR
+   * Attaques de départ : LIGOTAGE, GROZ'YEUX, CAGE-ECLAIR
 
    * Liste des attaques apprises :
 
@@ -8411,58 +5274,28 @@ Page du projet : https://github.com/LePatator/pokered-fr
      ULTRALASER | 48 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT06 | TOXIK
-     CT07 | EMPAL'KORNE
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT20 | LANCE-FLAMME
-     CT23 | DRACO-RAGE
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT50 | CLONAGE
-     CS03 | SURF
-- 149 DRACOLOSSE
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT07 | EMPAL'KORNE | CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O | CT13 | LASER GLACE 
+     CT14 | BLIZZARD | CT20 | LANCE-FLAMME | CT23 | DRACO-RAGE | CT24 | TONNERRE 
+     CT25 | FATAL-FOUDRE | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE | CT38 | DEFLAGRATION | CT39 | METEORES 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR | CT50 | CLONAGE 
+     CS03 | SURF 
+- **149 DRACOLOSSE**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 91 
-     FOR | 134 
-     DEF | 95 
-     VIT | 80 
-     SPE | 100 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     91 | 134 | 95 | 80 | 100 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 218 
 
    * Taux de croissance : 5 
 
-   * Attaques de départ :
-
-     * LIGOTAGE
-
-     * GROZ'YEUX
-
-     * CAGE-ECLAIR
-
-     * HATE
+   * Attaques de départ : LIGOTAGE, GROZ'YEUX, CAGE-ECLAIR, HATE
 
    * Liste des attaques apprises :
 
@@ -8478,62 +5311,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      PLAQUAGE | 62 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT02 | COUPE-VENT
-     CT06 | TOXIK
-     CT07 | EMPAL'KORNE
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT20 | LANCE-FLAMME
-     CT23 | DRACO-RAGE
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT38 | DEFLAGRATION
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT50 | CLONAGE
-     CS02 | VOL
-     CS03 | SURF
-     CS04 | FORCE
-- 150 MEWTWO
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT02 | COUPE-VENT | CT06 | TOXIK | CT07 | EMPAL'KORNE | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER | CT20 | LANCE-FLAMME 
+     CT23 | DRACO-RAGE | CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
+     CT38 | DEFLAGRATION | CT39 | METEORES | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT45 | CAGE-ECLAIR | CT50 | CLONAGE | CS02 | VOL | CS03 | SURF 
+     CS04 | FORCE 
+- **150 MEWTWO**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 106 
-     FOR | 110 
-     DEF | 90 
-     VIT | 130 
-     SPE | 154 
-   * Taux de catpure : 3 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     106 | 110 | 90 | 130 | 154 
+   * Taux de capture : 3 
 
    * Taux de rendement d'expérience : 220 
 
    * Taux de croissance : 5 
 
-   * Attaques de départ :
-
-     * CHOC MENTAL
-
-     * ENTRAVE
-
-     * METEORES
-
-     * PSYKO
+   * Attaques de départ : CHOC MENTAL, ENTRAVE, METEORES, PSYKO
 
    * Liste des attaques apprises :
 
@@ -8548,63 +5348,29 @@ Page du projet : https://github.com/LePatator/pokered-fr
      ULTRALASER | 100 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT04 | AMNESIE
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT16 | JACKPOT
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT20 | LANCE-FLAMME
-     CT22 | LANCE-SOLEIL
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT29 | PSYKO
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT38 | DEFLAGRATION
-     CT40 | COUD'KRANE
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT46 | VAGUE PSY
-     CT49 | TRIPLATTAQUE
-     CT50 | CLONAGE
-     CS04 | FORCE
-     CS05 | FLASH
-- 151 MEW
-   * Statistiques :
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O | CT13 | LASER GLACE 
+     CT14 | BLIZZARD | CT15 | ULTRALASER | CT16 | JACKPOT | CT17 | SACRIFICE | CT18 | RIPOSTE 
+     CT19 | FRAPPE ATLAS | CT20 | LANCE-FLAMME | CT22 | LANCE-SOLEIL | CT24 | TONNERRE | CT25 | FATAL-FOUDRE 
+     CT29 | PSYKO | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT35 | METRONOME | CT38 | DEFLAGRATION | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY | CT49 | TRIPLATTAQUE | CT50 | CLONAGE | CS04 | FORCE 
+     CS05 | FLASH 
+- **151 MEW**
+   * Statistiques de base :
 
-     Stat | Valeur de base 
-     --- | --- 
-     PV | 100 
-     FOR | 100 
-     DEF | 100 
-     VIT | 100 
-     SPE | 100 
-   * Taux de catpure : 45 
+     PV | FOR | DEF | VIT | SPE 
+     --- | --- | --- | --- | --- 
+     100 | 100 | 100 | 100 | 100 
+   * Taux de capture : 45 
 
    * Taux de rendement d'expérience : 64 
 
    * Taux de croissance : 3 
 
-   * Attaques de départ :
-
-     * ECRAS'FACE
+   * Attaques de départ : ECRAS'FACE
 
    * Liste des attaques apprises :
 
@@ -8622,63 +5388,16 @@ Page du projet : https://github.com/LePatator/pokered-fr
      ULTRALASER | 100 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque 
-     --- | --- 
-     CT01 | ULTIMAPOING
-     CT02 | COUPE-VENT
-     CT03 | DANSE-LAMES
-     CT04 | AMNESIE
-     CT05 | ULTIMAWASHI
-     CT06 | TOXIK
-     CT07 | EMPAL'KORNE
-     CT08 | PLAQUAGE
-     CT09 | BELIER
-     CT10 | DAMOCLES
-     CT11 | BULLES D'O
-     CT12 | PISTOLET A O
-     CT13 | LASER GLACE
-     CT14 | BLIZZARD
-     CT15 | ULTRALASER
-     CT16 | JACKPOT
-     CT17 | SACRIFICE
-     CT18 | RIPOSTE
-     CT19 | FRAPPE ATLAS
-     CT20 | LANCE-FLAMME
-     CT21 | MEGA-SANGSUE
-     CT22 | LANCE-SOLEIL
-     CT23 | DRACO-RAGE
-     CT24 | TONNERRE
-     CT25 | FATAL-FOUDRE
-     CT26 | SEISME
-     CT27 | ABIME
-     CT28 | TUNNEL
-     CT29 | PSYKO
-     CT30 | COUP D'BOULE
-     CT31 | COPIE
-     CT32 | REFLET
-     CT33 | PROTECTION
-     CT34 | PATIENCE
-     CT35 | METRONOME
-     CT36 | DETRITUS
-     CT37 | BOMB'OEUF
-     CT38 | DEFLAGRATION
-     CT39 | METEORES
-     CT40 | COUD'KRANE
-     CT41 | E-COQUE
-     CT42 | DEVOREVE
-     CT43 | PIQUE
-     CT44 | REPOS
-     CT45 | CAGE-ECLAIR
-     CT46 | VAGUE PSY
-     CT47 | EXPLOSION
-     CT48 | EBOULEMENT
-     CT49 | TRIPLATTAQUE
-     CT50 | CLONAGE
-     CS01 | COUPE
-     CS02 | VOL
-     CS03 | SURF
-     CS04 | FORCE
-     CS05 | FLASH
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT02 | COUPE-VENT | CT03 | DANSE-LAMES | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT07 | EMPAL'KORNE 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD 
+     CT15 | ULTRALASER | CT16 | JACKPOT | CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT20 | LANCE-FLAMME | CT21 | MEGA-SANGSUE 
+     CT22 | LANCE-SOLEIL | CT23 | DRACO-RAGE | CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT26 | SEISME | CT27 | ABIME | CT28 | TUNNEL 
+     CT29 | PSYKO | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE | CT35 | METRONOME 
+     CT36 | DETRITUS | CT37 | BOMB'OEUF | CT38 | DEFLAGRATION | CT39 | METEORES | CT40 | COUD'KRANE | CT41 | E-COQUE | CT42 | DEVOREVE 
+     CT43 | PIQUE | CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY | CT47 | EXPLOSION | CT48 | EBOULEMENT | CT49 | TRIPLATTAQUE 
+     CT50 | CLONAGE | CS01 | COUPE | CS02 | VOL | CS03 | SURF | CS04 | FORCE | CS05 | FLASH 
 
 
 ## II. Liste des Attaques
@@ -9741,7 +6460,7 @@ Classement | Taux de capture | Rendement d'expérience | Taux de croissance
 151 | **MEWTWO** (3) | **MAGICARPE** (20) | **KABUTOPS** (0)
 ## V. Glossaire
 
-- Taux de catpure : Plus cette valeur est petite, plus le pokémon est difficile à attraper.
+- Taux de capture : Plus cette valeur est petite, plus le pokémon est difficile à attraper.
 
 - Taux de rendement d'expérience : Plus cette valeur est grande, plus le pokémon donne des points d'expérience lorsqu'il est battu.
 
