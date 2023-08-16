@@ -1,8 +1,8 @@
 # Pokémon Rouge
 
-Ceci est la documentation associée à la hack rom Pokémon Rouge créée par LePatator.
+Ceci est la documentation associée à la hack rom Pokémon Rouge créée par louis-dg.
 
-Page du projet : https://github.com/LePatator/pokered-fr
+Page du projet : https://github.com/louis-dg/pokered-fr
 
 ## Sommaire
 

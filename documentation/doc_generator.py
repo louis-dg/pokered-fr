@@ -350,3 +350,4 @@ docFile.writelines(buildGlossary(titleSection5, lienSection5))
 docFile.close()
 
 print("Documentation generated. See documentation.md file.")
+exit(0)
