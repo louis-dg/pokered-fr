@@ -37,9 +37,9 @@ def buildTMHMDict():
     return tmhm
 
 # Build the part of the documentation describing the moves and their properties
-def buildMovesDoc(titleSection2, movesNamesDict, typeNamesDict, effectsDescriptionDict):
+def buildMovesDoc(titleSection2, lienSection2, movesNamesDict, typeNamesDict, effectsDescriptionDict):
     docLines = []
-    docLines.append("## " + titleSection2 + "\n")
+    docLines.append("## <a name=\"" + lienSection2 + "\"></a>" + titleSection2 + "\n")
     docLines.append("NB : Une attaque de type glace ne peut pas geler un pokémon de type de glace, Plaquage ne peut pas paralyser un pokémon de type normal, etc.\n\n")
     docLines.append("Attaque | Puissance | Précision | PP | Type | Description\n")
     docLines.append("--- | --- | --- | --- | --- | ---\n")
@@ -62,6 +62,7 @@ def buildMovesDoc(titleSection2, movesNamesDict, typeNamesDict, effectsDescripti
     for v in moveLines:
         docLines.append(v)
 
+    docLines.append("\n")
     return docLines
 
 # Build a list of all the Pokemon (see Pokemon class) and their properties
@@ -145,9 +146,9 @@ def buildPokemonsData(pokeNamesDict):
     return list(pokemons.values())
 
 # Build the part of the documentation describing the pokemons and their properties
-def buildPokemonsDoc(titleSection1, movesNamesDict, tmhmDict, pokemons):
+def buildPokemonsDoc(titleSection1, lienSection1, movesNamesDict, tmhmDict, pokemons):
     docLines = []
-    docLines.append("## "+ titleSection1 +"\n")
+    docLines.append("## <a name=\"" + lienSection1 + "\"></a>" + titleSection1 + "\n")
 
     pokemons.sort(key=lambda x: x.number, reverse=False)
 
@@ -228,9 +229,9 @@ def buildWildPokemonsData():
     return zones
 
 # Build the part of the documentation describing the regions and wild pokemons appearing in it
-def buildZonesDoc(titleSection3, pokeNamesDict, zoneNamesDict, wildPokemonZones):
+def buildZonesDoc(titleSection3, lienSection3, pokeNamesDict, zoneNamesDict, wildPokemonZones):
     docLines = []
-    docLines.append("## " + titleSection3 + "\n\n")
+    docLines.append("## <a name=\"" + lienSection3 + "\"></a>" + titleSection3 + "\n\n")
     docLines.append("Le taux d'apparition d'un pokémon à un niveau donné est toujours de 10%. "
                     + "Donc plus un pokémon apparaît avec des niveaux différents, "
                     + "plus il est probable de le rencontrer aléatoirement.\n\n")
@@ -246,13 +247,13 @@ def buildZonesDoc(titleSection3, pokeNamesDict, zoneNamesDict, wildPokemonZones)
             docLines.append("     --- | --- \n")
             for wildPokemon, levels in wildPokeDict.items():
                 docLines.append("     " + pokeNamesDict[wildPokemon] + " | " + ', '.join(levels) + "\n")
-
+    docLines.append("\n")
     return docLines
 
 # Build the part of the documentation : ranking by statistics
-def buildPokemonsStatsData(titleSection4, pokemons):
+def buildPokemonsStatsData(titleSection4, lienSection4, pokemons):
     docLines = []
-    docLines.append("## " + titleSection4 + "\n\n")
+    docLines.append("## <a name=\"" + lienSection4 + "\"></a>" + titleSection4 + "\n\n")
     docLines.append("### Statistiques de base\n\n")
     docLines.append("Classement | PV | FOR | DEF | VIT | SPE\n")
     docLines.append("--- | --- | --- | --- | --- | ---\n")
@@ -291,16 +292,14 @@ def buildPokemonsStatsData(titleSection4, pokemons):
                         + "\n")
         i += 1
 
+    docLines.append("\n")
     return docLines
 
-# Build a markdown section link
-def buildSectionLink(str):
-    return "[" + str + "](#" + str.replace(' ', '-').lower() + ")"
 
 # Build glossary of the documentation
-def buildGlossary(titleSection5):
+def buildGlossary(titleSection5, lienSection5):
     docLines = []
-    docLines.append("## " + titleSection5 + "\n\n")
+    docLines.append("## <a name=\"" + lienSection5 + "\"></a>" + titleSection5 + "\n\n")
     docLines.append("- Taux de capture : Plus cette valeur est petite, plus le pokémon est difficile à attraper.\n\n")
     docLines.append("- Taux de rendement d'expérience : Plus cette valeur est grande, plus le pokémon donne des points d'expérience lorsqu'il est battu.\n\n")
     docLines.append("- Taux de croissance : Plus cette valeur est grande, plus le pokémon nécessite de points d'expérience pour passer des niveaux.\n\n")
@@ -322,27 +321,32 @@ if(os.path.isfile(DOCUMENTATION_FILE)):
     os.remove(DOCUMENTATION_FILE)
 
 titleSection1 = "I. Propriétés des pokémons"
+lienSection1 = "props_poke"
 titleSection2 = "II. Liste des Attaques"
+lienSection2 = "liste_attaques"
 titleSection3 = "III. Description des régions"
+lienSection3 = "desc_regions"
 titleSection4 = "IV. Classement par stats"
+lienSection4 = "classement"
 titleSection5 = "V. Glossaire"
+lienSection5 = "glossaire"
 
 docFile = open(DOCUMENTATION_FILE, 'w')
 docFile.write("# Pokémon Rouge\n\n")
 docFile.write("Ceci est la documentation associée à la hack rom Pokémon Rouge créée par LePatator.\n\n")
 docFile.write("Page du projet : https://github.com/LePatator/pokered-fr\n\n")
 docFile.write("## Sommaire\n\n")
-docFile.write("- " + buildSectionLink(titleSection1) + "\n\n")
-docFile.write("- " + buildSectionLink(titleSection2) + "\n\n")
-docFile.write("- " + buildSectionLink(titleSection3) + "\n\n")
-docFile.write("- " + buildSectionLink(titleSection4) + "\n\n")
-docFile.write("- " + buildSectionLink(titleSection5) + "\n\n")
+docFile.write("- [" + titleSection1 + "](#" + lienSection1 + ")\n\n")
+docFile.write("- [" + titleSection2 + "](#" + lienSection2 + ")\n\n")
+docFile.write("- [" + titleSection3 + "](#" + lienSection3 + ")\n\n")
+docFile.write("- [" + titleSection4 + "](#" + lienSection4 + ")\n\n")
+docFile.write("- [" + titleSection5 + "](#" + lienSection5 + ")\n\n")
 
-docFile.writelines(buildPokemonsDoc(titleSection1, movesNamesDict, tmhmDict, pokemons))
-docFile.writelines(buildMovesDoc(titleSection2, movesNamesDict, typeNamesDict, effectsDescriptionDict))
-docFile.writelines(buildZonesDoc(titleSection3, pokeNamesDict, zoneNamesDict, wildPokemonDict))
-docFile.writelines(buildPokemonsStatsData(titleSection4, pokemons))
-docFile.writelines(buildGlossary(titleSection5))
+docFile.writelines(buildPokemonsDoc(titleSection1, lienSection1, movesNamesDict, tmhmDict, pokemons))
+docFile.writelines(buildMovesDoc(titleSection2, lienSection2, movesNamesDict, typeNamesDict, effectsDescriptionDict))
+docFile.writelines(buildZonesDoc(titleSection3, lienSection3, pokeNamesDict, zoneNamesDict, wildPokemonDict))
+docFile.writelines(buildPokemonsStatsData(titleSection4, lienSection4, pokemons))
+docFile.writelines(buildGlossary(titleSection5, lienSection5))
 docFile.close()
 
 print("Documentation generated. See documentation.md file.")

@@ -6,17 +6,17 @@ Page du projet : https://github.com/LePatator/pokered-fr
 
 ## Sommaire
 
-- [I. Propriétés des pokémons](#i.-propriétés-des-pokémons)
+- [I. Propriétés des pokémons](#props_poke)
 
-- [II. Liste des Attaques](#ii.-liste-des-attaques)
+- [II. Liste des Attaques](#liste_attaques)
 
-- [III. Description des régions](#iii.-description-des-régions)
+- [III. Description des régions](#desc_regions)
 
-- [IV. Classement par stats](#iv.-classement-par-stats)
+- [IV. Classement par stats](#classement)
 
-- [V. Glossaire](#v.-glossaire)
+- [V. Glossaire](#glossaire)
 
-## I. Propriétés des pokémons
+## <a name="props_poke"></a>I. Propriétés des pokémons
 - **001 BULBIZARRE**
    * Statistiques de base :
 
@@ -5400,7 +5400,7 @@ Page du projet : https://github.com/LePatator/pokered-fr
      CT50 | CLONAGE | CS01 | COUPE | CS02 | VOL | CS03 | SURF | CS04 | FORCE | CS05 | FLASH 
 
 
-## II. Liste des Attaques
+## <a name="liste_attaques"></a>II. Liste des Attaques
 NB : Une attaque de type glace ne peut pas geler un pokémon de type de glace, Plaquage ne peut pas paralyser un pokémon de type normal, etc.
 
 Attaque | Puissance | Précision | PP | Type | Description
@@ -5570,7 +5570,8 @@ VIVE-ATTAQUE | 40 | 100 | 30 | NORMAL | Pas d'effet supplémentaire
 VOL | 70 | 95 | 15 | VOL | S'envole au premier tour et frappe au tour suivant
 VOL-VIE | 20 | 100 | 20 | PLANTE | Draine les pv
 YOGA | 0 | 100 | 40 | PSY | Augmente la statistique d'attaque d'un palier
-## III. Description des régions
+
+## <a name="desc_regions"></a>III. Description des régions
 
 Le taux d'apparition d'un pokémon à un niveau donné est toujours de 10%. Donc plus un pokémon apparaît avec des niveaux différents, plus il est probable de le rencontrer aléatoirement.
 
@@ -6144,7 +6145,8 @@ Le taux d'apparition d'un pokémon à un niveau donné est toujours de 10%. Donc
      TENTACOOL | 5, 15, 10, 15, 35, 40
      PTITARD | 10, 5
      HYPOTREMPE | 20, 30
-## IV. Classement par stats
+
+## <a name="classement"></a>IV. Classement par stats
 
 ### Statistiques de base
 
@@ -6458,7 +6460,8 @@ Classement | Taux de capture | Rendement d'expérience | Taux de croissance
 149 | **ELECTHOR** (3) | **CHENIPAN** (53) | **AMONISTAR** (0)
 150 | **SULFURA** (3) | **ASPICOT** (52) | **KABUTO** (0)
 151 | **MEWTWO** (3) | **MAGICARPE** (20) | **KABUTOPS** (0)
-## V. Glossaire
+
+## <a name="glossaire"></a>V. Glossaire
 
 - Taux de capture : Plus cette valeur est petite, plus le pokémon est difficile à attraper.
 
