@@ -11,6 +11,7 @@ class Pokemon:
         self._baseSpecial = None
         self._type1 = None
         self._type2 = None
+        self._evol = {}  # lvl : pokemon name
         self._catchRate = None  # the lower this value is, the harder the pokemon is to catch
         self._xpYield = None  # the higher this value is, the more xp you will get from beating this pokemon
         self._baseMoveset = []
@@ -96,6 +97,17 @@ class Pokemon:
     @type2.setter
     def type2(self, v):
         self._type2 = v
+
+    @property
+    def evol(self):
+        return self._evol
+
+    @evol.setter
+    def evol(self, v):
+        self._evol = v
+
+    def addEvolution(self, lvl, name):
+        self._evol[lvl] = name
 
     @property
     def catchRate(self):

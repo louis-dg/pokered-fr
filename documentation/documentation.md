@@ -29,6 +29,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
+   * Evolution : niveau 16 -> HERBIZARRE  
+
    * Attaques de départ : CHARGE, RUGISSEMENT
 
    * Liste des attaques apprises :
@@ -67,6 +69,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 141 
 
    * Taux de croissance : 3 
+
+   * Evolution : niveau 32 -> FLORIZARRE  
 
    * Attaques de départ : CHARGE, RUGISSEMENT, VAMPIGRAINE
 
@@ -107,6 +111,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
+   * Evolution : aucune 
+
    * Attaques de départ : CHARGE, RUGISSEMENT, VAMPIGRAINE, FOUET LIANES
 
    * Liste des attaques apprises :
@@ -146,6 +152,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
+   * Evolution : niveau 16 -> REPTINCEL  
+
    * Attaques de départ : GRIFFE, RUGISSEMENT
 
    * Liste des attaques apprises :
@@ -184,6 +192,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
+   * Evolution : niveau 36 -> DRACAUFEU  
+
    * Attaques de départ : GRIFFE, RUGISSEMENT, FLAMMECHE
 
    * Liste des attaques apprises :
@@ -220,6 +230,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 209 
 
    * Taux de croissance : 3 
+
+   * Evolution : aucune 
 
    * Attaques de départ : GRIFFE, RUGISSEMENT, FLAMMECHE, GROZ'YEUX
 
@@ -259,6 +271,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
+   * Evolution : niveau 16 -> CARABAFFE  
+
    * Attaques de départ : CHARGE, MIMI-QUEUE
 
    * Liste des attaques apprises :
@@ -296,6 +310,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 143 
 
    * Taux de croissance : 3 
+
+   * Evolution : niveau 36 -> TORTANK  
 
    * Attaques de départ : CHARGE, MIMI-QUEUE, ECUME
 
@@ -335,6 +351,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
+   * Evolution : aucune 
+
    * Attaques de départ : CHARGE, MIMI-QUEUE, ECUME, PISTOLET A O
 
    * Liste des attaques apprises :
@@ -372,6 +390,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : niveau 7 -> CHRYSACIER  
+
    * Attaques de départ : CHARGE, SECRETION
 
    * Liste des attaques apprises : aucune
@@ -390,6 +410,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : niveau 10 -> PAPILUSION  
+
    * Attaques de départ : ARMURE
 
    * Liste des attaques apprises : aucune
@@ -407,6 +429,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 160 
 
    * Taux de croissance : 0 
+
+   * Evolution : aucune 
 
    * Attaques de départ : CHOC MENTAL
 
@@ -443,6 +467,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : niveau 7 -> COCONFORT  
+
    * Attaques de départ : DARD-VENIN, SECRETION
 
    * Liste des attaques apprises : aucune
@@ -461,6 +487,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : niveau 10 -> DARDARGNAN  
+
    * Attaques de départ : ARMURE
 
    * Liste des attaques apprises : aucune
@@ -478,6 +506,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 159 
 
    * Taux de croissance : 0 
+
+   * Evolution : aucune 
 
    * Attaques de départ : FURIE
 
@@ -517,6 +547,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
+   * Evolution : niveau 18 -> ROUCOUPS  
+
    * Attaques de départ : TORNADE
 
    * Liste des attaques apprises :
@@ -552,6 +584,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 113 
 
    * Taux de croissance : 3 
+
+   * Evolution : niveau 36 -> ROUCARNAGE  
 
    * Attaques de départ : TORNADE, JET DE SABLE
 
@@ -589,6 +623,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
+   * Evolution : aucune 
+
    * Attaques de départ : TORNADE, JET DE SABLE, VIVE-ATTAQUE
 
    * Liste des attaques apprises :
@@ -625,6 +661,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : niveau 20 -> RATTATAC  
+
    * Attaques de départ : CHARGE, MIMI-QUEUE
 
    * Liste des attaques apprises :
@@ -657,6 +695,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 116 
 
    * Taux de croissance : 0 
+
+   * Evolution : aucune 
 
    * Attaques de départ : CHARGE, MIMI-QUEUE, VIVE-ATTAQUE
 
@@ -692,6 +732,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : niveau 20 -> RAPASDEPIC  
+
    * Attaques de départ : PICPIC, RUGISSEMENT
 
    * Liste des attaques apprises :
@@ -725,6 +767,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 162 
 
    * Taux de croissance : 0 
+
+   * Evolution : aucune 
 
    * Attaques de départ : PICPIC, RUGISSEMENT, GROZ'YEUX
 
@@ -761,6 +805,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : niveau 22 -> ARBOK  
+
    * Attaques de départ : LIGOTAGE, GROZ'YEUX
 
    * Liste des attaques apprises :
@@ -796,6 +842,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : aucune 
+
    * Attaques de départ : LIGOTAGE, GROZ'YEUX, DARD-VENIN
 
    * Liste des attaques apprises :
@@ -830,6 +878,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 82 
 
    * Taux de croissance : 0 
+
+   * Evolution : Pierre foudre -> RAICHU  
 
    * Attaques de départ : ECLAIR, RUGISSEMENT
 
@@ -870,6 +920,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : aucune 
+
    * Attaques de départ : ECLAIR, RUGISSEMENT, CAGE-ECLAIR
 
    * Liste des attaques apprises :
@@ -909,6 +961,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : niveau 22 -> SABLAIREAU  
+
    * Attaques de départ : GRIFFE
 
    * Liste des attaques apprises :
@@ -945,6 +999,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : aucune 
+
    * Attaques de départ : GRIFFE, JET DE SABLE
 
    * Liste des attaques apprises :
@@ -980,6 +1036,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 59 
 
    * Taux de croissance : 3 
+
+   * Evolution : niveau 16 -> NIDORINA  
 
    * Attaques de départ : RUGISSEMENT, CHARGE
 
@@ -1020,6 +1078,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
+   * Evolution : Pierre lune -> NIDOQUEEN  
+
    * Attaques de départ : RUGISSEMENT, CHARGE, GRIFFE
 
    * Liste des attaques apprises :
@@ -1057,6 +1117,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 194 
 
    * Taux de croissance : 3 
+
+   * Evolution : aucune 
 
    * Attaques de départ : CHARGE, GRIFFE, MIMI-QUEUE, PLAQUAGE
 
@@ -1097,6 +1159,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
+   * Evolution : niveau 16 -> NIDORINO  
+
    * Attaques de départ : GROZ'YEUX, CHARGE
 
    * Liste des attaques apprises :
@@ -1135,6 +1199,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
+   * Evolution : Pierre lune -> NIDOKING  
+
    * Attaques de départ : GROZ'YEUX, CHARGE, KOUD'KORNE
 
    * Liste des attaques apprises :
@@ -1171,6 +1237,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 195 
 
    * Taux de croissance : 3 
+
+   * Evolution : aucune 
 
    * Attaques de départ : CHARGE, KOUD'KORNE, DARD-VENIN, MANIA
 
@@ -1210,6 +1278,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 4 
 
+   * Evolution : Pierre lune -> MELODELFE  
+
    * Attaques de départ : ECRAS'FACE, RUGISSEMENT
 
    * Liste des attaques apprises :
@@ -1246,6 +1316,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 4 
 
+   * Evolution : aucune 
+
    * Attaques de départ : BERCEUSE, TORGNOLES, LILLIPUT, METRONOME
 
    * Liste des attaques apprises :
@@ -1280,6 +1352,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 63 
 
    * Taux de croissance : 0 
+
+   * Evolution : Pierre feu -> FEUNARD  
 
    * Attaques de départ : FLAMMECHE, MIMI-QUEUE
 
@@ -1317,6 +1391,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : aucune 
+
    * Attaques de départ : FLAMMECHE, MIMI-QUEUE, VIVE-ATTAQUE, HURLEMENT
 
    * Liste des attaques apprises :
@@ -1350,6 +1426,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 76 
 
    * Taux de croissance : 4 
+
+   * Evolution : Pierre lune -> GRODOUDOU  
 
    * Attaques de départ : BERCEUSE
 
@@ -1388,6 +1466,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 4 
 
+   * Evolution : aucune 
+
    * Attaques de départ : BERCEUSE, ENTRAVE, BOUL'ARMURE, TORGNOLES
 
    * Liste des attaques apprises :
@@ -1425,6 +1505,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : niveau 22 -> NOSFERALTO  
+
    * Attaques de départ : VAMPIRISME
 
    * Liste des attaques apprises :
@@ -1458,6 +1540,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 171 
 
    * Taux de croissance : 0 
+
+   * Evolution : aucune 
 
    * Attaques de départ : VAMPIRISME, GRINCEMENT, MORSURE
 
@@ -1493,6 +1577,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 78 
 
    * Taux de croissance : 3 
+
+   * Evolution : niveau 21 -> ORTIDE  
 
    * Attaques de départ : VOL-VIE
 
@@ -1530,6 +1616,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
+   * Evolution : Pierre plante -> RAFFLESIA  
+
    * Attaques de départ : VOL-VIE, POUDRE TOXIK, PARA-SPORE
 
    * Liste des attaques apprises :
@@ -1565,6 +1653,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 184 
 
    * Taux de croissance : 3 
+
+   * Evolution : aucune 
 
    * Attaques de départ : PARA-SPORE, POUDRE DODO, ACIDE, DANSE-FLEUR
 
@@ -1602,6 +1692,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 70 
 
    * Taux de croissance : 0 
+
+   * Evolution : niveau 24 -> PARASECT  
 
    * Attaques de départ : GRIFFE
 
@@ -1641,6 +1733,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : aucune 
+
    * Attaques de départ : GRIFFE, PARA-SPORE, VAMPIRISME
 
    * Liste des attaques apprises :
@@ -1677,6 +1771,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : niveau 31 -> AEROMITE  
+
    * Attaques de départ : CHARGE, ENTRAVE
 
    * Liste des attaques apprises :
@@ -1711,6 +1807,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 138 
 
    * Taux de croissance : 0 
+
+   * Evolution : aucune 
 
    * Attaques de départ : CHARGE, ENTRAVE, POUDRE TOXIK, VAMPIRISME
 
@@ -1748,6 +1846,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : niveau 26 -> TRIOPIKEUR  
+
    * Attaques de départ : GRIFFE
 
    * Liste des attaques apprises :
@@ -1782,6 +1882,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 153 
 
    * Taux de croissance : 0 
+
+   * Evolution : aucune 
 
    * Attaques de départ : GRIFFE, RUGISSEMENT, TUNNEL
 
@@ -1818,6 +1920,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : niveau 28 -> PERSIAN  
+
    * Attaques de départ : GRIFFE, RUGISSEMENT
 
    * Liste des attaques apprises :
@@ -1853,6 +1957,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : aucune 
+
    * Attaques de départ : GRIFFE, RUGISSEMENT, MORSURE, GRINCEMENT
 
    * Liste des attaques apprises :
@@ -1886,6 +1992,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 80 
 
    * Taux de croissance : 0 
+
+   * Evolution : niveau 33 -> AKWAKWAK  
 
    * Attaques de départ : GRIFFE
 
@@ -1925,6 +2033,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : aucune 
+
    * Attaques de départ : GRIFFE, MIMI-QUEUE, ENTRAVE
 
    * Liste des attaques apprises :
@@ -1961,6 +2071,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 74 
 
    * Taux de croissance : 0 
+
+   * Evolution : niveau 28 -> COLOSSINGE  
 
    * Attaques de départ : GRIFFE, GROZ'YEUX
 
@@ -2001,6 +2113,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : aucune 
+
    * Attaques de départ : GRIFFE, GROZ'YEUX, POING-KARATE, COMBO-GRIFFE
 
    * Liste des attaques apprises :
@@ -2038,6 +2152,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
+   * Evolution : Pierre feu -> ARCANIN  
+
    * Attaques de départ : MORSURE, HURLEMENT
 
    * Liste des attaques apprises :
@@ -2073,6 +2189,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 213 
 
    * Taux de croissance : 5 
+
+   * Evolution : aucune 
 
    * Attaques de départ : HURLEMENT, FLAMMECHE, GROZ'YEUX, BELIER
 
@@ -2110,6 +2228,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
+   * Evolution : niveau 25 -> TETARTE  
+
    * Attaques de départ : ECUME
 
    * Liste des attaques apprises :
@@ -2144,6 +2264,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 131 
 
    * Taux de croissance : 3 
+
+   * Evolution : Pierre eau -> TARTARD  
 
    * Attaques de départ : ECUME, HYPNOSE, PISTOLET A O
 
@@ -2181,6 +2303,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 185 
 
    * Taux de croissance : 3 
+
+   * Evolution : aucune 
 
    * Attaques de départ : HYPNOSE, PISTOLET A O, TORGNOLES, PLAQUAGE
 
@@ -2220,6 +2344,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
+   * Evolution : niveau 16 -> KADABRA  
+
    * Attaques de départ : TELEPORT
 
    * Liste des attaques apprises : aucune
@@ -2247,6 +2373,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 145 
 
    * Taux de croissance : 3 
+
+   * Evolution : niveau 36 -> ALAKAZAM  
 
    * Attaques de départ : TELEPORT, CHOC MENTAL, ENTRAVE
 
@@ -2285,6 +2413,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
+   * Evolution : aucune 
+
    * Attaques de départ : TELEPORT, CHOC MENTAL, ENTRAVE
 
    * Liste des attaques apprises :
@@ -2320,6 +2450,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 88 
 
    * Taux de croissance : 3 
+
+   * Evolution : niveau 28 -> MACHOPEUR  
 
    * Attaques de départ : POING-KARATE
 
@@ -2361,6 +2493,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
+   * Evolution : niveau 36 -> MACKOGNEUR  
+
    * Attaques de départ : POING-KARATE, BALAYAGE, GROZ'YEUX
 
    * Liste des attaques apprises :
@@ -2400,6 +2534,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 193 
 
    * Taux de croissance : 3 
+
+   * Evolution : aucune 
 
    * Attaques de départ : POING-KARATE, BALAYAGE, GROZ'YEUX
 
@@ -2441,6 +2577,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
+   * Evolution : niveau 21 -> BOUSTIFLOR  
+
    * Attaques de départ : FOUET LIANES, CROISSANCE
 
    * Liste des attaques apprises :
@@ -2479,6 +2617,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
+   * Evolution : Pierre plante -> EMPIFLOR  
+
    * Attaques de départ : FOUET LIANES, CROISSANCE, LIGOTAGE
 
    * Liste des attaques apprises :
@@ -2516,6 +2656,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 191 
 
    * Taux de croissance : 3 
+
+   * Evolution : aucune 
 
    * Attaques de départ : POUDRE DODO, PARA-SPORE, ACIDE, TRANCH'HERBE
 
@@ -2556,6 +2698,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
+   * Evolution : niveau 30 -> TENTACRUEL  
+
    * Attaques de départ : ACIDE
 
    * Liste des attaques apprises :
@@ -2594,6 +2738,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 205 
 
    * Taux de croissance : 5 
+
+   * Evolution : aucune 
 
    * Attaques de départ : ACIDE, ULTRASON, LIGOTAGE
 
@@ -2634,6 +2780,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
+   * Evolution : niveau 25 -> GRAVALANCH  
+
    * Attaques de départ : CHARGE
 
    * Liste des attaques apprises :
@@ -2672,6 +2820,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 134 
 
    * Taux de croissance : 3 
+
+   * Evolution : niveau 36 -> GROLEM  
 
    * Attaques de départ : CHARGE, BOUL'ARMURE
 
@@ -2712,6 +2862,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
+   * Evolution : aucune 
+
    * Attaques de départ : CHARGE, BOUL'ARMURE
 
    * Liste des attaques apprises :
@@ -2751,6 +2903,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : niveau 40 -> GALOPA  
+
    * Attaques de départ : FLAMMECHE
 
    * Liste des attaques apprises :
@@ -2788,6 +2942,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : aucune 
+
    * Attaques de départ : FLAMMECHE, MIMI-QUEUE, ECRASEMENT, RUGISSEMENT
 
    * Liste des attaques apprises :
@@ -2822,6 +2978,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 99 
 
    * Taux de croissance : 0 
+
+   * Evolution : niveau 37 -> FLAGADOSS  
 
    * Attaques de départ : CHOC MENTAL
 
@@ -2860,6 +3018,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 164 
 
    * Taux de croissance : 0 
+
+   * Evolution : aucune 
 
    * Attaques de départ : CHOC MENTAL, ENTRAVE, COUP D'BOULE
 
@@ -2900,6 +3060,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : niveau 30 -> MAGNETON  
+
    * Attaques de départ : CHARGE
 
    * Liste des attaques apprises :
@@ -2936,6 +3098,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 161 
 
    * Taux de croissance : 0 
+
+   * Evolution : aucune 
 
    * Attaques de départ : CHARGE, SONICBOOM, ECLAIR
 
@@ -2975,6 +3139,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : aucune 
+
    * Attaques de départ : PICPIC, JET DE SABLE
 
    * Liste des attaques apprises :
@@ -3011,6 +3177,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : niveau 31 -> DODRIO  
+
    * Attaques de départ : PICPIC
 
    * Liste des attaques apprises :
@@ -3046,6 +3214,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 158 
 
    * Taux de croissance : 0 
+
+   * Evolution : aucune 
 
    * Attaques de départ : PICPIC, RUGISSEMENT, FURIE
 
@@ -3084,6 +3254,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : niveau 34 -> LAMANTINE  
+
    * Attaques de départ : COUP D'BOULE
 
    * Liste des attaques apprises :
@@ -3117,6 +3289,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 176 
 
    * Taux de croissance : 0 
+
+   * Evolution : aucune 
 
    * Attaques de départ : COUP D'BOULE, RUGISSEMENT, ONDE BOREALE
 
@@ -3152,6 +3326,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 90 
 
    * Taux de croissance : 0 
+
+   * Evolution : niveau 38 -> GROTADMORV  
 
    * Attaques de départ : ECRAS'FACE, ENTRAVE
 
@@ -3189,6 +3365,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : aucune 
+
    * Attaques de départ : ECRAS'FACE, ENTRAVE, GAZ TOXIK
 
    * Liste des attaques apprises :
@@ -3225,6 +3403,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
+   * Evolution : Pierre eau -> CRUSTABRI  
+
    * Attaques de départ : CHARGE, REPLI
 
    * Liste des attaques apprises :
@@ -3258,6 +3438,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 203 
 
    * Taux de croissance : 5 
+
+   * Evolution : aucune 
 
    * Attaques de départ : REPLI, ULTRASON, CLAQUOIR, ONDE BOREALE
 
@@ -3293,6 +3475,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
+   * Evolution : niveau 25 -> SPECTRUM  
+
    * Attaques de départ : LECHOUILLE, ONDE FOLIE, TENEBRES
 
    * Liste des attaques apprises :
@@ -3324,6 +3508,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 126 
 
    * Taux de croissance : 3 
+
+   * Evolution : niveau 36 -> ECTOPLASMA  
 
    * Attaques de départ : LECHOUILLE, ONDE FOLIE, TENEBRES
 
@@ -3357,6 +3543,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
+   * Evolution : aucune 
+
    * Attaques de départ : LECHOUILLE, ONDE FOLIE, TENEBRES
 
    * Liste des attaques apprises :
@@ -3387,6 +3575,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 108 
 
    * Taux de croissance : 0 
+
+   * Evolution : aucune 
 
    * Attaques de départ : CHARGE, GRINCEMENT
 
@@ -3422,6 +3612,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 102 
 
    * Taux de croissance : 0 
+
+   * Evolution : niveau 26 -> HYPNOMADE  
 
    * Attaques de départ : ECRAS'FACE, HYPNOSE
 
@@ -3460,6 +3652,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : aucune 
+
    * Attaques de départ : ECRAS'FACE, HYPNOSE, ENTRAVE, CHOC MENTAL
 
    * Liste des attaques apprises :
@@ -3497,6 +3691,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : niveau 28 -> KRABBOSS  
+
    * Attaques de départ : ECUME, GROZ'YEUX
 
    * Liste des attaques apprises :
@@ -3530,6 +3726,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 206 
 
    * Taux de croissance : 0 
+
+   * Evolution : aucune 
 
    * Attaques de départ : ECUME, GROZ'YEUX, FORCE POIGNE
 
@@ -3565,6 +3763,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 103 
 
    * Taux de croissance : 0 
+
+   * Evolution : niveau 30 -> ELECTRODE  
 
    * Attaques de départ : CHARGE, GRINCEMENT
 
@@ -3603,6 +3803,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : aucune 
+
    * Attaques de départ : CHARGE, GRINCEMENT, SONICBOOM
 
    * Liste des attaques apprises :
@@ -3637,6 +3839,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 98 
 
    * Taux de croissance : 5 
+
+   * Evolution : Pierre plante -> NOADKOKO  
 
    * Attaques de départ : PILONNAGE, HYPNOSE, CHOC MENTAL
 
@@ -3677,6 +3881,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
+   * Evolution : aucune 
+
    * Attaques de départ : PILONNAGE, HYPNOSE
 
    * Liste des attaques apprises :
@@ -3715,6 +3921,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : niveau 28 -> OSSATUEUR  
+
    * Attaques de départ : MASSD'OS, RUGISSEMENT
 
    * Liste des attaques apprises :
@@ -3750,6 +3958,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 124 
 
    * Taux de croissance : 0 
+
+   * Evolution : aucune 
 
    * Attaques de départ : MASSD'OS, RUGISSEMENT, GROZ'YEUX, PUISSANCE
 
@@ -3787,6 +3997,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : aucune 
+
    * Attaques de départ : DOUBLE PIED, YOGA
 
    * Liste des attaques apprises :
@@ -3821,6 +4033,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 140 
 
    * Taux de croissance : 0 
+
+   * Evolution : aucune 
 
    * Attaques de départ : POING COMETE, HATE
 
@@ -3857,6 +4071,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 127 
 
    * Taux de croissance : 0 
+
+   * Evolution : aucune 
 
    * Attaques de départ : LIGOTAGE, ULTRASON
 
@@ -3895,6 +4111,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : niveau 35 -> SMOGOGO  
+
    * Attaques de départ : CHARGE, PUREDPOIS
 
    * Liste des attaques apprises :
@@ -3930,6 +4148,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 173 
 
    * Taux de croissance : 0 
+
+   * Evolution : aucune 
 
    * Attaques de départ : CHARGE, PUREDPOIS, DETRITUS
 
@@ -3967,6 +4187,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 135 
 
    * Taux de croissance : 5 
+
+   * Evolution : niveau 37 -> RHINOFEROS  
 
    * Attaques de départ : KOUD'KORNE
 
@@ -4006,6 +4228,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
+   * Evolution : aucune 
+
    * Attaques de départ : KOUD'KORNE, ECRASEMENT, MIMI-QUEUE, FURIE
 
    * Liste des attaques apprises :
@@ -4044,6 +4268,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 4 
 
+   * Evolution : aucune 
+
    * Attaques de départ : ECRAS'FACE, TORGNOLES
 
    * Liste des attaques apprises :
@@ -4078,6 +4304,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 166 
 
    * Taux de croissance : 0 
+
+   * Evolution : aucune 
 
    * Attaques de départ : CONSTRICTION, ETREINTE
 
@@ -4114,6 +4342,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 175 
 
    * Taux de croissance : 0 
+
+   * Evolution : aucune 
 
    * Attaques de départ : POING COMETE, FRENESIE
 
@@ -4152,6 +4382,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : niveau 32 -> HYPOCEAN  
+
    * Attaques de départ : ECUME
 
    * Liste des attaques apprises :
@@ -4188,6 +4420,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 155 
 
    * Taux de croissance : 0 
+
+   * Evolution : aucune 
 
    * Attaques de départ : ECUME, BROUILLARD
 
@@ -4226,6 +4460,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : niveau 33 -> POISSOROY  
+
    * Attaques de départ : PICPIC, MIMI-QUEUE
 
    * Liste des attaques apprises :
@@ -4262,6 +4498,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : aucune 
+
    * Attaques de départ : PICPIC, MIMI-QUEUE, ULTRASON
 
    * Liste des attaques apprises :
@@ -4295,6 +4533,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 106 
 
    * Taux de croissance : 5 
+
+   * Evolution : Pierre eau -> STAROSS  
 
    * Attaques de départ : CHARGE
 
@@ -4334,6 +4574,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
+   * Evolution : aucune 
+
    * Attaques de départ : CHARGE, PISTOLET A O, ARMURE
 
    * Liste des attaques apprises :
@@ -4371,6 +4613,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : aucune 
+
    * Attaques de départ : CHOC MENTAL, BOUCLIER
 
    * Liste des attaques apprises :
@@ -4407,6 +4651,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 187 
 
    * Taux de croissance : 0 
+
+   * Evolution : aucune 
 
    * Attaques de départ : VIVE-ATTAQUE
 
@@ -4447,6 +4693,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : aucune 
+
    * Attaques de départ : ECRAS'FACE, GROBISOU
 
    * Liste des attaques apprises :
@@ -4484,6 +4732,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : aucune 
+
    * Attaques de départ : VIVE-ATTAQUE, GROZ'YEUX
 
    * Liste des attaques apprises :
@@ -4518,6 +4768,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 167 
 
    * Taux de croissance : 0 
+
+   * Evolution : aucune 
 
    * Attaques de départ : FLAMMECHE
 
@@ -4556,6 +4808,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
+   * Evolution : aucune 
+
    * Attaques de départ : FORCE POIGNE
 
    * Liste des attaques apprises :
@@ -4593,6 +4847,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
+   * Evolution : aucune 
+
    * Attaques de départ : CHARGE
 
    * Liste des attaques apprises :
@@ -4629,6 +4885,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
+   * Evolution : niveau 20 -> LEVIATOR  
+
    * Attaques de départ : TREMPETTE
 
    * Liste des attaques apprises :
@@ -4649,6 +4907,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 214 
 
    * Taux de croissance : 5 
+
+   * Evolution : aucune 
 
    * Attaques de départ : MORSURE, DRACO-RAGE, GROZ'YEUX, HYDROCANON
 
@@ -4686,6 +4946,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
+   * Evolution : aucune 
+
    * Attaques de départ : PISTOLET A O, RUGISSEMENT
 
    * Liste des attaques apprises :
@@ -4722,6 +4984,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : aucune 
+
    * Attaques de départ : MORPHING
 
    * Liste des attaques apprises : aucune
@@ -4739,6 +5003,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 92 
 
    * Taux de croissance : 0 
+
+   * Evolution : Pierre feu -> PYROLI Pierre foudre -> VOLTALI Pierre eau -> AQUALI  
 
    * Attaques de départ : CHARGE, JET DE SABLE, VIVE-ATTAQUE
 
@@ -4773,6 +5039,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 196 
 
    * Taux de croissance : 0 
+
+   * Evolution : aucune 
 
    * Attaques de départ : CHARGE, JET DE SABLE, VIVE-ATTAQUE, PISTOLET A O
 
@@ -4810,6 +5078,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : aucune 
+
    * Attaques de départ : CHARGE, JET DE SABLE, VIVE-ATTAQUE, ECLAIR
 
    * Liste des attaques apprises :
@@ -4844,6 +5114,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 198 
 
    * Taux de croissance : 0 
+
+   * Evolution : aucune 
 
    * Attaques de départ : CHARGE, JET DE SABLE, VIVE-ATTAQUE, FLAMMECHE
 
@@ -4881,6 +5153,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : aucune 
+
    * Attaques de départ : CHARGE, AFFUTAGE, ADAPTATION
 
    * Liste des attaques apprises :
@@ -4915,6 +5189,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 120 
 
    * Taux de croissance : 0 
+
+   * Evolution : niveau 40 -> AMONISTAR  
 
    * Attaques de départ : PISTOLET A O, REPLI
 
@@ -4951,6 +5227,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : aucune 
+
    * Attaques de départ : PISTOLET A O, REPLI, KOUD'KORNE
 
    * Liste des attaques apprises :
@@ -4985,6 +5263,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
+   * Evolution : niveau 40 -> KABUTOPS  
+
    * Attaques de départ : GRIFFE, ARMURE
 
    * Liste des attaques apprises :
@@ -5018,6 +5298,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 201 
 
    * Taux de croissance : 0 
+
+   * Evolution : aucune 
 
    * Attaques de départ : GRIFFE, ARMURE, VOL-VIE
 
@@ -5055,6 +5337,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
+   * Evolution : aucune 
+
    * Attaques de départ : CRU-AILE, HATE
 
    * Liste des attaques apprises :
@@ -5090,6 +5374,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
+   * Evolution : aucune 
+
    * Attaques de départ : COUP D'BOULE, AMNESIE, REPOS
 
    * Liste des attaques apprises :
@@ -5123,6 +5409,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 215 
 
    * Taux de croissance : 5 
+
+   * Evolution : aucune 
 
    * Attaques de départ : TORNADE, LASER GLACE
 
@@ -5158,6 +5446,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
+   * Evolution : aucune 
+
    * Attaques de départ : ECLAIR, BEC VRILLE
 
    * Liste des attaques apprises :
@@ -5192,6 +5482,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
+   * Evolution : aucune 
+
    * Attaques de départ : PICPIC, DANSEFLAMME
 
    * Liste des attaques apprises :
@@ -5224,6 +5516,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 67 
 
    * Taux de croissance : 5 
+
+   * Evolution : niveau 30 -> DRACO  
 
    * Attaques de départ : LIGOTAGE, GROZ'YEUX
 
@@ -5261,6 +5555,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
+   * Evolution : niveau 45 -> DRACOLOSSE  
+
    * Attaques de départ : LIGOTAGE, GROZ'YEUX, CAGE-ECLAIR
 
    * Liste des attaques apprises :
@@ -5294,6 +5590,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 218 
 
    * Taux de croissance : 5 
+
+   * Evolution : aucune 
 
    * Attaques de départ : LIGOTAGE, GROZ'YEUX, CAGE-ECLAIR, HATE
 
@@ -5333,6 +5631,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
+   * Evolution : aucune 
+
    * Attaques de départ : CHOC MENTAL, ENTRAVE, METEORES, PSYKO
 
    * Liste des attaques apprises :
@@ -5369,6 +5669,8 @@ Page du projet : https://github.com/louis-dg/pokered-fr
    * Taux de rendement d'expérience : 64 
 
    * Taux de croissance : 3 
+
+   * Evolution : aucune 
 
    * Attaques de départ : ECRAS'FACE
 

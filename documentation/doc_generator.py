@@ -96,6 +96,22 @@ def buildPokemonsData(pokeNamesDict):
             if name == "EEVEE":
                 startIndex += 2
             nameFr = pokeNamesDict[name]
+
+            # get evolution
+            evolIndex = findEvolutionLineIdx(pokemonData)
+            if name == "EEVEE":
+                for i in range(1, 4):
+                    subStrings = pokemonData[evolIndex + i].strip().split(',')
+                    pokemon.addEvolution(subStrings[1], subStrings[3])
+            else:
+                if pokemonData[evolIndex + 1] != "\tdb 0\n":
+                    subStrings = pokemonData[evolIndex + 1].strip().split(',')
+                    if subStrings[0] == "db EV_LEVEL": # example : db EV_LEVEL,28,MACHOKE
+                        pokemon.addEvolution(subStrings[1], subStrings[2])
+                    elif subStrings[0] == "db EV_ITEM": # example : db EV_ITEM,MOON_STONE,1,WIGGLYTUFF
+                        pokemon.addEvolution(subStrings[1], subStrings[3])
+
+            # get moves
             moves = {}
             for elem in pokemonData[startIndex:]:
                 elem = elem.replace('db', '').strip()
@@ -145,8 +161,14 @@ def buildPokemonsData(pokeNamesDict):
 
     return list(pokemons.values())
 
+def findEvolutionLineIdx(pokemonData):
+    for i, elem in enumerate(pokemonData):
+        if elem == ";Evolutions\n":
+            return i
+    return None
+
 # Build the part of the documentation describing the pokemons and their properties
-def buildPokemonsDoc(titleSection1, lienSection1, movesNamesDict, tmhmDict, pokemons):
+def buildPokemonsDoc(titleSection1, lienSection1, movesNamesDict, tmhmDict, pokemons, pokeNamesDict, itemsDescriptionDict):
     docLines = []
     docLines.append("## <a name=\"" + lienSection1 + "\"></a>" + titleSection1 + "\n")
 
@@ -162,6 +184,18 @@ def buildPokemonsDoc(titleSection1, lienSection1, movesNamesDict, tmhmDict, poke
         docLines.append("   * Taux de capture : " + pokemon.catchRate + " \n\n")
         docLines.append("   * Taux de rendement d'expérience : " + pokemon.xpYield + " \n\n")
         docLines.append("   * Taux de croissance : " + pokemon.growthRate + " \n\n")
+
+        if len(pokemon.evol.items()) > 0:
+            description = ""
+            for key, val in pokemon.evol.items():
+                if str(key).isnumeric():
+                    description += "niveau " + key + " -> " + pokeNamesDict[val] + " "
+                else:
+                    description += itemsDescriptionDict[key] + " -> " + pokeNamesDict[val] + " "
+            docLines.append("   * Evolution : " + description + " \n\n")
+        else:
+            docLines.append("   * Evolution : aucune \n\n")
+
         strAtk = ""
         for mv in pokemon.baseMoveset:
             strAtk += movesNamesDict[mv] + ", "
@@ -313,6 +347,7 @@ movesNamesDict = buildTranslationDict('i18n/moves_names.csv')
 typeNamesDict = buildTranslationDict('i18n/type_names.csv')
 zoneNamesDict = buildTranslationDict('i18n/zone_names.csv')
 effectsDescriptionDict = buildTranslationDict('i18n/effects_description.csv')
+itemsDescriptionDict = buildTranslationDict('i18n/evolution_items.csv')
 tmhmDict = buildTMHMDict()
 pokemons = buildPokemonsData(pokeNamesDict)
 wildPokemonDict = buildWildPokemonsData()
@@ -342,7 +377,7 @@ docFile.write("- [" + titleSection3 + "](#" + lienSection3 + ")\n\n")
 docFile.write("- [" + titleSection4 + "](#" + lienSection4 + ")\n\n")
 docFile.write("- [" + titleSection5 + "](#" + lienSection5 + ")\n\n")
 
-docFile.writelines(buildPokemonsDoc(titleSection1, lienSection1, movesNamesDict, tmhmDict, pokemons))
+docFile.writelines(buildPokemonsDoc(titleSection1, lienSection1, movesNamesDict, tmhmDict, pokemons, pokeNamesDict, itemsDescriptionDict))
 docFile.writelines(buildMovesDoc(titleSection2, lienSection2, movesNamesDict, typeNamesDict, effectsDescriptionDict))
 docFile.writelines(buildZonesDoc(titleSection3, lienSection3, pokeNamesDict, zoneNamesDict, wildPokemonDict))
 docFile.writelines(buildPokemonsStatsData(titleSection4, lienSection4, pokemons))
