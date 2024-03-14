@@ -50,7 +50,7 @@ Pour construire le fichier .gbc, suivez les instructions du fichier INSTALL.md. 
 - Les pokémons qui évoluent par échange évoluent désormais au niveau 36.
 
 
-- Les CS peuvent être oubliées
+- Les CS peuvent être oubliées (attention à ne pas se bloquer ainsi).
 
 
 - La variété des combats contre les dresseurs a été améliorée :
