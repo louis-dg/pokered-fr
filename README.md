@@ -1,51 +1,16 @@
-# Pokémon: Version Rouge and Bleue
-
-This is a disassembly of Pokémon: Version Rouge and Bleue.
-
-It builds the following roms:
-
-* Pokemon - Version Rouge (F) [S][!].gb  `md5: 669700657cb06ed09371cdbdef69e8a3`
-* Pokemon - Version Bleue (F) [S][!].gb  `md5: 35c8154c81abb2ab850689fd28a03515`
-
-To set up the repository, see [**INSTALL.md**](INSTALL.md).
-
-
-## See also
-
-* Disassembly of [**Pokémon Red & Blue**][pokered]
-* Disassembly of [**Pokémon Yellow**][pokeyellow]
-* Disassembly of [**Pokémon Crystal**][pokecrystal]
-* Disassembly of [**Pokémon Pinball**][pokepinball]
-* Disassembly of [**Pokémon TCG**][poketcg]
-* Disassembly of [**Pokémon Ruby**][pokeruby]
-* Disassembly of [**Pokémon Emerald**][pokeemerald]
-* Discord: [**pret**][Discord]
-* irc: **irc.freenode.net** [**#pret**][irc]
-
-[pokered]: https://github.com/pret/pokered
-[pokeyellow]: https://github.com/pret/pokeyellow
-[pokecrystal]: https://github.com/pret/pokecrystal
-[pokepinball]: https://github.com/pret/pokepinball
-[poketcg]: https://github.com/pret/poketcg
-[pokeruby]: https://github.com/pret/pokeruby
-[pokeemerald]: https://github.com/pret/pokeemerald
-[Discord]: https://discord.gg/cJxDDVP
-[irc]: https://kiwiirc.com/client/irc.freenode.net/?#pret
-
-
-# Présentation : Pokémon Rouge 
+# Hack rom Pokémon Rouge VF
 
 Ceci est un projet d'amélioration de la hack rom de Pokémon rouge.
 
-Le but de ce projet est de partir de la rom de Pokémon rouge et d'y apporter des améliorations **relativement légères** afin de **garder le ressenti du jeu original** tout en corrigeant des défauts qui, avec les standards d'aujourd'hui, affectent grandement la rejouabilité de cette version.
+Le but de ce projet est de partir de la rom de Pokémon rouge et d'y apporter des améliorations **relativement légères** afin de **garder le ressenti du jeu original** tout en **corrigeant des défauts** qui, avec les standards d'aujourd'hui, affectent grandement la rejouabilité de cette version.
 
 Ce projet s'adresse à un public francophone, trop peu représenté dans le monde des hack roms à mon avis :)
 
-Pour construire le fichier .gbc, suivez les instructions du fichier INSTALL.md. Dans ce projet la version bleu n'est pas gérée. Il est donc inutile d'utiliser le fichier pokeblue.gbc.
+**Pour jouer au jeu, téléchargez le fichier pokered.gbc se trouvant dans la [release](https://github.com/LePatator/pokered-fr/releases) de ce projet et utilisez-le avec votre émulateur de prédilection.**
 
 Le fichier de documentation [**documentation.md**](documentation/documentation.md) fournit des informations sur les propriétés du jeu incluant les modifications effectuées pour cette hack rom.
 
-**Pour jouer au jeu, téléchargez le fichier pokered.gbc se trouvant dans la release de ce projet** -> [Release](https://github.com/LePatator/pokered-fr/releases) <- et utilisez-le avec votre émulateur de prédilection.
+Pour construire le fichier .gbc, suivez les instructions du fichier INSTALL.md. Dans ce projet la version bleu n'est pas gérée car tous les pokémons sont obtenables cette version rouge revisitée. Il est donc inutile d'utiliser le fichier pokeblue.gbc.
 
 # Liste des Modifications
 
@@ -97,3 +62,8 @@ Le fichier de documentation [**documentation.md**](documentation/documentation.m
 
 
 - Les échanges internes ont été modifiés afin d'être plus intéressants.
+
+
+# Remerciements
+
+Merci au groupe de fans Pret qui a pu rendre cette version possible : https://pret.github.io/
