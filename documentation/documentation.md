@@ -111,7 +111,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : CHARGE, RUGISSEMENT, VAMPIGRAINE, FOUET LIANES
 
@@ -231,7 +231,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : GRIFFE, RUGISSEMENT, FLAMMECHE, GROZ'YEUX
 
@@ -351,7 +351,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : CHARGE, MIMI-QUEUE, ECUME, PISTOLET A O
 
@@ -430,7 +430,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : CHOC MENTAL
 
@@ -507,7 +507,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : FURIE
 
@@ -623,7 +623,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : TORNADE, JET DE SABLE, VIVE-ATTAQUE
 
@@ -696,7 +696,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : CHARGE, MIMI-QUEUE, VIVE-ATTAQUE
 
@@ -768,7 +768,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : PICPIC, RUGISSEMENT, GROZ'YEUX
 
@@ -842,7 +842,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : LIGOTAGE, GROZ'YEUX, DARD-VENIN
 
@@ -920,7 +920,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : ECLAIR, RUGISSEMENT, CAGE-ECLAIR
 
@@ -999,7 +999,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : GRIFFE, JET DE SABLE
 
@@ -1118,7 +1118,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : CHARGE, GRIFFE, MIMI-QUEUE, PLAQUAGE
 
@@ -1238,7 +1238,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : CHARGE, KOUD'KORNE, DARD-VENIN, MANIA
 
@@ -1316,7 +1316,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 4 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : BERCEUSE, TORGNOLES, LILLIPUT, METRONOME
 
@@ -1391,7 +1391,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : FLAMMECHE, MIMI-QUEUE, VIVE-ATTAQUE, HURLEMENT
 
@@ -1466,7 +1466,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 4 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : BERCEUSE, ENTRAVE, BOUL'ARMURE, TORGNOLES
 
@@ -1541,7 +1541,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : VAMPIRISME, GRINCEMENT, MORSURE
 
@@ -1654,7 +1654,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : PARA-SPORE, POUDRE DODO, ACIDE, DANSE-FLEUR
 
@@ -1733,7 +1733,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : GRIFFE, PARA-SPORE, VAMPIRISME
 
@@ -1808,7 +1808,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : CHARGE, ENTRAVE, POUDRE TOXIK, VAMPIRISME
 
@@ -1883,7 +1883,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : GRIFFE, RUGISSEMENT, TUNNEL
 
@@ -1957,7 +1957,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : GRIFFE, RUGISSEMENT, MORSURE, GRINCEMENT
 
@@ -2033,7 +2033,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : GRIFFE, MIMI-QUEUE, ENTRAVE
 
@@ -2113,7 +2113,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : GRIFFE, GROZ'YEUX, POING-KARATE, COMBO-GRIFFE
 
@@ -2190,7 +2190,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : HURLEMENT, FLAMMECHE, GROZ'YEUX, BELIER
 
@@ -2304,7 +2304,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : HYPNOSE, PISTOLET A O, TORGNOLES, PLAQUAGE
 
@@ -2413,7 +2413,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : TELEPORT, CHOC MENTAL, ENTRAVE
 
@@ -2535,7 +2535,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : POING-KARATE, BALAYAGE, GROZ'YEUX
 
@@ -2657,7 +2657,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : POUDRE DODO, PARA-SPORE, ACIDE, TRANCH'HERBE
 
@@ -2739,7 +2739,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : ACIDE, ULTRASON, LIGOTAGE
 
@@ -2862,7 +2862,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : CHARGE, BOUL'ARMURE
 
@@ -2942,7 +2942,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : FLAMMECHE, MIMI-QUEUE, ECRASEMENT, RUGISSEMENT
 
@@ -3019,7 +3019,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : CHOC MENTAL, ENTRAVE, COUP D'BOULE
 
@@ -3099,7 +3099,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : CHARGE, SONICBOOM, ECLAIR
 
@@ -3139,7 +3139,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : PICPIC, JET DE SABLE
 
@@ -3215,7 +3215,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : PICPIC, RUGISSEMENT, FURIE
 
@@ -3290,7 +3290,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : COUP D'BOULE, RUGISSEMENT, ONDE BOREALE
 
@@ -3365,7 +3365,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : ECRAS'FACE, ENTRAVE, GAZ TOXIK
 
@@ -3439,7 +3439,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : REPLI, ULTRASON, CLAQUOIR, ONDE BOREALE
 
@@ -3543,7 +3543,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : LECHOUILLE, ONDE FOLIE, TENEBRES
 
@@ -3576,7 +3576,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : CHARGE, GRINCEMENT
 
@@ -3652,7 +3652,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : ECRAS'FACE, HYPNOSE, ENTRAVE, CHOC MENTAL
 
@@ -3727,7 +3727,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : ECUME, GROZ'YEUX, FORCE POIGNE
 
@@ -3803,7 +3803,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : CHARGE, GRINCEMENT, SONICBOOM
 
@@ -3881,7 +3881,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : PILONNAGE, HYPNOSE
 
@@ -3959,7 +3959,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : MASSD'OS, RUGISSEMENT, GROZ'YEUX, PUISSANCE
 
@@ -3997,7 +3997,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : DOUBLE PIED, YOGA
 
@@ -4034,7 +4034,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : POING COMETE, HATE
 
@@ -4072,7 +4072,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : LIGOTAGE, ULTRASON
 
@@ -4149,7 +4149,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : CHARGE, PUREDPOIS, DETRITUS
 
@@ -4228,7 +4228,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : KOUD'KORNE, ECRASEMENT, MIMI-QUEUE, FURIE
 
@@ -4268,7 +4268,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 4 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : ECRAS'FACE, TORGNOLES
 
@@ -4305,7 +4305,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : CONSTRICTION, ETREINTE
 
@@ -4343,7 +4343,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : POING COMETE, FRENESIE
 
@@ -4421,7 +4421,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : ECUME, BROUILLARD
 
@@ -4498,7 +4498,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : PICPIC, MIMI-QUEUE, ULTRASON
 
@@ -4574,7 +4574,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : CHARGE, PISTOLET A O, ARMURE
 
@@ -4613,7 +4613,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : CHOC MENTAL, BOUCLIER
 
@@ -4652,7 +4652,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : VIVE-ATTAQUE
 
@@ -4693,7 +4693,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : ECRAS'FACE, GROBISOU
 
@@ -4732,7 +4732,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : VIVE-ATTAQUE, GROZ'YEUX
 
@@ -4769,7 +4769,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : FLAMMECHE
 
@@ -4808,7 +4808,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : FORCE POIGNE
 
@@ -4847,7 +4847,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : CHARGE
 
@@ -4908,7 +4908,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : MORSURE, DRACO-RAGE, GROZ'YEUX, HYDROCANON
 
@@ -4946,7 +4946,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : PISTOLET A O, RUGISSEMENT
 
@@ -4984,7 +4984,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : MORPHING
 
@@ -5040,7 +5040,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : CHARGE, JET DE SABLE, VIVE-ATTAQUE, PISTOLET A O
 
@@ -5078,7 +5078,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : CHARGE, JET DE SABLE, VIVE-ATTAQUE, ECLAIR
 
@@ -5115,7 +5115,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : CHARGE, JET DE SABLE, VIVE-ATTAQUE, FLAMMECHE
 
@@ -5153,7 +5153,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : CHARGE, AFFUTAGE, ADAPTATION
 
@@ -5227,7 +5227,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : PISTOLET A O, REPLI, KOUD'KORNE
 
@@ -5299,7 +5299,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 0 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : GRIFFE, ARMURE, VOL-VIE
 
@@ -5337,7 +5337,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : CRU-AILE, HATE
 
@@ -5374,7 +5374,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : COUP D'BOULE, AMNESIE, REPOS
 
@@ -5410,7 +5410,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : TORNADE, LASER GLACE
 
@@ -5446,7 +5446,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : ECLAIR, BEC VRILLE
 
@@ -5482,7 +5482,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : PICPIC, DANSEFLAMME
 
@@ -5591,7 +5591,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : LIGOTAGE, GROZ'YEUX, CAGE-ECLAIR, HATE
 
@@ -5631,7 +5631,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 5 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : CHOC MENTAL, ENTRAVE, METEORES, PSYKO
 
@@ -5670,7 +5670,7 @@ Page du projet : https://github.com/louis-dg/pokered-fr
 
    * Taux de croissance : 3 
 
-   * Evolution : aucune 
+   * Evolution : - 
 
    * Attaques de départ : ECRAS'FACE
 
@@ -5715,11 +5715,11 @@ AFFUTAGE | 0 | 100 | 30 | NORMAL | Augmente la statistique d'attaque d'un palier
 AMNESIE | 0 | 100 | 20 | PSY | Augmente la statistique de spécial de deux paliers
 ARMURE | 0 | 100 | 30 | NORMAL | Augmente la statistique de défense d'un palier
 BALAYAGE | 60 | 90 | 20 | COMBAT | 30% de chances d'apeurer la cible
-BEC VRILLE | 80 | 100 | 20 | VOL | Pas d'effet supplémentaire
+BEC VRILLE | 80 | 100 | 20 | VOL | -
 BELIER | 90 | 85 | 20 | NORMAL | Le lanceur subit des dégâts de recul
 BERCEUSE | 0 | 55 | 15 | NORMAL | Endort l'adversaire
 BLIZZARD | 120 | 90 | 5 | GLACE | 10% de chances de geler la cible
-BOMB'OEUF | 100 | 75 | 10 | NORMAL | Pas d'effet supplémentaire
+BOMB'OEUF | 100 | 75 | 10 | NORMAL | -
 BOUCLIER | 0 | 100 | 30 | PSY | Augmente la statistique de défense de deux paliers
 BOUL'ARMURE | 0 | 100 | 40 | NORMAL | Augmente la statistique de défense d'un palier
 BROUILLARD | 0 | 100 | 20 | NORMAL | Diminue la statistique de précision d'un palier
@@ -5727,8 +5727,8 @@ BRUME | 0 | 100 | 30 | GLACE | Bloque les modifications de statistiques tentées
 BUEE NOIRE | 0 | 100 | 30 | GLACE | Annule tout changement de statistique des Pokémon présents sur le terrain
 BULLES D'O | 65 | 100 | 20 | EAU | Inflige des dégâts et a 10% de diminuer la statistique de vitesse d'un palier
 CAGE-ECLAIR | 0 | 100 | 20 | ELECTRIK | Paralyse la cible
-CASCADE | 80 | 100 | 15 | EAU | Pas d'effet supplémentaire
-CHARGE | 35 | 95 | 35 | NORMAL | Pas d'effet supplémentaire
+CASCADE | 80 | 100 | 15 | EAU | -
+CHARGE | 35 | 95 | 35 | NORMAL | -
 CHOC MENTAL | 50 | 100 | 25 | PSY | Inflige des dégâts et a 10% de rendre la cible confuse
 CLAQUOIR | 35 | 75 | 10 | EAU | Piège l'adversaire
 CLONAGE | 0 | 100 | 10 | NORMAL | Crée un clone
@@ -5737,12 +5737,12 @@ CONSTRICTION | 10 | 100 | 35 | NORMAL | Inflige des dégâts et a 10% de diminue
 COPIE | 0 | 100 | 10 | NORMAL | Copie une capacité adverse
 COUD'KRANE | 120 | 100 | 15 | NORMAL | Charge pendant 1 tour
 COUP D'BOULE | 70 | 100 | 15 | NORMAL | 30% de chances d'apeurer la cible
-COUPE | 50 | 95 | 30 | NORMAL | Pas d'effet supplémentaire
+COUPE | 50 | 95 | 30 | NORMAL | -
 COUPE-VENT | 130 | 95 | 10 | VOL | Charge pendant 1 tour
 CROC DE MORT | 80 | 90 | 15 | NORMAL | 10% de chances d'apeurer la side
 CROC FATAL | 1 | 90 | 10 | NORMAL | Divise le total de pv par 2
 CROISSANCE | 0 | 100 | 40 | NORMAL | Augmente la statistique de spécial d'un palier
-CRU-AILE | 60 | 100 | 35 | VOL | Pas d'effet supplémentaire
+CRU-AILE | 60 | 100 | 35 | VOL | -
 CYCLONE | 0 | 85 | 20 | NORMAL | Quitte le combat contre un pokémon sauvage
 DAMOCLES | 100 | 100 | 15 | NORMAL | Le lanceur subit des dégâts de recul
 DANSE-FLEUR | 70 | 100 | 20 | PLANTE | Attaque pendant 2 à 3 tours avant de devenir confus
@@ -5758,9 +5758,9 @@ DOUBLE PIED | 30 | 100 | 30 | COMBAT | Attaque 2 fois de suite
 DOUBLE-DARD | 25 | 100 | 20 | INSECTE | Attaque 2 fois avec 20% de chances d'empoisonner à chaque fois
 DRACO-RAGE | 1 | 100 | 10 | DRAGON | Calcul spécifique des dégâts
 E-COQUE | 0 | 100 | 10 | NORMAL | Soigne le lanceur
-EBOULEMENT | 75 | 90 | 10 | ROCHE | Pas d'effet supplémentaire
+EBOULEMENT | 75 | 90 | 10 | ROCHE | -
 ECLAIR | 40 | 100 | 30 | ELECTRIK | 10% de chances de paralyser la cible
-ECRAS'FACE | 40 | 100 | 35 | NORMAL | Pas d'effet supplémentaire
+ECRAS'FACE | 40 | 100 | 35 | NORMAL | -
 ECRASEMENT | 65 | 100 | 20 | NORMAL | 30% de chances d'apeurer la cible
 ECUME | 20 | 100 | 30 | EAU | Inflige des dégâts et a 10% de diminuer la statistique de vitesse d'un palier
 EMPAL'KORNE | 1 | 30 | 5 | NORMAL | KO en un coup
@@ -5770,27 +5770,27 @@ EXPLOSION | 250 | 100 | 5 | NORMAL | Le lanceur se suicide
 FATAL-FOUDRE | 120 | 70 | 10 | ELECTRIK | 10% de chances de paralyser la cible
 FLAMMECHE | 40 | 100 | 25 | FEU | 10% de chances de brûler la cible
 FLASH | 0 | 70 | 20 | NORMAL | Diminue la statistique de précision d'un palier
-FORCE POIGNE | 55 | 100 | 30 | NORMAL | Pas d'effet supplémentaire
-FORCE | 80 | 100 | 15 | NORMAL | Pas d'effet supplémentaire
-FOUET LIANES | 35 | 100 | 10 | PLANTE | Pas d'effet supplémentaire
+FORCE POIGNE | 55 | 100 | 30 | NORMAL | -
+FORCE | 80 | 100 | 15 | NORMAL | -
+FOUET LIANES | 35 | 100 | 10 | PLANTE | -
 FRAPPE ATLAS | 1 | 100 | 20 | COMBAT | Calcul spécifique des dégâts
 FRENESIE | 20 | 100 | 20 | NORMAL | Le lanceur voit sa statistique augmenter d'un palier à chaque fois qu'il subit des dégâts
 FURIE | 15 | 85 | 20 | NORMAL | Attaque 2 à 5 fois de suite
 GAZ TOXIK | 0 | 55 | 40 | POISON | Empoisonne la cible
-GRIFFE | 40 | 100 | 35 | NORMAL | Pas d'effet supplémentaire
+GRIFFE | 40 | 100 | 35 | NORMAL | -
 GRINCEMENT | 0 | 85 | 40 | NORMAL | Diminue la statistique de défense de deux paliers
 GROBISOU | 0 | 75 | 10 | NORMAL | Endort l'adversaire
 GROZ'YEUX | 0 | 100 | 30 | NORMAL | Diminue la statistique de défense d'un palier
 GUILLOTINE | 1 | 30 | 5 | NORMAL | KO en un coup
 HATE | 0 | 100 | 30 | PSY | Augmente la statistique de vitesse de deux paliers
 HURLEMENT | 0 | 100 | 20 | NORMAL | Quitte le combat contre un pokémon sauvage
-HYDROCANON | 120 | 80 | 5 | EAU | Pas d'effet supplémentaire
+HYDROCANON | 120 | 80 | 5 | EAU | -
 HYPNOSE | 0 | 60 | 20 | PSY | Endort l'adversaire
 INTIMIDATION | 0 | 75 | 30 | NORMAL | Paralyse la cible
 JACKPOT | 40 | 100 | 20 | NORMAL | Fait tomber de l'argent par terre
 JET DE SABLE | 0 | 100 | 15 | NORMAL | Diminue la statistique de précision d'un palier
-JET-PIERRES | 50 | 90 | 15 | ROCHE | Pas d'effet supplémentaire
-KOUD'KORNE | 65 | 100 | 25 | NORMAL | Pas d'effet supplémentaire
+JET-PIERRES | 50 | 90 | 15 | ROCHE | -
+KOUD'KORNE | 65 | 100 | 25 | NORMAL | -
 LANCE-FLAMME | 95 | 100 | 15 | FEU | 10% de chances de brûler la cible
 LANCE-SOLEIL | 120 | 100 | 10 | PLANTE | Charge pendant 1 tour
 LASER GLACE | 95 | 100 | 10 | GLACE | 10% de chances de geler la cible
@@ -5815,18 +5815,18 @@ OSMERANG | 50 | 90 | 10 | SOL | Attaque 2 fois de suite
 PARA-SPORE | 0 | 75 | 30 | PLANTE | Paralyse la cible
 PATIENCE | 0 | 100 | 10 | NORMAL | Attend pendant 2 tours avant de renvoyer le double des dégâts subis
 PICANON | 20 | 100 | 15 | NORMAL | Attaque 2 à 5 fois de suite
-PICPIC | 35 | 100 | 35 | VOL | Pas d'effet supplémentaire
+PICPIC | 35 | 100 | 35 | VOL | -
 PIED SAUTE | 70 | 95 | 25 | COMBAT | Dégâts de chute
 PIED VOLTIGE | 85 | 90 | 20 | COMBAT | Dégâts de chute
 PILONNAGE | 15 | 85 | 20 | NORMAL | Attaque 2 à 5 fois de suite
-PINCE-MASSE | 90 | 85 | 10 | EAU | Pas d'effet supplémentaire
+PINCE-MASSE | 90 | 85 | 10 | EAU | -
 PIQUE | 140 | 90 | 5 | VOL | Charge pendant 1 tour
-PISTOLET A O | 40 | 100 | 25 | EAU | Pas d'effet supplémentaire
+PISTOLET A O | 40 | 100 | 25 | EAU | -
 PLAQUAGE | 85 | 100 | 15 | NORMAL | 30% de chances de paralyser la cible
 POING COMETE | 18 | 85 | 15 | NORMAL | Attaque 2 à 5 fois de suite
 POING DE FEU | 75 | 100 | 15 | FEU | 10% de chances de brûler la cible
 POING-ECLAIR | 75 | 100 | 15 | ELECTRIK | 10% de chances de paralyser la cible
-POING-KARATE | 50 | 100 | 25 | COMBAT | Pas d'effet supplémentaire
+POING-KARATE | 50 | 100 | 25 | COMBAT | -
 POINGLACE | 75 | 100 | 15 | GLACE | 10% de chances de geler la cible
 POUDRE DODO | 0 | 75 | 15 | PLANTE | Endort l'adversaire
 POUDRE TOXIK | 0 | 75 | 35 | POISON | Empoisonne la cible
@@ -5838,37 +5838,37 @@ RAFALE PSY | 65 | 100 | 20 | PSY | Inflige des dégâts et a 10% de rendre la ci
 REFLET | 0 | 100 | 15 | NORMAL | Augmente la statistique d'esquive d'un palier
 REPLI | 0 | 100 | 40 | EAU | Augmente la statistique de défense d'un palier
 REPOS | 0 | 100 | 10 | PSY | Soigne le lanceur
-RIPOSTE | 1 | 100 | 20 | COMBAT | Pas d'effet supplémentaire
+RIPOSTE | 1 | 100 | 20 | COMBAT | -
 RUGISSEMENT | 0 | 100 | 40 | NORMAL | Diminue la statistique d'attaque d'un palier
 SACRIFICE | 100 | 80 | 25 | COMBAT | Le lanceur subit des dégâts de recul
 SECRETION | 0 | 95 | 40 | INSECTE | Diminue la statistique de vitesse d'un palier
-SEISME | 100 | 100 | 10 | SOL | Pas d'effet supplémentaire
+SEISME | 100 | 100 | 10 | SOL | -
 SOIN | 0 | 100 | 20 | NORMAL | Soigne le lanceur
 SONICBOOM | 1 | 90 | 20 | NORMAL | Calcul spécifique des dégâts
-SOUPLESSE | 80 | 75 | 20 | NORMAL | Pas d'effet supplémentaire
+SOUPLESSE | 80 | 75 | 20 | NORMAL | -
 SPORE | 0 | 100 | 15 | PLANTE | Endort l'adversaire
-SURF | 95 | 100 | 15 | EAU | Pas d'effet supplémentaire
+SURF | 95 | 100 | 15 | EAU | -
 TELEKINESIE | 0 | 80 | 15 | PSY | Diminue la statistique de précision d'un palier
 TELEPORT | 0 | 100 | 20 | PSY | Quitte le combat contre un pokémon sauvage
 TENEBRES | 0 | 100 | 15 | SPECTRE | Calcul spécifique des dégâts
 TONNERRE | 95 | 100 | 15 | ELECTRIK | 10% de chances de paralyser la cible
 TORGNOLES | 15 | 85 | 10 | NORMAL | Attaque 2 à 5 fois de suite
-TORNADE | 40 | 100 | 35 | VOL | Pas d'effet supplémentaire
+TORNADE | 40 | 100 | 35 | VOL | -
 TOXIK | 0 | 85 | 10 | POISON | Empoisonne la cible
-TRANCH'HERBE | 55 | 95 | 25 | PLANTE | Pas d'effet supplémentaire
-TRANCHE | 70 | 100 | 20 | NORMAL | Pas d'effet supplémentaire
+TRANCH'HERBE | 55 | 95 | 25 | PLANTE | -
+TRANCHE | 70 | 100 | 20 | NORMAL | -
 TREMPETTE | 0 | 100 | 40 | NORMAL | Ne fait rien
-TRIPLATTAQUE | 80 | 100 | 10 | NORMAL | Pas d'effet supplémentaire
+TRIPLATTAQUE | 80 | 100 | 10 | NORMAL | -
 TUNNEL | 100 | 100 | 10 | SOL | Charge pendant 1 tour
-ULTIMAPOING | 80 | 85 | 20 | NORMAL | Pas d'effet supplémentaire
-ULTIMAWASHI | 120 | 75 | 5 | NORMAL | Pas d'effet supplémentaire
+ULTIMAPOING | 80 | 85 | 20 | NORMAL | -
+ULTIMAWASHI | 120 | 75 | 5 | NORMAL | -
 ULTRALASER | 150 | 90 | 5 | NORMAL | Attaque puis se repose au tour suivant
 ULTRASON | 0 | 55 | 20 | NORMAL | Rend confus
-UPPERCUT | 70 | 100 | 10 | NORMAL | Pas d'effet supplémentaire
+UPPERCUT | 70 | 100 | 10 | NORMAL | -
 VAGUE PSY | 1 | 80 | 15 | PSY | Calcul spécifique des dégâts
 VAMPIGRAINE | 0 | 90 | 10 | PLANTE | Draine les pv du pokemon adverse à chaque tour
 VAMPIRISME | 20 | 100 | 15 | INSECTE | Draine les pv
-VIVE-ATTAQUE | 40 | 100 | 30 | NORMAL | Pas d'effet supplémentaire
+VIVE-ATTAQUE | 40 | 100 | 30 | NORMAL | -
 VOL | 70 | 95 | 15 | VOL | S'envole au premier tour et frappe au tour suivant
 VOL-VIE | 20 | 100 | 20 | PLANTE | Draine les pv
 YOGA | 0 | 100 | 40 | PSY | Augmente la statistique d'attaque d'un palier
@@ -5877,12 +5877,145 @@ YOGA | 0 | 100 | 40 | PSY | Augmente la statistique d'attaque d'un palier
 
 Le taux d'apparition d'un pokémon à un niveau donné est toujours de 10%. Donc plus un pokémon apparaît avec des niveaux différents, plus il est probable de le rencontrer aléatoirement.
 
-- Cave taupiqueur
+- Caverne taupiqueur
 
      Pokémon | Niveau(x) 
      --- | --- 
      TAUPIQUEUR | 18, 19, 17, 20, 16, 15, 21, 22
      TRIOPIKEUR | 29, 31
+- Centrale
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     VOLTORBE | 21, 23
+     MAGNETI | 21, 23
+     PIKACHU | 20, 24
+     ELEKTEK | 32, 35
+     VOLTALI | 33
+     RAICHU | 36
+- Forêt de Jade
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     ASPICOT | 4, 3, 5
+     COCONFORT | 5, 4, 6
+     CHRYSACIER | 4
+     CHENIPAN | 5
+     PIKACHU | 3, 5
+- Grotte 1
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     NOSFERAPTI | 16, 17, 18
+     RACAILLOU | 17, 16
+     MACHOC | 15, 17
+     SALAMECHE | 15
+     ONIX | 13, 15
+- Grotte 2
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     NOSFERAPTI | 16
+     ONIX | 17, 18, 13
+     RACAILLOU | 17, 16, 18
+     MACHOC | 15, 17
+     SALAMECHE | 15
+- Grotte inconnue 1
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     NOSFERALTO | 48
+     HYPNOMADE | 48
+     MAGNETON | 48
+     DODRIO | 51
+     AEROMITE | 51
+     ARBOK | 54
+     KADABRA | 51
+     PARASECT | 54
+     RAICHU | 55
+     METAMORPH | 55
+- Grotte inconnue 2
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     DODRIO | 53
+     AEROMITE | 53
+     KADABRA | 53
+     RHINOFEROS | 54
+     OSSATUEUR | 54
+     ELECTRODE | 54
+     LEVEINARD | 58
+     GRODOUDOU | 56
+     MAGMAR | 57
+     METAMORPH | 62
+- Grotte inconnue b1
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     RHINOFEROS | 57
+     OSSATUEUR | 57
+     LIPPOUTOU | 57
+     LEVEINARD | 66
+     PARASECT | 66
+     RAICHU | 66
+     SABLAIREAU | 59
+     GROLEM | 67
+     KANGOUREX | 65
+     METAMORPH | 69
+- Iles écume 1
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     OTARIA | 30
+     KOKIYAS | 30, 28
+     HYPOTREMPE | 30, 28
+     NOSFERAPTI | 21
+     NOSFERALTO | 29
+     AQUALI | 30, 28
+     AKWAKWAK | 38
+- Iles écume b1
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     OTARIA | 31, 30, 28
+     HYPOTREMPE | 30, 32
+     KOKIYAS | 32
+     RAMOLOSS | 28, 30
+     LAMANTINE | 38
+     HYPOCEAN | 37
+- Iles écume b2
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     OTARIA | 30, 32
+     RAMOLOSS | 30, 32
+     STARI | 28, 30
+     KRABBY | 30
+     KOKIYAS | 28
+     NOSFERALTO | 30
+     FLAGADOSS | 37
+- Iles écume b3
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     KRABBY | 33, 31
+     OTARIA | 31, 33
+     AMONITA | 31
+     HYPOTREMPE | 29
+     KOKIYAS | 30, 29
+     HYPOCEAN | 39
+     LAMANTINE | 37
+- Iles écume b4
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     RAMOLOSS | 31, 29
+     KOKIYAS | 31, 33
+     HYPOTREMPE | 29
+     OTARIA | 31, 29
+     KABUTO | 31
+     FLAGADOSS | 39
+     NOSFERALTO | 32
 - Manoir 1
 
      Pokémon | Niveau(x) 
@@ -5953,85 +6086,143 @@ Le taux d'apparition d'un pokémon à un niveau donné est toujours de 10%. Donc
      PARAS | 10
      SABELETTE | 12
      MELOFEE | 10, 12
-- Tour pokémon étage 1
-
-    * Pas de pokémon sauvage
-
-
-- Tour pokémon étage 2
-
-    * Pas de pokémon sauvage
-
-
-- Tour pokémon étage 3
+- Océan
 
      Pokémon | Niveau(x) 
      --- | --- 
-     FANTOMINUS | 20, 21, 22, 23, 19, 18, 24
-     OSSELAIT | 20, 22
-     SPECTRUM | 25
-- Tour pokémon étage 4
+     TENTACOOL | 5, 15, 10, 15, 35, 40
+     PTITARD | 10, 5
+     HYPOTREMPE | 20, 30
+- Parc Safari zone 1
 
      Pokémon | Niveau(x) 
      --- | --- 
-     FANTOMINUS | 20, 21, 22, 23, 19, 18, 24
-     SPECTRUM | 25
-     OSSELAIT | 20, 22
-- Tour pokémon étage 5
+     NIDORAN♂ | 24
+     DODUO | 26
+     PARAS | 22
+     NOEUNOEUF | 25, 23
+     NIDORINO | 33
+     NIDORAN♀ | 24
+     PARASECT | 25
+     KANGOUREX | 25
+     INSECATEUR | 28
+- Parc Safari zone 2
 
      Pokémon | Niveau(x) 
      --- | --- 
-     FANTOMINUS | 20, 21, 22, 23, 19, 18, 24
-     SPECTRUM | 25
-     OSSELAIT | 20, 22
-- Tour pokémon étage 6
+     NIDORAN♂ | 22
+     RHINOCORNE | 26
+     PARAS | 23
+     NOEUNOEUF | 25, 27
+     NIDORINO | 30
+     NIDORINA | 30
+     AEROMITE | 32
+     LEVEINARD | 26
+     TAUROS | 28
+- Parc Safari zone 3
 
      Pokémon | Niveau(x) 
      --- | --- 
-     FANTOMINUS | 21, 22, 23, 24, 20, 19
-     SPECTRUM | 26, 28
-     OSSELAIT | 22, 24
-- Tour pokémon étage 7
+     NIDORAN♂ | 25
+     DODUO | 26
+     MIMITOSS | 23
+     NOEUNOEUF | 24, 26
+     NIDORINO | 33
+     KICKLEE | 30
+     SCARABRUTE | 23
+     TAUROS | 26
+     KANGOUREX | 28
+- Parc Safari centre
 
      Pokémon | Niveau(x) 
      --- | --- 
-     FANTOMINUS | 21, 22, 23, 24, 20
-     SPECTRUM | 28, 28, 30
-     OSSELAIT | 22, 24
-- Centrale
-
-     Pokémon | Niveau(x) 
-     --- | --- 
-     VOLTORBE | 21, 23
-     MAGNETI | 21, 23
-     PIKACHU | 20, 24
-     ELEKTEK | 32, 35
-     VOLTALI | 33
-     RAICHU | 36
-- Grotte 1
-
-     Pokémon | Niveau(x) 
-     --- | --- 
-     NOSFERAPTI | 16, 17, 18
-     RACAILLOU | 17, 16
-     MACHOC | 15, 17
-     SALAMECHE | 15
-     ONIX | 13, 15
-- Grotte 2
-
-     Pokémon | Niveau(x) 
-     --- | --- 
-     NOSFERAPTI | 16
-     ONIX | 17, 18, 13
-     RACAILLOU | 17, 16, 18
-     MACHOC | 15, 17
-     SALAMECHE | 15
+     NIDORAN♂ | 22
+     RHINOCORNE | 25
+     NOEUNOEUF | 24, 25
+     NIDORINO | 31
+     NIDORINA | 31
+     TYGNON | 30
+     SCARABRUTE | 23
+     INSECATEUR | 23
+     LEVEINARD | 23
 - Route 1
 
      Pokémon | Niveau(x) 
      --- | --- 
      ROUCOOL | 3, 2, 3, 3, 4, 5
      RATTATA | 3, 3, 2, 4
+- Route 2
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     RATTATA | 3, 4, 2, 5
+     ROUCOOL | 3, 4, 5
+     PIAFABEC | 3
+     CHENIPAN | 5
+     ASPICOT | 5
+- Route 3
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     ROUCOOL | 6, 7, 8
+     PIAFABEC | 5, 6, 7, 8
+     RONDOUDOU | 3, 5, 7
+- Route 4
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     RATTATA | 10, 8, 12
+     PIAFABEC | 10, 8, 12
+     ABO | 6, 10
+     SABELETTE | 8, 12
+- Route 5
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     MYSTHERBE | 13, 16
+     ROUCOOL | 13, 15
+     CHETIFLOR | 15, 16
+     MIAOUSS | 10, 12
+     FEROSINGE | 14, 16
+- Route 6
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     MIAOUSS | 13
+     ROUCOOL | 13, 15, 16
+     FEROSINGE | 10, 12
+     MYSTHERBE | 15, 16
+     CHETIFLOR | 14, 16
+- Route 7
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     ROUCOOL | 19, 22
+     ORTIDE | 25
+     CANINOS | 17, 20
+     BOUSTIFLOR | 25
+     MIAOUSS | 18
+     GOUPIX | 20, 19
+     FEROSINGE | 20
+- Route 8
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     ROUCOOL | 18, 20
+     FEROSINGE | 18
+     EVOLI | 21
+     CANINOS | 16, 18
+     MIAOUSS | 20
+     ROUCOUPS | 25
+     GOUPIX | 17, 15
+- Route 9
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     RATTATA | 16, 14, 17
+     PIAFABEC | 16, 13, 17
+     ABO | 11, 13
+     SABELETTE | 15, 17
 - Route 10
 
      Pokémon | Niveau(x) 
@@ -6121,15 +6312,6 @@ Le taux d'apparition d'un pokémon à un niveau donné est toujours de 10%. Donc
      SCARABRUTE | 24
      RAPASDEPIC | 25, 27, 29
      DODUO | 26, 28
-- Route 2
-
-     Pokémon | Niveau(x) 
-     --- | --- 
-     RATTATA | 3, 4, 2, 5
-     ROUCOOL | 3, 4, 5
-     PIAFABEC | 3
-     CHENIPAN | 5
-     ASPICOT | 5
 - Route 21
 
      Pokémon | Niveau(x) 
@@ -6184,217 +6366,6 @@ Le taux d'apparition d'un pokémon à un niveau donné est toujours de 10%. Donc
      ABRA | 12, 10
      MYSTHERBE | 14
      CHRYSACIER | 7, 8
-- Route 3
-
-     Pokémon | Niveau(x) 
-     --- | --- 
-     ROUCOOL | 6, 7, 8
-     PIAFABEC | 5, 6, 7, 8
-     RONDOUDOU | 3, 5, 7
-- Route 4
-
-     Pokémon | Niveau(x) 
-     --- | --- 
-     RATTATA | 10, 8, 12
-     PIAFABEC | 10, 8, 12
-     ABO | 6, 10
-     SABELETTE | 8, 12
-- Route 5
-
-     Pokémon | Niveau(x) 
-     --- | --- 
-     MYSTHERBE | 13, 16
-     ROUCOOL | 13, 15
-     CHETIFLOR | 15, 16
-     MIAOUSS | 10, 12
-     FEROSINGE | 14, 16
-- Route 6
-
-     Pokémon | Niveau(x) 
-     --- | --- 
-     MIAOUSS | 13
-     ROUCOOL | 13, 15, 16
-     FEROSINGE | 10, 12
-     MYSTHERBE | 15, 16
-     CHETIFLOR | 14, 16
-- Route 7
-
-     Pokémon | Niveau(x) 
-     --- | --- 
-     ROUCOOL | 19, 22
-     ORTIDE | 25
-     CANINOS | 17, 20
-     BOUSTIFLOR | 25
-     MIAOUSS | 18
-     GOUPIX | 20, 19
-     FEROSINGE | 20
-- Route 8
-
-     Pokémon | Niveau(x) 
-     --- | --- 
-     ROUCOOL | 18, 20
-     FEROSINGE | 18
-     EVOLI | 21
-     CANINOS | 16, 18
-     MIAOUSS | 20
-     ROUCOUPS | 25
-     GOUPIX | 17, 15
-- Route 9
-
-     Pokémon | Niveau(x) 
-     --- | --- 
-     RATTATA | 16, 14, 17
-     PIAFABEC | 16, 13, 17
-     ABO | 11, 13
-     SABELETTE | 15, 17
-- Parc Safari zone 1
-
-     Pokémon | Niveau(x) 
-     --- | --- 
-     NIDORAN♂ | 24
-     DODUO | 26
-     PARAS | 22
-     NOEUNOEUF | 25, 23
-     NIDORINO | 33
-     NIDORAN♀ | 24
-     PARASECT | 25
-     KANGOUREX | 25
-     INSECATEUR | 28
-- Parc Safari zone 2
-
-     Pokémon | Niveau(x) 
-     --- | --- 
-     NIDORAN♂ | 22
-     RHINOCORNE | 26
-     PARAS | 23
-     NOEUNOEUF | 25, 27
-     NIDORINO | 30
-     NIDORINA | 30
-     AEROMITE | 32
-     LEVEINARD | 26
-     TAUROS | 28
-- Parc Safari zone 3
-
-     Pokémon | Niveau(x) 
-     --- | --- 
-     NIDORAN♂ | 25
-     DODUO | 26
-     MIMITOSS | 23
-     NOEUNOEUF | 24, 26
-     NIDORINO | 33
-     KICKLEE | 30
-     SCARABRUTE | 23
-     TAUROS | 26
-     KANGOUREX | 28
-- Parc Safari centre
-
-     Pokémon | Niveau(x) 
-     --- | --- 
-     NIDORAN♂ | 22
-     RHINOCORNE | 25
-     NOEUNOEUF | 24, 25
-     NIDORINO | 31
-     NIDORINA | 31
-     TYGNON | 30
-     SCARABRUTE | 23
-     INSECATEUR | 23
-     LEVEINARD | 23
-- Iles écume 1
-
-     Pokémon | Niveau(x) 
-     --- | --- 
-     OTARIA | 30
-     KOKIYAS | 30, 28
-     HYPOTREMPE | 30, 28
-     NOSFERAPTI | 21
-     NOSFERALTO | 29
-     AQUALI | 30, 28
-     AKWAKWAK | 38
-- Iles écume b1
-
-     Pokémon | Niveau(x) 
-     --- | --- 
-     OTARIA | 31, 30, 28
-     HYPOTREMPE | 30, 32
-     KOKIYAS | 32
-     RAMOLOSS | 28, 30
-     LAMANTINE | 38
-     HYPOCEAN | 37
-- Iles écume b2
-
-     Pokémon | Niveau(x) 
-     --- | --- 
-     OTARIA | 30, 32
-     RAMOLOSS | 30, 32
-     STARI | 28, 30
-     KRABBY | 30
-     KOKIYAS | 28
-     NOSFERALTO | 30
-     FLAGADOSS | 37
-- Iles écume b3
-
-     Pokémon | Niveau(x) 
-     --- | --- 
-     KRABBY | 33, 31
-     OTARIA | 31, 33
-     AMONITA | 31
-     HYPOTREMPE | 29
-     KOKIYAS | 30, 29
-     HYPOCEAN | 39
-     LAMANTINE | 37
-- Iles écume b4
-
-     Pokémon | Niveau(x) 
-     --- | --- 
-     RAMOLOSS | 31, 29
-     KOKIYAS | 31, 33
-     HYPOTREMPE | 29
-     OTARIA | 31, 29
-     KABUTO | 31
-     FLAGADOSS | 39
-     NOSFERALTO | 32
-- Grotte inconnue 1
-
-     Pokémon | Niveau(x) 
-     --- | --- 
-     NOSFERALTO | 48
-     HYPNOMADE | 48
-     MAGNETON | 48
-     DODRIO | 51
-     AEROMITE | 51
-     ARBOK | 54
-     KADABRA | 51
-     PARASECT | 54
-     RAICHU | 55
-     METAMORPH | 55
-- Grotte inconnue 2
-
-     Pokémon | Niveau(x) 
-     --- | --- 
-     DODRIO | 53
-     AEROMITE | 53
-     KADABRA | 53
-     RHINOFEROS | 54
-     OSSATUEUR | 54
-     ELECTRODE | 54
-     LEVEINARD | 58
-     GRODOUDOU | 56
-     MAGMAR | 57
-     METAMORPH | 62
-- Grotte inconnue b1
-
-     Pokémon | Niveau(x) 
-     --- | --- 
-     RHINOFEROS | 57
-     OSSATUEUR | 57
-     LIPPOUTOU | 57
-     LEVEINARD | 66
-     PARASECT | 66
-     RAICHU | 66
-     SABLAIREAU | 59
-     GROLEM | 67
-     KANGOUREX | 65
-     METAMORPH | 69
 - Route Victoire 1
 
      Pokémon | Niveau(x) 
@@ -6431,180 +6402,209 @@ Le taux d'apparition d'un pokémon à un niveau donné est toujours de 10%. Donc
      GRAVALANCH | 46
      NOSFERALTO | 43
      MACHOPEUR | 45, 48
-- Forêt de Jade
+- Tour pokémon étage 1
+
+    * Pas de pokémon sauvage
+
+
+- Tour pokémon étage 2
+
+    * Pas de pokémon sauvage
+
+
+- Tour pokémon étage 3
 
      Pokémon | Niveau(x) 
      --- | --- 
-     ASPICOT | 4, 3, 5
-     COCONFORT | 5, 4, 6
-     CHRYSACIER | 4
-     CHENIPAN | 5
-     PIKACHU | 3, 5
-- Océan
+     FANTOMINUS | 20, 21, 22, 23, 19, 18, 24
+     OSSELAIT | 20, 22
+     SPECTRUM | 25
+- Tour pokémon étage 4
 
      Pokémon | Niveau(x) 
      --- | --- 
-     TENTACOOL | 5, 15, 10, 15, 35, 40
-     PTITARD | 10, 5
-     HYPOTREMPE | 20, 30
+     FANTOMINUS | 20, 21, 22, 23, 19, 18, 24
+     SPECTRUM | 25
+     OSSELAIT | 20, 22
+- Tour pokémon étage 5
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     FANTOMINUS | 20, 21, 22, 23, 19, 18, 24
+     SPECTRUM | 25
+     OSSELAIT | 20, 22
+- Tour pokémon étage 6
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     FANTOMINUS | 21, 22, 23, 24, 20, 19
+     SPECTRUM | 26, 28
+     OSSELAIT | 22, 24
+- Tour pokémon étage 7
+
+     Pokémon | Niveau(x) 
+     --- | --- 
+     FANTOMINUS | 21, 22, 23, 24, 20
+     SPECTRUM | 28, 28, 30
+     OSSELAIT | 22, 24
 
 ## <a name="classement"></a>IV. Classement par stats
 
 ### Statistiques de base
 
-Classement | PV | FOR | DEF | VIT | SPE
---- | --- | --- | --- | --- | ---
-1 | **LEVEINARD** (250) | **DRACOLOSSE** (134) | **CRUSTABRI** (180) | **ELECTRODE** (140) | **MEWTWO** (154)
-2 | **RONFLEX** (160) | **MACKOGNEUR** (130) | **ONIX** (160) | **VOLTALI** (130) | **ALAKAZAM** (135)
-3 | **GRODOUDOU** (140) | **KRABBOSS** (130) | **GROLEM** (130) | **PTERA** (130) | **ECTOPLASMA** (130)
-4 | **LOKHLASS** (130) | **RHINOFEROS** (130) | **AMONISTAR** (125) | **MEWTWO** (130) | **NOADKOKO** (125)
-5 | **AQUALI** (130) | **PYROLI** (130) | **SMOGOGO** (120) | **TRIOPIKEUR** (120) | **ARTIKODIN** (125)
-6 | **RONDOUDOU** (115) | **SCARABRUTE** (125) | **RHINOFEROS** (120) | **ALAKAZAM** (120) | **ELECTHOR** (125)
-7 | **MEWTWO** (106) | **LEVIATOR** (125) | **GRAVALANCH** (115) | **PERSIAN** (115) | **SULFURA** (125)
-8 | **GROTADMORV** (105) | **KICKLEE** (120) | **KRABBOSS** (115) | **STAROSS** (115) | **KADABRA** (120)
-9 | **RHINOFEROS** (105) | **KABUTOPS** (115) | **SAQUEDENEU** (115) | **ECTOPLASMA** (110) | **TENTACRUEL** (120)
-10 | **KANGOUREX** (105) | **ARCANIN** (110) | **SABLAIREAU** (110) | **TAUROS** (110) | **MAGNETON** (120)
-11 | **MEW** (100) | **GROLEM** (110) | **FLAGADOSS** (110) | **KADABRA** (105) | **SPECTRUM** (115)
-12 | **MELODELFE** (95) | **DODRIO** (110) | **OSSATUEUR** (110) | **GALOPA** (105) | **HYPNOMADE** (115)
-13 | **FLAGADOSS** (95) | **INSECATEUR** (110) | **KABUTOPS** (105) | **INSECATEUR** (105) | **AMONISTAR** (115)
-14 | **NOADKOKO** (95) | **RONFLEX** (110) | **TORTANK** (100) | **ELEKTEK** (105) | **AQUALI** (110)
-15 | **LEVIATOR** (95) | **MEWTWO** (110) | **RACAILLOU** (100) | **DRACAUFEU** (100) | **VOLTALI** (110)
-16 | **DRACOLOSSE** (91) | **COLOSSINGE** (105) | **KOKIYAS** (100) | **RAPASDEPIC** (100) | **PYROLI** (110)
-17 | **NIDOQUEEN** (90) | **EMPIFLOR** (105) | **SCARABRUTE** (100) | **RAICHU** (100) | **ABRA** (105)
-18 | **ARCANIN** (90) | **GROTADMORV** (105) | **AMONITA** (100) | **FEUNARD** (100) | **LEVEINARD** (105)
-19 | **TARTARD** (90) | **KRABBY** (105) | **ARTIKODIN** (100) | **TENTACRUEL** (100) | **FLORIZARRE** (100)
-20 | **MACKOGNEUR** (90) | **TYGNON** (105) | **MEW** (100) | **DODRIO** (100) | **FEUNARD** (100)
-21 | **RAMOLOSS** (90) | **PTERA** (105) | **TARTARD** (95) | **VOLTORBE** (100) | **RAFFLESIA** (100)
-22 | **LAMANTINE** (90) | **SABLAIREAU** (100) | **MAGNETON** (95) | **ELECTHOR** (100) | **EMPIFLOR** (100)
-23 | **EXCELANGUE** (90) | **MACHOPEUR** (100) | **OSSELAIT** (95) | **MEW** (100) | **TENTACOOL** (100)
-24 | **ARTIKODIN** (90) | **GALOPA** (100) | **SMOGO** (95) | **RATTATAC** (97) | **FANTOMINUS** (100)
-25 | **ELECTHOR** (90) | **TAUROS** (100) | **RHINOCORNE** (95) | **TAUPIQUEUR** (95) | **SAQUEDENEU** (100)
-26 | **SULFURA** (90) | **SULFURA** (100) | **HYPOCEAN** (95) | **COLOSSINGE** (95) | **STAROSS** (100)
-27 | **HYPNOMADE** (85) | **MEW** (100) | **TAUROS** (95) | **ARCANIN** (95) | **M.MIME** (100)
-28 | **ROUCARNAGE** (83) | **PARASECT** (95) | **DRACOLOSSE** (95) | **SPECTRUM** (95) | **LEVIATOR** (100)
-29 | **NIDOKING** (81) | **GRAVALANCH** (95) | **KRABBY** (90) | **LIPPOUTOU** (95) | **DRACOLOSSE** (100)
-30 | **FLORIZARRE** (80) | **CRUSTABRI** (95) | **KABUTO** (90) | **MAGMAR** (93) | **MEW** (100)
-31 | **AKWAKWAK** (80) | **NOADKOKO** (95) | **SULFURA** (90) | **ROUCARNAGE** (91) | **MAGNETI** (95)
-32 | **MACHOPEUR** (80) | **KANGOUREX** (95) | **MEWTWO** (90) | **PIKACHU** (90) | **LAMANTINE** (95)
-33 | **EMPIFLOR** (80) | **MAGMAR** (95) | **NIDOQUEEN** (87) | **NOSFERALTO** (90) | **HYPOCEAN** (95)
-34 | **TENTACRUEL** (80) | **NIDOKING** (92) | **SABELETTE** (85) | **AEROMITE** (90) | **LIPPOUTOU** (95)
-35 | **GROLEM** (80) | **POISSOROY** (92) | **RAFFLESIA** (85) | **MIAOUSS** (90) | **LOKHLASS** (95)
-36 | **TADMORV** (80) | **RAPASDEPIC** (90) | **NOADKOKO** (85) | **PTITARD** (90) | **RAICHU** (90)
-37 | **RHINOCORNE** (80) | **RAICHU** (90) | **STAROSS** (85) | **TETARTE** (90) | **AEROMITE** (90)
-38 | **POISSOROY** (80) | **BOUSTIFLOR** (90) | **ELECTHOR** (85) | **ABRA** (90) | **SOPORIFIK** (90)
-39 | **PTERA** (80) | **SMOGOGO** (90) | **FLORIZARRE** (83) | **PONYTA** (90) | **AMONITA** (90)
-40 | **TORTANK** (79) | **ELECTHOR** (90) | **CARABAFFE** (80) | **KANGOUREX** (90) | **DRACAUFEU** (85)
-41 | **DRACAUFEU** (78) | **ARBOK** (85) | **PARASECT** (80) | **M.MIME** (90) | **TORTANK** (85)
-42 | **SABLAIREAU** (75) | **TARTARD** (85) | **ARCANIN** (80) | **SULFURA** (90) | **MELODELFE** (85)
-43 | **NOSFERALTO** (75) | **PONYTA** (85) | **MACKOGNEUR** (80) | **KICKLEE** (87) | **ORTIDE** (85)
-44 | **RAFFLESIA** (75) | **DODUO** (85) | **LAMANTINE** (80) | **NIDOKING** (85) | **BOUSTIFLOR** (85)
-45 | **TAUROS** (75) | **RHINOCORNE** (85) | **NOEUNOEUF** (80) | **AKWAKWAK** (85) | **CRUSTABRI** (85)
-46 | **FEUNARD** (73) | **LOKHLASS** (85) | **KANGOUREX** (80) | **HYPOCEAN** (85) | **SMOGOGO** (85)
-47 | **NIDORINA** (70) | **ARTIKODIN** (85) | **INSECATEUR** (80) | **STARI** (85) | **ELEKTEK** (85)
-48 | **MELOFEE** (70) | **DRACAUFEU** (84) | **LOKHLASS** (80) | **SCARABRUTE** (85) | **MAGMAR** (85)
-49 | **AEROMITE** (70) | **DRACO** (84) | **TYGNON** (79) | **ARTIKODIN** (85) | **HERBIZARRE** (80)
-50 | **MACHOC** (70) | **TORTANK** (83) | **LEVIATOR** (79) | **LEVIATOR** (81) | **PAPILUSION** (80)
-51 | **INSECATEUR** (70) | **ELEKTEK** (83) | **DRACAUFEU** (78) | **FLORIZARRE** (80) | **PARASECT** (80)
-52 | **AMONISTAR** (70) | **FLORIZARRE** (82) | **AKWAKWAK** (78) | **REPTINCEL** (80) | **AKWAKWAK** (80)
-53 | **DARDARGNAN** (65) | **NIDOQUEEN** (82) | **NIDOKING** (77) | **ARBOK** (80) | **ARCANIN** (80)
-54 | **RAPASDEPIC** (65) | **AKWAKWAK** (82) | **ROUCARNAGE** (75) | **FANTOMINUS** (80) | **GALOPA** (80)
-55 | **PERSIAN** (65) | **RATTATAC** (81) | **FEUNARD** (75) | **MAGICARPE** (80) | **FLAGADOSS** (80)
-56 | **COLOSSINGE** (65) | **DARDARGNAN** (80) | **GROTADMORV** (75) | **KABUTOPS** (80) | **ELECTRODE** (80)
-57 | **TETARTE** (65) | **ROUCARNAGE** (80) | **EXCELANGUE** (75) | **DRACOLOSSE** (80) | **POISSOROY** (80)
-58 | **BOUSTIFLOR** (65) | **NOSFERALTO** (80) | **MELODELFE** (73) | **TORTANK** (78) | **NIDOQUEEN** (75)
-59 | **GALOPA** (65) | **RAFFLESIA** (80) | **NOSFERALTO** (70) | **NIDOQUEEN** (76) | **NIDOKING** (75)
-60 | **OTARIA** (65) | **TRIOPIKEUR** (80) | **ORTIDE** (70) | **TYGNON** (76) | **NOSFERALTO** (75)
-61 | **SMOGOGO** (65) | **FEROSINGE** (80) | **MACHOPEUR** (70) | **DARDARGNAN** (75) | **MYSTHERBE** (75)
-62 | **SAQUEDENEU** (65) | **MACHOC** (80) | **GALOPA** (70) | **DODUO** (75) | **PORYGON** (75)
-63 | **LIPPOUTOU** (65) | **RACAILLOU** (80) | **MAGNETI** (70) | **KRABBOSS** (75) | **ROUCARNAGE** (70)
-64 | **ELEKTEK** (65) | **TADMORV** (80) | **DODRIO** (70) | **RATTATA** (72) | **TRIOPIKEUR** (70)
-65 | **MAGMAR** (65) | **OSSATUEUR** (80) | **HYPNOMADE** (70) | **ROUCOUPS** (71) | **TARTARD** (70)
-66 | **SCARABRUTE** (65) | **KABUTO** (80) | **ELECTRODE** (70) | **PAPILUSION** (70) | **CHETIFLOR** (70)
-67 | **VOLTALI** (65) | **FEUNARD** (76) | **HYPOTREMPE** (70) | **PIAFABEC** (70) | **OTARIA** (70)
-68 | **PYROLI** (65) | **SABELETTE** (75) | **PORYGON** (70) | **FEROSINGE** (70) | **HYPOTREMPE** (70)
-69 | **PORYGON** (65) | **CHETIFLOR** (75) | **ARBOK** (69) | **TARTARD** (70) | **STARI** (70)
-70 | **ROUCOUPS** (63) | **FLAGADOSS** (75) | **NIDORINA** (67) | **EMPIFLOR** (70) | **TAUROS** (70)
-71 | **NIDORINO** (61) | **STAROSS** (75) | **CARAPUCE** (65) | **TENTACOOL** (70) | **KABUTOPS** (70)
-72 | **DRACO** (61) | **HYPNOMADE** (73) | **RAPASDEPIC** (65) | **MAGNETON** (70) | **DRACO** (70)
-73 | **HERBIZARRE** (60) | **NIDORINO** (72) | **TETARTE** (65) | **LAMANTINE** (70) | **BULBIZARRE** (65)
-74 | **PAPILUSION** (60) | **MELODELFE** (70) | **EMPIFLOR** (65) | **CRUSTABRI** (70) | **REPTINCEL** (65)
-75 | **ARBOK** (60) | **GRODOUDOU** (70) | **TENTACRUEL** (65) | **ONIX** (70) | **CARABAFFE** (65)
-76 | **RAICHU** (60) | **PARAS** (70) | **RAMOLOSS** (65) | **DRACO** (70) | **ARBOK** (65)
-77 | **ORTIDE** (60) | **PERSIAN** (70) | **POISSOROY** (65) | **POISSOROY** (68) | **GOUPIX** (65)
-78 | **PARASECT** (60) | **CANINOS** (70) | **M.MIME** (65) | **HYPNOMADE** (67) | **PERSIAN** (65)
-79 | **MIMITOSS** (60) | **TENTACRUEL** (70) | **PTERA** (65) | **SALAMECHE** (65) | **MACKOGNEUR** (65)
-80 | **DODRIO** (60) | **LAMANTINE** (70) | **RONFLEX** (65) | **SABLAIREAU** (65) | **PONYTA** (65)
-81 | **ECTOPLASMA** (60) | **POISSIRENE** (67) | **DRACO** (65) | **NIDORINO** (65) | **GROTADMORV** (65)
-82 | **SOPORIFIK** (60) | **ORTIDE** (65) | **HERBIZARRE** (63) | **GOUPIX** (65) | **EVOLI** (65)
-83 | **ELECTRODE** (60) | **AEROMITE** (65) | **RATTATAC** (60) | **AQUALI** (65) | **RONFLEX** (65)
-84 | **NOEUNOEUF** (60) | **TETARTE** (65) | **AEROMITE** (60) | **PYROLI** (65) | **RAPASDEPIC** (61)
-85 | **OSSATUEUR** (60) | **RAMOLOSS** (65) | **PERSIAN** (60) | **POISSIRENE** (63) | **MELOFEE** (60)
-86 | **STAROSS** (60) | **CANARTICHO** (65) | **COLOSSINGE** (60) | **HERBIZARRE** (60) | **COLOSSINGE** (60)
-87 | **KABUTOPS** (60) | **KOKIYAS** (65) | **ECTOPLASMA** (60) | **MELODELFE** (60) | **DODRIO** (60)
-88 | **CARABAFFE** (59) | **ECTOPLASMA** (65) | **POISSIRENE** (60) | **CANINOS** (60) | **NOEUNOEUF** (60)
-89 | **REPTINCEL** (58) | **SMOGO** (65) | **AQUALI** (60) | **CANARTICHO** (60) | **EXCELANGUE** (60)
-90 | **RATTATAC** (55) | **HYPOCEAN** (65) | **VOLTALI** (60) | **SMOGOGO** (60) | **SMOGO** (60)
-91 | **NIDORAN♀** (55) | **AQUALI** (65) | **PYROLI** (60) | **SAQUEDENEU** (60) | **PTERA** (60)
-92 | **CANINOS** (55) | **VOLTALI** (65) | **REPTINCEL** (58) | **HYPOTREMPE** (60) | **CANARTICHO** (58)
-93 | **ALAKAZAM** (55) | **REPTINCEL** (64) | **NIDORINO** (57) | **LOKHLASS** (60) | **SABLAIREAU** (55)
-94 | **GRAVALANCH** (55) | **MINIDRACO** (64) | **ELEKTEK** (57) | **CARABAFFE** (58) | **NIDORINA** (55)
-95 | **KRABBOSS** (55) | **CARABAFFE** (63) | **MAGMAR** (57) | **ROUCOOL** (56) | **NIDORINO** (55)
-96 | **HYPOCEAN** (55) | **HERBIZARRE** (62) | **CHRYSACIER** (55) | **NIDORINA** (56) | **PARAS** (55)
-97 | **EVOLI** (55) | **NIDORINA** (62) | **ROUCOUPS** (55) | **ABO** (55) | **GROLEM** (55)
-98 | **CANARTICHO** (52) | **ROUCOUPS** (60) | **RAICHU** (55) | **NOSFERAPTI** (55) | **VOLTORBE** (55)
-99 | **CHRYSACIER** (50) | **PIAFABEC** (60) | **MYSTHERBE** (55) | **PSYKOKWAK** (55) | **INSECATEUR** (55)
-100 | **SABELETTE** (50) | **ABO** (60) | **PARAS** (55) | **MACKOGNEUR** (55) | **SCARABRUTE** (55)
-101 | **PSYKOKWAK** (50) | **MAGNETON** (60) | **PONYTA** (55) | **BOUSTIFLOR** (55) | **SALAMECHE** (50)
-102 | **CHETIFLOR** (50) | **PORYGON** (60) | **CANARTICHO** (55) | **NOADKOKO** (55) | **CARAPUCE** (50)
-103 | **PONYTA** (50) | **AMONISTAR** (60) | **OTARIA** (55) | **EVOLI** (55) | **ROUCOUPS** (50)
-104 | **MAGNETON** (50) | **NIDORAN♂** (57) | **STARI** (55) | **AMONISTAR** (55) | **RATTATAC** (50)
-105 | **CRUSTABRI** (50) | **RATTATA** (56) | **MAGICARPE** (55) | **KABUTO** (55) | **PIKACHU** (50)
-106 | **OSSELAIT** (50) | **PIKACHU** (55) | **KICKLEE** (53) | **ASPICOT** (50) | **GRODOUDOU** (50)
-107 | **KICKLEE** (50) | **MIMITOSS** (55) | **NIDORAN♀** (52) | **NIDORAN♂** (50) | **PSYKOKWAK** (50)
-108 | **TYGNON** (50) | **TAUPIQUEUR** (55) | **PAPILUSION** (50) | **RAFFLESIA** (50) | **CANINOS** (50)
-109 | **METAMORPH** (48) | **EXCELANGUE** (55) | **COCONFORT** (50) | **GROTADMORV** (50) | **TETARTE** (50)
-110 | **NIDORAN♂** (46) | **SAQUEDENEU** (55) | **MIMITOSS** (50) | **KRABBY** (50) | **MACHOPEUR** (50)
-111 | **BULBIZARRE** (45) | **EVOLI** (55) | **TRIOPIKEUR** (50) | **LEVEINARD** (50) | **KRABBOSS** (50)
-112 | **CHENIPAN** (45) | **SALAMECHE** (52) | **MACHOC** (50) | **MINIDRACO** (50) | **OSSATUEUR** (50)
-113 | **COCONFORT** (45) | **PSYKOKWAK** (52) | **BOUSTIFLOR** (50) | **METAMORPH** (48) | **POISSIRENE** (50)
-114 | **MYSTHERBE** (45) | **MYSTHERBE** (50) | **TADMORV** (50) | **BULBIZARRE** (45) | **MINIDRACO** (50)
-115 | **SPECTRUM** (45) | **PTITARD** (50) | **VOLTORBE** (50) | **CHENIPAN** (45) | **METAMORPH** (48)
-116 | **POISSIRENE** (45) | **ALAKAZAM** (50) | **EVOLI** (50) | **GRODOUDOU** (45) | **DARDARGNAN** (45)
-117 | **CARAPUCE** (44) | **SPECTRUM** (50) | **BULBIZARRE** (49) | **MIMITOSS** (45) | **TAUPIQUEUR** (45)
-118 | **MINIDRACO** (41) | **ELECTRODE** (50) | **MELOFEE** (48) | **MACHOPEUR** (45) | **GRAVALANCH** (45)
-119 | **ASPICOT** (40) | **OSSELAIT** (50) | **PSYKOKWAK** (48) | **GROLEM** (45) | **KOKIYAS** (45)
-120 | **ROUCOOL** (40) | **LIPPOUTOU** (50) | **METAMORPH** (48) | **MAGNETI** (45) | **RHINOFEROS** (45)
-121 | **PIAFABEC** (40) | **BULBIZARRE** (49) | **GRODOUDOU** (45) | **OTARIA** (45) | **KABUTO** (45)
-122 | **NOSFERAPTI** (40) | **CARAPUCE** (48) | **CANINOS** (45) | **OSSATUEUR** (45) | **ABO** (40)
-123 | **MIAOUSS** (40) | **SOPORIFIK** (48) | **ALAKAZAM** (45) | **CARAPUCE** (43) | **NIDORAN♀** (40)
-124 | **FEROSINGE** (40) | **METAMORPH** (48) | **DODUO** (45) | **SOPORIFIK** (42) | **NIDORAN♂** (40)
-125 | **PTITARD** (40) | **NIDORAN♀** (47) | **SPECTRUM** (45) | **NIDORAN♀** (41) | **NOSFERAPTI** (40)
-126 | **KADABRA** (40) | **PAPILUSION** (45) | **SOPORIFIK** (45) | **SABELETTE** (40) | **MIMITOSS** (40)
-127 | **TENTACOOL** (40) | **ROUCOOL** (45) | **MINIDRACO** (45) | **ORTIDE** (40) | **MIAOUSS** (40)
-128 | **RACAILLOU** (40) | **MELOFEE** (45) | **ABO** (44) | **CHETIFLOR** (40) | **PTITARD** (40)
-129 | **VOLTORBE** (40) | **RONDOUDOU** (45) | **SALAMECHE** (43) | **KOKIYAS** (40) | **RAMOLOSS** (40)
-130 | **SMOGO** (40) | **NOSFERAPTI** (45) | **DARDARGNAN** (40) | **NOEUNOEUF** (40) | **TADMORV** (40)
-131 | **M.MIME** (40) | **MIAOUSS** (45) | **ROUCOOL** (40) | **RHINOFEROS** (40) | **OSSELAIT** (40)
-132 | **SALAMECHE** (39) | **OTARIA** (45) | **NIDORAN♂** (40) | **PORYGON** (40) | **KANGOUREX** (40)
-133 | **GOUPIX** (38) | **ONIX** (45) | **GOUPIX** (40) | **COCONFORT** (35) | **ROUCOOL** (35)
-134 | **ABO** (35) | **STARI** (45) | **PTITARD** (40) | **MELOFEE** (35) | **FEROSINGE** (35)
-135 | **PIKACHU** (35) | **M.MIME** (45) | **CHENIPAN** (35) | **MACHOC** (35) | **MACHOC** (35)
-136 | **PARAS** (35) | **GOUPIX** (41) | **RATTATA** (35) | **GRAVALANCH** (35) | **DODUO** (35)
-137 | **TRIOPIKEUR** (35) | **TENTACOOL** (40) | **NOSFERAPTI** (35) | **OSSELAIT** (35) | **KICKLEE** (35)
-138 | **DODUO** (35) | **NOEUNOEUF** (40) | **MIAOUSS** (35) | **SMOGO** (35) | **TYGNON** (35)
-139 | **ONIX** (35) | **HYPOTREMPE** (40) | **FEROSINGE** (35) | **AMONITA** (35) | **PIAFABEC** (31)
-140 | **AMONITA** (35) | **AMONITA** (40) | **CHETIFLOR** (35) | **CHRYSACIER** (30) | **SABELETTE** (30)
-141 | **RATTATA** (30) | **ASPICOT** (35) | **TENTACOOL** (35) | **MYSTHERBE** (30) | **RACAILLOU** (30)
-142 | **KOKIYAS** (30) | **KADABRA** (35) | **LIPPOUTOU** (35) | **PARASECT** (30) | **ONIX** (30)
-143 | **FANTOMINUS** (30) | **MAGNETI** (35) | **ASPICOT** (30) | **FLAGADOSS** (30) | **RHINOCORNE** (30)
-144 | **KRABBY** (30) | **FANTOMINUS** (35) | **PIAFABEC** (30) | **EXCELANGUE** (30) | **CHRYSACIER** (25)
-145 | **HYPOTREMPE** (30) | **CHENIPAN** (30) | **PIKACHU** (30) | **RONFLEX** (30) | **COCONFORT** (25)
-146 | **STARI** (30) | **VOLTORBE** (30) | **KADABRA** (30) | **PARAS** (25) | **RATTATA** (25)
-147 | **KABUTO** (30) | **COCONFORT** (25) | **FANTOMINUS** (30) | **TADMORV** (25) | **RONDOUDOU** (25)
-148 | **ABRA** (25) | **CHRYSACIER** (20) | **TAUPIQUEUR** (25) | **RHINOCORNE** (25) | **KRABBY** (25)
-149 | **MAGNETI** (25) | **ABRA** (20) | **RONDOUDOU** (20) | **RONDOUDOU** (20) | **CHENIPAN** (20)
-150 | **MAGICARPE** (20) | **MAGICARPE** (10) | **ABRA** (15) | **RACAILLOU** (20) | **ASPICOT** (20)
-151 | **TAUPIQUEUR** (10) | **LEVEINARD** (5) | **LEVEINARD** (5) | **RAMOLOSS** (15) | **MAGICARPE** (20)
+Classement | TOTAL | PV | FOR | DEF | VIT | SPE
+--- | --- | --- | --- | --- | --- | ---
+1 | **MEWTWO** (590) | **LEVEINARD** (250) | **DRACOLOSSE** (134) | **CRUSTABRI** (180) | **ELECTRODE** (140) | **MEWTWO** (154)
+2 | **DRACOLOSSE** (500) | **RONFLEX** (160) | **MACKOGNEUR** (130) | **ONIX** (160) | **VOLTALI** (130) | **ALAKAZAM** (135)
+3 | **MEW** (500) | **GRODOUDOU** (140) | **KRABBOSS** (130) | **GROLEM** (130) | **PTERA** (130) | **ECTOPLASMA** (130)
+4 | **SULFURA** (495) | **LOKHLASS** (130) | **RHINOFEROS** (130) | **AMONISTAR** (125) | **MEWTWO** (130) | **NOADKOKO** (125)
+5 | **ELECTHOR** (490) | **AQUALI** (130) | **PYROLI** (130) | **SMOGOGO** (120) | **TRIOPIKEUR** (120) | **ARTIKODIN** (125)
+6 | **ARTIKODIN** (485) | **RONDOUDOU** (115) | **SCARABRUTE** (125) | **RHINOFEROS** (120) | **ALAKAZAM** (120) | **ELECTHOR** (125)
+7 | **CRUSTABRI** (480) | **MEWTWO** (106) | **LEVIATOR** (125) | **GRAVALANCH** (115) | **PERSIAN** (115) | **SULFURA** (125)
+8 | **LEVIATOR** (480) | **GROTADMORV** (105) | **KICKLEE** (120) | **KRABBOSS** (115) | **STAROSS** (115) | **KADABRA** (120)
+9 | **ARCANIN** (455) | **RHINOFEROS** (105) | **KABUTOPS** (115) | **SAQUEDENEU** (115) | **ECTOPLASMA** (110) | **TENTACRUEL** (120)
+10 | **NOADKOKO** (455) | **KANGOUREX** (105) | **ARCANIN** (110) | **SABLAIREAU** (110) | **TAUROS** (110) | **MAGNETON** (120)
+11 | **TAUROS** (450) | **MEW** (100) | **GROLEM** (110) | **FLAGADOSS** (110) | **KADABRA** (105) | **SPECTRUM** (115)
+12 | **LOKHLASS** (450) | **MELODELFE** (95) | **DODRIO** (110) | **OSSATUEUR** (110) | **GALOPA** (105) | **HYPNOMADE** (115)
+13 | **RHINOFEROS** (440) | **FLAGADOSS** (95) | **INSECATEUR** (110) | **KABUTOPS** (105) | **INSECATEUR** (105) | **AMONISTAR** (115)
+14 | **PTERA** (440) | **NOADKOKO** (95) | **RONFLEX** (110) | **TORTANK** (100) | **ELEKTEK** (105) | **AQUALI** (110)
+15 | **TENTACRUEL** (435) | **LEVIATOR** (95) | **MEWTWO** (110) | **RACAILLOU** (100) | **DRACAUFEU** (100) | **VOLTALI** (110)
+16 | **STAROSS** (435) | **DRACOLOSSE** (91) | **COLOSSINGE** (105) | **KOKIYAS** (100) | **RAPASDEPIC** (100) | **PYROLI** (110)
+17 | **SCARABRUTE** (430) | **NIDOQUEEN** (90) | **EMPIFLOR** (105) | **SCARABRUTE** (100) | **RAICHU** (100) | **ABRA** (105)
+18 | **AQUALI** (430) | **ARCANIN** (90) | **GROTADMORV** (105) | **AMONITA** (100) | **FEUNARD** (100) | **LEVEINARD** (105)
+19 | **VOLTALI** (430) | **TARTARD** (90) | **KRABBY** (105) | **ARTIKODIN** (100) | **TENTACRUEL** (100) | **FLORIZARRE** (100)
+20 | **PYROLI** (430) | **MACKOGNEUR** (90) | **TYGNON** (105) | **MEW** (100) | **DODRIO** (100) | **FEUNARD** (100)
+21 | **KABUTOPS** (430) | **RAMOLOSS** (90) | **PTERA** (105) | **TARTARD** (95) | **VOLTORBE** (100) | **RAFFLESIA** (100)
+22 | **RONFLEX** (430) | **LAMANTINE** (90) | **SABLAIREAU** (100) | **MAGNETON** (95) | **ELECTHOR** (100) | **EMPIFLOR** (100)
+23 | **FLORIZARRE** (425) | **EXCELANGUE** (90) | **MACHOPEUR** (100) | **OSSELAIT** (95) | **MEW** (100) | **TENTACOOL** (100)
+24 | **DRACAUFEU** (425) | **ARTIKODIN** (90) | **GALOPA** (100) | **SMOGO** (95) | **RATTATAC** (97) | **FANTOMINUS** (100)
+25 | **TORTANK** (425) | **ELECTHOR** (90) | **TAUROS** (100) | **RHINOCORNE** (95) | **TAUPIQUEUR** (95) | **SAQUEDENEU** (100)
+26 | **ECTOPLASMA** (425) | **SULFURA** (90) | **SULFURA** (100) | **HYPOCEAN** (95) | **COLOSSINGE** (95) | **STAROSS** (100)
+27 | **KRABBOSS** (425) | **HYPNOMADE** (85) | **MEW** (100) | **TAUROS** (95) | **ARCANIN** (95) | **M.MIME** (100)
+28 | **AMONISTAR** (425) | **ROUCARNAGE** (83) | **PARASECT** (95) | **DRACOLOSSE** (95) | **SPECTRUM** (95) | **LEVIATOR** (100)
+29 | **FEUNARD** (424) | **NIDOKING** (81) | **GRAVALANCH** (95) | **KRABBY** (90) | **LIPPOUTOU** (95) | **DRACOLOSSE** (100)
+30 | **MACKOGNEUR** (420) | **FLORIZARRE** (80) | **CRUSTABRI** (95) | **KABUTO** (90) | **MAGMAR** (93) | **MEW** (100)
+31 | **EMPIFLOR** (420) | **AKWAKWAK** (80) | **NOADKOKO** (95) | **SULFURA** (90) | **ROUCARNAGE** (91) | **MAGNETI** (95)
+32 | **GROLEM** (420) | **MACHOPEUR** (80) | **KANGOUREX** (95) | **MEWTWO** (90) | **PIKACHU** (90) | **LAMANTINE** (95)
+33 | **GALOPA** (420) | **EMPIFLOR** (80) | **MAGMAR** (95) | **NIDOQUEEN** (87) | **NOSFERALTO** (90) | **HYPOCEAN** (95)
+34 | **SMOGOGO** (420) | **TENTACRUEL** (80) | **NIDOKING** (92) | **SABELETTE** (85) | **AEROMITE** (90) | **LIPPOUTOU** (95)
+35 | **INSECATEUR** (420) | **GROLEM** (80) | **POISSOROY** (92) | **RAFFLESIA** (85) | **MIAOUSS** (90) | **LOKHLASS** (95)
+36 | **LEVEINARD** (415) | **TADMORV** (80) | **RAPASDEPIC** (90) | **NOADKOKO** (85) | **PTITARD** (90) | **RAICHU** (90)
+37 | **NIDOQUEEN** (410) | **RHINOCORNE** (80) | **RAICHU** (90) | **STAROSS** (85) | **TETARTE** (90) | **AEROMITE** (90)
+38 | **NIDOKING** (410) | **POISSOROY** (80) | **BOUSTIFLOR** (90) | **ELECTHOR** (85) | **ABRA** (90) | **SOPORIFIK** (90)
+39 | **TARTARD** (410) | **PTERA** (80) | **SMOGOGO** (90) | **FLORIZARRE** (83) | **PONYTA** (90) | **AMONITA** (90)
+40 | **HYPNOMADE** (410) | **TORTANK** (79) | **ELECTHOR** (90) | **CARABAFFE** (80) | **KANGOUREX** (90) | **DRACAUFEU** (85)
+41 | **KANGOUREX** (410) | **DRACAUFEU** (78) | **ARBOK** (85) | **PARASECT** (80) | **M.MIME** (90) | **TORTANK** (85)
+42 | **SABLAIREAU** (405) | **SABLAIREAU** (75) | **TARTARD** (85) | **ARCANIN** (80) | **SULFURA** (90) | **MELODELFE** (85)
+43 | **AKWAKWAK** (405) | **NOSFERALTO** (75) | **PONYTA** (85) | **MACKOGNEUR** (80) | **KICKLEE** (87) | **ORTIDE** (85)
+44 | **ALAKAZAM** (405) | **RAFFLESIA** (75) | **DODUO** (85) | **LAMANTINE** (80) | **NIDOKING** (85) | **BOUSTIFLOR** (85)
+45 | **LAMANTINE** (405) | **TAUROS** (75) | **RHINOCORNE** (85) | **NOEUNOEUF** (80) | **AKWAKWAK** (85) | **CRUSTABRI** (85)
+46 | **DODRIO** (400) | **FEUNARD** (73) | **LOKHLASS** (85) | **KANGOUREX** (80) | **HYPOCEAN** (85) | **SMOGOGO** (85)
+47 | **GROTADMORV** (400) | **NIDORINA** (70) | **ARTIKODIN** (85) | **INSECATEUR** (80) | **STARI** (85) | **ELEKTEK** (85)
+48 | **ELECTRODE** (400) | **MELOFEE** (70) | **DRACAUFEU** (84) | **LOKHLASS** (80) | **SCARABRUTE** (85) | **MAGMAR** (85)
+49 | **ROUCARNAGE** (399) | **AEROMITE** (70) | **DRACO** (84) | **TYGNON** (79) | **ARTIKODIN** (85) | **HERBIZARRE** (80)
+50 | **RAICHU** (395) | **MACHOC** (70) | **TORTANK** (83) | **LEVIATOR** (79) | **LEVIATOR** (81) | **PAPILUSION** (80)
+51 | **MAGNETON** (395) | **INSECATEUR** (70) | **ELEKTEK** (83) | **DRACAUFEU** (78) | **FLORIZARRE** (80) | **PARASECT** (80)
+52 | **SAQUEDENEU** (395) | **AMONISTAR** (70) | **FLORIZARRE** (82) | **AKWAKWAK** (78) | **REPTINCEL** (80) | **AKWAKWAK** (80)
+53 | **HYPOCEAN** (395) | **DARDARGNAN** (65) | **NIDOQUEEN** (82) | **NIDOKING** (77) | **ARBOK** (80) | **ARCANIN** (80)
+54 | **ELEKTEK** (395) | **RAPASDEPIC** (65) | **AKWAKWAK** (82) | **ROUCARNAGE** (75) | **FANTOMINUS** (80) | **GALOPA** (80)
+55 | **MAGMAR** (395) | **PERSIAN** (65) | **RATTATAC** (81) | **FEUNARD** (75) | **MAGICARPE** (80) | **FLAGADOSS** (80)
+56 | **NOSFERALTO** (390) | **COLOSSINGE** (65) | **DARDARGNAN** (80) | **GROTADMORV** (75) | **KABUTOPS** (80) | **ELECTRODE** (80)
+57 | **RAFFLESIA** (390) | **TETARTE** (65) | **ROUCARNAGE** (80) | **EXCELANGUE** (75) | **DRACOLOSSE** (80) | **POISSOROY** (80)
+58 | **FLAGADOSS** (390) | **BOUSTIFLOR** (65) | **NOSFERALTO** (80) | **MELODELFE** (73) | **TORTANK** (78) | **NIDOQUEEN** (75)
+59 | **COLOSSINGE** (385) | **GALOPA** (65) | **RAFFLESIA** (80) | **NOSFERALTO** (70) | **NIDOQUEEN** (76) | **NIDOKING** (75)
+60 | **POISSOROY** (385) | **OTARIA** (65) | **TRIOPIKEUR** (80) | **ORTIDE** (70) | **TYGNON** (76) | **NOSFERALTO** (75)
+61 | **MELODELFE** (383) | **SMOGOGO** (65) | **FEROSINGE** (80) | **MACHOPEUR** (70) | **DARDARGNAN** (75) | **MYSTHERBE** (75)
+62 | **RAPASDEPIC** (381) | **SAQUEDENEU** (65) | **MACHOC** (80) | **GALOPA** (70) | **DODUO** (75) | **PORYGON** (75)
+63 | **AEROMITE** (375) | **LIPPOUTOU** (65) | **RACAILLOU** (80) | **MAGNETI** (70) | **KRABBOSS** (75) | **ROUCARNAGE** (70)
+64 | **PERSIAN** (375) | **ELEKTEK** (65) | **TADMORV** (80) | **DODRIO** (70) | **RATTATA** (72) | **TRIOPIKEUR** (70)
+65 | **ARBOK** (359) | **MAGMAR** (65) | **OSSATUEUR** (80) | **HYPNOMADE** (70) | **ROUCOUPS** (71) | **TARTARD** (70)
+66 | **TRIOPIKEUR** (355) | **SCARABRUTE** (65) | **KABUTO** (80) | **ELECTRODE** (70) | **PAPILUSION** (70) | **CHETIFLOR** (70)
+67 | **GRODOUDOU** (350) | **VOLTALI** (65) | **FEUNARD** (76) | **HYPOTREMPE** (70) | **PIAFABEC** (70) | **OTARIA** (70)
+68 | **SPECTRUM** (350) | **PYROLI** (65) | **SABELETTE** (75) | **PORYGON** (70) | **FEROSINGE** (70) | **HYPOTREMPE** (70)
+69 | **DRACO** (350) | **PORYGON** (65) | **CHETIFLOR** (75) | **ARBOK** (69) | **TARTARD** (70) | **STARI** (70)
+70 | **PARASECT** (345) | **ROUCOUPS** (63) | **FLAGADOSS** (75) | **NIDORINA** (67) | **EMPIFLOR** (70) | **TAUROS** (70)
+71 | **MACHOPEUR** (345) | **NIDORINO** (61) | **STAROSS** (75) | **CARAPUCE** (65) | **TENTACOOL** (70) | **KABUTOPS** (70)
+72 | **BOUSTIFLOR** (345) | **DRACO** (61) | **HYPNOMADE** (73) | **RAPASDEPIC** (65) | **MAGNETON** (70) | **DRACO** (70)
+73 | **GRAVALANCH** (345) | **HERBIZARRE** (60) | **NIDORINO** (72) | **TETARTE** (65) | **LAMANTINE** (70) | **BULBIZARRE** (65)
+74 | **PONYTA** (345) | **PAPILUSION** (60) | **MELODELFE** (70) | **EMPIFLOR** (65) | **CRUSTABRI** (70) | **REPTINCEL** (65)
+75 | **OSSATUEUR** (345) | **ARBOK** (60) | **GRODOUDOU** (70) | **TENTACRUEL** (65) | **ONIX** (70) | **CARABAFFE** (65)
+76 | **KICKLEE** (345) | **RAICHU** (60) | **PARAS** (70) | **RAMOLOSS** (65) | **DRACO** (70) | **ARBOK** (65)
+77 | **TYGNON** (345) | **ORTIDE** (60) | **PERSIAN** (70) | **POISSOROY** (65) | **POISSOROY** (68) | **GOUPIX** (65)
+78 | **RATTATAC** (343) | **PARASECT** (60) | **CANINOS** (70) | **M.MIME** (65) | **HYPNOMADE** (67) | **PERSIAN** (65)
+79 | **ONIX** (340) | **MIMITOSS** (60) | **TENTACRUEL** (70) | **PTERA** (65) | **SALAMECHE** (65) | **MACKOGNEUR** (65)
+80 | **M.MIME** (340) | **DODRIO** (60) | **LAMANTINE** (70) | **RONFLEX** (65) | **SABLAIREAU** (65) | **PONYTA** (65)
+81 | **LIPPOUTOU** (340) | **ECTOPLASMA** (60) | **POISSIRENE** (67) | **DRACO** (65) | **NIDORINO** (65) | **GROTADMORV** (65)
+82 | **TETARTE** (335) | **SOPORIFIK** (60) | **ORTIDE** (65) | **HERBIZARRE** (63) | **GOUPIX** (65) | **EVOLI** (65)
+83 | **KADABRA** (330) | **ELECTRODE** (60) | **AEROMITE** (65) | **RATTATAC** (60) | **AQUALI** (65) | **RONFLEX** (65)
+84 | **HERBIZARRE** (325) | **NOEUNOEUF** (60) | **TETARTE** (65) | **AEROMITE** (60) | **PYROLI** (65) | **RAPASDEPIC** (61)
+85 | **REPTINCEL** (325) | **OSSATUEUR** (60) | **RAMOLOSS** (65) | **PERSIAN** (60) | **POISSIRENE** (63) | **MELOFEE** (60)
+86 | **CARABAFFE** (325) | **STAROSS** (60) | **CANARTICHO** (65) | **COLOSSINGE** (60) | **HERBIZARRE** (60) | **COLOSSINGE** (60)
+87 | **ORTIDE** (320) | **KABUTOPS** (60) | **KOKIYAS** (65) | **ECTOPLASMA** (60) | **MELODELFE** (60) | **DODRIO** (60)
+88 | **RHINOCORNE** (315) | **CARABAFFE** (59) | **ECTOPLASMA** (65) | **POISSIRENE** (60) | **CANINOS** (60) | **NOEUNOEUF** (60)
+89 | **NIDORINA** (310) | **REPTINCEL** (58) | **SMOGO** (65) | **AQUALI** (60) | **CANARTICHO** (60) | **EXCELANGUE** (60)
+90 | **NIDORINO** (310) | **RATTATAC** (55) | **HYPOCEAN** (65) | **VOLTALI** (60) | **SMOGOGO** (60) | **SMOGO** (60)
+91 | **EXCELANGUE** (310) | **NIDORAN♀** (55) | **AQUALI** (65) | **PYROLI** (60) | **SAQUEDENEU** (60) | **PTERA** (60)
+92 | **PORYGON** (310) | **CANINOS** (55) | **VOLTALI** (65) | **REPTINCEL** (58) | **HYPOTREMPE** (60) | **CANARTICHO** (58)
+93 | **PAPILUSION** (305) | **ALAKAZAM** (55) | **REPTINCEL** (64) | **NIDORINO** (57) | **LOKHLASS** (60) | **SABLAIREAU** (55)
+94 | **DARDARGNAN** (305) | **GRAVALANCH** (55) | **MINIDRACO** (64) | **ELEKTEK** (57) | **CARABAFFE** (58) | **NIDORINA** (55)
+95 | **KRABBY** (300) | **KRABBOSS** (55) | **CARABAFFE** (63) | **MAGMAR** (57) | **ROUCOOL** (56) | **NIDORINO** (55)
+96 | **AMONITA** (300) | **HYPOCEAN** (55) | **HERBIZARRE** (62) | **CHRYSACIER** (55) | **NIDORINA** (56) | **PARAS** (55)
+97 | **KABUTO** (300) | **EVOLI** (55) | **NIDORINA** (62) | **ROUCOUPS** (55) | **ABO** (55) | **GROLEM** (55)
+98 | **ROUCOUPS** (299) | **CANARTICHO** (52) | **ROUCOUPS** (60) | **RAICHU** (55) | **NOSFERAPTI** (55) | **VOLTORBE** (55)
+99 | **SMOGO** (295) | **CHRYSACIER** (50) | **PIAFABEC** (60) | **MYSTHERBE** (55) | **PSYKOKWAK** (55) | **INSECATEUR** (55)
+100 | **CANARTICHO** (290) | **SABELETTE** (50) | **ABO** (60) | **PARAS** (55) | **MACKOGNEUR** (55) | **SCARABRUTE** (55)
+101 | **TENTACOOL** (285) | **PSYKOKWAK** (50) | **MAGNETON** (60) | **PONYTA** (55) | **BOUSTIFLOR** (55) | **SALAMECHE** (50)
+102 | **SOPORIFIK** (285) | **CHETIFLOR** (50) | **PORYGON** (60) | **CANARTICHO** (55) | **NOADKOKO** (55) | **CARAPUCE** (50)
+103 | **POISSIRENE** (285) | **PONYTA** (50) | **AMONISTAR** (60) | **OTARIA** (55) | **EVOLI** (55) | **ROUCOUPS** (50)
+104 | **STARI** (285) | **MAGNETON** (50) | **NIDORAN♂** (57) | **STARI** (55) | **AMONISTAR** (55) | **RATTATAC** (50)
+105 | **SABELETTE** (280) | **CRUSTABRI** (50) | **RATTATA** (56) | **MAGICARPE** (55) | **KABUTO** (55) | **PIKACHU** (50)
+106 | **CANINOS** (280) | **OSSELAIT** (50) | **PIKACHU** (55) | **KICKLEE** (53) | **ASPICOT** (50) | **GRODOUDOU** (50)
+107 | **OTARIA** (280) | **KICKLEE** (50) | **MIMITOSS** (55) | **NIDORAN♀** (52) | **NIDORAN♂** (50) | **PSYKOKWAK** (50)
+108 | **KOKIYAS** (280) | **TYGNON** (50) | **TAUPIQUEUR** (55) | **PAPILUSION** (50) | **RAFFLESIA** (50) | **CANINOS** (50)
+109 | **NOEUNOEUF** (280) | **METAMORPH** (48) | **EXCELANGUE** (55) | **COCONFORT** (50) | **GROTADMORV** (50) | **TETARTE** (50)
+110 | **EVOLI** (280) | **NIDORAN♂** (46) | **SAQUEDENEU** (55) | **MIMITOSS** (50) | **KRABBY** (50) | **MACHOPEUR** (50)
+111 | **RAMOLOSS** (275) | **BULBIZARRE** (45) | **EVOLI** (55) | **TRIOPIKEUR** (50) | **LEVEINARD** (50) | **KRABBOSS** (50)
+112 | **DODUO** (275) | **CHENIPAN** (45) | **SALAMECHE** (52) | **MACHOC** (50) | **MINIDRACO** (50) | **OSSATUEUR** (50)
+113 | **TADMORV** (275) | **COCONFORT** (45) | **PSYKOKWAK** (52) | **BOUSTIFLOR** (50) | **METAMORPH** (48) | **POISSIRENE** (50)
+114 | **FANTOMINUS** (275) | **MYSTHERBE** (45) | **MYSTHERBE** (50) | **TADMORV** (50) | **BULBIZARRE** (45) | **MINIDRACO** (50)
+115 | **VOLTORBE** (275) | **SPECTRUM** (45) | **PTITARD** (50) | **VOLTORBE** (50) | **CHENIPAN** (45) | **METAMORPH** (48)
+116 | **MACHOC** (270) | **POISSIRENE** (45) | **ALAKAZAM** (50) | **EVOLI** (50) | **GRODOUDOU** (45) | **DARDARGNAN** (45)
+117 | **CHETIFLOR** (270) | **CARAPUCE** (44) | **SPECTRUM** (50) | **BULBIZARRE** (49) | **MIMITOSS** (45) | **TAUPIQUEUR** (45)
+118 | **RACAILLOU** (270) | **MINIDRACO** (41) | **ELECTRODE** (50) | **MELOFEE** (48) | **MACHOPEUR** (45) | **GRAVALANCH** (45)
+119 | **MAGNETI** (270) | **ASPICOT** (40) | **OSSELAIT** (50) | **PSYKOKWAK** (48) | **GROLEM** (45) | **KOKIYAS** (45)
+120 | **OSSELAIT** (270) | **ROUCOOL** (40) | **LIPPOUTOU** (50) | **METAMORPH** (48) | **MAGNETI** (45) | **RHINOFEROS** (45)
+121 | **HYPOTREMPE** (270) | **PIAFABEC** (40) | **BULBIZARRE** (49) | **GRODOUDOU** (45) | **OTARIA** (45) | **KABUTO** (45)
+122 | **PIKACHU** (260) | **NOSFERAPTI** (40) | **CARAPUCE** (48) | **CANINOS** (45) | **OSSATUEUR** (45) | **ABO** (40)
+123 | **FEROSINGE** (260) | **MIAOUSS** (40) | **SOPORIFIK** (48) | **ALAKAZAM** (45) | **CARAPUCE** (43) | **NIDORAN♀** (40)
+124 | **PTITARD** (260) | **FEROSINGE** (40) | **METAMORPH** (48) | **DODUO** (45) | **SOPORIFIK** (42) | **NIDORAN♂** (40)
+125 | **MELOFEE** (258) | **PTITARD** (40) | **NIDORAN♀** (47) | **SPECTRUM** (45) | **NIDORAN♀** (41) | **NOSFERAPTI** (40)
+126 | **MYSTHERBE** (255) | **KADABRA** (40) | **PAPILUSION** (45) | **SOPORIFIK** (45) | **SABELETTE** (40) | **MIMITOSS** (40)
+127 | **PSYKOKWAK** (255) | **TENTACOOL** (40) | **ROUCOOL** (45) | **MINIDRACO** (45) | **ORTIDE** (40) | **MIAOUSS** (40)
+128 | **ABRA** (255) | **RACAILLOU** (40) | **MELOFEE** (45) | **ABO** (44) | **CHETIFLOR** (40) | **PTITARD** (40)
+129 | **BULBIZARRE** (253) | **VOLTORBE** (40) | **RONDOUDOU** (45) | **SALAMECHE** (43) | **KOKIYAS** (40) | **RAMOLOSS** (40)
+130 | **CARAPUCE** (250) | **SMOGO** (40) | **NOSFERAPTI** (45) | **DARDARGNAN** (40) | **NOEUNOEUF** (40) | **TADMORV** (40)
+131 | **MIMITOSS** (250) | **M.MIME** (40) | **MIAOUSS** (45) | **ROUCOOL** (40) | **RHINOFEROS** (40) | **OSSELAIT** (40)
+132 | **MIAOUSS** (250) | **SALAMECHE** (39) | **OTARIA** (45) | **NIDORAN♂** (40) | **PORYGON** (40) | **KANGOUREX** (40)
+133 | **MINIDRACO** (250) | **GOUPIX** (38) | **ONIX** (45) | **GOUPIX** (40) | **COCONFORT** (35) | **ROUCOOL** (35)
+134 | **SALAMECHE** (249) | **ABO** (35) | **STARI** (45) | **PTITARD** (40) | **MELOFEE** (35) | **FEROSINGE** (35)
+135 | **GOUPIX** (249) | **PIKACHU** (35) | **M.MIME** (45) | **CHENIPAN** (35) | **MACHOC** (35) | **MACHOC** (35)
+136 | **PARAS** (240) | **PARAS** (35) | **GOUPIX** (41) | **RATTATA** (35) | **GRAVALANCH** (35) | **DODUO** (35)
+137 | **METAMORPH** (240) | **TRIOPIKEUR** (35) | **TENTACOOL** (40) | **NOSFERAPTI** (35) | **OSSELAIT** (35) | **KICKLEE** (35)
+138 | **NIDORAN♀** (235) | **DODUO** (35) | **NOEUNOEUF** (40) | **MIAOUSS** (35) | **SMOGO** (35) | **TYGNON** (35)
+139 | **ABO** (234) | **ONIX** (35) | **HYPOTREMPE** (40) | **FEROSINGE** (35) | **AMONITA** (35) | **PIAFABEC** (31)
+140 | **NIDORAN♂** (233) | **AMONITA** (35) | **AMONITA** (40) | **CHETIFLOR** (35) | **CHRYSACIER** (30) | **SABELETTE** (30)
+141 | **PIAFABEC** (231) | **RATTATA** (30) | **ASPICOT** (35) | **TENTACOOL** (35) | **MYSTHERBE** (30) | **RACAILLOU** (30)
+142 | **TAUPIQUEUR** (230) | **KOKIYAS** (30) | **KADABRA** (35) | **LIPPOUTOU** (35) | **PARASECT** (30) | **ONIX** (30)
+143 | **RONDOUDOU** (225) | **FANTOMINUS** (30) | **MAGNETI** (35) | **ASPICOT** (30) | **FLAGADOSS** (30) | **RHINOCORNE** (30)
+144 | **RATTATA** (218) | **KRABBY** (30) | **FANTOMINUS** (35) | **PIAFABEC** (30) | **EXCELANGUE** (30) | **CHRYSACIER** (25)
+145 | **ROUCOOL** (216) | **HYPOTREMPE** (30) | **CHENIPAN** (30) | **PIKACHU** (30) | **RONFLEX** (30) | **COCONFORT** (25)
+146 | **NOSFERAPTI** (215) | **STARI** (30) | **VOLTORBE** (30) | **KADABRA** (30) | **PARAS** (25) | **RATTATA** (25)
+147 | **MAGICARPE** (185) | **KABUTO** (30) | **COCONFORT** (25) | **FANTOMINUS** (30) | **TADMORV** (25) | **RONDOUDOU** (25)
+148 | **CHRYSACIER** (180) | **ABRA** (25) | **CHRYSACIER** (20) | **TAUPIQUEUR** (25) | **RHINOCORNE** (25) | **KRABBY** (25)
+149 | **COCONFORT** (180) | **MAGNETI** (25) | **ABRA** (20) | **RONDOUDOU** (20) | **RONDOUDOU** (20) | **CHENIPAN** (20)
+150 | **CHENIPAN** (175) | **MAGICARPE** (20) | **MAGICARPE** (10) | **ABRA** (15) | **RACAILLOU** (20) | **ASPICOT** (20)
+151 | **ASPICOT** (175) | **TAUPIQUEUR** (10) | **LEVEINARD** (5) | **LEVEINARD** (5) | **RAMOLOSS** (15) | **MAGICARPE** (20)
 
 
 ### Données techniques

@@ -194,7 +194,7 @@ def buildPokemonsDoc(titleSection1, lienSection1, movesNamesDict, tmhmDict, poke
                     description += itemsDescriptionDict[key] + " -> " + pokeNamesDict[val] + " "
             docLines.append("   * Evolution : " + description + " \n\n")
         else:
-            docLines.append("   * Evolution : aucune \n\n")
+            docLines.append("   * Evolution : - \n\n")
 
         strAtk = ""
         for mv in pokemon.baseMoveset:
@@ -270,9 +270,9 @@ def buildZonesDoc(titleSection3, lienSection3, pokeNamesDict, zoneNamesDict, wil
                     + "Donc plus un pokémon apparaît avec des niveaux différents, "
                     + "plus il est probable de le rencontrer aléatoirement.\n\n")
 
-    wildPokemonZones.sort(key=lambda x: x.name, reverse=False)
-    for zone in wildPokemonZones:
-        docLines.append("- " + zoneNamesDict[zone.name] + "\n\n")
+    for zoneEng, zoneFr in zoneNamesDict.items():
+        docLines.append("- " + zoneFr + "\n\n")
+        zone = next((z for z in wildPokemonZones if z.name == zoneEng), None)
         wildPokeDict = zone.wildPokemons
         if len(wildPokeDict) == 0:
             docLines.append("    * Pas de pokémon sauvage\n\n\n")
@@ -289,8 +289,8 @@ def buildPokemonsStatsData(titleSection4, lienSection4, pokemons):
     docLines = []
     docLines.append("## <a name=\"" + lienSection4 + "\"></a>" + titleSection4 + "\n\n")
     docLines.append("### Statistiques de base\n\n")
-    docLines.append("Classement | PV | FOR | DEF | VIT | SPE\n")
-    docLines.append("--- | --- | --- | --- | --- | ---\n")
+    docLines.append("Classement | TOTAL | PV | FOR | DEF | VIT | SPE\n")
+    docLines.append("--- | --- | --- | --- | --- | --- | ---\n")
 
     pokeHP = sorted(pokemons, key=lambda x: int(x.baseHP), reverse=True)
     pokeAtk = sorted(pokemons, key=lambda x: int(x.baseAtk), reverse=True)
@@ -300,11 +300,13 @@ def buildPokemonsStatsData(titleSection4, lienSection4, pokemons):
     pokeCatchRate = sorted(pokemons, key=lambda x: int(x.catchRate), reverse=True)
     pokeXpYield = sorted(pokemons, key=lambda x: int(x.xpYield), reverse=True)
     pokeGrowthRate = sorted(pokemons, key=lambda x: int(x.growthRate), reverse=True)
+    pokeTotal = sorted(pokemons, key=lambda x: int(x.totalStats()), reverse=True)
 
     start = 0
     maxsize = len(pokeHP)
     for i in range(start, maxsize):
         docLines.append(str(i + 1) + " | "
+                        + "**" + pokeTotal[i].name + "** (" + str(pokeTotal[i].totalStats()) + ") | "
                         + "**" + pokeHP[i].name + "** (" + pokeHP[i].baseHP + ") | "
                         + "**" + pokeAtk[i].name + "** (" + pokeAtk[i].baseAtk + ") | "
                         + "**" + pokeDef[i].name + "** (" + pokeDef[i].baseDef + ") | "

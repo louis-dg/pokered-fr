@@ -151,3 +151,6 @@ class Pokemon:
 
     def __str__(self):
         return self._number + " " + self._name
+
+    def totalStats(self):
+        return int(self._baseAtk) + int(self._baseDef) + int(self._baseSpeed) + int(self.baseSpecial) + int(self._baseHP)

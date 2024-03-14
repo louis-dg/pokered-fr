@@ -1,6 +1,16 @@
+diglettscave;Caverne taupiqueur
+powerplant;Centrale
+viridianforest;Forêt de Jade
+rocktunnel1;Grotte 1
 rocktunnel2;Grotte 2
-route5;Route 5
-diglettscave;Cave taupiqueur
+unknowndungeon1;Grotte inconnue 1
+unknowndungeon2;Grotte inconnue 2
+unknowndungeonb1;Grotte inconnue b1
+seafoamisland1;Iles écume 1
+seafoamislandb1;Iles écume b1
+seafoamislandb2;Iles écume b2
+seafoamislandb3;Iles écume b3
+seafoamislandb4;Iles écume b4
 mansion1;Manoir 1
 mansion2;Manoir 2
 mansion3;Manoir 3
@@ -8,16 +18,20 @@ mansionb1;Manoir b1
 mtmoon1;Mont sélénite 1
 mtmoonb1;Mont sélénite b1
 mtmoonb2;Mont sélénite b2
-pokemontower1;Tour pokémon étage 1
-pokemontower2;Tour pokémon étage 2
-pokemontower3;Tour pokémon étage 3
-pokemontower4;Tour pokémon étage 4
-pokemontower5;Tour pokémon étage 5
-pokemontower6;Tour pokémon étage 6
-pokemontower7;Tour pokémon étage 7
-powerplant;Centrale
-rocktunnel1;Grotte 1
+waterpokemon;Océan
+safarizone1;Parc Safari zone 1
+safarizone2;Parc Safari zone 2
+safarizone3;Parc Safari zone 3
+safarizonecenter;Parc Safari centre
 route1;Route 1
+route2;Route 2
+route3;Route 3
+route4;Route 4
+route5;Route 5
+route6;Route 6
+route7;Route 7
+route8;Route 8
+route9;Route 9
 route10;Route 10
 route11;Route 11
 route12;Route 12
@@ -27,32 +41,18 @@ route15;Route 15
 route16;Route 16
 route17;Route 17
 route18;Route 18
-route2;Route 2
 route21;Route 21
 route22;Route 22
 route23;Route 23
 route24;Route 24
 route25;Route 25
-route3;Route 3
-route4;Route 4
-route6;Route 6
-route7;Route 7
-route8;Route 8
-route9;Route 9
-safarizone1;Parc Safari zone 1
-safarizone2;Parc Safari zone 2
-safarizone3;Parc Safari zone 3
-safarizonecenter;Parc Safari centre
-seafoamisland1;Iles écume 1
-seafoamislandb1;Iles écume b1
-seafoamislandb2;Iles écume b2
-seafoamislandb3;Iles écume b3
-seafoamislandb4;Iles écume b4
-unknowndungeon1;Grotte inconnue 1
-unknowndungeon2;Grotte inconnue 2
-unknowndungeonb1;Grotte inconnue b1
 victoryroad1;Route Victoire 1
 victoryroad2;Route Victoire 2
 victoryroad3;Route Victoire 3
-viridianforest;Forêt de Jade
-waterpokemon;Océan
+pokemontower1;Tour pokémon étage 1
+pokemontower2;Tour pokémon étage 2
+pokemontower3;Tour pokémon étage 3
+pokemontower4;Tour pokémon étage 4
+pokemontower5;Tour pokémon étage 5
+pokemontower6;Tour pokémon étage 6
+pokemontower7;Tour pokémon étage 7
