@@ -333,7 +333,9 @@ ContinueText:
 
 NewGameText:
 	db   "NOUVEAU JEU"
-	next "OPTIONS@"
+	next "OPTIONS"
+	next ""
+	next "Version 1.0.2@"
 
 CableClubOptionsText:
 	db   "CENTRE TROC"
