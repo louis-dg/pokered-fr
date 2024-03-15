@@ -369,9 +369,8 @@ titleSection5 = "V. Glossaire"
 lienSection5 = "glossaire"
 
 docFile = open(DOCUMENTATION_FILE, 'w')
-docFile.write("# Pokémon Rouge\n\n")
-docFile.write("Ceci est la documentation associée à la hack rom Pokémon Rouge créée par louis-dg.\n\n")
-docFile.write("Page du projet : https://github.com/louis-dg/pokered-fr\n\n")
+docFile.write("# Hack rom Pokémon Rouge VF\n\n")
+docFile.write("Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://github.com/louis-dg/pokered-fr\n\n")
 docFile.write("## Sommaire\n\n")
 docFile.write("- [" + titleSection1 + "](#" + lienSection1 + ")\n\n")
 docFile.write("- [" + titleSection2 + "](#" + lienSection2 + ")\n\n")
