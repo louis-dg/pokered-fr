@@ -64,6 +64,9 @@ Pour construire le fichier .gbc, suivez les instructions du fichier INSTALL.md. 
 - Les échanges internes ont été modifiés afin d'être plus intéressants.
 
 
+- La pension pokémon entraîne les pokémons deux fois plus rapidement que dans le jeu original.
+
+
 # Remerciements
 
 Merci au groupe de fans Pret qui a pu rendre cette version possible : https://pret.github.io/
