@@ -2,7 +2,7 @@ Route16Mons:
 	db $19
 	db 20,SPEAROW
 	db 22,SPEAROW
-	db 15,BULBASAUR
+	db 23,EEVEE
 	db 20,DODUO
 	db 20,TANGELA
 	db 18,DODUO

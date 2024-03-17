@@ -6208,7 +6208,7 @@ Le taux d'apparition d'un pokémon à un niveau donné est toujours de 10%. Donc
      --- | --- 
      ROUCOOL | 18, 20
      FEROSINGE | 18
-     EVOLI | 21
+     BULBIZARRE | 15
      CANINOS | 16, 18
      MIAOUSS | 20
      ROUCOUPS | 25
@@ -6287,7 +6287,7 @@ Le taux d'apparition d'un pokémon à un niveau donné est toujours de 10%. Donc
      Pokémon | Niveau(x) 
      --- | --- 
      PIAFABEC | 20, 22
-     BULBIZARRE | 15
+     EVOLI | 23
      DODUO | 20, 18, 22
      SAQUEDENEU | 20, 22
      RAPASDEPIC | 28
