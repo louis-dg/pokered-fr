@@ -65,6 +65,28 @@ def buildMovesDoc(titleSection2, lienSection2, movesNamesDict, typeNamesDict, ef
     docLines.append("\n")
     return docLines
 
+def buildTMDoc(titleSection, link, movesNamesDict):
+    docLines = []
+    docLines.append("## <a name=\"" + link + "\"></a>" + titleSection + "\n")
+    docLines.append("CT/CS | Numéro | Nom \n")
+    docLines.append("--- | --- | --- \n")
+
+    tmFile = open('../data/tms.asm', 'r')
+    tmLines = tmFile.readlines()
+    i = 1;
+    for line in tmLines:
+        if line.startswith('	db '):
+            parts = line.split(" ")
+            move = movesNamesDict[parts[1].strip()]
+            if i < 51:
+                docLines.append("CT" + " | " + '{:02}'.format(i) + " | " + move + " | " + "\n")
+            else:
+                docLines.append("CS" + " | " + '{:02}'.format(i-50) + " | " + move + " | " + "\n")
+            i += 1
+
+    docLines.append("\n")
+    return docLines
+
 # Build a list of all the Pokemon (see Pokemon class) and their properties
 def buildPokemonsData(pokeNamesDict):
     # Get infos from evos_moves.asm
@@ -357,32 +379,36 @@ wildPokemonDict = buildWildPokemonsData()
 if(os.path.isfile(DOCUMENTATION_FILE)):
     os.remove(DOCUMENTATION_FILE)
 
-titleSection1 = "I. Propriétés des pokémons"
-lienSection1 = "props_poke"
-titleSection2 = "II. Liste des Attaques"
-lienSection2 = "liste_attaques"
-titleSection3 = "III. Description des régions"
-lienSection3 = "desc_regions"
-titleSection4 = "IV. Classement par stats"
-lienSection4 = "classement"
-titleSection5 = "V. Glossaire"
-lienSection5 = "glossaire"
+titleSectionProps = "I. Propriétés des pokémons"
+lienSectionProps = "props_poke"
+titleSectionAtk = "II. Liste des attaques"
+lienSectionAtk = "liste_attaques"
+titleSectionTM = "III. Description des CT/CS"
+lienSectionTM = "TM"
+titleSectionRegions = "IV. Description des régions"
+lienSectionRegions = "desc_regions"
+titleSectionStats = "V. Classement par stats"
+lienSectionStats = "classement"
+titleSectionGlossary = "VI. Glossaire"
+lienSectionGlossary = "glossaire"
 
 docFile = open(DOCUMENTATION_FILE, 'w')
 docFile.write("# Hack rom Pokémon Rouge VF\n\n")
 docFile.write("Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://github.com/louis-dg/pokered-fr\n\n")
 docFile.write("## Sommaire\n\n")
-docFile.write("- [" + titleSection1 + "](#" + lienSection1 + ")\n\n")
-docFile.write("- [" + titleSection2 + "](#" + lienSection2 + ")\n\n")
-docFile.write("- [" + titleSection3 + "](#" + lienSection3 + ")\n\n")
-docFile.write("- [" + titleSection4 + "](#" + lienSection4 + ")\n\n")
-docFile.write("- [" + titleSection5 + "](#" + lienSection5 + ")\n\n")
+docFile.write("- [" + titleSectionProps + "](#" + lienSectionProps + ")\n\n")
+docFile.write("- [" + titleSectionAtk + "](#" + lienSectionAtk + ")\n\n")
+docFile.write("- [" + titleSectionTM + "](#" + lienSectionTM + ")\n\n")
+docFile.write("- [" + titleSectionRegions + "](#" + lienSectionRegions + ")\n\n")
+docFile.write("- [" + titleSectionStats + "](#" + lienSectionStats + ")\n\n")
+docFile.write("- [" + titleSectionGlossary + "](#" + lienSectionGlossary + ")\n\n")
 
-docFile.writelines(buildPokemonsDoc(titleSection1, lienSection1, movesNamesDict, tmhmDict, pokemons, pokeNamesDict, itemsDescriptionDict))
-docFile.writelines(buildMovesDoc(titleSection2, lienSection2, movesNamesDict, typeNamesDict, effectsDescriptionDict))
-docFile.writelines(buildZonesDoc(titleSection3, lienSection3, pokeNamesDict, zoneNamesDict, wildPokemonDict))
-docFile.writelines(buildPokemonsStatsData(titleSection4, lienSection4, pokemons))
-docFile.writelines(buildGlossary(titleSection5, lienSection5))
+docFile.writelines(buildPokemonsDoc(titleSectionProps, lienSectionProps, movesNamesDict, tmhmDict, pokemons, pokeNamesDict, itemsDescriptionDict))
+docFile.writelines(buildMovesDoc(titleSectionAtk, lienSectionAtk, movesNamesDict, typeNamesDict, effectsDescriptionDict))
+docFile.writelines(buildTMDoc(titleSectionTM, lienSectionTM, movesNamesDict))
+docFile.writelines(buildZonesDoc(titleSectionRegions, lienSectionRegions, pokeNamesDict, zoneNamesDict, wildPokemonDict))
+docFile.writelines(buildPokemonsStatsData(titleSectionStats, lienSectionStats, pokemons))
+docFile.writelines(buildGlossary(titleSectionGlossary, lienSectionGlossary))
 docFile.close()
 
 print("Documentation generated. See documentation.md file.")

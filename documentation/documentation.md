@@ -6,13 +6,15 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
 - [I. Propriétés des pokémons](#props_poke)
 
-- [II. Liste des Attaques](#liste_attaques)
+- [II. Liste des attaques](#liste_attaques)
 
-- [III. Description des régions](#desc_regions)
+- [III. Description des CT/CS](#TM)
 
-- [IV. Classement par stats](#classement)
+- [IV. Description des régions](#desc_regions)
 
-- [V. Glossaire](#glossaire)
+- [V. Classement par stats](#classement)
+
+- [VI. Glossaire](#glossaire)
 
 ## <a name="props_poke"></a>I. Propriétés des pokémons
 - **001 BULBIZARRE**
@@ -1516,7 +1518,6 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      ONDE FOLIE | 21 
      CRU-AILE | 28 
      BUEE NOIRE | 36 
-     COUPE-VENT | 42 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque 
@@ -1552,7 +1553,6 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      ONDE FOLIE | 21 
      CRU-AILE | 32 
      BUEE NOIRE | 43 
-     COUPE-VENT | 49 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque 
@@ -4664,21 +4664,20 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      TRANCHE | 29 
      DANSE-LAMES | 34 
      CRU-AILE | 39 
-     HATE | 43 
-     GUILLOTINE | 48 
-     COUPE-VENT | 55 
+     HATE | 44 
+     GUILLOTINE | 50 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque 
      --- | --- | --- | --- 
-     CT03 | DANSE-LAMES | CT06 | TOXIK 
-     CT09 | BELIER | CT10 | DAMOCLES 
-     CT15 | ULTRALASER | CT30 | COUP D'BOULE 
-     CT31 | COPIE | CT32 | REFLET 
-     CT34 | PATIENCE | CT39 | METEORES 
-     CT40 | COUD'KRANE | CT44 | REPOS 
-     CT50 | CLONAGE | CS01 | COUPE 
-     CS02 | VOL 
+     CT02 | COUPE-VENT | CT03 | DANSE-LAMES 
+     CT06 | TOXIK | CT09 | BELIER 
+     CT10 | DAMOCLES | CT15 | ULTRALASER 
+     CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT34 | PATIENCE 
+     CT39 | METEORES | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT50 | CLONAGE 
+     CS01 | COUPE | CS02 | VOL 
 - **124 LIPPOUTOU**
    * Statistiques de base :
 
@@ -5700,7 +5699,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT50 | CLONAGE | CS01 | COUPE | CS02 | VOL | CS03 | SURF | CS04 | FORCE | CS05 | FLASH 
 
 
-## <a name="liste_attaques"></a>II. Liste des Attaques
+## <a name="liste_attaques"></a>II. Liste des attaques
 NB : Une attaque de type glace ne peut pas geler un pokémon de type de glace, Plaquage ne peut pas paralyser un pokémon de type normal, etc.
 
 Attaque | Puissance | Précision | PP | Type | Description
@@ -5736,7 +5735,7 @@ COPIE | 0 | 100 | 10 | NORMAL | Copie une capacité adverse
 COUD'KRANE | 120 | 100 | 15 | NORMAL | Charge pendant 1 tour
 COUP D'BOULE | 70 | 100 | 15 | NORMAL | 30% de chances d'apeurer la cible
 COUPE | 50 | 95 | 30 | NORMAL | -
-COUPE-VENT | 130 | 95 | 10 | VOL | Charge pendant 1 tour
+COUPE-VENT | 120 | 95 | 10 | VOL | Charge pendant 1 tour
 CROC DE MORT | 80 | 90 | 15 | NORMAL | 10% de chances d'apeurer la side
 CROC FATAL | 1 | 90 | 10 | NORMAL | Divise le total de pv par 2
 CROISSANCE | 0 | 100 | 40 | NORMAL | Augmente la statistique de spécial d'un palier
@@ -5871,7 +5870,66 @@ VOL | 70 | 95 | 15 | VOL | S'envole au premier tour et frappe au tour suivant
 VOL-VIE | 20 | 100 | 20 | PLANTE | Draine les pv
 YOGA | 0 | 100 | 40 | PSY | Augmente la statistique d'attaque d'un palier
 
-## <a name="desc_regions"></a>III. Description des régions
+## <a name="TM"></a>III. Description des CT/CS
+CT/CS | Numéro | Nom 
+--- | --- | --- 
+CT | 01 | ULTIMAPOING | 
+CT | 02 | COUPE-VENT | 
+CT | 03 | DANSE-LAMES | 
+CT | 04 | AMNESIE | 
+CT | 05 | ULTIMAWASHI | 
+CT | 06 | TOXIK | 
+CT | 07 | EMPAL'KORNE | 
+CT | 08 | PLAQUAGE | 
+CT | 09 | BELIER | 
+CT | 10 | DAMOCLES | 
+CT | 11 | BULLES D'O | 
+CT | 12 | PISTOLET A O | 
+CT | 13 | LASER GLACE | 
+CT | 14 | BLIZZARD | 
+CT | 15 | ULTRALASER | 
+CT | 16 | JACKPOT | 
+CT | 17 | SACRIFICE | 
+CT | 18 | RIPOSTE | 
+CT | 19 | FRAPPE ATLAS | 
+CT | 20 | LANCE-FLAMME | 
+CT | 21 | MEGA-SANGSUE | 
+CT | 22 | LANCE-SOLEIL | 
+CT | 23 | DRACO-RAGE | 
+CT | 24 | TONNERRE | 
+CT | 25 | FATAL-FOUDRE | 
+CT | 26 | SEISME | 
+CT | 27 | ABIME | 
+CT | 28 | TUNNEL | 
+CT | 29 | PSYKO | 
+CT | 30 | COUP D'BOULE | 
+CT | 31 | COPIE | 
+CT | 32 | REFLET | 
+CT | 33 | PROTECTION | 
+CT | 34 | PATIENCE | 
+CT | 35 | METRONOME | 
+CT | 36 | DETRITUS | 
+CT | 37 | BOMB'OEUF | 
+CT | 38 | DEFLAGRATION | 
+CT | 39 | METEORES | 
+CT | 40 | COUD'KRANE | 
+CT | 41 | E-COQUE | 
+CT | 42 | DEVOREVE | 
+CT | 43 | PIQUE | 
+CT | 44 | REPOS | 
+CT | 45 | CAGE-ECLAIR | 
+CT | 46 | VAGUE PSY | 
+CT | 47 | EXPLOSION | 
+CT | 48 | EBOULEMENT | 
+CT | 49 | TRIPLATTAQUE | 
+CT | 50 | CLONAGE | 
+CS | 01 | COUPE | 
+CS | 02 | VOL | 
+CS | 03 | SURF | 
+CS | 04 | FORCE | 
+CS | 05 | FLASH | 
+
+## <a name="desc_regions"></a>IV. Description des régions
 
 Le taux d'apparition d'un pokémon à un niveau donné est toujours de 10%. Donc plus un pokémon apparaît avec des niveaux différents, plus il est probable de le rencontrer aléatoirement.
 
@@ -6446,7 +6504,7 @@ Le taux d'apparition d'un pokémon à un niveau donné est toujours de 10%. Donc
      SPECTRUM | 28, 28, 30
      OSSELAIT | 22, 24
 
-## <a name="classement"></a>IV. Classement par stats
+## <a name="classement"></a>V. Classement par stats
 
 ### Statistiques de base
 
@@ -6761,7 +6819,7 @@ Classement | Taux de capture | Rendement d'expérience | Taux de croissance
 150 | **SULFURA** (3) | **ASPICOT** (52) | **KABUTO** (0)
 151 | **MEWTWO** (3) | **MAGICARPE** (20) | **KABUTOPS** (0)
 
-## <a name="glossaire"></a>V. Glossaire
+## <a name="glossaire"></a>VI. Glossaire
 
 - Taux de capture : Plus cette valeur est petite, plus le pokémon est difficile à attraper.
 
