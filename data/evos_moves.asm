@@ -574,9 +574,8 @@ Mon123_EvosMoves:
 	db 29,SLASH
 	db 34,SWORDS_DANCE
 	db 39,WING_ATTACK
-	db 43,AGILITY
-	db 48,GUILLOTINE
-	db 55,RAZOR_WIND
+	db 44,AGILITY
+	db 50,GUILLOTINE
 	db 0
 
 Mon120_EvosMoves:
@@ -1607,7 +1606,6 @@ Mon041_EvosMoves:
 	db 21,CONFUSE_RAY
 	db 28,WING_ATTACK
 	db 36,HAZE
-	db 42,RAZOR_WIND
 	db 0
 
 Mon023_EvosMoves:
@@ -1886,7 +1884,6 @@ Mon042_EvosMoves:
 	db 21,CONFUSE_RAY
 	db 32,WING_ATTACK
 	db 43,HAZE
-	db 49,RAZOR_WIND
 	db 0
 
 Mon150_EvosMoves:
