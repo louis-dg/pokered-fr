@@ -201,8 +201,8 @@ Mon112_EvosMoves:
 	db 40,ROCK_SLIDE
 	db 46,HORN_DRILL
 	db 50,EARTHQUAKE
-	db 56,BODY_SLAM
-	db 64,FISSURE
+	db 55,BODY_SLAM
+	db 61,FISSURE
 	db 0
 
 Mon115_EvosMoves:
