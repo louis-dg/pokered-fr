@@ -6,7 +6,7 @@ ZoneMonsCenter:
     db 31,NIDORINO
     db 25,EXEGGCUTE
     db 31,NIDORINA
-    db 30,HITMONCHAN
+    db 30,PARASECT
     db 23,PINSIR
     db 23,SCYTHER
     db 23,CHANSEY

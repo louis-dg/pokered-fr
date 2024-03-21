@@ -5,7 +5,7 @@ ZoneMons3:
     db 23,VENONAT
     db 24,EXEGGCUTE
     db 33,NIDORINO
-    db 26,EXEGGCUTE
+    db 30,HITMONCHAN
     db 30,HITMONLEE
     db 23,PINSIR
     db 26,TAUROS
