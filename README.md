@@ -12,6 +12,8 @@ Le fichier de documentation [**documentation.md**](documentation/documentation.m
 
 Pour construire le fichier .gbc, suivez les instructions du fichier INSTALL.md. Dans ce projet la version bleu n'est pas gérée car tous les pokémons sont obtenables cette version rouge revisitée. Il est donc inutile d'utiliser le fichier pokeblue.gbc.
 
+Pour configurer le dépôt, voir [**INSTALL.md**](INSTALL.md).
+
 # Liste des Modifications
 
 - Améliorations des attaques
