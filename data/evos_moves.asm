@@ -199,10 +199,8 @@ Mon112_EvosMoves:
 	db 32,LEER
 	db 35,TAKE_DOWN
 	db 40,ROCK_SLIDE
-	db 46,HORN_DRILL
-	db 50,EARTHQUAKE
-	db 55,BODY_SLAM
-	db 61,FISSURE
+	db 47,EARTHQUAKE
+	db 54,BODY_SLAM
 	db 0
 
 Mon115_EvosMoves:
@@ -456,10 +454,8 @@ Mon111_EvosMoves:
 	db 32,LEER
 	db 35,TAKE_DOWN
 	db 40,ROCK_SLIDE
-	db 44,HORN_DRILL
-	db 48,EARTHQUAKE
-	db 52,BODY_SLAM
-	db 62,FISSURE
+	db 45,EARTHQUAKE
+	db 51,BODY_SLAM
 	db 0
 
 Mon131_EvosMoves:
@@ -754,8 +750,7 @@ Mon075_EvosMoves:
 	db 31,HARDEN
 	db 36,EARTHQUAKE
 	db 43,EXPLOSION
-	db 51,ROCK_SLIDE
-	db 59,FISSURE
+	db 50,ROCK_SLIDE
 	db 0
 
 Mon113_EvosMoves:
@@ -905,8 +900,7 @@ Mon076_EvosMoves:
     db 31,HARDEN
     db 36,EARTHQUAKE
     db 43,EXPLOSION
-    db 51,ROCK_SLIDE
-    db 59,FISSURE
+    db 50,ROCK_SLIDE
 	db 0
 
 Mon154_EvosMoves:
@@ -2353,7 +2347,6 @@ Mon074_EvosMoves:
 	db 31,EARTHQUAKE
 	db 36,EXPLOSION
 	db 44,ROCK_SLIDE
-    db 50,FISSURE
 	db 0
 
 Mon137_EvosMoves:
