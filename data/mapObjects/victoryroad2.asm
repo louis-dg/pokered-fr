@@ -19,9 +19,9 @@ VictoryRoad2Object:
 	object SPRITE_BLACK_HAIR_BOY_2, $4, $2, STAY, DOWN, $4, OPP_POKEMANIAC, $6
 	object SPRITE_BLACK_HAIR_BOY_2, $1a, $3, STAY, LEFT, $5, OPP_JUGGLER, $5
 	object SPRITE_BIRD, $b, $5, STAY, UP, $6, MOLTRES, 50
-	object SPRITE_BALL, $1b, $5, STAY, NONE, $7, TM_17
+	object SPRITE_BALL, $1b, $5, STAY, NONE, $7, NUGGET
 	object SPRITE_BALL, $12, $9, STAY, NONE, $8, FULL_HEAL
-	object SPRITE_BALL, $9, $b, STAY, NONE, $9, TM_05
+	object SPRITE_BALL, $9, $b, STAY, NONE, $9, RARE_CANDY
 	object SPRITE_BALL, $b, $0, STAY, NONE, $a, GUARD_SPEC
 	object SPRITE_BOULDER, $4, $e, STAY, BOULDER_MOVEMENT_BYTE_2, $b ; person
 	object SPRITE_BOULDER, $5, $5, STAY, BOULDER_MOVEMENT_BYTE_2, $c ; person

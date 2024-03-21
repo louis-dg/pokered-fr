@@ -18,7 +18,7 @@ SilphCo5Object:
 	object SPRITE_OAK_AIDE, $8, $3, STAY, RIGHT, $3, OPP_SCIENTIST, $6
 	object SPRITE_ROCKER, $12, $a, STAY, UP, $4, OPP_JUGGLER, $1
 	object SPRITE_ROCKET, $1c, $4, STAY, UP, $5, OPP_ROCKET, $1d
-	object SPRITE_BALL, $2, $d, STAY, NONE, $6, TM_09
+	object SPRITE_BALL, $2, $d, STAY, NONE, $6, RARE_CANDY
 	object SPRITE_BALL, $4, $6, STAY, NONE, $7, PROTEIN
 	object SPRITE_BALL, $15, $10, STAY, NONE, $8, CARD_KEY
 	object SPRITE_CLIPBOARD, $16, $c, STAY, NONE, $9 ; person

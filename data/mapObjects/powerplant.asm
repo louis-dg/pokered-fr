@@ -22,7 +22,7 @@ PowerPlantObject:
 	object SPRITE_BALL, $1c, $3, STAY, NONE, $b, HP_UP
 	object SPRITE_BALL, $22, $3, STAY, NONE, $c, RARE_CANDY
 	object SPRITE_BALL, $1a, $20, STAY, NONE, $d, TM_25
-	object SPRITE_BALL, $14, $20, STAY, NONE, $e, TM_33
+	object SPRITE_BALL, $14, $20, STAY, NONE, $e, NUGGET
 
 	; warp-to
 	EVENT_DISP POWER_PLANT_WIDTH, $23, $4

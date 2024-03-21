@@ -30,7 +30,7 @@ CeladonMart2Clerk1Text::
 
 ; Celadon Dept. Store 2F (2)
 CeladonMart2Clerk2Text::
-	TX_MART TM_32, TM_33, TM_02, TM_07, TM_37, TM_01, TM_05, TM_09, TM_17
+	TX_MART TM_32, TM_33, TM_01, TM_05, TM_09, TM_17, TM_04, TM_47, TM_49
 
 ; Celadon Dept. Store 4F
 CeladonMart4ClerkText::

@@ -14,7 +14,7 @@ RocketHideout4Object:
 	object SPRITE_ROCKET, $1a, $c, STAY, DOWN, $3, OPP_ROCKET, $11
 	object SPRITE_ROCKET, $b, $2, STAY, DOWN, $4, OPP_ROCKET, $12
 	object SPRITE_BALL, $a, $c, STAY, NONE, $5, HP_UP
-	object SPRITE_BALL, $9, $4, STAY, NONE, $6, TM_02
+	object SPRITE_BALL, $9, $4, STAY, NONE, $6, NUGGET
 	object SPRITE_BALL, $c, $14, STAY, NONE, $7, IRON
 	object SPRITE_BALL, $19, $2, STAY, NONE, $8, SILPH_SCOPE
 	object SPRITE_BALL, $a, $2, STAY, NONE, $9, LIFT_KEY

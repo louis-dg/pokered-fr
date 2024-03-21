@@ -2,7 +2,7 @@ TechnicalMachines:
 	db MEGA_PUNCH
 	db RAZOR_WIND
 	db SWORDS_DANCE
-	db AMNESIA
+	db ICE_PUNCH
 	db MEGA_KICK
 	db TOXIC
 	db HORN_DRILL
@@ -45,9 +45,9 @@ TechnicalMachines:
 	db REST
 	db THUNDER_WAVE
 	db PSYWAVE
-	db EXPLOSION
+	db THUNDERPUNCH
 	db ROCK_SLIDE
-	db TRI_ATTACK
+	db FIRE_PUNCH
 	db SUBSTITUTE
 	db CUT
 	db FLY
