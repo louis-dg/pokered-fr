@@ -1,8 +1,8 @@
-# Hack rom Pokémon Rouge VF
+# Pokémon Rouge Vermeil
 
-Ceci est un projet d'amélioration de la hack rom de Pokémon rouge.
+Ceci est une amélioration de la hack rom de la version française de Pokémon rouge.
 
-Le but de ce projet est de partir de la rom de Pokémon rouge et d'y apporter des améliorations **relativement légères** afin de **garder le ressenti du jeu original** tout en **corrigeant des défauts** qui, avec les standards d'aujourd'hui, affectent grandement la rejouabilité de cette version.
+Le but de ce projet est de partir de la rom de Pokémon rouge VF et d'y apporter des améliorations **relativement légères** afin de **garder le ressenti du jeu original** tout en **corrigeant des défauts** qui, avec les standards d'aujourd'hui, affectent grandement la rejouabilité de cette version.
 
 Ce projet s'adresse à un public francophone, trop peu représenté dans le monde des hack roms à mon avis :)
 
@@ -22,12 +22,14 @@ Pour configurer le dépôt, voir [**INSTALL.md**](INSTALL.md).
     * Les CT ont été légèrement modifiés
       * CT36 est DETRITUS à la place de DESTRUCTION
       * CT30 est COUD'BOULE à la place de TELEPORT
-      * CT04 est AMNESIE à la place de COUPE-VENT
       * CT20 est LANCE-FLAMME à la place de FRENESIE
+      * CT04 est POINGLACE à la place de COUPE-VENT
+      * CT47 est POING-ECLAIR à la place d'EXPLOSION
+      * CT49 est POING DE FEU à la place de TRIPLATTAQUE
     * Les caractéristiques de certaines attaques ont été modifiées :
       * POING-KARATE => type combat au lieu de normal
       * TORNADE => type vol au lieu de normal
-      * COUPE-VENT => type vol au lieu de normal, augmentation de puissance de à 80 à 130 et précision de 75 à 95
+      * COUPE-VENT => type vol au lieu de normal, augmentation de puissance de à 80 à 120 et précision de 75 à 95
       * CRU-AILE -> augmentation de puissance de 35 à 60
       * SACRIFICE => augmentation de puissance de 80 à 100
       * BALAYAGE => augmentation de puissance de 50 à 60
@@ -39,35 +41,34 @@ Pour configurer le dépôt, voir [**INSTALL.md**](INSTALL.md).
       * EXPLOSION => augmentation de puissance de 170 à 250
       * JET-PIERRES => augmentation de précision de 65 à 90
 
-
 - Tous les pokémons de type vol peuvent apprendre la CS Vol.
     * Cela concerne notamment Dracaufeu et Dracolosse.
-
 
 - Certains niveaux d'évolution ont été diminués :
     * Draco évolue au niveau 45 à la place de 55. 
     * Rhinocorne évolue au niveau 37 à la place de 42.
+    * Kabuto évolue au niveau 42 à la place de 40.
+    * Amonita évolue au niveau 42 à la place de 40.
 
+- Les pokémons fossiles (Amonita, Kabuto et Ptéra) sont reçus du labo au niveau 35 au lieu de 30.
 
 - Les pokémons qui évoluent par échange évoluent désormais au niveau 36.
 
-
 - Les CS peuvent être oubliées (attention à ne pas se bloquer ainsi).
-
 
 - La variété des combats contre les dresseurs a été améliorée :
     * Les dresseurs ont plus souvent des pokémons évolués et ces derniers ont un niveau plus haut que dans la version originale.
 
-
 - La variété des combats contre les pokémons sauvages a été augmentée :
     * Tous les pokémons sont obtenables dans cette version. NB : Mew est accessible uniquement via le bug du croupier.
 
-
 - Les échanges internes ont été modifiés afin d'être plus intéressants.
-
 
 - La pension pokémon entraîne les pokémons deux fois plus rapidement que dans le jeu original.
 
+- Les CT achetables au magasin de Céladolole ne sont plus trouvables dans le monde et ont été modifiées.
+
+- Les pokemons obtenables avec des jetons ont été retravaillés.
 
 # Remerciements
 
