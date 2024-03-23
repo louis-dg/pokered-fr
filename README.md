@@ -44,7 +44,7 @@ Pour configurer le dépôt, voir [**INSTALL.md**](INSTALL.md).
 - Tous les pokémons de type vol peuvent apprendre la CS Vol.
     * Cela concerne notamment Dracaufeu et Dracolosse.
 
-- Certains niveaux d'évolution ont été diminués :
+- Certains niveaux d'évolution ont été modifiés :
     * Draco évolue au niveau 45 à la place de 55. 
     * Rhinocorne évolue au niveau 37 à la place de 42.
     * Kabuto évolue au niveau 42 à la place de 40.
