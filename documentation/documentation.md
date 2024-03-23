@@ -29,7 +29,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 3 
 
-   * Evolution : niveau 16 -> HERBIZARRE  
+   * Evolution : niveau 16 (HERBIZARRE)  
 
    * Attaques de départ : CHARGE, RUGISSEMENT
 
@@ -56,8 +56,8 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT22 | LANCE-SOLEIL | CT30 | COUP D'BOULE 
      CT31 | COPIE | CT32 | REFLET 
      CT33 | PROTECTION | CT34 | PATIENCE 
-     CT44 | REPOS | CT50 | CLONAGE 
-     CS01 | COUPE 
+     CT36 | DETRITUS | CT44 | REPOS 
+     CT50 | CLONAGE | CS01 | COUPE 
 - **002 HERBIZARRE**
    * Statistiques de base :
 
@@ -70,7 +70,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 3 
 
-   * Evolution : niveau 32 -> FLORIZARRE  
+   * Evolution : niveau 32 (FLORIZARRE)  
 
    * Attaques de départ : CHARGE, RUGISSEMENT, VAMPIGRAINE
 
@@ -97,8 +97,8 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT22 | LANCE-SOLEIL | CT30 | COUP D'BOULE 
      CT31 | COPIE | CT32 | REFLET 
      CT33 | PROTECTION | CT34 | PATIENCE 
-     CT44 | REPOS | CT50 | CLONAGE 
-     CS01 | COUPE 
+     CT36 | DETRITUS | CT44 | REPOS 
+     CT50 | CLONAGE | CS01 | COUPE 
 - **003 FLORIZARRE**
    * Statistiques de base :
 
@@ -130,15 +130,13 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      PLAQUAGE | 58 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque | CT/CS | Attaque 
-     --- | --- | --- | --- 
-     CT03 | DANSE-LAMES | CT06 | TOXIK 
-     CT08 | PLAQUAGE | CT09 | BELIER 
-     CT10 | DAMOCLES | CT15 | ULTRALASER 
-     CT21 | MEGA-SANGSUE | CT22 | LANCE-SOLEIL 
-     CT30 | COUP D'BOULE | CT31 | COPIE 
-     CT32 | REFLET | CT33 | PROTECTION 
-     CT34 | PATIENCE | CT44 | REPOS 
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT03 | DANSE-LAMES | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT15 | ULTRALASER 
+     CT21 | MEGA-SANGSUE | CT22 | LANCE-SOLEIL | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT36 | DETRITUS | CT44 | REPOS 
      CT50 | CLONAGE | CS01 | COUPE 
 - **004 SALAMECHE**
    * Statistiques de base :
@@ -152,7 +150,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 3 
 
-   * Evolution : niveau 16 -> REPTINCEL  
+   * Evolution : niveau 16 (REPTINCEL)  
 
    * Attaques de départ : GRIFFE, RUGISSEMENT
 
@@ -178,8 +176,8 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT20 | LANCE-FLAMME | CT23 | DRACO-RAGE 
      CT28 | TUNNEL | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
      CT33 | PROTECTION | CT34 | PATIENCE | CT38 | DEFLAGRATION | CT39 | METEORES 
-     CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE | CS01 | COUPE 
-     CS04 | FORCE 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT49 | POING DE FEU | CT50 | CLONAGE 
+     CS01 | COUPE | CS04 | FORCE 
 - **005 REPTINCEL**
    * Statistiques de base :
 
@@ -192,7 +190,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 3 
 
-   * Evolution : niveau 36 -> DRACAUFEU  
+   * Evolution : niveau 36 (DRACAUFEU)  
 
    * Attaques de départ : GRIFFE, RUGISSEMENT, FLAMMECHE
 
@@ -217,8 +215,8 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT20 | LANCE-FLAMME | CT23 | DRACO-RAGE 
      CT28 | TUNNEL | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
      CT33 | PROTECTION | CT34 | PATIENCE | CT38 | DEFLAGRATION | CT39 | METEORES 
-     CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE | CS01 | COUPE 
-     CS04 | FORCE 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT49 | POING DE FEU | CT50 | CLONAGE 
+     CS01 | COUPE | CS04 | FORCE 
 - **006 DRACAUFEU**
    * Statistiques de base :
 
@@ -257,8 +255,8 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT23 | DRACO-RAGE | CT26 | SEISME | CT27 | ABIME | CT28 | TUNNEL 
      CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
      CT34 | PATIENCE | CT38 | DEFLAGRATION | CT39 | METEORES | CT40 | COUD'KRANE 
-     CT44 | REPOS | CT50 | CLONAGE | CS01 | COUPE | CS02 | VOL 
-     CS04 | FORCE 
+     CT44 | REPOS | CT49 | POING DE FEU | CT50 | CLONAGE | CS01 | COUPE 
+     CS02 | VOL | CS04 | FORCE 
 - **007 CARAPUCE**
    * Statistiques de base :
 
@@ -271,7 +269,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 3 
 
-   * Evolution : niveau 16 -> CARABAFFE  
+   * Evolution : niveau 16 (CARABAFFE)  
 
    * Attaques de départ : CHARGE, MIMI-QUEUE
 
@@ -311,7 +309,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 3 
 
-   * Evolution : niveau 36 -> TORTANK  
+   * Evolution : niveau 36 (TORTANK)  
 
    * Attaques de départ : CHARGE, MIMI-QUEUE, ECUME
 
@@ -371,13 +369,13 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
      --- | --- | --- | --- | --- | --- | --- | --- 
-     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT08 | PLAQUAGE 
-     CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
-     CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER | CT17 | SACRIFICE 
-     CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT26 | SEISME | CT27 | ABIME 
-     CT28 | TUNNEL | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
-     CT33 | PROTECTION | CT34 | PATIENCE | CT40 | COUD'KRANE | CT44 | REPOS 
-     CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
+     CT01 | ULTIMAPOING | CT04 | POINGLACE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
+     CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER 
+     CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT26 | SEISME 
+     CT27 | ABIME | CT28 | TUNNEL | CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
 - **010 CHENIPAN**
    * Statistiques de base :
 
@@ -390,7 +388,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 7 -> CHRYSACIER  
+   * Evolution : niveau 7 (CHRYSACIER)  
 
    * Attaques de départ : CHARGE, SECRETION
 
@@ -410,7 +408,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 10 -> PAPILUSION  
+   * Evolution : niveau 10 (PAPILUSION)  
 
    * Attaques de départ : ARMURE
 
@@ -467,7 +465,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 7 -> COCONFORT  
+   * Evolution : niveau 7 (COCONFORT)  
 
    * Attaques de départ : DARD-VENIN, SECRETION
 
@@ -487,7 +485,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 10 -> DARDARGNAN  
+   * Evolution : niveau 10 (DARDARGNAN)  
 
    * Attaques de départ : ARMURE
 
@@ -547,7 +545,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 3 
 
-   * Evolution : niveau 18 -> ROUCOUPS  
+   * Evolution : niveau 18 (ROUCOUPS)  
 
    * Attaques de départ : TORNADE
 
@@ -585,7 +583,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 3 
 
-   * Evolution : niveau 36 -> ROUCARNAGE  
+   * Evolution : niveau 36 (ROUCARNAGE)  
 
    * Attaques de départ : TORNADE, JET DE SABLE
 
@@ -661,7 +659,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 20 -> RATTATAC  
+   * Evolution : niveau 20 (RATTATAC)  
 
    * Attaques de départ : CHARGE, MIMI-QUEUE
 
@@ -732,7 +730,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 20 -> RAPASDEPIC  
+   * Evolution : niveau 20 (RAPASDEPIC)  
 
    * Attaques de départ : PICPIC, RUGISSEMENT
 
@@ -805,7 +803,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 22 -> ARBOK  
+   * Evolution : niveau 22 (ARBOK)  
 
    * Attaques de départ : LIGOTAGE, GROZ'YEUX
 
@@ -961,7 +959,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 22 -> SABLAIREAU  
+   * Evolution : niveau 22 (SABLAIREAU)  
 
    * Attaques de départ : GRIFFE
 
@@ -1037,7 +1035,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 3 
 
-   * Evolution : niveau 16 -> NIDORINA  
+   * Evolution : niveau 16 (NIDORINA)  
 
    * Attaques de départ : RUGISSEMENT, CHARGE
 
@@ -1137,16 +1135,16 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      PLAQUAGE | 56 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
-     --- | --- | --- | --- | --- | --- | --- | --- 
-     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT07 | EMPAL'KORNE 
-     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
-     CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER 
-     CT16 | JACKPOT | CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS 
-     CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT26 | SEISME | CT27 | ABIME 
-     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
-     CT34 | PATIENCE | CT38 | DEFLAGRATION | CT40 | COUD'KRANE | CT44 | REPOS 
-     CT48 | EBOULEMENT | CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT04 | POINGLACE | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT07 | EMPAL'KORNE 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER | CT16 | JACKPOT | CT17 | SACRIFICE 
+     CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT26 | SEISME 
+     CT27 | ABIME | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT36 | DETRITUS | CT38 | DEFLAGRATION | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT47 | POING-ECLAIR | CT48 | EBOULEMENT | CT49 | POING DE FEU | CT50 | CLONAGE | CS03 | SURF 
+     CS04 | FORCE 
 - **032 NIDORAN♂**
    * Statistiques de base :
 
@@ -1159,7 +1157,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 3 
 
-   * Evolution : niveau 16 -> NIDORINO  
+   * Evolution : niveau 16 (NIDORINO)  
 
    * Attaques de départ : GROZ'YEUX, CHARGE
 
@@ -1256,16 +1254,16 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      SEISME | 50 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
-     --- | --- | --- | --- | --- | --- | --- | --- 
-     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT07 | EMPAL'KORNE 
-     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
-     CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER 
-     CT16 | JACKPOT | CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS 
-     CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT26 | SEISME | CT27 | ABIME 
-     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
-     CT34 | PATIENCE | CT38 | DEFLAGRATION | CT40 | COUD'KRANE | CT44 | REPOS 
-     CT48 | EBOULEMENT | CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT04 | POINGLACE | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT07 | EMPAL'KORNE 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER | CT16 | JACKPOT | CT17 | SACRIFICE 
+     CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT26 | SEISME 
+     CT27 | ABIME | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT36 | DETRITUS | CT38 | DEFLAGRATION | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT47 | POING-ECLAIR | CT48 | EBOULEMENT | CT49 | POING DE FEU | CT50 | CLONAGE | CS03 | SURF 
+     CS04 | FORCE 
 - **035 MELOFEE**
    * Statistiques de base :
 
@@ -1303,7 +1301,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT29 | PSYKO | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
      CT33 | PROTECTION | CT34 | PATIENCE | CT35 | METRONOME | CT38 | DEFLAGRATION 
      CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY 
-     CT49 | TRIPLATTAQUE | CT50 | CLONAGE | CS04 | FORCE | CS05 | FLASH 
+     CT50 | CLONAGE | CS04 | FORCE | CS05 | FLASH 
 - **036 MELODELFE**
    * Statistiques de base :
 
@@ -1332,15 +1330,16 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      MUR LUMIERE | 48 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
-     --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
-     CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD 
-     CT15 | ULTRALASER | CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT22 | LANCE-SOLEIL 
-     CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT29 | PSYKO | CT30 | COUP D'BOULE | CT31 | COPIE 
-     CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE | CT35 | METRONOME | CT38 | DEFLAGRATION 
-     CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY | CT49 | TRIPLATTAQUE 
-     CT50 | CLONAGE | CS04 | FORCE | CS05 | FLASH 
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER | CT17 | SACRIFICE 
+     CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT22 | LANCE-SOLEIL | CT24 | TONNERRE 
+     CT25 | FATAL-FOUDRE | CT29 | PSYKO | CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE | CT35 | METRONOME 
+     CT38 | DEFLAGRATION | CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR 
+     CT46 | VAGUE PSY | CT50 | CLONAGE | CS04 | FORCE | CS05 | FLASH 
 - **037 GOUPIX**
    * Statistiques de base :
 
@@ -1452,8 +1451,8 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT19 | FRAPPE ATLAS | CT22 | LANCE-SOLEIL | CT24 | TONNERRE | CT25 | FATAL-FOUDRE 
      CT29 | PSYKO | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
      CT33 | PROTECTION | CT34 | PATIENCE | CT38 | DEFLAGRATION | CT40 | COUD'KRANE 
-     CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY | CT49 | TRIPLATTAQUE 
-     CT50 | CLONAGE | CS04 | FORCE | CS05 | FLASH 
+     CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY | CT50 | CLONAGE 
+     CS04 | FORCE | CS05 | FLASH 
 - **040 GRODOUDOU**
    * Statistiques de base :
 
@@ -1492,7 +1491,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT25 | FATAL-FOUDRE | CT29 | PSYKO | CT30 | COUP D'BOULE | CT31 | COPIE 
      CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE | CT38 | DEFLAGRATION 
      CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY 
-     CT49 | TRIPLATTAQUE | CT50 | CLONAGE | CS04 | FORCE | CS05 | FLASH 
+     CT49 | POING DE FEU | CT50 | CLONAGE | CS04 | FORCE | CS05 | FLASH 
 - **041 NOSFERAPTI**
    * Statistiques de base :
 
@@ -1505,7 +1504,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 22 -> NOSFERALTO  
+   * Evolution : niveau 22 (NOSFERALTO)  
 
    * Attaques de départ : VAMPIRISME
 
@@ -1526,8 +1525,9 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT09 | BELIER | CT10 | DAMOCLES 
      CT21 | MEGA-SANGSUE | CT31 | COPIE 
      CT32 | REFLET | CT34 | PATIENCE 
-     CT39 | METEORES | CT44 | REPOS 
-     CT50 | CLONAGE | CS02 | VOL 
+     CT36 | DETRITUS | CT39 | METEORES 
+     CT44 | REPOS | CT50 | CLONAGE 
+     CS02 | VOL 
 - **042 NOSFERALTO**
    * Statistiques de base :
 
@@ -1561,9 +1561,9 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT09 | BELIER | CT10 | DAMOCLES 
      CT15 | ULTRALASER | CT21 | MEGA-SANGSUE 
      CT31 | COPIE | CT32 | REFLET 
-     CT34 | PATIENCE | CT39 | METEORES 
-     CT44 | REPOS | CT50 | CLONAGE 
-     CS02 | VOL 
+     CT34 | PATIENCE | CT36 | DETRITUS 
+     CT39 | METEORES | CT44 | REPOS 
+     CT50 | CLONAGE | CS02 | VOL 
 - **043 MYSTHERBE**
    * Statistiques de base :
 
@@ -1576,7 +1576,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 3 
 
-   * Evolution : niveau 21 -> ORTIDE  
+   * Evolution : niveau 21 (ORTIDE)  
 
    * Attaques de départ : VOL-VIE
 
@@ -1691,7 +1691,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 24 -> PARASECT  
+   * Evolution : niveau 24 (PARASECT)  
 
    * Attaques de départ : GRIFFE
 
@@ -1769,7 +1769,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 31 -> AEROMITE  
+   * Evolution : niveau 31 (AEROMITE)  
 
    * Attaques de départ : CHARGE, ENTRAVE
 
@@ -1844,7 +1844,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 26 -> TRIOPIKEUR  
+   * Evolution : niveau 26 (TRIOPIKEUR)  
 
    * Attaques de départ : GRIFFE
 
@@ -1895,6 +1895,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      COMBO-GRIFFE | 30 
      TRANCHE | 35 
      SEISME | 45 
+     TRIPLATTAQUE | 52 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque 
@@ -1918,7 +1919,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 28 -> PERSIAN  
+   * Evolution : niveau 28 (PERSIAN)  
 
    * Attaques de départ : GRIFFE, RUGISSEMENT
 
@@ -1991,7 +1992,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 33 -> AKWAKWAK  
+   * Evolution : niveau 33 (AKWAKWAK)  
 
    * Attaques de départ : GRIFFE
 
@@ -2012,7 +2013,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
      --- | --- | --- | --- | --- | --- | --- | --- 
-     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT01 | ULTIMAPOING | CT04 | POINGLACE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
      CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
      CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD | CT16 | JACKPOT 
      CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT28 | TUNNEL 
@@ -2051,7 +2052,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
      --- | --- | --- | --- | --- | --- | --- | --- 
-     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT01 | ULTIMAPOING | CT04 | POINGLACE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
      CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
      CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER 
      CT16 | JACKPOT | CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS 
@@ -2070,7 +2071,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 28 -> COLOSSINGE  
+   * Evolution : niveau 28 (COLOSSINGE)  
 
    * Attaques de départ : GRIFFE, GROZ'YEUX
 
@@ -2226,7 +2227,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 3 
 
-   * Evolution : niveau 25 -> TETARTE  
+   * Evolution : niveau 25 (TETARTE)  
 
    * Attaques de départ : ECUME
 
@@ -2244,13 +2245,12 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
      --- | --- | --- | --- | --- | --- 
-     CT04 | AMNESIE | CT06 | TOXIK | CT08 | PLAQUAGE 
-     CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
-     CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD 
-     CT29 | PSYKO | CT30 | COUP D'BOULE | CT31 | COPIE 
-     CT32 | REFLET | CT34 | PATIENCE | CT40 | COUD'KRANE 
-     CT44 | REPOS | CT46 | VAGUE PSY | CT50 | CLONAGE 
-     CS03 | SURF 
+     CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT13 | LASER GLACE | CT14 | BLIZZARD | CT29 | PSYKO 
+     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT46 | VAGUE PSY | CT50 | CLONAGE | CS03 | SURF 
 - **061 TETARTE**
    * Statistiques de base :
 
@@ -2278,12 +2278,12 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      PLAQUAGE | 34 
      AMNESIE | 41 
      HYDROCANON | 49 
-     POINGLACE | 54 
+     ULTIMAPOING | 54 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
      --- | --- | --- | --- | --- | --- | --- | --- 
-     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT01 | ULTIMAPOING | CT04 | POINGLACE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
      CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
      CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD | CT17 | SACRIFICE 
      CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT26 | SEISME | CT27 | ABIME 
@@ -2317,12 +2317,12 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      PLAQUAGE | 34 
      AMNESIE | 41 
      HYDROCANON | 49 
-     POINGLACE | 54 
+     ULTIMAPOING | 54 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
      --- | --- | --- | --- | --- | --- | --- | --- 
-     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT01 | ULTIMAPOING | CT04 | POINGLACE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
      CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
      CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER 
      CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT26 | SEISME 
@@ -2342,7 +2342,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 3 
 
-   * Evolution : niveau 16 -> KADABRA  
+   * Evolution : niveau 16 (KADABRA)  
 
    * Attaques de départ : TELEPORT
 
@@ -2352,14 +2352,13 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
      --- | --- | --- | --- | --- | --- 
-     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI 
-     CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
-     CT10 | DAMOCLES | CT17 | SACRIFICE | CT18 | RIPOSTE 
-     CT19 | FRAPPE ATLAS | CT29 | PSYKO | CT31 | COPIE 
-     CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
-     CT35 | METRONOME | CT40 | COUD'KRANE | CT44 | REPOS 
-     CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY | CT49 | TRIPLATTAQUE 
-     CT50 | CLONAGE | CS05 | FLASH 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES 
+     CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS 
+     CT29 | PSYKO | CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE | CT35 | METRONOME 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR 
+     CT46 | VAGUE PSY | CT50 | CLONAGE | CS05 | FLASH 
 - **064 KADABRA**
    * Statistiques de base :
 
@@ -2372,7 +2371,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 3 
 
-   * Evolution : niveau 36 -> ALAKAZAM  
+   * Evolution : niveau 36 (ALAKAZAM)  
 
    * Attaques de départ : TELEPORT, CHOC MENTAL, ENTRAVE
 
@@ -2391,14 +2390,14 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
      --- | --- | --- | --- | --- | --- 
-     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI 
-     CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
-     CT10 | DAMOCLES | CT17 | SACRIFICE | CT18 | RIPOSTE 
-     CT19 | FRAPPE ATLAS | CT28 | TUNNEL | CT29 | PSYKO 
-     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
-     CT34 | PATIENCE | CT35 | METRONOME | CT40 | COUD'KRANE 
-     CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY 
-     CT49 | TRIPLATTAQUE | CT50 | CLONAGE | CS05 | FLASH 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES 
+     CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS 
+     CT28 | TUNNEL | CT29 | PSYKO | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
+     CT35 | METRONOME | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY | CT49 | POING DE FEU 
+     CT50 | CLONAGE | CS05 | FLASH 
 - **065 ALAKAZAM**
    * Statistiques de base :
 
@@ -2428,15 +2427,16 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      PROTECTION | 42 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
-     --- | --- | --- | --- | --- | --- | --- | --- 
-     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
-     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT15 | ULTRALASER 
-     CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT28 | TUNNEL 
-     CT29 | PSYKO | CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
-     CT34 | PATIENCE | CT35 | METRONOME | CT40 | COUD'KRANE | CT44 | REPOS 
-     CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY | CT49 | TRIPLATTAQUE | CT50 | CLONAGE 
-     CS05 | FLASH 
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES 
+     CT15 | ULTRALASER | CT17 | SACRIFICE | CT18 | RIPOSTE 
+     CT19 | FRAPPE ATLAS | CT28 | TUNNEL | CT29 | PSYKO 
+     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT35 | METRONOME | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY 
+     CT50 | CLONAGE | CS05 | FLASH 
 - **066 MACHOC**
    * Statistiques de base :
 
@@ -2449,7 +2449,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 3 
 
-   * Evolution : niveau 28 -> MACHOPEUR  
+   * Evolution : niveau 28 (MACHOPEUR)  
 
    * Attaques de départ : POING-KARATE
 
@@ -2491,7 +2491,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 3 
 
-   * Evolution : niveau 36 -> MACKOGNEUR  
+   * Evolution : niveau 36 (MACKOGNEUR)  
 
    * Attaques de départ : POING-KARATE, BALAYAGE, GROZ'YEUX
 
@@ -2575,7 +2575,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 3 
 
-   * Evolution : niveau 21 -> BOUSTIFLOR  
+   * Evolution : niveau 21 (BOUSTIFLOR)  
 
    * Attaques de départ : FOUET LIANES, CROISSANCE
 
@@ -2696,7 +2696,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 5 
 
-   * Evolution : niveau 30 -> TENTACRUEL  
+   * Evolution : niveau 30 (TENTACRUEL)  
 
    * Attaques de départ : ACIDE
 
@@ -2778,7 +2778,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 3 
 
-   * Evolution : niveau 25 -> GRAVALANCH  
+   * Evolution : niveau 25 (GRAVALANCH)  
 
    * Attaques de départ : CHARGE
 
@@ -2794,7 +2794,6 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      SEISME | 31 
      EXPLOSION | 36 
      EBOULEMENT | 44 
-     ABIME | 50 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
@@ -2805,8 +2804,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT27 | ABIME | CT28 | TUNNEL | CT30 | COUP D'BOULE 
      CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE 
      CT35 | METRONOME | CT38 | DEFLAGRATION | CT44 | REPOS 
-     CT47 | EXPLOSION | CT48 | EBOULEMENT | CT50 | CLONAGE 
-     CS04 | FORCE 
+     CT48 | EBOULEMENT | CT50 | CLONAGE | CS04 | FORCE 
 - **075 GRAVALANCH**
    * Statistiques de base :
 
@@ -2819,7 +2817,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 3 
 
-   * Evolution : niveau 36 -> GROLEM  
+   * Evolution : niveau 36 (GROLEM)  
 
    * Attaques de départ : CHARGE, BOUL'ARMURE
 
@@ -2834,8 +2832,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      ARMURE | 31 
      SEISME | 36 
      EXPLOSION | 43 
-     EBOULEMENT | 51 
-     ABIME | 59 
+     EBOULEMENT | 50 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
@@ -2846,8 +2843,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT27 | ABIME | CT28 | TUNNEL | CT30 | COUP D'BOULE 
      CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE 
      CT35 | METRONOME | CT38 | DEFLAGRATION | CT44 | REPOS 
-     CT47 | EXPLOSION | CT48 | EBOULEMENT | CT50 | CLONAGE 
-     CS04 | FORCE 
+     CT48 | EBOULEMENT | CT50 | CLONAGE | CS04 | FORCE 
 - **076 GROLEM**
    * Statistiques de base :
 
@@ -2875,8 +2871,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      ARMURE | 31 
      SEISME | 36 
      EXPLOSION | 43 
-     EBOULEMENT | 51 
-     ABIME | 59 
+     EBOULEMENT | 50 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
@@ -2887,8 +2882,8 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT19 | FRAPPE ATLAS | CT26 | SEISME | CT27 | ABIME 
      CT28 | TUNNEL | CT30 | COUP D'BOULE | CT31 | COPIE 
      CT32 | REFLET | CT34 | PATIENCE | CT35 | METRONOME 
-     CT38 | DEFLAGRATION | CT44 | REPOS | CT47 | EXPLOSION 
-     CT48 | EBOULEMENT | CT50 | CLONAGE | CS04 | FORCE 
+     CT38 | DEFLAGRATION | CT44 | REPOS | CT48 | EBOULEMENT 
+     CT50 | CLONAGE | CS04 | FORCE 
 - **077 PONYTA**
    * Statistiques de base :
 
@@ -2901,7 +2896,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 40 -> GALOPA  
+   * Evolution : niveau 40 (GALOPA)  
 
    * Attaques de départ : FLAMMECHE
 
@@ -2915,19 +2910,19 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      DANSEFLAMME | 39 
      BELIER | 43 
      HATE | 48 
-     DEFLAGRATION | 53 
+     LANCE-FLAMME | 53 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque 
      --- | --- | --- | --- 
-     CT06 | TOXIK | CT07 | EMPAL'KORNE 
-     CT08 | PLAQUAGE | CT09 | BELIER 
-     CT10 | DAMOCLES | CT20 | LANCE-FLAMME 
-     CT30 | COUP D'BOULE | CT31 | COPIE 
-     CT32 | REFLET | CT33 | PROTECTION 
-     CT34 | PATIENCE | CT38 | DEFLAGRATION 
-     CT39 | METEORES | CT40 | COUD'KRANE 
-     CT44 | REPOS | CT50 | CLONAGE 
+     CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT20 | LANCE-FLAMME | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE 
+     CT38 | DEFLAGRATION | CT39 | METEORES 
+     CT40 | COUD'KRANE | CT44 | REPOS 
+     CT50 | CLONAGE 
 - **078 GALOPA**
    * Statistiques de base :
 
@@ -2954,7 +2949,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      DANSEFLAMME | 39 
      BELIER | 46 
      HATE | 53 
-     DEFLAGRATION | 60 
+     LANCE-FLAMME | 60 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
@@ -2977,7 +2972,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 37 -> FLAGADOSS  
+   * Evolution : niveau 37 (FLAGADOSS)  
 
    * Attaques de départ : CHOC MENTAL
 
@@ -2997,13 +2992,13 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
      --- | --- | --- | --- | --- | --- | --- | --- 
-     CT04 | AMNESIE | CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
+     CT04 | POINGLACE | CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
      CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O | CT13 | LASER GLACE 
      CT14 | BLIZZARD | CT16 | JACKPOT | CT26 | SEISME | CT27 | ABIME 
      CT28 | TUNNEL | CT29 | PSYKO | CT30 | COUP D'BOULE | CT31 | COPIE 
      CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE | CT38 | DEFLAGRATION 
      CT39 | METEORES | CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR 
-     CT46 | VAGUE PSY | CT49 | TRIPLATTAQUE | CT50 | CLONAGE | CS03 | SURF 
+     CT46 | VAGUE PSY | CT49 | POING DE FEU | CT50 | CLONAGE | CS03 | SURF 
      CS04 | FORCE | CS05 | FLASH 
 - **080 FLAGADOSS**
    * Statistiques de base :
@@ -3038,13 +3033,13 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
      --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT01 | ULTIMAPOING | CT04 | POINGLACE | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT08 | PLAQUAGE 
      CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O | CT13 | LASER GLACE 
      CT14 | BLIZZARD | CT15 | ULTRALASER | CT16 | JACKPOT | CT17 | SACRIFICE | CT18 | RIPOSTE 
      CT19 | FRAPPE ATLAS | CT26 | SEISME | CT27 | ABIME | CT28 | TUNNEL | CT29 | PSYKO 
      CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
      CT38 | DEFLAGRATION | CT39 | METEORES | CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR 
-     CT46 | VAGUE PSY | CT49 | TRIPLATTAQUE | CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
+     CT46 | VAGUE PSY | CT49 | POING DE FEU | CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
      CS05 | FLASH 
 - **081 MAGNETI**
    * Statistiques de base :
@@ -3058,7 +3053,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 30 -> MAGNETON  
+   * Evolution : niveau 30 (MAGNETON)  
 
    * Attaques de départ : CHARGE
 
@@ -3175,7 +3170,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 31 -> DODRIO  
+   * Evolution : niveau 31 (DODRIO)  
 
    * Attaques de départ : PICPIC
 
@@ -3199,8 +3194,8 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT31 | COPIE | CT32 | REFLET 
      CT33 | PROTECTION | CT34 | PATIENCE 
      CT40 | COUD'KRANE | CT43 | PIQUE 
-     CT44 | REPOS | CT49 | TRIPLATTAQUE 
-     CT50 | CLONAGE | CS02 | VOL 
+     CT44 | REPOS | CT50 | CLONAGE 
+     CS02 | VOL 
 - **085 DODRIO**
    * Statistiques de base :
 
@@ -3238,8 +3233,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT32 | REFLET | CT33 | PROTECTION 
      CT34 | PATIENCE | CT40 | COUD'KRANE 
      CT43 | PIQUE | CT44 | REPOS 
-     CT49 | TRIPLATTAQUE | CT50 | CLONAGE 
-     CS02 | VOL 
+     CT50 | CLONAGE | CS02 | VOL 
 - **086 OTARIA**
    * Statistiques de base :
 
@@ -3252,7 +3246,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 34 -> LAMANTINE  
+   * Evolution : niveau 34 (LAMANTINE)  
 
    * Attaques de départ : COUP D'BOULE
 
@@ -3325,7 +3319,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 38 -> GROTADMORV  
+   * Evolution : niveau 38 (GROTADMORV)  
 
    * Attaques de départ : ECRAS'FACE, ENTRAVE
 
@@ -3349,8 +3343,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT25 | FATAL-FOUDRE | CT31 | COPIE 
      CT32 | REFLET | CT34 | PATIENCE 
      CT36 | DETRITUS | CT38 | DEFLAGRATION 
-     CT44 | REPOS | CT47 | EXPLOSION 
-     CT50 | CLONAGE 
+     CT44 | REPOS | CT50 | CLONAGE 
 - **089 GROTADMORV**
    * Statistiques de base :
 
@@ -3388,7 +3381,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT31 | COPIE | CT32 | REFLET 
      CT34 | PATIENCE | CT36 | DETRITUS 
      CT38 | DEFLAGRATION | CT44 | REPOS 
-     CT47 | EXPLOSION | CT50 | CLONAGE 
+     CT50 | CLONAGE 
 - **090 KOKIYAS**
    * Statistiques de base :
 
@@ -3417,13 +3410,15 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      LASER GLACE | 50 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
-     --- | --- | --- | --- | --- | --- 
-     CT06 | TOXIK | CT09 | BELIER | CT10 | DAMOCLES 
-     CT11 | BULLES D'O | CT12 | PISTOLET A O | CT13 | LASER GLACE 
-     CT14 | BLIZZARD | CT31 | COPIE | CT32 | REFLET 
-     CT33 | PROTECTION | CT34 | PATIENCE | CT39 | METEORES 
-     CT44 | REPOS | CT47 | EXPLOSION | CT49 | TRIPLATTAQUE 
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT06 | TOXIK | CT09 | BELIER 
+     CT10 | DAMOCLES | CT11 | BULLES D'O 
+     CT12 | PISTOLET A O | CT13 | LASER GLACE 
+     CT14 | BLIZZARD | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT39 | METEORES 
+     CT44 | REPOS | CT49 | POING DE FEU 
      CT50 | CLONAGE | CS03 | SURF 
 - **091 CRUSTABRI**
    * Statistiques de base :
@@ -3453,14 +3448,16 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      LASER GLACE | 50 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
-     --- | --- | --- | --- | --- | --- 
-     CT06 | TOXIK | CT09 | BELIER | CT10 | DAMOCLES 
-     CT11 | BULLES D'O | CT12 | PISTOLET A O | CT13 | LASER GLACE 
-     CT14 | BLIZZARD | CT15 | ULTRALASER | CT31 | COPIE 
-     CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
-     CT39 | METEORES | CT44 | REPOS | CT47 | EXPLOSION 
-     CT49 | TRIPLATTAQUE | CT50 | CLONAGE | CS03 | SURF 
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT06 | TOXIK | CT09 | BELIER 
+     CT10 | DAMOCLES | CT11 | BULLES D'O 
+     CT12 | PISTOLET A O | CT13 | LASER GLACE 
+     CT14 | BLIZZARD | CT15 | ULTRALASER 
+     CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE 
+     CT39 | METEORES | CT44 | REPOS 
+     CT50 | CLONAGE | CS03 | SURF 
 - **092 FANTOMINUS**
    * Statistiques de base :
 
@@ -3473,7 +3470,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 3 
 
-   * Evolution : niveau 25 -> SPECTRUM  
+   * Evolution : niveau 25 (SPECTRUM)  
 
    * Attaques de départ : LECHOUILLE, ONDE FOLIE, TENEBRES
 
@@ -3487,13 +3484,12 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
      CT/CS | Attaque | CT/CS | Attaque 
      --- | --- | --- | --- 
-     CT04 | AMNESIE | CT06 | TOXIK 
-     CT21 | MEGA-SANGSUE | CT24 | TONNERRE 
-     CT25 | FATAL-FOUDRE | CT29 | PSYKO 
-     CT31 | COPIE | CT32 | REFLET 
-     CT34 | PATIENCE | CT36 | DETRITUS 
-     CT42 | DEVOREVE | CT44 | REPOS 
-     CT46 | VAGUE PSY | CT47 | EXPLOSION 
+     CT06 | TOXIK | CT21 | MEGA-SANGSUE 
+     CT24 | TONNERRE | CT25 | FATAL-FOUDRE 
+     CT29 | PSYKO | CT31 | COPIE 
+     CT32 | REFLET | CT34 | PATIENCE 
+     CT36 | DETRITUS | CT42 | DEVOREVE 
+     CT44 | REPOS | CT46 | VAGUE PSY 
      CT50 | CLONAGE 
 - **093 SPECTRUM**
    * Statistiques de base :
@@ -3507,7 +3503,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 3 
 
-   * Evolution : niveau 36 -> ECTOPLASMA  
+   * Evolution : niveau 36 (ECTOPLASMA)  
 
    * Attaques de départ : LECHOUILLE, ONDE FOLIE, TENEBRES
 
@@ -3521,13 +3517,12 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
      CT/CS | Attaque | CT/CS | Attaque 
      --- | --- | --- | --- 
-     CT04 | AMNESIE | CT06 | TOXIK 
-     CT21 | MEGA-SANGSUE | CT24 | TONNERRE 
-     CT25 | FATAL-FOUDRE | CT29 | PSYKO 
-     CT31 | COPIE | CT32 | REFLET 
-     CT34 | PATIENCE | CT36 | DETRITUS 
-     CT42 | DEVOREVE | CT44 | REPOS 
-     CT46 | VAGUE PSY | CT47 | EXPLOSION 
+     CT06 | TOXIK | CT21 | MEGA-SANGSUE 
+     CT24 | TONNERRE | CT25 | FATAL-FOUDRE 
+     CT29 | PSYKO | CT31 | COPIE 
+     CT32 | REFLET | CT34 | PATIENCE 
+     CT36 | DETRITUS | CT42 | DEVOREVE 
+     CT44 | REPOS | CT46 | VAGUE PSY 
      CT50 | CLONAGE 
 - **094 ECTOPLASMA**
    * Statistiques de base :
@@ -3555,13 +3550,13 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
      --- | --- | --- | --- | --- | --- | --- | --- 
-     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
-     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT15 | ULTRALASER 
-     CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT21 | MEGA-SANGSUE 
-     CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT29 | PSYKO | CT31 | COPIE 
-     CT32 | REFLET | CT34 | PATIENCE | CT35 | METRONOME | CT36 | DETRITUS 
-     CT40 | COUD'KRANE | CT42 | DEVOREVE | CT44 | REPOS | CT46 | VAGUE PSY 
-     CT47 | EXPLOSION | CT50 | CLONAGE | CS04 | FORCE 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT15 | ULTRALASER | CT17 | SACRIFICE 
+     CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT21 | MEGA-SANGSUE | CT24 | TONNERRE 
+     CT25 | FATAL-FOUDRE | CT29 | PSYKO | CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT35 | METRONOME | CT36 | DETRITUS | CT40 | COUD'KRANE 
+     CT42 | DEVOREVE | CT44 | REPOS | CT46 | VAGUE PSY | CT50 | CLONAGE 
+     CS04 | FORCE 
 - **095 ONIX**
    * Statistiques de base :
 
@@ -3591,13 +3586,15 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      SEISME | 53 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
-     --- | --- | --- | --- | --- | --- 
-     CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
-     CT10 | DAMOCLES | CT26 | SEISME | CT27 | ABIME 
-     CT28 | TUNNEL | CT30 | COUP D'BOULE | CT31 | COPIE 
-     CT32 | REFLET | CT34 | PATIENCE | CT40 | COUD'KRANE 
-     CT44 | REPOS | CT47 | EXPLOSION | CT48 | EBOULEMENT 
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT26 | SEISME | CT27 | ABIME 
+     CT28 | TUNNEL | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT48 | EBOULEMENT 
      CT50 | CLONAGE | CS04 | FORCE 
 - **096 SOPORIFIK**
    * Statistiques de base :
@@ -3611,7 +3608,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 26 -> HYPNOMADE  
+   * Evolution : niveau 26 (HYPNOMADE)  
 
    * Attaques de départ : ECRAS'FACE, HYPNOSE
 
@@ -3629,15 +3626,16 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      ULTIMAPOING | 51 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
-     --- | --- | --- | --- | --- | --- | --- | --- 
-     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
-     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT17 | SACRIFICE 
-     CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT29 | PSYKO | CT30 | COUP D'BOULE 
-     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
-     CT35 | METRONOME | CT40 | COUD'KRANE | CT42 | DEVOREVE | CT44 | REPOS 
-     CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY | CT49 | TRIPLATTAQUE | CT50 | CLONAGE 
-     CS05 | FLASH 
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES 
+     CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS 
+     CT29 | PSYKO | CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
+     CT35 | METRONOME | CT40 | COUD'KRANE | CT42 | DEVOREVE 
+     CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY 
+     CT50 | CLONAGE | CS05 | FLASH 
 - **097 HYPNOMADE**
    * Statistiques de base :
 
@@ -3670,13 +3668,13 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
      --- | --- | --- | --- | --- | --- | --- | --- 
-     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
-     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT15 | ULTRALASER 
-     CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT29 | PSYKO 
-     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
-     CT34 | PATIENCE | CT35 | METRONOME | CT40 | COUD'KRANE | CT42 | DEVOREVE 
-     CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY | CT49 | TRIPLATTAQUE 
-     CT50 | CLONAGE | CS05 | FLASH 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT15 | ULTRALASER | CT17 | SACRIFICE 
+     CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT29 | PSYKO | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
+     CT35 | METRONOME | CT40 | COUD'KRANE | CT42 | DEVOREVE | CT44 | REPOS 
+     CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY | CT49 | POING DE FEU | CT50 | CLONAGE 
+     CS05 | FLASH 
 - **098 KRABBY**
    * Statistiques de base :
 
@@ -3689,7 +3687,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 28 -> KRABBOSS  
+   * Evolution : niveau 28 (KRABBOSS)  
 
    * Attaques de départ : ECUME, GROZ'YEUX
 
@@ -3762,7 +3760,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 30 -> ELECTRODE  
+   * Evolution : niveau 30 (ELECTRODE)  
 
    * Attaques de départ : CHARGE, GRINCEMENT
 
@@ -3787,8 +3785,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT32 | REFLET | CT33 | PROTECTION 
      CT34 | PATIENCE | CT39 | METEORES 
      CT44 | REPOS | CT45 | CAGE-ECLAIR 
-     CT47 | EXPLOSION | CT50 | CLONAGE 
-     CS05 | FLASH 
+     CT50 | CLONAGE | CS05 | FLASH 
 - **101 ELECTRODE**
    * Statistiques de base :
 
@@ -3818,13 +3815,15 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      TONNERRE | 51 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
-     --- | --- | --- | --- | --- | --- 
-     CT06 | TOXIK | CT09 | BELIER | CT15 | ULTRALASER 
-     CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT30 | COUP D'BOULE 
-     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
-     CT34 | PATIENCE | CT39 | METEORES | CT40 | COUD'KRANE 
-     CT44 | REPOS | CT45 | CAGE-ECLAIR | CT47 | EXPLOSION 
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT06 | TOXIK | CT09 | BELIER 
+     CT15 | ULTRALASER | CT24 | TONNERRE 
+     CT25 | FATAL-FOUDRE | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE 
+     CT39 | METEORES | CT40 | COUD'KRANE 
+     CT44 | REPOS | CT45 | CAGE-ECLAIR 
      CT50 | CLONAGE | CS05 | FLASH 
 - **102 NOEUNOEUF**
    * Statistiques de base :
@@ -3859,13 +3858,12 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
      CT/CS | Attaque | CT/CS | Attaque 
      --- | --- | --- | --- 
-     CT04 | AMNESIE | CT06 | TOXIK 
-     CT09 | BELIER | CT10 | DAMOCLES 
-     CT29 | PSYKO | CT30 | COUP D'BOULE 
-     CT31 | COPIE | CT32 | REFLET 
-     CT33 | PROTECTION | CT34 | PATIENCE 
-     CT37 | BOMB'OEUF | CT44 | REPOS 
-     CT46 | VAGUE PSY | CT47 | EXPLOSION 
+     CT06 | TOXIK | CT09 | BELIER 
+     CT10 | DAMOCLES | CT29 | PSYKO 
+     CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT37 | BOMB'OEUF 
+     CT44 | REPOS | CT46 | VAGUE PSY 
      CT50 | CLONAGE 
 - **103 NOADKOKO**
    * Statistiques de base :
@@ -3900,13 +3898,12 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
      --- | --- | --- | --- | --- | --- 
-     CT04 | AMNESIE | CT06 | TOXIK | CT09 | BELIER 
-     CT10 | DAMOCLES | CT15 | ULTRALASER | CT21 | MEGA-SANGSUE 
-     CT22 | LANCE-SOLEIL | CT29 | PSYKO | CT30 | COUP D'BOULE 
-     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
-     CT34 | PATIENCE | CT37 | BOMB'OEUF | CT44 | REPOS 
-     CT46 | VAGUE PSY | CT47 | EXPLOSION | CT50 | CLONAGE 
-     CS04 | FORCE 
+     CT06 | TOXIK | CT09 | BELIER | CT10 | DAMOCLES 
+     CT15 | ULTRALASER | CT21 | MEGA-SANGSUE | CT22 | LANCE-SOLEIL 
+     CT29 | PSYKO | CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
+     CT37 | BOMB'OEUF | CT44 | REPOS | CT46 | VAGUE PSY 
+     CT50 | CLONAGE | CS04 | FORCE 
 - **104 OSSELAIT**
    * Statistiques de base :
 
@@ -3919,7 +3916,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 28 -> OSSATUEUR  
+   * Evolution : niveau 28 (OSSATUEUR)  
 
    * Attaques de départ : MASSD'OS, RUGISSEMENT
 
@@ -4051,12 +4048,13 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
      --- | --- | --- | --- | --- | --- 
-     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK 
-     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES 
-     CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS 
-     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
-     CT34 | PATIENCE | CT35 | METRONOME | CT39 | METEORES 
-     CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE 
+     CT01 | ULTIMAPOING | CT04 | POINGLACE | CT05 | ULTIMAWASHI 
+     CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT17 | SACRIFICE | CT18 | RIPOSTE 
+     CT19 | FRAPPE ATLAS | CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT34 | PATIENCE | CT35 | METRONOME 
+     CT39 | METEORES | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT47 | POING-ECLAIR | CT49 | POING DE FEU | CT50 | CLONAGE 
      CS04 | FORCE 
 - **108 EXCELANGUE**
    * Statistiques de base :
@@ -4087,16 +4085,15 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      MANIA | 45 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
-     --- | --- | --- | --- | --- | --- | --- | --- 
-     CT01 | ULTIMAPOING | CT03 | DANSE-LAMES | CT05 | ULTIMAWASHI | CT06 | TOXIK 
-     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
-     CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER 
-     CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT24 | TONNERRE 
-     CT25 | FATAL-FOUDRE | CT26 | SEISME | CT27 | ABIME | CT30 | COUP D'BOULE 
-     CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE | CT38 | DEFLAGRATION 
-     CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE | CS01 | COUPE 
-     CS03 | SURF | CS04 | FORCE 
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT03 | DANSE-LAMES | CT04 | POINGLACE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER | CT17 | SACRIFICE | CT18 | RIPOSTE 
+     CT19 | FRAPPE ATLAS | CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT26 | SEISME | CT27 | ABIME 
+     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE | CT38 | DEFLAGRATION 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT47 | POING-ECLAIR | CT49 | POING DE FEU | CT50 | CLONAGE 
+     CS01 | COUPE | CS03 | SURF | CS04 | FORCE 
 - **109 SMOGO**
    * Statistiques de base :
 
@@ -4109,7 +4106,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 35 -> SMOGOGO  
+   * Evolution : niveau 35 (SMOGOGO)  
 
    * Attaques de départ : CHARGE, PUREDPOIS
 
@@ -4134,7 +4131,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT31 | COPIE | CT32 | REFLET 
      CT34 | PATIENCE | CT36 | DETRITUS 
      CT38 | DEFLAGRATION | CT44 | REPOS 
-     CT47 | EXPLOSION | CT50 | CLONAGE 
+     CT50 | CLONAGE 
 - **110 SMOGOGO**
    * Statistiques de base :
 
@@ -4172,8 +4169,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT30 | COUP D'BOULE | CT31 | COPIE 
      CT32 | REFLET | CT34 | PATIENCE 
      CT36 | DETRITUS | CT38 | DEFLAGRATION 
-     CT44 | REPOS | CT47 | EXPLOSION 
-     CT50 | CLONAGE 
+     CT44 | REPOS | CT50 | CLONAGE 
 - **111 RHINOCORNE**
    * Statistiques de base :
 
@@ -4186,7 +4182,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 5 
 
-   * Evolution : niveau 37 -> RHINOFEROS  
+   * Evolution : niveau 37 (RHINOFEROS)  
 
    * Attaques de départ : KOUD'KORNE
 
@@ -4199,10 +4195,8 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      GROZ'YEUX | 32 
      BELIER | 35 
      EBOULEMENT | 40 
-     EMPAL'KORNE | 44 
-     SEISME | 48 
-     PLAQUAGE | 52 
-     ABIME | 62 
+     SEISME | 45 
+     PLAQUAGE | 51 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
@@ -4238,22 +4232,19 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      GROZ'YEUX | 32 
      BELIER | 35 
      EBOULEMENT | 40 
-     EMPAL'KORNE | 46 
-     SEISME | 50 
-     PLAQUAGE | 56 
-     ABIME | 64 
+     SEISME | 47 
+     PLAQUAGE | 54 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
-     --- | --- | --- | --- | --- | --- | --- | --- 
-     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT07 | EMPAL'KORNE 
-     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
-     CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER 
-     CT16 | JACKPOT | CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS 
-     CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT26 | SEISME | CT27 | ABIME 
-     CT28 | TUNNEL | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
-     CT34 | PATIENCE | CT38 | DEFLAGRATION | CT40 | COUD'KRANE | CT44 | REPOS 
-     CT48 | EBOULEMENT | CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+     CT01 | ULTIMAPOING | CT04 | POINGLACE | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT07 | EMPAL'KORNE 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER | CT16 | JACKPOT | CT17 | SACRIFICE 
+     CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT26 | SEISME 
+     CT27 | ABIME | CT28 | TUNNEL | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT34 | PATIENCE | CT38 | DEFLAGRATION | CT40 | COUD'KRANE | CT44 | REPOS | CT47 | POING-ECLAIR 
+     CT48 | EBOULEMENT | CT49 | POING DE FEU | CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
 - **113 LEVEINARD**
    * Statistiques de base :
 
@@ -4290,7 +4281,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT29 | PSYKO | CT31 | COPIE | CT32 | REFLET 
      CT33 | PROTECTION | CT34 | PATIENCE | CT35 | METRONOME | CT37 | BOMB'OEUF | CT38 | DEFLAGRATION 
      CT40 | COUD'KRANE | CT41 | E-COQUE | CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY 
-     CT49 | TRIPLATTAQUE | CT50 | CLONAGE | CS04 | FORCE | CS05 | FLASH 
+     CT49 | POING DE FEU | CT50 | CLONAGE | CS04 | FORCE | CS05 | FLASH 
 - **114 SAQUEDENEU**
    * Statistiques de base :
 
@@ -4360,14 +4351,14 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
      --- | --- | --- | --- | --- | --- | --- | --- 
-     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT08 | PLAQUAGE 
-     CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
-     CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER | CT17 | SACRIFICE 
-     CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT24 | TONNERRE | CT25 | FATAL-FOUDRE 
-     CT26 | SEISME | CT27 | ABIME | CT30 | COUP D'BOULE | CT31 | COPIE 
-     CT32 | REFLET | CT34 | PATIENCE | CT38 | DEFLAGRATION | CT40 | COUD'KRANE 
-     CT44 | REPOS | CT48 | EBOULEMENT | CT50 | CLONAGE | CS03 | SURF 
-     CS04 | FORCE 
+     CT01 | ULTIMAPOING | CT04 | POINGLACE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
+     CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER 
+     CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT24 | TONNERRE 
+     CT25 | FATAL-FOUDRE | CT26 | SEISME | CT27 | ABIME | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE | CT38 | DEFLAGRATION 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT47 | POING-ECLAIR | CT48 | EBOULEMENT 
+     CT49 | POING DE FEU | CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
 - **116 HYPOTREMPE**
    * Statistiques de base :
 
@@ -4380,7 +4371,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 32 -> HYPOCEAN  
+   * Evolution : niveau 32 (HYPOCEAN)  
 
    * Attaques de départ : ECUME
 
@@ -4458,7 +4449,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 33 -> POISSOROY  
+   * Evolution : niveau 33 (POISSOROY)  
 
    * Attaques de départ : PICPIC, MIMI-QUEUE
 
@@ -4558,8 +4549,8 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT29 | PSYKO | CT31 | COPIE | CT32 | REFLET 
      CT33 | PROTECTION | CT34 | PATIENCE | CT39 | METEORES 
      CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR 
-     CT46 | VAGUE PSY | CT49 | TRIPLATTAQUE | CT50 | CLONAGE 
-     CS03 | SURF | CS05 | FLASH 
+     CT46 | VAGUE PSY | CT50 | CLONAGE | CS03 | SURF 
+     CS05 | FLASH 
 - **121 STAROSS**
    * Statistiques de base :
 
@@ -4590,15 +4581,16 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      HYDROCANON | 52 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
-     --- | --- | --- | --- | --- | --- | --- | --- 
-     CT04 | AMNESIE | CT06 | TOXIK | CT09 | BELIER | CT10 | DAMOCLES 
-     CT11 | BULLES D'O | CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD 
-     CT15 | ULTRALASER | CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT29 | PSYKO 
-     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
-     CT39 | METEORES | CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR 
-     CT46 | VAGUE PSY | CT49 | TRIPLATTAQUE | CT50 | CLONAGE | CS03 | SURF 
-     CS05 | FLASH 
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT09 | BELIER | CT10 | DAMOCLES 
+     CT11 | BULLES D'O | CT12 | PISTOLET A O | CT13 | LASER GLACE 
+     CT14 | BLIZZARD | CT15 | ULTRALASER | CT24 | TONNERRE 
+     CT25 | FATAL-FOUDRE | CT29 | PSYKO | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
+     CT39 | METEORES | CT40 | COUD'KRANE | CT44 | REPOS 
+     CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY | CT50 | CLONAGE 
+     CS03 | SURF | CS05 | FLASH 
 - **122 M.MIME**
    * Statistiques de base :
 
@@ -4631,13 +4623,13 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
      --- | --- | --- | --- | --- | --- | --- | --- 
-     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
-     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT15 | ULTRALASER 
-     CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT22 | LANCE-SOLEIL 
-     CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT29 | PSYKO | CT30 | COUP D'BOULE 
-     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
-     CT35 | METRONOME | CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR 
-     CT46 | VAGUE PSY | CT50 | CLONAGE | CS05 | FLASH 
+     CT01 | ULTIMAPOING | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT09 | BELIER | CT10 | DAMOCLES | CT15 | ULTRALASER | CT17 | SACRIFICE 
+     CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT22 | LANCE-SOLEIL | CT24 | TONNERRE 
+     CT25 | FATAL-FOUDRE | CT29 | PSYKO | CT30 | COUP D'BOULE | CT31 | COPIE 
+     CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE | CT35 | METRONOME 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY 
+     CT50 | CLONAGE | CS05 | FLASH 
 - **123 INSECATEUR**
    * Statistiques de base :
 
@@ -4710,7 +4702,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
      --- | --- | --- | --- | --- | --- | --- | --- 
-     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT01 | ULTIMAPOING | CT04 | POINGLACE | CT05 | ULTIMAWASHI | CT06 | TOXIK 
      CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
      CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER 
      CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT29 | PSYKO 
@@ -4753,7 +4745,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT29 | PSYKO | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
      CT33 | PROTECTION | CT34 | PATIENCE | CT35 | METRONOME | CT39 | METEORES 
      CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY 
-     CT50 | CLONAGE | CS04 | FORCE | CS05 | FLASH 
+     CT47 | POING-ECLAIR | CT50 | CLONAGE | CS04 | FORCE | CS05 | FLASH 
 - **126 MAGMAR**
    * Statistiques de base :
 
@@ -4768,19 +4760,16 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Evolution : - 
 
-   * Attaques de départ : FLAMMECHE
+   * Attaques de départ : FLAMMECHE, PUREDPOIS, GROZ'YEUX
 
    * Liste des attaques apprises :
 
      Attaque | Niveau 
      --- | --- 
-     GROZ'YEUX | 36 
-     ONDE FOLIE | 39 
+     ONDE FOLIE | 36 
      POING DE FEU | 43 
-     BROUILLARD | 48 
-     PUREDPOIS | 52 
-     LANCE-FLAMME | 55 
-     DEFLAGRATION | 62 
+     BROUILLARD | 49 
+     LANCE-FLAMME | 56 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
@@ -4792,7 +4781,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
      CT34 | PATIENCE | CT35 | METRONOME | CT38 | DEFLAGRATION 
      CT40 | COUD'KRANE | CT44 | REPOS | CT46 | VAGUE PSY 
-     CT50 | CLONAGE | CS04 | FORCE 
+     CT49 | POING DE FEU | CT50 | CLONAGE | CS04 | FORCE 
 - **127 SCARABRUTE**
    * Statistiques de base :
 
@@ -4882,7 +4871,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 5 
 
-   * Evolution : niveau 20 -> LEVIATOR  
+   * Evolution : niveau 20 (LEVIATOR)  
 
    * Attaques de départ : TREMPETTE
 
@@ -5010,7 +4999,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      Attaque | Niveau 
      --- | --- 
      MIMI-QUEUE | 26 
-     VIVE-ATTAQUE | 30 
+     VIVE-ATTAQUE | 29 
      MORSURE | 33 
      PUISSANCE | 37 
      BELIER | 45 
@@ -5173,8 +5162,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
      CT33 | PROTECTION | CT34 | PATIENCE | CT39 | METEORES 
      CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR 
-     CT46 | VAGUE PSY | CT49 | TRIPLATTAQUE | CT50 | CLONAGE 
-     CS05 | FLASH 
+     CT46 | VAGUE PSY | CT50 | CLONAGE | CS05 | FLASH 
 - **138 AMONITA**
    * Statistiques de base :
 
@@ -5187,15 +5175,14 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 40 -> AMONISTAR  
+   * Evolution : niveau 42 (AMONISTAR)  
 
-   * Attaques de départ : PISTOLET A O, REPLI
+   * Attaques de départ : PISTOLET A O, REPLI, KOUD'KORNE
 
    * Liste des attaques apprises :
 
      Attaque | Niveau 
      --- | --- 
-     KOUD'KORNE | 34 
      JET-PIERRES | 39 
      PICANON | 44 
      HYDROCANON | 49 
@@ -5232,7 +5219,6 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
      Attaque | Niveau 
      --- | --- 
-     KOUD'KORNE | 34 
      JET-PIERRES | 39 
      PICANON | 44 
      HYDROCANON | 50 
@@ -5260,29 +5246,26 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 0 
 
-   * Evolution : niveau 40 -> KABUTOPS  
+   * Evolution : niveau 42 (KABUTOPS)  
 
-   * Attaques de départ : GRIFFE, ARMURE
+   * Attaques de départ : GRIFFE, ARMURE, VOL-VIE
 
    * Liste des attaques apprises :
 
      Attaque | Niveau 
      --- | --- 
-     VOL-VIE | 34 
      TRANCHE | 39 
-     GROZ'YEUX | 44 
+     GROZ'YEUX | 43 
      HYDROCANON | 48 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque | CT/CS | Attaque 
-     --- | --- | --- | --- 
-     CT06 | TOXIK | CT08 | PLAQUAGE 
-     CT09 | BELIER | CT10 | DAMOCLES 
-     CT11 | BULLES D'O | CT12 | PISTOLET A O 
-     CT13 | LASER GLACE | CT14 | BLIZZARD 
-     CT30 | COUP D'BOULE | CT31 | COPIE 
-     CT32 | REFLET | CT33 | PROTECTION 
-     CT34 | PATIENCE | CT44 | REPOS 
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
+     CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT13 | LASER GLACE | CT14 | BLIZZARD | CT21 | MEGA-SANGSUE 
+     CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE | CT44 | REPOS 
      CT50 | CLONAGE | CS03 | SURF 
 - **141 KABUTOPS**
    * Statistiques de base :
@@ -5304,7 +5287,6 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
      Attaque | Niveau 
      --- | --- 
-     VOL-VIE | 34 
      TRANCHE | 39 
      GROZ'YEUX | 43 
      HYDROCANON | 50 
@@ -5312,16 +5294,15 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      GUILLOTINE | 60 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
-     --- | --- | --- | --- | --- | --- 
-     CT02 | COUPE-VENT | CT03 | DANSE-LAMES | CT05 | ULTIMAWASHI 
-     CT06 | TOXIK | CT08 | PLAQUAGE | CT09 | BELIER 
-     CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
-     CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER 
-     CT17 | SACRIFICE | CT19 | FRAPPE ATLAS | CT30 | COUP D'BOULE 
-     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
-     CT34 | PATIENCE | CT40 | COUD'KRANE | CT44 | REPOS 
-     CT50 | CLONAGE | CS03 | SURF 
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- | --- | --- 
+     CT02 | COUPE-VENT | CT03 | DANSE-LAMES | CT05 | ULTIMAWASHI | CT06 | TOXIK 
+     CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
+     CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER 
+     CT17 | SACRIFICE | CT19 | FRAPPE ATLAS | CT21 | MEGA-SANGSUE | CT30 | COUP D'BOULE 
+     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
+     CT40 | COUD'KRANE | CT44 | REPOS | CT48 | EBOULEMENT | CT50 | CLONAGE 
+     CS03 | SURF 
 - **142 PTERA**
    * Statistiques de base :
 
@@ -5342,22 +5323,20 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
      Attaque | Niveau 
      --- | --- 
-     ULTRASON | 31 
-     MORSURE | 34 
-     EBOULEMENT | 39 
-     BELIER | 45 
-     ULTRALASER | 54 
+     ULTRASON | 36 
+     MORSURE | 39 
+     EBOULEMENT | 44 
+     BELIER | 49 
+     ULTRALASER | 58 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque | CT/CS | Attaque 
-     --- | --- | --- | --- 
-     CT02 | COUPE-VENT | CT06 | TOXIK 
-     CT09 | BELIER | CT10 | DAMOCLES 
-     CT15 | ULTRALASER | CT23 | DRACO-RAGE 
-     CT31 | COPIE | CT32 | REFLET 
-     CT33 | PROTECTION | CT34 | PATIENCE 
-     CT38 | DEFLAGRATION | CT39 | METEORES 
-     CT43 | PIQUE | CT44 | REPOS 
+     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- | --- | --- 
+     CT02 | COUPE-VENT | CT06 | TOXIK | CT09 | BELIER 
+     CT10 | DAMOCLES | CT15 | ULTRALASER | CT20 | LANCE-FLAMME 
+     CT23 | DRACO-RAGE | CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE | CT38 | DEFLAGRATION 
+     CT39 | METEORES | CT43 | PIQUE | CT44 | REPOS 
      CT50 | CLONAGE | CS02 | VOL 
 - **143 RONFLEX**
    * Statistiques de base :
@@ -5387,14 +5366,14 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
      --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT01 | ULTIMAPOING | CT04 | POINGLACE | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT08 | PLAQUAGE 
      CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O | CT13 | LASER GLACE 
      CT14 | BLIZZARD | CT15 | ULTRALASER | CT16 | JACKPOT | CT17 | SACRIFICE | CT18 | RIPOSTE 
      CT19 | FRAPPE ATLAS | CT22 | LANCE-SOLEIL | CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT26 | SEISME 
      CT27 | ABIME | CT29 | PSYKO | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
      CT33 | PROTECTION | CT34 | PATIENCE | CT35 | METRONOME | CT38 | DEFLAGRATION | CT40 | COUD'KRANE 
-     CT44 | REPOS | CT46 | VAGUE PSY | CT48 | EBOULEMENT | CT50 | CLONAGE | CS03 | SURF 
-     CS04 | FORCE 
+     CT44 | REPOS | CT46 | VAGUE PSY | CT47 | POING-ECLAIR | CT48 | EBOULEMENT | CT49 | POING DE FEU 
+     CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
 - **144 ARTIKODIN**
    * Statistiques de base :
 
@@ -5424,13 +5403,12 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
      --- | --- | --- | --- | --- | --- 
-     CT02 | COUPE-VENT | CT04 | AMNESIE | CT06 | TOXIK 
-     CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O 
-     CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD 
-     CT15 | ULTRALASER | CT31 | COPIE | CT32 | REFLET 
-     CT33 | PROTECTION | CT34 | PATIENCE | CT39 | METEORES 
-     CT43 | PIQUE | CT44 | REPOS | CT50 | CLONAGE 
-     CS02 | VOL 
+     CT02 | COUPE-VENT | CT06 | TOXIK | CT09 | BELIER 
+     CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O 
+     CT13 | LASER GLACE | CT14 | BLIZZARD | CT15 | ULTRALASER 
+     CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
+     CT34 | PATIENCE | CT39 | METEORES | CT43 | PIQUE 
+     CT44 | REPOS | CT50 | CLONAGE | CS02 | VOL 
 - **145 ELECTHOR**
    * Statistiques de base :
 
@@ -5460,13 +5438,12 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
      --- | --- | --- | --- | --- | --- 
-     CT02 | COUPE-VENT | CT04 | AMNESIE | CT06 | TOXIK 
-     CT09 | BELIER | CT10 | DAMOCLES | CT15 | ULTRALASER 
-     CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT31 | COPIE 
-     CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
-     CT39 | METEORES | CT43 | PIQUE | CT44 | REPOS 
-     CT45 | CAGE-ECLAIR | CT50 | CLONAGE | CS02 | VOL 
-     CS05 | FLASH 
+     CT02 | COUPE-VENT | CT06 | TOXIK | CT09 | BELIER 
+     CT10 | DAMOCLES | CT15 | ULTRALASER | CT24 | TONNERRE 
+     CT25 | FATAL-FOUDRE | CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE | CT39 | METEORES 
+     CT43 | PIQUE | CT44 | REPOS | CT45 | CAGE-ECLAIR 
+     CT50 | CLONAGE | CS02 | VOL | CS05 | FLASH 
 - **146 SULFURA**
    * Statistiques de base :
 
@@ -5494,13 +5471,15 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      PROTECTION | 70 
    * Attaques accessibles via CT/CS :
 
-     CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
-     --- | --- | --- | --- | --- | --- 
-     CT02 | COUPE-VENT | CT04 | AMNESIE | CT06 | TOXIK 
-     CT09 | BELIER | CT10 | DAMOCLES | CT15 | ULTRALASER 
-     CT20 | LANCE-FLAMME | CT31 | COPIE | CT32 | REFLET 
-     CT33 | PROTECTION | CT34 | PATIENCE | CT38 | DEFLAGRATION 
-     CT39 | METEORES | CT43 | PIQUE | CT44 | REPOS 
+     CT/CS | Attaque | CT/CS | Attaque 
+     --- | --- | --- | --- 
+     CT02 | COUPE-VENT | CT06 | TOXIK 
+     CT09 | BELIER | CT10 | DAMOCLES 
+     CT15 | ULTRALASER | CT20 | LANCE-FLAMME 
+     CT31 | COPIE | CT32 | REFLET 
+     CT33 | PROTECTION | CT34 | PATIENCE 
+     CT38 | DEFLAGRATION | CT39 | METEORES 
+     CT43 | PIQUE | CT44 | REPOS 
      CT50 | CLONAGE | CS02 | VOL 
 - **147 MINIDRACO**
    * Statistiques de base :
@@ -5514,7 +5493,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 5 
 
-   * Evolution : niveau 30 -> DRACO  
+   * Evolution : niveau 30 (DRACO)  
 
    * Attaques de départ : LIGOTAGE, GROZ'YEUX
 
@@ -5552,7 +5531,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Taux de croissance : 5 
 
-   * Evolution : niveau 45 -> DRACOLOSSE  
+   * Evolution : niveau 45 (DRACOLOSSE)  
 
    * Attaques de départ : LIGOTAGE, GROZ'YEUX, CAGE-ECLAIR
 
@@ -5647,14 +5626,14 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
      --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-     CT01 | ULTIMAPOING | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT08 | PLAQUAGE 
+     CT01 | ULTIMAPOING | CT04 | POINGLACE | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT08 | PLAQUAGE 
      CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O | CT13 | LASER GLACE 
      CT14 | BLIZZARD | CT15 | ULTRALASER | CT16 | JACKPOT | CT17 | SACRIFICE | CT18 | RIPOSTE 
      CT19 | FRAPPE ATLAS | CT20 | LANCE-FLAMME | CT22 | LANCE-SOLEIL | CT24 | TONNERRE | CT25 | FATAL-FOUDRE 
      CT29 | PSYKO | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
      CT34 | PATIENCE | CT35 | METRONOME | CT38 | DEFLAGRATION | CT40 | COUD'KRANE | CT44 | REPOS 
-     CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY | CT49 | TRIPLATTAQUE | CT50 | CLONAGE | CS04 | FORCE 
-     CS05 | FLASH 
+     CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY | CT47 | POING-ECLAIR | CT49 | POING DE FEU | CT49 | POING DE FEU 
+     CT50 | CLONAGE | CS04 | FORCE | CS05 | FLASH 
 - **151 MEW**
    * Statistiques de base :
 
@@ -5689,13 +5668,13 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
      --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
-     CT01 | ULTIMAPOING | CT02 | COUPE-VENT | CT03 | DANSE-LAMES | CT04 | AMNESIE | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT07 | EMPAL'KORNE 
+     CT01 | ULTIMAPOING | CT02 | COUPE-VENT | CT03 | DANSE-LAMES | CT04 | POINGLACE | CT05 | ULTIMAWASHI | CT06 | TOXIK | CT07 | EMPAL'KORNE 
      CT08 | PLAQUAGE | CT09 | BELIER | CT10 | DAMOCLES | CT11 | BULLES D'O | CT12 | PISTOLET A O | CT13 | LASER GLACE | CT14 | BLIZZARD 
      CT15 | ULTRALASER | CT16 | JACKPOT | CT17 | SACRIFICE | CT18 | RIPOSTE | CT19 | FRAPPE ATLAS | CT20 | LANCE-FLAMME | CT21 | MEGA-SANGSUE 
      CT22 | LANCE-SOLEIL | CT23 | DRACO-RAGE | CT24 | TONNERRE | CT25 | FATAL-FOUDRE | CT26 | SEISME | CT27 | ABIME | CT28 | TUNNEL 
      CT29 | PSYKO | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE | CT35 | METRONOME 
      CT36 | DETRITUS | CT37 | BOMB'OEUF | CT38 | DEFLAGRATION | CT39 | METEORES | CT40 | COUD'KRANE | CT41 | E-COQUE | CT42 | DEVOREVE 
-     CT43 | PIQUE | CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY | CT47 | EXPLOSION | CT48 | EBOULEMENT | CT49 | TRIPLATTAQUE 
+     CT43 | PIQUE | CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY | CT47 | POING-ECLAIR | CT48 | EBOULEMENT | CT49 | POING DE FEU 
      CT50 | CLONAGE | CS01 | COUPE | CS02 | VOL | CS03 | SURF | CS04 | FORCE | CS05 | FLASH 
 
 
@@ -5876,7 +5855,7 @@ CT/CS | Numéro | Nom
 CT | 01 | ULTIMAPOING | 
 CT | 02 | COUPE-VENT | 
 CT | 03 | DANSE-LAMES | 
-CT | 04 | AMNESIE | 
+CT | 04 | POINGLACE | 
 CT | 05 | ULTIMAWASHI | 
 CT | 06 | TOXIK | 
 CT | 07 | EMPAL'KORNE | 
@@ -5919,9 +5898,9 @@ CT | 43 | PIQUE |
 CT | 44 | REPOS | 
 CT | 45 | CAGE-ECLAIR | 
 CT | 46 | VAGUE PSY | 
-CT | 47 | EXPLOSION | 
+CT | 47 | POING-ECLAIR | 
 CT | 48 | EBOULEMENT | 
-CT | 49 | TRIPLATTAQUE | 
+CT | 49 | POING DE FEU | 
 CT | 50 | CLONAGE | 
 CS | 01 | COUPE | 
 CS | 02 | VOL | 
@@ -6055,8 +6034,9 @@ Le taux d'apparition d'un pokémon à un niveau donné est toujours de 10%. Donc
      Pokémon | Niveau(x) 
      --- | --- 
      KRABBY | 33, 31
-     OTARIA | 31, 33
+     KABUTO | 31
      AMONITA | 31
+     OTARIA | 33
      HYPOTREMPE | 29
      KOKIYAS | 30, 29
      HYPOCEAN | 39
@@ -6067,9 +6047,8 @@ Le taux d'apparition d'un pokémon à un niveau donné est toujours de 10%. Donc
      --- | --- 
      RAMOLOSS | 31, 29
      KOKIYAS | 31, 33
-     HYPOTREMPE | 29
+     HYPOTREMPE | 29, 31
      OTARIA | 31, 29
-     KABUTO | 31
      FLAGADOSS | 39
      NOSFERALTO | 32
 - Manoir 1
@@ -6182,8 +6161,9 @@ Le taux d'apparition d'un pokémon à un niveau donné est toujours de 10%. Donc
      NIDORAN♂ | 25
      DODUO | 26
      MIMITOSS | 23
-     NOEUNOEUF | 24, 26
+     NOEUNOEUF | 24
      NIDORINO | 33
+     TYGNON | 30
      KICKLEE | 30
      SCARABRUTE | 23
      TAUROS | 26
@@ -6197,7 +6177,7 @@ Le taux d'apparition d'un pokémon à un niveau donné est toujours de 10%. Donc
      NOEUNOEUF | 24, 25
      NIDORINO | 31
      NIDORINA | 31
-     TYGNON | 30
+     PARASECT | 30
      SCARABRUTE | 23
      INSECATEUR | 23
      LEVEINARD | 23

@@ -211,7 +211,7 @@ def buildPokemonsDoc(titleSection1, lienSection1, movesNamesDict, tmhmDict, poke
             description = ""
             for key, val in pokemon.evol.items():
                 if str(key).isnumeric():
-                    description += "niveau " + key + " -> " + pokeNamesDict[val] + " "
+                    description += "niveau " + key + " (" + pokeNamesDict[val] + ") "
                 else:
                     description += itemsDescriptionDict[key] + " -> " + pokeNamesDict[val] + " "
             docLines.append("   * Evolution : " + description + " \n\n")
