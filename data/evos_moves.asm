@@ -915,13 +915,10 @@ Mon126_EvosMoves:
 ;Evolutions
 	db 0
 ;Learnset
-	db 36,LEER
-	db 39,CONFUSE_RAY
+	db 36,CONFUSE_RAY
 	db 43,FIRE_PUNCH
-	db 48,SMOKESCREEN
-	db 52,SMOG
-	db 55,FLAMETHROWER
-	db 62,FIRE_BLAST
+	db 49,SMOKESCREEN
+	db 56,FLAMETHROWER
 	db 0
 
 Mon155_EvosMoves:
@@ -1520,7 +1517,7 @@ Mon133_EvosMoves:
 Mon133_EvosEnd:
 ;Learnset
 	db 26,TAIL_WHIP
-	db 30,QUICK_ATTACK
+	db 29,QUICK_ATTACK
 	db 33,BITE
 	db 37,FOCUS_ENERGY
 	db 45,TAKE_DOWN
@@ -1738,6 +1735,7 @@ Mon051_EvosMoves:
 	db 30,FURY_SWIPES
 	db 35,SLASH
 	db 45,EARTHQUAKE
+	db 52,TRI_ATTACK
 	db 0
 
 Mon049_EvosMoves:
@@ -2254,7 +2252,7 @@ Mon077_EvosMoves:
 	db 39,FIRE_SPIN
 	db 43,TAKE_DOWN
 	db 48,AGILITY
-	db 53,FIRE_BLAST
+	db 53,FLAMETHROWER
 	db 0
 
 Mon078_EvosMoves:
@@ -2268,7 +2266,7 @@ Mon078_EvosMoves:
 	db 39,FIRE_SPIN
 	db 46,TAKE_DOWN
 	db 53,AGILITY
-	db 60,FIRE_BLAST
+	db 60,FLAMETHROWER
 	db 0
 
 Mon019_EvosMoves:
