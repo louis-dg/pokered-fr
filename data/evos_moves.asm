@@ -1366,12 +1366,11 @@ Mon148_EvosMoves:
 Mon140_EvosMoves:
 ;KABUTO
 ;Evolutions
-	db EV_LEVEL,40,KABUTOPS
+	db EV_LEVEL,42,KABUTOPS
 	db 0
 ;Learnset
-	db 34,ABSORB
 	db 39,SLASH
-	db 44,LEER
+	db 43,LEER
 	db 48,HYDRO_PUMP
 	db 0
 
@@ -1380,7 +1379,6 @@ Mon141_EvosMoves:
 ;Evolutions
 	db 0
 ;Learnset
-	db 34,ABSORB
 	db 39,SLASH
 	db 43,LEER
 	db 50,HYDRO_PUMP
@@ -1463,10 +1461,9 @@ Mon028_EvosMoves:
 Mon138_EvosMoves:
 ;OMANYTE
 ;Evolutions
-	db EV_LEVEL,40,OMASTAR
+	db EV_LEVEL,42,OMASTAR
 	db 0
 ;Learnset
-	db 34,HORN_ATTACK
 	db 39,ROCK_THROW
 	db 44,SPIKE_CANNON
 	db 49,HYDRO_PUMP
@@ -1478,7 +1475,6 @@ Mon139_EvosMoves:
 ;Evolutions
 	db 0
 ;Learnset
-	db 34,HORN_ATTACK
 	db 39,ROCK_THROW
 	db 44,SPIKE_CANNON
 	db 50,HYDRO_PUMP
@@ -2366,11 +2362,11 @@ Mon142_EvosMoves:
 ;Evolutions
 	db 0
 ;Learnset
-	db 31,SUPERSONIC
-	db 34,BITE
-	db 39,ROCK_SLIDE
-	db 45,TAKE_DOWN
-	db 54,HYPER_BEAM
+	db 36,SUPERSONIC
+	db 39,BITE
+	db 44,ROCK_SLIDE
+	db 49,TAKE_DOWN
+	db 58,HYPER_BEAM
 	db 0
 
 Mon184_EvosMoves:
