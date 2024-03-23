@@ -1,7 +1,7 @@
 IslandMonsB3:
 	db $0A
     db 33,KRABBY
-    db 31,SEEL
+    db 31,KABUTO
     db 31,OMANYTE
     db 33,SEEL
     db 29,HORSEA
