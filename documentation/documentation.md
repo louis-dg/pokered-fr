@@ -8,7 +8,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
 - [II. Liste des attaques](#liste_attaques)
 
-- [III. Description des CT/CS](#TM)
+- [III. Description des CT/CS](#capsules)
 
 - [IV. Description des régions](#desc_regions)
 
@@ -5849,7 +5849,7 @@ VOL | 70 | 95 | 15 | VOL | S'envole au premier tour et frappe au tour suivant
 VOL-VIE | 20 | 100 | 20 | PLANTE | Draine les pv
 YOGA | 0 | 100 | 40 | PSY | Augmente la statistique d'attaque d'un palier
 
-## <a name="TM"></a>III. Description des CT/CS
+## <a name="capsules"></a>III. Description des CT/CS
 CT/CS | Numéro | Nom 
 --- | --- | --- 
 CT | 01 | ULTIMAPOING | 
