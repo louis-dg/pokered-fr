@@ -2,6 +2,7 @@ class Pokemon:
 
     def __init__(self):
         self._name = None
+        self._nameVO = None
         self._number = None
         self._moves = {}  # key = move name, value = level it is learnt
         self._baseHP = None
@@ -25,6 +26,14 @@ class Pokemon:
     @name.setter
     def name(self, v):
         self._name = v
+
+    @property
+    def nameVO(self):
+        return self._nameVO
+
+    @nameVO.setter
+    def nameVO(self, v):
+        self._nameVO = v
 
     @property
     def moves(self):
@@ -154,3 +163,11 @@ class Pokemon:
 
     def totalStats(self):
         return int(self._baseAtk) + int(self._baseDef) + int(self._baseSpeed) + int(self.baseSpecial) + int(self._baseHP)
+
+    def getImageFilename(self):
+        if self._nameVO == 'MR_MIME':
+            return "mr.mime.png"
+        elif self._nameVO.startswith("NIDORAN"):
+            return self._nameVO.replace('_', '').lower()
+        else:
+            return self._nameVO.lower() + ".png"

@@ -145,6 +145,7 @@ def buildPokemonsData(pokeNamesDict):
 
             pokemon.number = pokeNum
             pokemon.name = nameFr
+            pokemon.nameVO = name
             pokemon.moves = moves
             pokemons[name] = pokemon
 
@@ -197,7 +198,7 @@ def buildPokemonsDoc(titleSection1, lienSection1, movesNamesDict, tmhmDict, poke
     pokemons.sort(key=lambda x: x.number, reverse=False)
 
     for pokemon in pokemons:
-        docLines.append("- **" + pokemon.number + " " + pokemon.name + "**\n")
+        docLines.append("- ![" + pokemon.name + "](../pic/bmon/" + pokemon.getImageFilename() + ") **" + pokemon.number + " " + pokemon.name + "**\n")
 
         docLines.append("   * Statistiques de base :\n\n")
         docLines.append("     PV | FOR | DEF | VIT | SPE \n")

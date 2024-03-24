@@ -17,7 +17,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 - [VI. Glossaire](#glossaire)
 
 ## <a name="props_poke"></a>I. Propriétés des pokémons
-- **001 BULBIZARRE**
+- ![BULBIZARRE](../pic/bmon/bulbasaur.png) **001 BULBIZARRE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -58,7 +58,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE 
      CT36 | DETRITUS | CT44 | REPOS 
      CT50 | CLONAGE | CS01 | COUPE 
-- **002 HERBIZARRE**
+- ![HERBIZARRE](../pic/bmon/ivysaur.png) **002 HERBIZARRE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -99,7 +99,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE 
      CT36 | DETRITUS | CT44 | REPOS 
      CT50 | CLONAGE | CS01 | COUPE 
-- **003 FLORIZARRE**
+- ![FLORIZARRE](../pic/bmon/venusaur.png) **003 FLORIZARRE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -138,7 +138,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
      CT34 | PATIENCE | CT36 | DETRITUS | CT44 | REPOS 
      CT50 | CLONAGE | CS01 | COUPE 
-- **004 SALAMECHE**
+- ![SALAMECHE](../pic/bmon/charmander.png) **004 SALAMECHE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -178,7 +178,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE | CT38 | DEFLAGRATION | CT39 | METEORES 
      CT40 | COUD'KRANE | CT44 | REPOS | CT49 | POING DE FEU | CT50 | CLONAGE 
      CS01 | COUPE | CS04 | FORCE 
-- **005 REPTINCEL**
+- ![REPTINCEL](../pic/bmon/charmeleon.png) **005 REPTINCEL**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -217,7 +217,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE | CT38 | DEFLAGRATION | CT39 | METEORES 
      CT40 | COUD'KRANE | CT44 | REPOS | CT49 | POING DE FEU | CT50 | CLONAGE 
      CS01 | COUPE | CS04 | FORCE 
-- **006 DRACAUFEU**
+- ![DRACAUFEU](../pic/bmon/charizard.png) **006 DRACAUFEU**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -257,7 +257,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT38 | DEFLAGRATION | CT39 | METEORES | CT40 | COUD'KRANE 
      CT44 | REPOS | CT49 | POING DE FEU | CT50 | CLONAGE | CS01 | COUPE 
      CS02 | VOL | CS04 | FORCE 
-- **007 CARAPUCE**
+- ![CARAPUCE](../pic/bmon/squirtle.png) **007 CARAPUCE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -297,7 +297,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
      CT34 | PATIENCE | CT40 | COUD'KRANE | CT44 | REPOS 
      CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
-- **008 CARABAFFE**
+- ![CARABAFFE](../pic/bmon/wartortle.png) **008 CARABAFFE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -337,7 +337,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
      CT34 | PATIENCE | CT40 | COUD'KRANE | CT44 | REPOS 
      CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
-- **009 TORTANK**
+- ![TORTANK](../pic/bmon/blastoise.png) **009 TORTANK**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -376,7 +376,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT27 | ABIME | CT28 | TUNNEL | CT30 | COUP D'BOULE | CT31 | COPIE 
      CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE | CT40 | COUD'KRANE 
      CT44 | REPOS | CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
-- **010 CHENIPAN**
+- ![CHENIPAN](../pic/bmon/caterpie.png) **010 CHENIPAN**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -396,7 +396,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Attaques accessibles via CT/CS : aucune
 
-- **011 CHRYSACIER**
+- ![CHRYSACIER](../pic/bmon/metapod.png) **011 CHRYSACIER**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -416,7 +416,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Attaques accessibles via CT/CS : aucune
 
-- **012 PAPILUSION**
+- ![PAPILUSION](../pic/bmon/butterfree.png) **012 PAPILUSION**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -453,7 +453,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
      CT39 | METEORES | CT44 | REPOS | CT46 | VAGUE PSY 
      CT50 | CLONAGE | CS02 | VOL 
-- **013 ASPICOT**
+- ![ASPICOT](../pic/bmon/weedle.png) **013 ASPICOT**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -473,7 +473,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Attaques accessibles via CT/CS : aucune
 
-- **014 COCONFORT**
+- ![COCONFORT](../pic/bmon/kakuna.png) **014 COCONFORT**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -493,7 +493,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Attaques accessibles via CT/CS : aucune
 
-- **015 DARDARGNAN**
+- ![DARDARGNAN](../pic/bmon/beedrill.png) **015 DARDARGNAN**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -533,7 +533,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT36 | DETRITUS | CT39 | METEORES 
      CT40 | COUD'KRANE | CT44 | REPOS 
      CT50 | CLONAGE | CS01 | COUPE 
-- **016 ROUCOOL**
+- ![ROUCOOL](../pic/bmon/pidgey.png) **016 ROUCOOL**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -571,7 +571,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT39 | METEORES | CT43 | PIQUE 
      CT44 | REPOS | CT50 | CLONAGE 
      CS02 | VOL 
-- **017 ROUCOUPS**
+- ![ROUCOUPS](../pic/bmon/pidgeotto.png) **017 ROUCOUPS**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -609,7 +609,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT39 | METEORES | CT43 | PIQUE 
      CT44 | REPOS | CT50 | CLONAGE 
      CS02 | VOL 
-- **018 ROUCARNAGE**
+- ![ROUCARNAGE](../pic/bmon/pidgeot.png) **018 ROUCARNAGE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -647,7 +647,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT39 | METEORES 
      CT43 | PIQUE | CT44 | REPOS 
      CT50 | CLONAGE | CS02 | VOL 
-- **019 RATTATA**
+- ![RATTATA](../pic/bmon/rattata.png) **019 RATTATA**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -682,7 +682,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT28 | TUNNEL | CT31 | COPIE | CT32 | REFLET 
      CT34 | PATIENCE | CT39 | METEORES | CT40 | COUD'KRANE 
      CT44 | REPOS | CT50 | CLONAGE 
-- **020 RATTATAC**
+- ![RATTATAC](../pic/bmon/raticate.png) **020 RATTATAC**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -718,7 +718,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE 
      CT39 | METEORES | CT40 | COUD'KRANE | CT44 | REPOS 
      CT50 | CLONAGE 
-- **021 PIAFABEC**
+- ![PIAFABEC](../pic/bmon/spearow.png) **021 PIAFABEC**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -754,7 +754,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT39 | METEORES 
      CT43 | PIQUE | CT44 | REPOS 
      CT50 | CLONAGE | CS02 | VOL 
-- **022 RAPASDEPIC**
+- ![RAPASDEPIC](../pic/bmon/fearow.png) **022 RAPASDEPIC**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -791,7 +791,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT39 | METEORES | CT43 | PIQUE 
      CT44 | REPOS | CT50 | CLONAGE 
      CS02 | VOL 
-- **023 ABO**
+- ![ABO](../pic/bmon/ekans.png) **023 ABO**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -828,7 +828,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT32 | REFLET | CT34 | PATIENCE | CT36 | DETRITUS 
      CT40 | COUD'KRANE | CT44 | REPOS | CT48 | EBOULEMENT 
      CT50 | CLONAGE | CS04 | FORCE 
-- **024 ARBOK**
+- ![ARBOK](../pic/bmon/arbok.png) **024 ARBOK**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -865,7 +865,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE 
      CT36 | DETRITUS | CT40 | COUD'KRANE | CT44 | REPOS 
      CT48 | EBOULEMENT | CT50 | CLONAGE | CS04 | FORCE 
-- **025 PIKACHU**
+- ![PIKACHU](../pic/bmon/pikachu.png) **025 PIKACHU**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -906,7 +906,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT39 | METEORES | CT40 | COUD'KRANE 
      CT44 | REPOS | CT45 | CAGE-ECLAIR | CT50 | CLONAGE 
      CS05 | FLASH 
-- **026 RAICHU**
+- ![RAICHU](../pic/bmon/raichu.png) **026 RAICHU**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -947,7 +947,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE | CT39 | METEORES 
      CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR 
      CT50 | CLONAGE | CS05 | FLASH 
-- **027 SABELETTE**
+- ![SABELETTE](../pic/bmon/sandshrew.png) **027 SABELETTE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -985,7 +985,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT39 | METEORES | CT40 | COUD'KRANE 
      CT44 | REPOS | CT48 | EBOULEMENT | CT50 | CLONAGE 
      CS01 | COUPE | CS04 | FORCE 
-- **028 SABLAIREAU**
+- ![SABLAIREAU](../pic/bmon/sandslash.png) **028 SABLAIREAU**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -1023,7 +1023,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT32 | REFLET | CT34 | PATIENCE | CT39 | METEORES 
      CT40 | COUD'KRANE | CT44 | REPOS | CT48 | EBOULEMENT 
      CT50 | CLONAGE | CS01 | COUPE | CS04 | FORCE 
-- **029 NIDORAN♀**
+- ![NIDORAN♀](../pic/bmon/nidoranf) **029 NIDORAN♀**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -1064,7 +1064,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE 
      CT40 | COUD'KRANE | CT44 | REPOS 
      CT50 | CLONAGE 
-- **030 NIDORINA**
+- ![NIDORINA](../pic/bmon/nidorina.png) **030 NIDORINA**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -1104,7 +1104,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
      CT34 | PATIENCE | CT40 | COUD'KRANE | CT44 | REPOS 
      CT50 | CLONAGE 
-- **031 NIDOQUEEN**
+- ![NIDOQUEEN](../pic/bmon/nidoqueen.png) **031 NIDOQUEEN**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -1145,7 +1145,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT36 | DETRITUS | CT38 | DEFLAGRATION | CT40 | COUD'KRANE | CT44 | REPOS 
      CT47 | POING-ECLAIR | CT48 | EBOULEMENT | CT49 | POING DE FEU | CT50 | CLONAGE | CS03 | SURF 
      CS04 | FORCE 
-- **032 NIDORAN♂**
+- ![NIDORAN♂](../pic/bmon/nidoranm) **032 NIDORAN♂**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -1185,7 +1185,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT32 | REFLET | CT33 | PROTECTION 
      CT34 | PATIENCE | CT40 | COUD'KRANE 
      CT44 | REPOS | CT50 | CLONAGE 
-- **033 NIDORINO**
+- ![NIDORINO](../pic/bmon/nidorino.png) **033 NIDORINO**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -1224,7 +1224,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
      CT34 | PATIENCE | CT40 | COUD'KRANE | CT44 | REPOS 
      CT50 | CLONAGE 
-- **034 NIDOKING**
+- ![NIDOKING](../pic/bmon/nidoking.png) **034 NIDOKING**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -1264,7 +1264,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT36 | DETRITUS | CT38 | DEFLAGRATION | CT40 | COUD'KRANE | CT44 | REPOS 
      CT47 | POING-ECLAIR | CT48 | EBOULEMENT | CT49 | POING DE FEU | CT50 | CLONAGE | CS03 | SURF 
      CS04 | FORCE 
-- **035 MELOFEE**
+- ![MELOFEE](../pic/bmon/clefairy.png) **035 MELOFEE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -1302,7 +1302,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE | CT35 | METRONOME | CT38 | DEFLAGRATION 
      CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY 
      CT50 | CLONAGE | CS04 | FORCE | CS05 | FLASH 
-- **036 MELODELFE**
+- ![MELODELFE](../pic/bmon/clefable.png) **036 MELODELFE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -1340,7 +1340,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE | CT35 | METRONOME 
      CT38 | DEFLAGRATION | CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR 
      CT46 | VAGUE PSY | CT50 | CLONAGE | CS04 | FORCE | CS05 | FLASH 
-- **037 GOUPIX**
+- ![GOUPIX](../pic/bmon/vulpix.png) **037 GOUPIX**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -1378,7 +1378,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT38 | DEFLAGRATION 
      CT39 | METEORES | CT40 | COUD'KRANE 
      CT44 | REPOS | CT50 | CLONAGE 
-- **038 FEUNARD**
+- ![FEUNARD](../pic/bmon/ninetales.png) **038 FEUNARD**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -1414,7 +1414,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
      CT38 | DEFLAGRATION | CT39 | METEORES | CT40 | COUD'KRANE 
      CT44 | REPOS | CT50 | CLONAGE 
-- **039 RONDOUDOU**
+- ![RONDOUDOU](../pic/bmon/jigglypuff.png) **039 RONDOUDOU**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -1453,7 +1453,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE | CT38 | DEFLAGRATION | CT40 | COUD'KRANE 
      CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY | CT50 | CLONAGE 
      CS04 | FORCE | CS05 | FLASH 
-- **040 GRODOUDOU**
+- ![GRODOUDOU](../pic/bmon/wigglytuff.png) **040 GRODOUDOU**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -1492,7 +1492,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE | CT38 | DEFLAGRATION 
      CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY 
      CT49 | POING DE FEU | CT50 | CLONAGE | CS04 | FORCE | CS05 | FLASH 
-- **041 NOSFERAPTI**
+- ![NOSFERAPTI](../pic/bmon/zubat.png) **041 NOSFERAPTI**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -1528,7 +1528,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT36 | DETRITUS | CT39 | METEORES 
      CT44 | REPOS | CT50 | CLONAGE 
      CS02 | VOL 
-- **042 NOSFERALTO**
+- ![NOSFERALTO](../pic/bmon/golbat.png) **042 NOSFERALTO**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -1564,7 +1564,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT36 | DETRITUS 
      CT39 | METEORES | CT44 | REPOS 
      CT50 | CLONAGE | CS02 | VOL 
-- **043 MYSTHERBE**
+- ![MYSTHERBE](../pic/bmon/oddish.png) **043 MYSTHERBE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -1602,7 +1602,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE 
      CT36 | DETRITUS | CT44 | REPOS 
      CT50 | CLONAGE | CS01 | COUPE 
-- **044 ORTIDE**
+- ![ORTIDE](../pic/bmon/gloom.png) **044 ORTIDE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -1640,7 +1640,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE 
      CT36 | DETRITUS | CT44 | REPOS 
      CT50 | CLONAGE | CS01 | COUPE 
-- **045 RAFFLESIA**
+- ![RAFFLESIA](../pic/bmon/vileplume.png) **045 RAFFLESIA**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -1679,7 +1679,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE 
      CT36 | DETRITUS | CT44 | REPOS 
      CT50 | CLONAGE | CS01 | COUPE 
-- **046 PARAS**
+- ![PARAS](../pic/bmon/paras.png) **046 PARAS**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -1719,7 +1719,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE 
      CT40 | COUD'KRANE | CT44 | REPOS 
      CT50 | CLONAGE | CS01 | COUPE 
-- **047 PARASECT**
+- ![PARASECT](../pic/bmon/parasect.png) **047 PARASECT**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -1757,7 +1757,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
      CT34 | PATIENCE | CT40 | COUD'KRANE | CT44 | REPOS 
      CT50 | CLONAGE | CS01 | COUPE 
-- **048 MIMITOSS**
+- ![MIMITOSS](../pic/bmon/venonat.png) **048 MIMITOSS**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -1794,7 +1794,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE 
      CT44 | REPOS | CT46 | VAGUE PSY 
      CT50 | CLONAGE 
-- **049 AEROMITE**
+- ![AEROMITE](../pic/bmon/venomoth.png) **049 AEROMITE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -1832,7 +1832,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE 
      CT39 | METEORES | CT44 | REPOS 
      CT46 | VAGUE PSY | CT50 | CLONAGE 
-- **050 TAUPIQUEUR**
+- ![TAUPIQUEUR](../pic/bmon/diglett.png) **050 TAUPIQUEUR**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -1869,7 +1869,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT32 | REFLET | CT34 | PATIENCE 
      CT44 | REPOS | CT48 | EBOULEMENT 
      CT50 | CLONAGE 
-- **051 TRIOPIKEUR**
+- ![TRIOPIKEUR](../pic/bmon/dugtrio.png) **051 TRIOPIKEUR**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -1907,7 +1907,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT31 | COPIE | CT32 | REFLET 
      CT34 | PATIENCE | CT44 | REPOS 
      CT48 | EBOULEMENT | CT50 | CLONAGE 
-- **052 MIAOUSS**
+- ![MIAOUSS](../pic/bmon/meowth.png) **052 MIAOUSS**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -1944,7 +1944,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
      CT34 | PATIENCE | CT39 | METEORES | CT40 | COUD'KRANE 
      CT44 | REPOS | CT50 | CLONAGE 
-- **053 PERSIAN**
+- ![PERSIAN](../pic/bmon/persian.png) **053 PERSIAN**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -1980,7 +1980,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT25 | FATAL-FOUDRE | CT30 | COUP D'BOULE | CT31 | COPIE 
      CT32 | REFLET | CT34 | PATIENCE | CT39 | METEORES 
      CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE 
-- **054 PSYKOKWAK**
+- ![PSYKOKWAK](../pic/bmon/psyduck.png) **054 PSYKOKWAK**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -2020,7 +2020,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE | CT39 | METEORES 
      CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE | CS03 | SURF 
      CS04 | FORCE 
-- **055 AKWAKWAK**
+- ![AKWAKWAK](../pic/bmon/golduck.png) **055 AKWAKWAK**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -2059,7 +2059,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT28 | TUNNEL | CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE 
      CT39 | METEORES | CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE 
      CS03 | SURF | CS04 | FORCE 
-- **056 FEROSINGE**
+- ![FEROSINGE](../pic/bmon/mankey.png) **056 FEROSINGE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -2100,7 +2100,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT32 | REFLET | CT34 | PATIENCE | CT35 | METRONOME 
      CT39 | METEORES | CT40 | COUD'KRANE | CT44 | REPOS 
      CT48 | EBOULEMENT | CT50 | CLONAGE | CS04 | FORCE 
-- **057 COLOSSINGE**
+- ![COLOSSINGE](../pic/bmon/primeape.png) **057 COLOSSINGE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -2139,7 +2139,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT32 | REFLET | CT34 | PATIENCE | CT35 | METRONOME | CT39 | METEORES 
      CT40 | COUD'KRANE | CT44 | REPOS | CT48 | EBOULEMENT | CT50 | CLONAGE 
      CS04 | FORCE 
-- **058 CANINOS**
+- ![CANINOS](../pic/bmon/growlithe.png) **058 CANINOS**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -2177,7 +2177,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
      CT38 | DEFLAGRATION | CT39 | METEORES | CT40 | COUD'KRANE 
      CT44 | REPOS | CT50 | CLONAGE 
-- **059 ARCANIN**
+- ![ARCANIN](../pic/bmon/arcanine.png) **059 ARCANIN**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -2215,7 +2215,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
      CT34 | PATIENCE | CT38 | DEFLAGRATION | CT39 | METEORES 
      CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE 
-- **060 PTITARD**
+- ![PTITARD](../pic/bmon/poliwag.png) **060 PTITARD**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -2251,7 +2251,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
      CT34 | PATIENCE | CT40 | COUD'KRANE | CT44 | REPOS 
      CT46 | VAGUE PSY | CT50 | CLONAGE | CS03 | SURF 
-- **061 TETARTE**
+- ![TETARTE](../pic/bmon/poliwhirl.png) **061 TETARTE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -2290,7 +2290,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT29 | PSYKO | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
      CT34 | PATIENCE | CT35 | METRONOME | CT40 | COUD'KRANE | CT44 | REPOS 
      CT46 | VAGUE PSY | CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
-- **062 TARTARD**
+- ![TARTARD](../pic/bmon/poliwrath.png) **062 TARTARD**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -2330,7 +2330,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT32 | REFLET | CT34 | PATIENCE | CT35 | METRONOME | CT40 | COUD'KRANE 
      CT44 | REPOS | CT46 | VAGUE PSY | CT50 | CLONAGE | CS03 | SURF 
      CS04 | FORCE 
-- **063 ABRA**
+- ![ABRA](../pic/bmon/abra.png) **063 ABRA**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -2359,7 +2359,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE | CT35 | METRONOME 
      CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR 
      CT46 | VAGUE PSY | CT50 | CLONAGE | CS05 | FLASH 
-- **064 KADABRA**
+- ![KADABRA](../pic/bmon/kadabra.png) **064 KADABRA**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -2398,7 +2398,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT35 | METRONOME | CT40 | COUD'KRANE | CT44 | REPOS 
      CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY | CT49 | POING DE FEU 
      CT50 | CLONAGE | CS05 | FLASH 
-- **065 ALAKAZAM**
+- ![ALAKAZAM](../pic/bmon/alakazam.png) **065 ALAKAZAM**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -2437,7 +2437,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT35 | METRONOME | CT40 | COUD'KRANE 
      CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY 
      CT50 | CLONAGE | CS05 | FLASH 
-- **066 MACHOC**
+- ![MACHOC](../pic/bmon/machop.png) **066 MACHOC**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -2479,7 +2479,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT35 | METRONOME | CT38 | DEFLAGRATION 
      CT40 | COUD'KRANE | CT44 | REPOS | CT48 | EBOULEMENT 
      CT50 | CLONAGE | CS04 | FORCE 
-- **067 MACHOPEUR**
+- ![MACHOPEUR](../pic/bmon/machoke.png) **067 MACHOPEUR**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -2521,7 +2521,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT35 | METRONOME | CT38 | DEFLAGRATION 
      CT40 | COUD'KRANE | CT44 | REPOS | CT48 | EBOULEMENT 
      CT50 | CLONAGE | CS04 | FORCE 
-- **068 MACKOGNEUR**
+- ![MACKOGNEUR](../pic/bmon/machamp.png) **068 MACKOGNEUR**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -2563,7 +2563,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT32 | REFLET | CT34 | PATIENCE | CT35 | METRONOME 
      CT38 | DEFLAGRATION | CT40 | COUD'KRANE | CT44 | REPOS 
      CT48 | EBOULEMENT | CT50 | CLONAGE | CS04 | FORCE 
-- **069 CHETIFLOR**
+- ![CHETIFLOR](../pic/bmon/bellsprout.png) **069 CHETIFLOR**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -2603,7 +2603,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE 
      CT36 | DETRITUS | CT44 | REPOS 
      CT50 | CLONAGE | CS01 | COUPE 
-- **070 BOUSTIFLOR**
+- ![BOUSTIFLOR](../pic/bmon/weepinbell.png) **070 BOUSTIFLOR**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -2643,7 +2643,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE 
      CT36 | DETRITUS | CT44 | REPOS 
      CT50 | CLONAGE | CS01 | COUPE 
-- **071 EMPIFLOR**
+- ![EMPIFLOR](../pic/bmon/victreebel.png) **071 EMPIFLOR**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -2684,7 +2684,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE 
      CT36 | DETRITUS | CT44 | REPOS 
      CT50 | CLONAGE | CS01 | COUPE 
-- **072 TENTACOOL**
+- ![TENTACOOL](../pic/bmon/tentacool.png) **072 TENTACOOL**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -2725,7 +2725,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT36 | DETRITUS | CT40 | COUD'KRANE 
      CT44 | REPOS | CT50 | CLONAGE | CS01 | COUPE 
      CS03 | SURF 
-- **073 TENTACRUEL**
+- ![TENTACRUEL](../pic/bmon/tentacruel.png) **073 TENTACRUEL**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -2766,7 +2766,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE | CT36 | DETRITUS 
      CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE 
      CS01 | COUPE | CS03 | SURF 
-- **074 RACAILLOU**
+- ![RACAILLOU](../pic/bmon/geodude.png) **074 RACAILLOU**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -2805,7 +2805,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE 
      CT35 | METRONOME | CT38 | DEFLAGRATION | CT44 | REPOS 
      CT48 | EBOULEMENT | CT50 | CLONAGE | CS04 | FORCE 
-- **075 GRAVALANCH**
+- ![GRAVALANCH](../pic/bmon/graveler.png) **075 GRAVALANCH**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -2844,7 +2844,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE 
      CT35 | METRONOME | CT38 | DEFLAGRATION | CT44 | REPOS 
      CT48 | EBOULEMENT | CT50 | CLONAGE | CS04 | FORCE 
-- **076 GROLEM**
+- ![GROLEM](../pic/bmon/golem.png) **076 GROLEM**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -2884,7 +2884,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT32 | REFLET | CT34 | PATIENCE | CT35 | METRONOME 
      CT38 | DEFLAGRATION | CT44 | REPOS | CT48 | EBOULEMENT 
      CT50 | CLONAGE | CS04 | FORCE 
-- **077 PONYTA**
+- ![PONYTA](../pic/bmon/ponyta.png) **077 PONYTA**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -2923,7 +2923,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT38 | DEFLAGRATION | CT39 | METEORES 
      CT40 | COUD'KRANE | CT44 | REPOS 
      CT50 | CLONAGE 
-- **078 GALOPA**
+- ![GALOPA](../pic/bmon/rapidash.png) **078 GALOPA**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -2960,7 +2960,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
      CT38 | DEFLAGRATION | CT39 | METEORES | CT40 | COUD'KRANE 
      CT44 | REPOS | CT50 | CLONAGE 
-- **079 RAMOLOSS**
+- ![RAMOLOSS](../pic/bmon/slowpoke.png) **079 RAMOLOSS**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -3000,7 +3000,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT39 | METEORES | CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR 
      CT46 | VAGUE PSY | CT49 | POING DE FEU | CT50 | CLONAGE | CS03 | SURF 
      CS04 | FORCE | CS05 | FLASH 
-- **080 FLAGADOSS**
+- ![FLAGADOSS](../pic/bmon/slowbro.png) **080 FLAGADOSS**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -3041,7 +3041,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT38 | DEFLAGRATION | CT39 | METEORES | CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR 
      CT46 | VAGUE PSY | CT49 | POING DE FEU | CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
      CS05 | FLASH 
-- **081 MAGNETI**
+- ![MAGNETI](../pic/bmon/magnemite.png) **081 MAGNETI**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -3080,7 +3080,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT39 | METEORES 
      CT44 | REPOS | CT45 | CAGE-ECLAIR 
      CT50 | CLONAGE | CS05 | FLASH 
-- **082 MAGNETON**
+- ![MAGNETON](../pic/bmon/magneton.png) **082 MAGNETON**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -3120,7 +3120,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT39 | METEORES | CT44 | REPOS 
      CT45 | CAGE-ECLAIR | CT50 | CLONAGE 
      CS05 | FLASH 
-- **083 CANARTICHO**
+- ![CANARTICHO](../pic/bmon/farfetchd.png) **083 CANARTICHO**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -3158,7 +3158,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT39 | METEORES | CT40 | COUD'KRANE 
      CT44 | REPOS | CT50 | CLONAGE 
      CS01 | COUPE | CS02 | VOL 
-- **084 DODUO**
+- ![DODUO](../pic/bmon/doduo.png) **084 DODUO**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -3196,7 +3196,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT40 | COUD'KRANE | CT43 | PIQUE 
      CT44 | REPOS | CT50 | CLONAGE 
      CS02 | VOL 
-- **085 DODRIO**
+- ![DODRIO](../pic/bmon/dodrio.png) **085 DODRIO**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -3234,7 +3234,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT40 | COUD'KRANE 
      CT43 | PIQUE | CT44 | REPOS 
      CT50 | CLONAGE | CS02 | VOL 
-- **086 OTARIA**
+- ![OTARIA](../pic/bmon/seel.png) **086 OTARIA**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -3270,7 +3270,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT16 | JACKPOT | CT31 | COPIE | CT32 | REFLET 
      CT34 | PATIENCE | CT40 | COUD'KRANE | CT44 | REPOS 
      CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
-- **087 LAMANTINE**
+- ![LAMANTINE](../pic/bmon/dewgong.png) **087 LAMANTINE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -3307,7 +3307,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE 
      CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE 
      CS03 | SURF | CS04 | FORCE 
-- **088 TADMORV**
+- ![TADMORV](../pic/bmon/grimer.png) **088 TADMORV**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -3344,7 +3344,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT32 | REFLET | CT34 | PATIENCE 
      CT36 | DETRITUS | CT38 | DEFLAGRATION 
      CT44 | REPOS | CT50 | CLONAGE 
-- **089 GROTADMORV**
+- ![GROTADMORV](../pic/bmon/muk.png) **089 GROTADMORV**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -3382,7 +3382,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT36 | DETRITUS 
      CT38 | DEFLAGRATION | CT44 | REPOS 
      CT50 | CLONAGE 
-- **090 KOKIYAS**
+- ![KOKIYAS](../pic/bmon/shellder.png) **090 KOKIYAS**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -3420,7 +3420,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT39 | METEORES 
      CT44 | REPOS | CT49 | POING DE FEU 
      CT50 | CLONAGE | CS03 | SURF 
-- **091 CRUSTABRI**
+- ![CRUSTABRI](../pic/bmon/cloyster.png) **091 CRUSTABRI**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -3458,7 +3458,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE 
      CT39 | METEORES | CT44 | REPOS 
      CT50 | CLONAGE | CS03 | SURF 
-- **092 FANTOMINUS**
+- ![FANTOMINUS](../pic/bmon/gastly.png) **092 FANTOMINUS**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -3491,7 +3491,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT36 | DETRITUS | CT42 | DEVOREVE 
      CT44 | REPOS | CT46 | VAGUE PSY 
      CT50 | CLONAGE 
-- **093 SPECTRUM**
+- ![SPECTRUM](../pic/bmon/haunter.png) **093 SPECTRUM**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -3524,7 +3524,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT36 | DETRITUS | CT42 | DEVOREVE 
      CT44 | REPOS | CT46 | VAGUE PSY 
      CT50 | CLONAGE 
-- **094 ECTOPLASMA**
+- ![ECTOPLASMA](../pic/bmon/gengar.png) **094 ECTOPLASMA**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -3557,7 +3557,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT35 | METRONOME | CT36 | DETRITUS | CT40 | COUD'KRANE 
      CT42 | DEVOREVE | CT44 | REPOS | CT46 | VAGUE PSY | CT50 | CLONAGE 
      CS04 | FORCE 
-- **095 ONIX**
+- ![ONIX](../pic/bmon/onix.png) **095 ONIX**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -3596,7 +3596,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT40 | COUD'KRANE 
      CT44 | REPOS | CT48 | EBOULEMENT 
      CT50 | CLONAGE | CS04 | FORCE 
-- **096 SOPORIFIK**
+- ![SOPORIFIK](../pic/bmon/drowzee.png) **096 SOPORIFIK**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -3636,7 +3636,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT35 | METRONOME | CT40 | COUD'KRANE | CT42 | DEVOREVE 
      CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY 
      CT50 | CLONAGE | CS05 | FLASH 
-- **097 HYPNOMADE**
+- ![HYPNOMADE](../pic/bmon/hypno.png) **097 HYPNOMADE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -3675,7 +3675,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT35 | METRONOME | CT40 | COUD'KRANE | CT42 | DEVOREVE | CT44 | REPOS 
      CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY | CT49 | POING DE FEU | CT50 | CLONAGE 
      CS05 | FLASH 
-- **098 KRABBY**
+- ![KRABBY](../pic/bmon/krabby.png) **098 KRABBY**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -3711,7 +3711,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
      CT34 | PATIENCE | CT44 | REPOS | CT50 | CLONAGE 
      CS01 | COUPE | CS03 | SURF | CS04 | FORCE 
-- **099 KRABBOSS**
+- ![KRABBOSS](../pic/bmon/kingler.png) **099 KRABBOSS**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -3748,7 +3748,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT32 | REFLET | CT34 | PATIENCE | CT44 | REPOS 
      CT50 | CLONAGE | CS01 | COUPE | CS03 | SURF 
      CS04 | FORCE 
-- **100 VOLTORBE**
+- ![VOLTORBE](../pic/bmon/voltorb.png) **100 VOLTORBE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -3786,7 +3786,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT39 | METEORES 
      CT44 | REPOS | CT45 | CAGE-ECLAIR 
      CT50 | CLONAGE | CS05 | FLASH 
-- **101 ELECTRODE**
+- ![ELECTRODE](../pic/bmon/electrode.png) **101 ELECTRODE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -3825,7 +3825,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT39 | METEORES | CT40 | COUD'KRANE 
      CT44 | REPOS | CT45 | CAGE-ECLAIR 
      CT50 | CLONAGE | CS05 | FLASH 
-- **102 NOEUNOEUF**
+- ![NOEUNOEUF](../pic/bmon/exeggcute.png) **102 NOEUNOEUF**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -3865,7 +3865,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT37 | BOMB'OEUF 
      CT44 | REPOS | CT46 | VAGUE PSY 
      CT50 | CLONAGE 
-- **103 NOADKOKO**
+- ![NOADKOKO](../pic/bmon/exeggutor.png) **103 NOADKOKO**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -3904,7 +3904,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
      CT37 | BOMB'OEUF | CT44 | REPOS | CT46 | VAGUE PSY 
      CT50 | CLONAGE | CS04 | FORCE 
-- **104 OSSELAIT**
+- ![OSSELAIT](../pic/bmon/cubone.png) **104 OSSELAIT**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -3942,7 +3942,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE 
      CT38 | DEFLAGRATION | CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE 
      CS04 | FORCE 
-- **105 OSSATUEUR**
+- ![OSSATUEUR](../pic/bmon/marowak.png) **105 OSSATUEUR**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -3980,7 +3980,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT28 | TUNNEL | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
      CT34 | PATIENCE | CT38 | DEFLAGRATION | CT40 | COUD'KRANE | CT44 | REPOS 
      CT50 | CLONAGE | CS04 | FORCE 
-- **106 KICKLEE**
+- ![KICKLEE](../pic/bmon/hitmonlee.png) **106 KICKLEE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -4017,7 +4017,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT35 | METRONOME | CT39 | METEORES 
      CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE 
      CS04 | FORCE 
-- **107 TYGNON**
+- ![TYGNON](../pic/bmon/hitmonchan.png) **107 TYGNON**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -4056,7 +4056,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT39 | METEORES | CT40 | COUD'KRANE | CT44 | REPOS 
      CT47 | POING-ECLAIR | CT49 | POING DE FEU | CT50 | CLONAGE 
      CS04 | FORCE 
-- **108 EXCELANGUE**
+- ![EXCELANGUE](../pic/bmon/lickitung.png) **108 EXCELANGUE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -4094,7 +4094,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE | CT38 | DEFLAGRATION 
      CT40 | COUD'KRANE | CT44 | REPOS | CT47 | POING-ECLAIR | CT49 | POING DE FEU | CT50 | CLONAGE 
      CS01 | COUPE | CS03 | SURF | CS04 | FORCE 
-- **109 SMOGO**
+- ![SMOGO](../pic/bmon/koffing.png) **109 SMOGO**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -4132,7 +4132,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT36 | DETRITUS 
      CT38 | DEFLAGRATION | CT44 | REPOS 
      CT50 | CLONAGE 
-- **110 SMOGOGO**
+- ![SMOGOGO](../pic/bmon/weezing.png) **110 SMOGOGO**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -4170,7 +4170,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT32 | REFLET | CT34 | PATIENCE 
      CT36 | DETRITUS | CT38 | DEFLAGRATION 
      CT44 | REPOS | CT50 | CLONAGE 
-- **111 RHINOCORNE**
+- ![RHINOCORNE](../pic/bmon/rhyhorn.png) **111 RHINOCORNE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -4208,7 +4208,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT32 | REFLET | CT34 | PATIENCE | CT38 | DEFLAGRATION 
      CT40 | COUD'KRANE | CT44 | REPOS | CT48 | EBOULEMENT 
      CT50 | CLONAGE | CS04 | FORCE 
-- **112 RHINOFEROS**
+- ![RHINOFEROS](../pic/bmon/rhydon.png) **112 RHINOFEROS**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -4245,7 +4245,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT27 | ABIME | CT28 | TUNNEL | CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
      CT34 | PATIENCE | CT38 | DEFLAGRATION | CT40 | COUD'KRANE | CT44 | REPOS | CT47 | POING-ECLAIR 
      CT48 | EBOULEMENT | CT49 | POING DE FEU | CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
-- **113 LEVEINARD**
+- ![LEVEINARD](../pic/bmon/chansey.png) **113 LEVEINARD**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -4282,7 +4282,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE | CT35 | METRONOME | CT37 | BOMB'OEUF | CT38 | DEFLAGRATION 
      CT40 | COUD'KRANE | CT41 | E-COQUE | CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY 
      CT49 | POING DE FEU | CT50 | CLONAGE | CS04 | FORCE | CS05 | FLASH 
-- **114 SAQUEDENEU**
+- ![SAQUEDENEU](../pic/bmon/tangela.png) **114 SAQUEDENEU**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -4320,7 +4320,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE 
      CT36 | DETRITUS | CT40 | COUD'KRANE | CT44 | REPOS 
      CT50 | CLONAGE | CS01 | COUPE 
-- **115 KANGOUREX**
+- ![KANGOUREX](../pic/bmon/kangaskhan.png) **115 KANGOUREX**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -4359,7 +4359,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE | CT38 | DEFLAGRATION 
      CT40 | COUD'KRANE | CT44 | REPOS | CT47 | POING-ECLAIR | CT48 | EBOULEMENT 
      CT49 | POING DE FEU | CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
-- **116 HYPOTREMPE**
+- ![HYPOTREMPE](../pic/bmon/horsea.png) **116 HYPOTREMPE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -4398,7 +4398,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT39 | METEORES | CT40 | COUD'KRANE 
      CT44 | REPOS | CT50 | CLONAGE 
      CS03 | SURF 
-- **117 HYPOCEAN**
+- ![HYPOCEAN](../pic/bmon/seadra.png) **117 HYPOCEAN**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -4437,7 +4437,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT39 | METEORES 
      CT40 | COUD'KRANE | CT44 | REPOS 
      CT50 | CLONAGE | CS03 | SURF 
-- **118 POISSIRENE**
+- ![POISSIRENE](../pic/bmon/goldeen.png) **118 POISSIRENE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -4475,7 +4475,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT39 | METEORES 
      CT40 | COUD'KRANE | CT44 | REPOS 
      CT50 | CLONAGE | CS03 | SURF 
-- **119 POISSOROY**
+- ![POISSOROY](../pic/bmon/seaking.png) **119 POISSOROY**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -4511,7 +4511,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT31 | COPIE | CT32 | REFLET | CT34 | PATIENCE 
      CT39 | METEORES | CT40 | COUD'KRANE | CT44 | REPOS 
      CT50 | CLONAGE | CS03 | SURF 
-- **120 STARI**
+- ![STARI](../pic/bmon/staryu.png) **120 STARI**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -4551,7 +4551,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR 
      CT46 | VAGUE PSY | CT50 | CLONAGE | CS03 | SURF 
      CS05 | FLASH 
-- **121 STAROSS**
+- ![STAROSS](../pic/bmon/starmie.png) **121 STAROSS**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -4591,7 +4591,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT39 | METEORES | CT40 | COUD'KRANE | CT44 | REPOS 
      CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY | CT50 | CLONAGE 
      CS03 | SURF | CS05 | FLASH 
-- **122 M.MIME**
+- ![M.MIME](../pic/bmon/mr.mime.png) **122 M.MIME**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -4630,7 +4630,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE | CT35 | METRONOME 
      CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY 
      CT50 | CLONAGE | CS05 | FLASH 
-- **123 INSECATEUR**
+- ![INSECATEUR](../pic/bmon/scyther.png) **123 INSECATEUR**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -4670,7 +4670,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT39 | METEORES | CT40 | COUD'KRANE 
      CT44 | REPOS | CT50 | CLONAGE 
      CS01 | COUPE | CS02 | VOL 
-- **124 LIPPOUTOU**
+- ![LIPPOUTOU](../pic/bmon/jynx.png) **124 LIPPOUTOU**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -4709,7 +4709,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
      CT34 | PATIENCE | CT35 | METRONOME | CT40 | COUD'KRANE | CT44 | REPOS 
      CT46 | VAGUE PSY | CT50 | CLONAGE 
-- **125 ELEKTEK**
+- ![ELEKTEK](../pic/bmon/electabuzz.png) **125 ELEKTEK**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -4746,7 +4746,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE | CT35 | METRONOME | CT39 | METEORES 
      CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY 
      CT47 | POING-ECLAIR | CT50 | CLONAGE | CS04 | FORCE | CS05 | FLASH 
-- **126 MAGMAR**
+- ![MAGMAR](../pic/bmon/magmar.png) **126 MAGMAR**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -4782,7 +4782,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT35 | METRONOME | CT38 | DEFLAGRATION 
      CT40 | COUD'KRANE | CT44 | REPOS | CT46 | VAGUE PSY 
      CT49 | POING DE FEU | CT50 | CLONAGE | CS04 | FORCE 
-- **127 SCARABRUTE**
+- ![SCARABRUTE](../pic/bmon/pinsir.png) **127 SCARABRUTE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -4821,7 +4821,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT32 | REFLET | CT34 | PATIENCE 
      CT44 | REPOS | CT50 | CLONAGE 
      CS01 | COUPE | CS04 | FORCE 
-- **128 TAUROS**
+- ![TAUROS](../pic/bmon/tauros.png) **128 TAUROS**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -4859,7 +4859,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
      CT34 | PATIENCE | CT38 | DEFLAGRATION | CT40 | COUD'KRANE 
      CT44 | REPOS | CT50 | CLONAGE | CS04 | FORCE 
-- **129 MAGICARPE**
+- ![MAGICARPE](../pic/bmon/magikarp.png) **129 MAGICARPE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -4882,7 +4882,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CHARGE | 15 
    * Attaques accessibles via CT/CS : aucune
 
-- **130 LEVIATOR**
+- ![LEVIATOR](../pic/bmon/gyarados.png) **130 LEVIATOR**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -4920,7 +4920,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE | CT38 | DEFLAGRATION 
      CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE 
      CS03 | SURF | CS04 | FORCE 
-- **131 LOKHLASS**
+- ![LOKHLASS](../pic/bmon/lapras.png) **131 LOKHLASS**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -4958,7 +4958,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
      CT40 | COUD'KRANE | CT44 | REPOS | CT46 | VAGUE PSY | CT50 | CLONAGE 
      CS03 | SURF | CS04 | FORCE 
-- **132 METAMORPH**
+- ![METAMORPH](../pic/bmon/ditto.png) **132 METAMORPH**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -4978,7 +4978,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
 
    * Attaques accessibles via CT/CS : aucune
 
-- **133 EVOLI**
+- ![EVOLI](../pic/bmon/eevee.png) **133 EVOLI**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -5014,7 +5014,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT39 | METEORES 
      CT40 | COUD'KRANE | CT44 | REPOS 
      CT50 | CLONAGE 
-- **134 AQUALI**
+- ![AQUALI](../pic/bmon/vaporeon.png) **134 AQUALI**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -5052,7 +5052,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE | CT39 | METEORES 
      CT40 | COUD'KRANE | CT44 | REPOS | CT50 | CLONAGE 
      CS03 | SURF 
-- **135 VOLTALI**
+- ![VOLTALI](../pic/bmon/jolteon.png) **135 VOLTALI**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -5089,7 +5089,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
      CT39 | METEORES | CT40 | COUD'KRANE | CT44 | REPOS 
      CT45 | CAGE-ECLAIR | CT50 | CLONAGE | CS05 | FLASH 
-- **136 PYROLI**
+- ![PYROLI](../pic/bmon/flareon.png) **136 PYROLI**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -5127,7 +5127,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT38 | DEFLAGRATION 
      CT39 | METEORES | CT40 | COUD'KRANE 
      CT44 | REPOS | CT50 | CLONAGE 
-- **137 PORYGON**
+- ![PORYGON](../pic/bmon/porygon.png) **137 PORYGON**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -5163,7 +5163,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE | CT39 | METEORES 
      CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR 
      CT46 | VAGUE PSY | CT50 | CLONAGE | CS05 | FLASH 
-- **138 AMONITA**
+- ![AMONITA](../pic/bmon/omanyte.png) **138 AMONITA**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -5199,7 +5199,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT32 | REFLET | CT33 | PROTECTION 
      CT34 | PATIENCE | CT44 | REPOS 
      CT50 | CLONAGE | CS03 | SURF 
-- **139 AMONISTAR**
+- ![AMONISTAR](../pic/bmon/omastar.png) **139 AMONISTAR**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -5234,7 +5234,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
      CT33 | PROTECTION | CT34 | PATIENCE | CT40 | COUD'KRANE 
      CT44 | REPOS | CT50 | CLONAGE | CS03 | SURF 
-- **140 KABUTO**
+- ![KABUTO](../pic/bmon/kabuto.png) **140 KABUTO**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -5267,7 +5267,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT30 | COUP D'BOULE | CT31 | COPIE | CT32 | REFLET 
      CT33 | PROTECTION | CT34 | PATIENCE | CT44 | REPOS 
      CT50 | CLONAGE | CS03 | SURF 
-- **141 KABUTOPS**
+- ![KABUTOPS](../pic/bmon/kabutops.png) **141 KABUTOPS**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -5303,7 +5303,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION | CT34 | PATIENCE 
      CT40 | COUD'KRANE | CT44 | REPOS | CT48 | EBOULEMENT | CT50 | CLONAGE 
      CS03 | SURF 
-- **142 PTERA**
+- ![PTERA](../pic/bmon/aerodactyl.png) **142 PTERA**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -5338,7 +5338,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE | CT38 | DEFLAGRATION 
      CT39 | METEORES | CT43 | PIQUE | CT44 | REPOS 
      CT50 | CLONAGE | CS02 | VOL 
-- **143 RONFLEX**
+- ![RONFLEX](../pic/bmon/snorlax.png) **143 RONFLEX**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -5374,7 +5374,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE | CT35 | METRONOME | CT38 | DEFLAGRATION | CT40 | COUD'KRANE 
      CT44 | REPOS | CT46 | VAGUE PSY | CT47 | POING-ECLAIR | CT48 | EBOULEMENT | CT49 | POING DE FEU 
      CT50 | CLONAGE | CS03 | SURF | CS04 | FORCE 
-- **144 ARTIKODIN**
+- ![ARTIKODIN](../pic/bmon/articuno.png) **144 ARTIKODIN**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -5409,7 +5409,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT31 | COPIE | CT32 | REFLET | CT33 | PROTECTION 
      CT34 | PATIENCE | CT39 | METEORES | CT43 | PIQUE 
      CT44 | REPOS | CT50 | CLONAGE | CS02 | VOL 
-- **145 ELECTHOR**
+- ![ELECTHOR](../pic/bmon/zapdos.png) **145 ELECTHOR**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -5444,7 +5444,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE | CT39 | METEORES 
      CT43 | PIQUE | CT44 | REPOS | CT45 | CAGE-ECLAIR 
      CT50 | CLONAGE | CS02 | VOL | CS05 | FLASH 
-- **146 SULFURA**
+- ![SULFURA](../pic/bmon/moltres.png) **146 SULFURA**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -5481,7 +5481,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT38 | DEFLAGRATION | CT39 | METEORES 
      CT43 | PIQUE | CT44 | REPOS 
      CT50 | CLONAGE | CS02 | VOL 
-- **147 MINIDRACO**
+- ![MINIDRACO](../pic/bmon/dratini.png) **147 MINIDRACO**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -5519,7 +5519,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE | CT38 | DEFLAGRATION 
      CT39 | METEORES | CT40 | COUD'KRANE | CT44 | REPOS 
      CT45 | CAGE-ECLAIR | CT50 | CLONAGE | CS03 | SURF 
-- **148 DRACO**
+- ![DRACO](../pic/bmon/dragonair.png) **148 DRACO**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -5555,7 +5555,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT33 | PROTECTION | CT34 | PATIENCE | CT38 | DEFLAGRATION | CT39 | METEORES 
      CT40 | COUD'KRANE | CT44 | REPOS | CT45 | CAGE-ECLAIR | CT50 | CLONAGE 
      CS03 | SURF 
-- **149 DRACOLOSSE**
+- ![DRACOLOSSE](../pic/bmon/dragonite.png) **149 DRACOLOSSE**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -5595,7 +5595,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT38 | DEFLAGRATION | CT39 | METEORES | CT40 | COUD'KRANE | CT44 | REPOS 
      CT45 | CAGE-ECLAIR | CT50 | CLONAGE | CS02 | VOL | CS03 | SURF 
      CS04 | FORCE 
-- **150 MEWTWO**
+- ![MEWTWO](../pic/bmon/mewtwo.png) **150 MEWTWO**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -5634,7 +5634,7 @@ Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://g
      CT34 | PATIENCE | CT35 | METRONOME | CT38 | DEFLAGRATION | CT40 | COUD'KRANE | CT44 | REPOS 
      CT45 | CAGE-ECLAIR | CT46 | VAGUE PSY | CT47 | POING-ECLAIR | CT49 | POING DE FEU | CT49 | POING DE FEU 
      CT50 | CLONAGE | CS04 | FORCE | CS05 | FLASH 
-- **151 MEW**
+- ![MEW](../pic/bmon/mew.png) **151 MEW**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
