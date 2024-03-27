@@ -335,7 +335,10 @@ NewGameText:
 	db   "NOUVEAU JEU"
 	next "OPTIONS"
 	next ""
-	next "Version 1.0.2@"
+	next "Pkmn Rouge Vermeil"
+	next "github.com/louis-dg/pokered-fr"
+	next ""
+	next "v1.1.0@"
 
 CableClubOptionsText:
 	db   "CENTRE TROC"
