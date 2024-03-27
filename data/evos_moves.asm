@@ -1639,7 +1639,7 @@ Mon061_EvosMoves:
 	db 34,BODY_SLAM
 	db 41,AMNESIA
 	db 49,HYDRO_PUMP
-	db 54,ICE_PUNCH
+	db 54,MEGA_PUNCH
 	db 0
 
 Mon062_EvosMoves:
@@ -1654,7 +1654,7 @@ Mon062_EvosMoves:
 	db 34,BODY_SLAM
 	db 41,AMNESIA
 	db 49,HYDRO_PUMP
-	db 54,ICE_PUNCH
+	db 54,MEGA_PUNCH
 	db 0
 
 Mon013_EvosMoves:
