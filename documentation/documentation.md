@@ -1,6 +1,6 @@
-# Hack rom Pokémon Rouge VF
+# Pokémon Rouge Vermeil
 
-Ceci est la documentation associée à la hack rom Pokémon Rouge VF : https://github.com/louis-dg/pokered-fr
+Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.com/louis-dg/pokered-fr)
 
 ## Sommaire
 
@@ -6090,8 +6090,8 @@ Le taux d'apparition d'un pokémon à un niveau donné est toujours de 10%. Donc
      --- | --- 
      SMOGO | 33, 31
      CANINOS | 31, 35
-     PONYTA | 32, 34
-     MAGMAR | 35
+     PONYTA | 32
+     MAGMAR | 35, 34
      SMOGOGO | 40, 42
      GROTADMORV | 42
 - Mont sélénite 1
