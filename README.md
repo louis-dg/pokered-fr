@@ -70,6 +70,8 @@ Pour configurer le dépôt, voir [**INSTALL.md**](INSTALL.md).
 
 - Les pokemons obtenables avec des jetons ont été retravaillés.
 
+- Le PC peut contenir 60 objets au lieu de 50. 
+
 # Remerciements
 
 Merci au groupe de fans Pret qui a pu rendre cette version possible : https://pret.github.io/
