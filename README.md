@@ -66,7 +66,7 @@ Pour configurer le dépôt, voir [**INSTALL.md**](INSTALL.md).
 
 - La pension pokémon entraîne les pokémons deux fois plus rapidement que dans le jeu original.
 
-- Les CT achetables au magasin de Céladolole ne sont plus trouvables dans le monde et ont été modifiées.
+- Les CT achetables au magasin de Céladopole ne sont plus trouvables dans le monde et ont été modifiées.
 
 - Les pokemons obtenables avec des jetons ont été retravaillés.
 
