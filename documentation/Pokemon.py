@@ -168,6 +168,6 @@ class Pokemon:
         if self._nameVO == 'MR_MIME':
             return "mr.mime.png"
         elif self._nameVO.startswith("NIDORAN"):
-            return self._nameVO.replace('_', '').lower()
+            return self._nameVO.replace('_', '').lower() + ".png"
         else:
             return self._nameVO.lower() + ".png"

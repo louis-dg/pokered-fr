@@ -367,50 +367,51 @@ def buildGlossary(titleSection5, lienSection5):
 ############################################
 #         MAIN
 ############################################
-pokeNamesDict = buildTranslationDict('i18n/pokemon_names.csv')
-movesNamesDict = buildTranslationDict('i18n/moves_names.csv')
-typeNamesDict = buildTranslationDict('i18n/type_names.csv')
-zoneNamesDict = buildTranslationDict('i18n/zone_names.csv')
-effectsDescriptionDict = buildTranslationDict('i18n/effects_description.csv')
-itemsDescriptionDict = buildTranslationDict('i18n/evolution_items.csv')
-tmhmDict = buildTMHMDict()
-pokemons = buildPokemonsData(pokeNamesDict)
-wildPokemonDict = buildWildPokemonsData()
+if __name__ == "__main__":
+    pokeNamesDict = buildTranslationDict('i18n/pokemon_names.csv')
+    movesNamesDict = buildTranslationDict('i18n/moves_names.csv')
+    typeNamesDict = buildTranslationDict('i18n/type_names.csv')
+    zoneNamesDict = buildTranslationDict('i18n/zone_names.csv')
+    effectsDescriptionDict = buildTranslationDict('i18n/effects_description.csv')
+    itemsDescriptionDict = buildTranslationDict('i18n/evolution_items.csv')
+    tmhmDict = buildTMHMDict()
+    pokemons = buildPokemonsData(pokeNamesDict)
+    wildPokemonDict = buildWildPokemonsData()
 
-if(os.path.isfile(DOCUMENTATION_FILE)):
-    os.remove(DOCUMENTATION_FILE)
+    if(os.path.isfile(DOCUMENTATION_FILE)):
+        os.remove(DOCUMENTATION_FILE)
 
-titleSectionProps = "I. Propriétés des pokémons"
-lienSectionProps = "props_poke"
-titleSectionAtk = "II. Liste des attaques"
-lienSectionAtk = "liste_attaques"
-titleSectionTM = "III. Description des CT/CS"
-lienSectionTM = "capsules"
-titleSectionRegions = "IV. Description des régions"
-lienSectionRegions = "desc_regions"
-titleSectionStats = "V. Classement par stats"
-lienSectionStats = "classement"
-titleSectionGlossary = "VI. Glossaire"
-lienSectionGlossary = "glossaire"
+    titleSectionProps = "I. Propriétés des pokémons"
+    lienSectionProps = "props_poke"
+    titleSectionAtk = "II. Liste des attaques"
+    lienSectionAtk = "liste_attaques"
+    titleSectionTM = "III. Description des CT/CS"
+    lienSectionTM = "capsules"
+    titleSectionRegions = "IV. Description des régions"
+    lienSectionRegions = "desc_regions"
+    titleSectionStats = "V. Classement par stats"
+    lienSectionStats = "classement"
+    titleSectionGlossary = "VI. Glossaire"
+    lienSectionGlossary = "glossaire"
 
-docFile = open(DOCUMENTATION_FILE, 'w')
-docFile.write("# Pokémon Rouge Vermeil\n\n")
-docFile.write("Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.com/louis-dg/pokered-fr)\n\n")
-docFile.write("## Sommaire\n\n")
-docFile.write("- [" + titleSectionProps + "](#" + lienSectionProps + ")\n\n")
-docFile.write("- [" + titleSectionAtk + "](#" + lienSectionAtk + ")\n\n")
-docFile.write("- [" + titleSectionTM + "](#" + lienSectionTM + ")\n\n")
-docFile.write("- [" + titleSectionRegions + "](#" + lienSectionRegions + ")\n\n")
-docFile.write("- [" + titleSectionStats + "](#" + lienSectionStats + ")\n\n")
-docFile.write("- [" + titleSectionGlossary + "](#" + lienSectionGlossary + ")\n\n")
+    docFile = open(DOCUMENTATION_FILE, 'w')
+    docFile.write("# Pokémon Rouge Vermeil\n\n")
+    docFile.write("Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.com/louis-dg/pokered-fr)\n\n")
+    docFile.write("## Sommaire\n\n")
+    docFile.write("- [" + titleSectionProps + "](#" + lienSectionProps + ")\n\n")
+    docFile.write("- [" + titleSectionAtk + "](#" + lienSectionAtk + ")\n\n")
+    docFile.write("- [" + titleSectionTM + "](#" + lienSectionTM + ")\n\n")
+    docFile.write("- [" + titleSectionRegions + "](#" + lienSectionRegions + ")\n\n")
+    docFile.write("- [" + titleSectionStats + "](#" + lienSectionStats + ")\n\n")
+    docFile.write("- [" + titleSectionGlossary + "](#" + lienSectionGlossary + ")\n\n")
 
-docFile.writelines(buildPokemonsDoc(titleSectionProps, lienSectionProps, movesNamesDict, tmhmDict, pokemons, pokeNamesDict, itemsDescriptionDict))
-docFile.writelines(buildMovesDoc(titleSectionAtk, lienSectionAtk, movesNamesDict, typeNamesDict, effectsDescriptionDict))
-docFile.writelines(buildTMDoc(titleSectionTM, lienSectionTM, movesNamesDict))
-docFile.writelines(buildZonesDoc(titleSectionRegions, lienSectionRegions, pokeNamesDict, zoneNamesDict, wildPokemonDict))
-docFile.writelines(buildPokemonsStatsData(titleSectionStats, lienSectionStats, pokemons))
-docFile.writelines(buildGlossary(titleSectionGlossary, lienSectionGlossary))
-docFile.close()
+    docFile.writelines(buildPokemonsDoc(titleSectionProps, lienSectionProps, movesNamesDict, tmhmDict, pokemons, pokeNamesDict, itemsDescriptionDict))
+    docFile.writelines(buildMovesDoc(titleSectionAtk, lienSectionAtk, movesNamesDict, typeNamesDict, effectsDescriptionDict))
+    docFile.writelines(buildTMDoc(titleSectionTM, lienSectionTM, movesNamesDict))
+    docFile.writelines(buildZonesDoc(titleSectionRegions, lienSectionRegions, pokeNamesDict, zoneNamesDict, wildPokemonDict))
+    docFile.writelines(buildPokemonsStatsData(titleSectionStats, lienSectionStats, pokemons))
+    docFile.writelines(buildGlossary(titleSectionGlossary, lienSectionGlossary))
+    docFile.close()
 
-print("Documentation generated. See documentation.md file.")
-exit(0)
+    print("Documentation generated. See documentation.md file.")
+    exit(0)
