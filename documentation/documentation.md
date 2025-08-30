@@ -513,14 +513,14 @@ Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.c
 
      Attaque | Niveau 
      --- | --- 
-     FURIE | 11 
-     PUISSANCE | 15 
-     DOUBLE-DARD | 19 
-     FRENESIE | 24 
-     DARD-NUEE | 29 
-     HATE | 34 
-     REFLET | 39 
-     CRU-AILE | 44 
+     FURIE | 10 
+     PUISSANCE | 13 
+     DOUBLE-DARD | 17 
+     FRENESIE | 23 
+     DARD-NUEE | 28 
+     HATE | 33 
+     REFLET | 38 
+     CRU-AILE | 42 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque 
@@ -1023,7 +1023,7 @@ Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.c
      CT32 | REFLET | CT34 | PATIENCE | CT39 | METEORES 
      CT40 | COUD'KRANE | CT44 | REPOS | CT48 | EBOULEMENT 
      CT50 | CLONAGE | CS01 | COUPE | CS04 | FORCE 
-- ![NIDORAN♀](../pic/bmon/nidoranf) **029 NIDORAN♀**
+- ![NIDORAN♀](../pic/bmon/nidoranf.png) **029 NIDORAN♀**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
@@ -1145,7 +1145,7 @@ Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.c
      CT34 | PATIENCE | CT36 | DETRITUS | CT38 | DEFLAGRATION | CT40 | COUD'KRANE | CT44 | REPOS 
      CT47 | POING-ECLAIR | CT48 | EBOULEMENT | CT49 | POING DE FEU | CT50 | CLONAGE | CS03 | SURF 
      CS04 | FORCE 
-- ![NIDORAN♂](../pic/bmon/nidoranm) **032 NIDORAN♂**
+- ![NIDORAN♂](../pic/bmon/nidoranm.png) **032 NIDORAN♂**
    * Statistiques de base :
 
      PV | FOR | DEF | VIT | SPE 
