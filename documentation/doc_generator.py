@@ -1,8 +1,9 @@
 import os
 import math
+import pypandoc
 
-from documentation.Pokemon import Pokemon
-from documentation.WildPokemonZone import WildPokemonZone
+from Pokemon import Pokemon
+from WildPokemonZone import WildPokemonZone
 
 '''
 This script is meant to create a documentation file in Markdown format
@@ -10,7 +11,7 @@ It has been tested with python 3.6
 '''
 
 CSV_SEPARATOR = ';'
-DOCUMENTATION_FILE = 'documentation.md'
+DOCUMENTATION_FILE = 'documentation/documentation.md'
 
 # Build a dict to get translation
 def buildTranslationDict(filename):
@@ -24,7 +25,7 @@ def buildTranslationDict(filename):
 
 # Build a dict to get TM and HM names. key is the number (01,...,55) value is the code name (KARATE_CHOP,...)
 def buildTMHMDict():
-    file = open('../data/tms.asm', 'r')
+    file = open('data/tms.asm', 'r')
     lines = file.readlines()
     lines.pop(0)
     tmhm = {}
@@ -44,7 +45,7 @@ def buildMovesDoc(titleSection2, lienSection2, movesNamesDict, typeNamesDict, ef
     docLines.append("Attaque | Puissance | Précision | PP | Type | Description\n")
     docLines.append("--- | --- | --- | --- | --- | ---\n")
 
-    tmFile = open('../data/moves.asm', 'r')
+    tmFile = open('data/moves.asm', 'r')
     tmLines = tmFile.readlines()
     moveLines = []
     for line in tmLines:
@@ -71,7 +72,7 @@ def buildTMDoc(titleSection, link, movesNamesDict):
     docLines.append("CT/CS | Numéro | Nom \n")
     docLines.append("--- | --- | --- \n")
 
-    tmFile = open('../data/tms.asm', 'r')
+    tmFile = open('data/tms.asm', 'r')
     tmLines = tmFile.readlines()
     i = 1;
     for line in tmLines:
@@ -90,7 +91,7 @@ def buildTMDoc(titleSection, link, movesNamesDict):
 # Build a list of all the Pokemon (see Pokemon class) and their properties
 def buildPokemonsData(pokeNamesDict):
     # Get infos from evos_moves.asm
-    movesFile = open('../data/evos_moves.asm', 'r')
+    movesFile = open('data/evos_moves.asm', 'r')
     movesLines = movesFile.readlines()
 
     pokemonLines = []
@@ -150,7 +151,7 @@ def buildPokemonsData(pokeNamesDict):
             pokemons[name] = pokemon
 
     # Get infos from pokemon files (in baseStats directory)
-    baseStatsDir = '../data/baseStats/'
+    baseStatsDir = 'data/baseStats/'
     for filename in os.listdir(baseStatsDir):
         pokemonFile = open(baseStatsDir + filename, 'r')
         fileLines = pokemonFile.readlines()
@@ -198,7 +199,7 @@ def buildPokemonsDoc(titleSection1, lienSection1, movesNamesDict, tmhmDict, poke
     pokemons.sort(key=lambda x: x.number, reverse=False)
 
     for pokemon in pokemons:
-        docLines.append("- ![" + pokemon.name + "](../pic/bmon/" + pokemon.getImageFilename() + ") **" + pokemon.number + " " + pokemon.name + "**\n")
+        docLines.append("- ![" + pokemon.name + "](pic/bmon/" + pokemon.getImageFilename() + ") **" + pokemon.number + " " + pokemon.name + "**\n")
 
         docLines.append("   * Statistiques de base :\n\n")
         docLines.append("     PV | FOR | DEF | VIT | SPE \n")
@@ -267,7 +268,7 @@ def divide_chunks(l, n):
 def buildWildPokemonsData():
     zones = []
 
-    wildPokemonDir = '../data/wildPokemon/'
+    wildPokemonDir = 'data/wildPokemon/'
     for filename in os.listdir(wildPokemonDir):
         file = open(wildPokemonDir + filename, 'r')
         lines = file.readlines()
@@ -368,12 +369,12 @@ def buildGlossary(titleSection5, lienSection5):
 #         MAIN
 ############################################
 if __name__ == "__main__":
-    pokeNamesDict = buildTranslationDict('i18n/pokemon_names.csv')
-    movesNamesDict = buildTranslationDict('i18n/moves_names.csv')
-    typeNamesDict = buildTranslationDict('i18n/type_names.csv')
-    zoneNamesDict = buildTranslationDict('i18n/zone_names.csv')
-    effectsDescriptionDict = buildTranslationDict('i18n/effects_description.csv')
-    itemsDescriptionDict = buildTranslationDict('i18n/evolution_items.csv')
+    pokeNamesDict = buildTranslationDict('documentation/i18n/pokemon_names.csv')
+    movesNamesDict = buildTranslationDict('documentation/i18n/moves_names.csv')
+    typeNamesDict = buildTranslationDict('documentation/i18n/type_names.csv')
+    zoneNamesDict = buildTranslationDict('documentation/i18n/zone_names.csv')
+    effectsDescriptionDict = buildTranslationDict('documentation/i18n/effects_description.csv')
+    itemsDescriptionDict = buildTranslationDict('documentation/i18n/evolution_items.csv')
     tmhmDict = buildTMHMDict()
     pokemons = buildPokemonsData(pokeNamesDict)
     wildPokemonDict = buildWildPokemonsData()
@@ -413,5 +414,11 @@ if __name__ == "__main__":
     docFile.writelines(buildGlossary(titleSectionGlossary, lienSectionGlossary))
     docFile.close()
 
-    print("Documentation generated. See documentation.md file.")
-    exit(0)
+    output = pypandoc.convert_file(
+        "documentation/documentation.md",
+        "pdf",
+        outputfile="documentation/documentation.pdf",
+        extra_args=["--pdf-engine=xelatex"]
+    )
+
+print("Documentation generated. See documentation.md and documentation.pdf files.")
