@@ -195,7 +195,7 @@ JrTrainerFData:
 	db $FF,37,TENTACOOL,38,SEADRA,37,SEEL,0
 PokemaniacData:
 ; Route 10
-	db $FF,30,RHYHORN,35,LICKITUNG,0
+	db $FF,35,FARFETCHD,40,LICKITUNG,0
     db 21,CUBONE,SLOWPOKE,0
 ; Rock Tunnel B1F
 	db 20,SLOWPOKE,CHARMELEON,KADABRA,0
@@ -557,7 +557,7 @@ RocketData:
 	db $FF,29,RATICATE,31,ZUBAT,33,GOLBAT,0
     db 32,WEEZING,GOLBAT,KOFFING,0 ; un des 4 freres rockets
 ; Silph Co. 9F
-	db 36,TAUROS,0
+	db 35,TAUROS,0
     db 33,GOLBAT,DROWZEE,HYPNO,0 ; un des 4 freres rockets
 ; Silph Co. 10F
 	db 36,MACHOKE,0
