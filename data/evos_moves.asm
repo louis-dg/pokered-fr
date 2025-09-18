@@ -483,8 +483,8 @@ Mon059_EvosMoves:
     db 30,TAKE_DOWN
     db 36,FLAMETHROWER
     db 41,AGILITY
-    db 55,FIRE_BLAST
-    db 62,HYPER_FANG
+    db 50,FIRE_BLAST
+    db 55,HYPER_FANG
 	db 0
 
 Mon151_EvosMoves:
@@ -514,7 +514,7 @@ Mon130_EvosMoves:
 	db 31,LEER
 	db 35,THRASH
 	db 41,HYDRO_PUMP
-	db 52,HYPER_BEAM
+	db 50,HYPER_BEAM
 	db 0
 
 Mon090_EvosMoves:
@@ -660,8 +660,8 @@ Mon058_EvosMoves:
 	db 30,TAKE_DOWN
 	db 36,FLAMETHROWER
 	db 41,AGILITY
-	db 55,FIRE_BLAST
-	db 62,HYPER_FANG
+	db 47,FIRE_BLAST
+	db 52,HYPER_FANG
 	db 0
 
 Mon095_EvosMoves:
@@ -701,9 +701,9 @@ Mon016_EvosMoves:
 	db 12,QUICK_ATTACK
 	db 19,WHIRLWIND
 	db 28,WING_ATTACK
-	db 36,AGILITY
-	db 44,MIRROR_MOVE
-	db 50,RAZOR_WIND
+	db 34,AGILITY
+	db 40,MIRROR_MOVE
+	db 45,RAZOR_WIND
 	db 0
 
 Mon079_EvosMoves:
@@ -804,12 +804,12 @@ Mon106_EvosMoves:
 ;Evolutions
 	db 0
 ;Learnset
-	db 33,ROLLING_KICK
-	db 38,JUMP_KICK
-	db 43,FOCUS_ENERGY
-	db 48,HI_JUMP_KICK
-	db 53,MEGA_KICK
-	db 60,AGILITY
+	db 31,ROLLING_KICK
+	db 36,JUMP_KICK
+	db 41,FOCUS_ENERGY
+	db 46,HI_JUMP_KICK
+	db 51,MEGA_KICK
+	db 58,AGILITY
 	db 0
 
 Mon107_EvosMoves:
@@ -817,13 +817,13 @@ Mon107_EvosMoves:
 ;Evolutions
 	db 0
 ;Learnset
-	db 33,FIRE_PUNCH
-	db 38,ICE_PUNCH
-	db 43,THUNDERPUNCH
-	db 48,MEGA_PUNCH
-	db 53,COUNTER
-	db 58,AGILITY
-	db 63,DIZZY_PUNCH
+	db 31,FIRE_PUNCH
+	db 36,ICE_PUNCH
+	db 41,THUNDERPUNCH
+	db 46,MEGA_PUNCH
+	db 51,DIZZY_PUNCH
+	db 56,AGILITY
+	db 60,COUNTER
 	db 0
 
 Mon024_EvosMoves:
@@ -918,7 +918,7 @@ Mon126_EvosMoves:
 	db 36,CONFUSE_RAY
 	db 43,FIRE_PUNCH
 	db 49,SMOKESCREEN
-	db 56,FLAMETHROWER
+	db 55,FLAMETHROWER
 	db 0
 
 Mon155_EvosMoves:
@@ -953,7 +953,7 @@ Mon082_EvosMoves:
 	db 38,THUNDERBOLT
 	db 46,SWIFT
 	db 54,TRI_ATTACK
-	db 59,SCREECH
+	db 58,SCREECH
 	db 0
 
 Mon109_EvosMoves:
@@ -993,7 +993,7 @@ Mon056_EvosMoves:
 	db 38,THRASH
     db 44,MEGA_PUNCH
     db 50,AGILITY
-    db 56,DIZZY_PUNCH
+    db 55,DIZZY_PUNCH
 	db 0
 
 Mon086_EvosMoves:
@@ -1003,11 +1003,11 @@ Mon086_EvosMoves:
 	db 0
 ;Learnset
 	db 30,GROWL
-	db 35,AURORA_BEAM
-	db 40,REST
-	db 45,TAKE_DOWN
-	db 50,ICE_BEAM
-	db 56,HYDRO_PUMP
+	db 34,AURORA_BEAM
+	db 37,REST
+	db 41,TAKE_DOWN
+	db 45,ICE_BEAM
+	db 50,HYDRO_PUMP
 	db 0
 
 Mon050_EvosMoves:
@@ -1163,7 +1163,7 @@ Mon124_EvosMoves:
 	db 37,BODY_SLAM
 	db 43,PSYCHIC_M
 	db 50,THRASH
-	db 58,BLIZZARD
+	db 56,BLIZZARD
 	db 0
 
 Mon146_EvosMoves:
@@ -1380,7 +1380,7 @@ Mon141_EvosMoves:
 	db 43,LEER
 	db 50,HYDRO_PUMP
 	db 54,SWORDS_DANCE
-	db 60,GUILLOTINE
+	db 58,GUILLOTINE
 	db 0
 
 Mon116_EvosMoves:
@@ -1533,7 +1533,7 @@ Mon136_EvosMoves:
 	db 33,BITE
 	db 37,FIRE_SPIN
 	db 43,TAKE_DOWN
-	db 50,FLAMETHROWER
+	db 47,FLAMETHROWER
 	db 0
 
 Mon135_EvosMoves:
@@ -1757,11 +1757,11 @@ Mon087_EvosMoves:
 	db 0
 ;Learnset
 	db 30,GROWL
-	db 35,AURORA_BEAM
-	db 44,REST
-	db 50,TAKE_DOWN
-	db 56,ICE_BEAM
-	db 62,HYDRO_PUMP
+	db 34,AURORA_BEAM
+	db 38,REST
+	db 42,TAKE_DOWN
+	db 48,ICE_BEAM
+	db 53,HYDRO_PUMP
 	db 0
 
 Mon171_EvosMoves:
@@ -1844,7 +1844,7 @@ Mon055_EvosMoves:
     db 37,SLASH
     db 45,HYDRO_PUMP
     db 52,AMNESIA
-    db 60,PSYCHIC_M
+    db 57,PSYCHIC_M
 	db 0
 
 Mon097_EvosMoves:
@@ -2094,9 +2094,9 @@ Mon017_EvosMoves:
 	db 12,QUICK_ATTACK
 	db 21,WHIRLWIND
 	db 31,WING_ATTACK
-	db 40,AGILITY
-	db 49,MIRROR_MOVE
-	db 55,RAZOR_WIND
+	db 35,AGILITY
+	db 43,MIRROR_MOVE
+	db 50,RAZOR_WIND
 	db 0
 
 Mon018_EvosMoves:
@@ -2108,9 +2108,9 @@ Mon018_EvosMoves:
 	db 12,QUICK_ATTACK
 	db 21,WHIRLWIND
 	db 31,WING_ATTACK
-	db 44,AGILITY
-	db 54,MIRROR_MOVE
-	db 60,RAZOR_WIND
+	db 40,AGILITY
+	db 46,MIRROR_MOVE
+	db 52,RAZOR_WIND
 	db 0
 
 Mon121_EvosMoves:
@@ -2265,8 +2265,8 @@ Mon078_EvosMoves:
 	db 35,GROWL
 	db 39,FIRE_SPIN
 	db 46,TAKE_DOWN
-	db 53,AGILITY
-	db 60,FLAMETHROWER
+	db 51,AGILITY
+	db 55,FLAMETHROWER
 	db 0
 
 Mon019_EvosMoves:
