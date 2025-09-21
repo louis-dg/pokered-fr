@@ -557,9 +557,9 @@ Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.c
      VIVE-ATTAQUE | 12 
      CYCLONE | 19 
      CRU-AILE | 28 
-     HATE | 36 
-     MIMIQUE | 44 
-     COUPE-VENT | 50 
+     HATE | 34 
+     MIMIQUE | 40 
+     COUPE-VENT | 45 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque 
@@ -595,9 +595,9 @@ Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.c
      VIVE-ATTAQUE | 12 
      CYCLONE | 21 
      CRU-AILE | 31 
-     HATE | 40 
-     MIMIQUE | 49 
-     COUPE-VENT | 55 
+     HATE | 35 
+     MIMIQUE | 43 
+     COUPE-VENT | 50 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque 
@@ -633,9 +633,9 @@ Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.c
      VIVE-ATTAQUE | 12 
      CYCLONE | 21 
      CRU-AILE | 31 
-     HATE | 44 
-     MIMIQUE | 54 
-     COUPE-VENT | 60 
+     HATE | 40 
+     MIMIQUE | 46 
+     COUPE-VENT | 52 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque 
@@ -2047,7 +2047,7 @@ Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.c
      TRANCHE | 37 
      HYDROCANON | 45 
      AMNESIE | 52 
-     PSYKO | 60 
+     PSYKO | 57 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
@@ -2087,7 +2087,7 @@ Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.c
      MANIA | 38 
      ULTIMAPOING | 44 
      HATE | 50 
-     UPPERCUT | 56 
+     UPPERCUT | 55 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
@@ -2164,8 +2164,8 @@ Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.c
      BELIER | 30 
      LANCE-FLAMME | 36 
      HATE | 41 
-     DEFLAGRATION | 55 
-     CROC DE MORT | 62 
+     DEFLAGRATION | 47 
+     CROC DE MORT | 52 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
@@ -2202,8 +2202,8 @@ Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.c
      BELIER | 30 
      LANCE-FLAMME | 36 
      HATE | 41 
-     DEFLAGRATION | 55 
-     CROC DE MORT | 62 
+     DEFLAGRATION | 50 
+     CROC DE MORT | 55 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
@@ -2944,8 +2944,8 @@ Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.c
      RUGISSEMENT | 35 
      DANSEFLAMME | 39 
      BELIER | 46 
-     HATE | 53 
-     LANCE-FLAMME | 60 
+     HATE | 51 
+     LANCE-FLAMME | 55 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
@@ -3103,7 +3103,7 @@ Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.c
      TONNERRE | 38 
      METEORES | 46 
      TRIPLATTAQUE | 54 
-     GRINCEMENT | 59 
+     GRINCEMENT | 58 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque 
@@ -3251,11 +3251,11 @@ Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.c
      Attaque | Niveau 
      --- | --- 
      RUGISSEMENT | 30 
-     ONDE BOREALE | 35 
-     REPOS | 40 
-     BELIER | 45 
-     LASER GLACE | 50 
-     HYDROCANON | 56 
+     ONDE BOREALE | 34 
+     REPOS | 37 
+     BELIER | 41 
+     LASER GLACE | 45 
+     HYDROCANON | 50 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
@@ -3287,11 +3287,11 @@ Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.c
      Attaque | Niveau 
      --- | --- 
      RUGISSEMENT | 30 
-     ONDE BOREALE | 35 
-     REPOS | 44 
-     BELIER | 50 
-     LASER GLACE | 56 
-     HYDROCANON | 62 
+     ONDE BOREALE | 34 
+     REPOS | 38 
+     BELIER | 42 
+     LASER GLACE | 48 
+     HYDROCANON | 53 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
@@ -3995,12 +3995,12 @@ Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.c
 
      Attaque | Niveau 
      --- | --- 
-     MAWASHI GERI | 33 
-     PIED SAUTE | 38 
-     PUISSANCE | 43 
-     PIED VOLTIGE | 48 
-     ULTIMAWASHI | 53 
-     HATE | 60 
+     MAWASHI GERI | 31 
+     PIED SAUTE | 36 
+     PUISSANCE | 41 
+     PIED VOLTIGE | 46 
+     ULTIMAWASHI | 51 
+     HATE | 58 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
@@ -4032,13 +4032,13 @@ Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.c
 
      Attaque | Niveau 
      --- | --- 
-     POING DE FEU | 33 
-     POINGLACE | 38 
-     POING-ECLAIR | 43 
-     ULTIMAPOING | 48 
-     RIPOSTE | 53 
-     HATE | 58 
-     UPPERCUT | 63 
+     POING DE FEU | 31 
+     POINGLACE | 36 
+     POING-ECLAIR | 41 
+     ULTIMAPOING | 46 
+     UPPERCUT | 51 
+     HATE | 56 
+     RIPOSTE | 60 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
@@ -4690,7 +4690,7 @@ Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.c
      PLAQUAGE | 37 
      PSYKO | 43 
      MANIA | 50 
-     BLIZZARD | 58 
+     BLIZZARD | 56 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
@@ -4763,7 +4763,7 @@ Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.c
      ONDE FOLIE | 36 
      POING DE FEU | 43 
      BROUILLARD | 49 
-     LANCE-FLAMME | 56 
+     LANCE-FLAMME | 55 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
@@ -4900,7 +4900,7 @@ Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.c
      GROZ'YEUX | 31 
      MANIA | 35 
      HYDROCANON | 41 
-     ULTRALASER | 52 
+     ULTRALASER | 50 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
@@ -5107,7 +5107,7 @@ Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.c
      MORSURE | 33 
      DANSEFLAMME | 37 
      BELIER | 43 
-     LANCE-FLAMME | 50 
+     LANCE-FLAMME | 47 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque 
@@ -5285,7 +5285,7 @@ Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.c
      GROZ'YEUX | 43 
      HYDROCANON | 50 
      DANSE-LAMES | 54 
-     GUILLOTINE | 60 
+     GUILLOTINE | 58 
    * Attaques accessibles via CT/CS :
 
      CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque | CT/CS | Attaque 
