@@ -1,6 +1,6 @@
 # Pokémon Rouge Vermeil
 
-Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.com/louis-dg/pokered-fr)
+Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.com/louis-dg/pokered-fr) version 1.1.1.
 
 ## Sommaire
 

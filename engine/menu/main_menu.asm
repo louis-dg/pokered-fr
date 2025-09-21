@@ -338,7 +338,7 @@ NewGameText:
 	next "Pkmn Rouge Vermeil"
 	next "github.com/louis-dg/pokered-fr"
 	next ""
-	next "v1.1.0@"
+	next "v1.1.1@"
 
 CableClubOptionsText:
 	db   "CENTRE TROC"

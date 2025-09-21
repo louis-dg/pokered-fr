@@ -397,7 +397,7 @@ if __name__ == "__main__":
 
     docFile = open(DOCUMENTATION_FILE, 'w')
     docFile.write("# Pokémon Rouge Vermeil\n\n")
-    docFile.write("Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.com/louis-dg/pokered-fr)\n\n")
+    docFile.write("Ceci est la documentation associée à [Pokémon Rouge Vermeil](https://github.com/louis-dg/pokered-fr) version 1.1.1.\n\n")
     docFile.write("## Sommaire\n\n")
     docFile.write("- [" + titleSectionProps + "](#" + lienSectionProps + ")\n\n")
     docFile.write("- [" + titleSectionAtk + "](#" + lienSectionAtk + ")\n\n")
